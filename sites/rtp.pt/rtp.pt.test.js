@@ -18,7 +18,7 @@ const channel = {
 
 it('can generate valid url', () => {
   expect(url({ channel, date })).toBe(
-    'https://www.rtp.pt/EPG/json/rtp-channels-page/list-grid/tv/4/2-12-2022/lis'
+    'https://www.rtp.pt/EPG/json/rtp-home-page-tv-radio/list-all-grids/tv/8-02-2023'
   )
 })
 
