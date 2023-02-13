@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="EuronewsGerman.fr"><display-name>Euronews German</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://meo.pt</url></channel>
+<channel id="France24English.fr"><display-name>France 24 English</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/><url>https://meo.pt</url></channel>
+<channel id="KBSWorld.kr"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://meo.pt</url></channel>
+<channel id="MTV00s.uk"><display-name>MTV 00s</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"/><url>https://meo.pt</url></channel>
+<channel id="MTVLive.uk"><display-name>MTV Live</display-name><icon src="https://i.imgur.com/St5DhAU.png"/><url>https://meo.pt</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK World-Japan</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://meo.pt</url></channel>
+<channel id="SkyNewsInternational.uk"><display-name>Sky News International</display-name><icon src="https://i.imgur.com/15MNk0T.png"/><url>https://meo.pt</url></channel>
+<channel id="TPAInternacional.ao"><display-name>TPA Internacional</display-name><icon src="https://i.imgur.com/cTJLmU7.png"/><url>https://meo.pt</url></channel>
+<channel id="TRTWorld.tr"><display-name>TRT World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/><url>https://meo.pt</url></channel>
+<programme start="20230212235800 +0000" stop="20230213000000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213000000 +0000" stop="20230213000500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213000500 +0000" stop="20230213001600 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213001600 +0000" stop="20230213002800 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213002800 +0000" stop="20230213003000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213003000 +0000" stop="20230213003500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213003500 +0000" stop="20230213004500 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213004500 +0000" stop="20230213005800 +0000" channel="EuronewsGerman.fr"><title lang="en">State Of The Union</title></programme>
+<programme start="20230213005800 +0000" stop="20230213010000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213010000 +0000" stop="20230213010600 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213010600 +0000" stop="20230213012800 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213012800 +0000" stop="20230213013000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213013000 +0000" stop="20230213013500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213013500 +0000" stop="20230213014400 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213014400 +0000" stop="20230213014900 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213014900 +0000" stop="20230213015800 +0000" channel="EuronewsGerman.fr"><title lang="en">State Of The Union</title></programme>
+<programme start="20230213015800 +0000" stop="20230213020000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213020000 +0000" stop="20230213020500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213020500 +0000" stop="20230213021600 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213021600 +0000" stop="20230213022700 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213022700 +0000" stop="20230213023000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213023000 +0000" stop="20230213023500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213023500 +0000" stop="20230213024900 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213024900 +0000" stop="20230213025800 +0000" channel="EuronewsGerman.fr"><title lang="en">State Of The Union</title></programme>
+<programme start="20230213025800 +0000" stop="20230213030000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213030000 +0000" stop="20230213030500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213030500 +0000" stop="20230213032800 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213032800 +0000" stop="20230213033000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213033000 +0000" stop="20230213033500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213033500 +0000" stop="20230213034400 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213034400 +0000" stop="20230213034900 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213034900 +0000" stop="20230213035800 +0000" channel="EuronewsGerman.fr"><title lang="en">State Of The Union</title></programme>
+<programme start="20230213035800 +0000" stop="20230213040000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213040000 +0000" stop="20230213040500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213040500 +0000" stop="20230213041600 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213041600 +0000" stop="20230213042800 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213042800 +0000" stop="20230213043000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213043000 +0000" stop="20230213043500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213043500 +0000" stop="20230213044500 +0000" channel="EuronewsGerman.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213044500 +0000" stop="20230213045800 +0000" channel="EuronewsGerman.fr"><title lang="en">State Of The Union</title></programme>
+<programme start="20230213045800 +0000" stop="20230213050000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213053000 +0000" stop="20230213055800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213055800 +0000" stop="20230213060000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213060000 +0000" stop="20230213061500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213061500 +0000" stop="20230213063000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213063000 +0000" stop="20230213065800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213065800 +0000" stop="20230213070000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213070000 +0000" stop="20230213071500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213071500 +0000" stop="20230213073000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213073000 +0000" stop="20230213075800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213075800 +0000" stop="20230213080000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213081500 +0000" stop="20230213083000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213083000 +0000" stop="20230213085800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213085800 +0000" stop="20230213090000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213090000 +0000" stop="20230213091500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213091500 +0000" stop="20230213093000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213093000 +0000" stop="20230213095800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213095800 +0000" stop="20230213100000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213101500 +0000" stop="20230213103000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213103000 +0000" stop="20230213105800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230213105800 +0000" stop="20230213110000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213110000 +0000" stop="20230213111500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213111500 +0000" stop="20230213113000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213113000 +0000" stop="20230213115800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213115800 +0000" stop="20230213120000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213121500 +0000" stop="20230213123000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213123000 +0000" stop="20230213125800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213125800 +0000" stop="20230213130000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213131500 +0000" stop="20230213133000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213133000 +0000" stop="20230213135800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213135800 +0000" stop="20230213140000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213141500 +0000" stop="20230213143000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213143000 +0000" stop="20230213145800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213145800 +0000" stop="20230213150000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213151500 +0000" stop="20230213153000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213153000 +0000" stop="20230213155800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213155800 +0000" stop="20230213160000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213161500 +0000" stop="20230213163000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213163000 +0000" stop="20230213165800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213165800 +0000" stop="20230213170000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213171500 +0000" stop="20230213173000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213173000 +0000" stop="20230213175800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230213175800 +0000" stop="20230213180000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213181500 +0000" stop="20230213183000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213183000 +0000" stop="20230213185800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213185800 +0000" stop="20230213190000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213191500 +0000" stop="20230213193000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213193000 +0000" stop="20230213195800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213195800 +0000" stop="20230213200000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213201500 +0000" stop="20230213203000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213203000 +0000" stop="20230213205800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213205800 +0000" stop="20230213210000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213211500 +0000" stop="20230213213000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213213000 +0000" stop="20230213215800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213215800 +0000" stop="20230213220000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213221500 +0000" stop="20230213223000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213223000 +0000" stop="20230213225800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213225800 +0000" stop="20230213230000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213231500 +0000" stop="20230213233000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213233000 +0000" stop="20230213235800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230213235800 +0000" stop="20230214000000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214001500 +0000" stop="20230214003000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214003000 +0000" stop="20230214005800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214005800 +0000" stop="20230214010000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214011500 +0000" stop="20230214013000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214013000 +0000" stop="20230214015800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214015800 +0000" stop="20230214020000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214021500 +0000" stop="20230214023000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214023000 +0000" stop="20230214025800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214025800 +0000" stop="20230214030000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214033000 +0000" stop="20230214035800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214035800 +0000" stop="20230214040000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214040000 +0000" stop="20230214041500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214041500 +0000" stop="20230214043000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214043000 +0000" stop="20230214045800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214045800 +0000" stop="20230214050000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214051500 +0000" stop="20230214053000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214053000 +0000" stop="20230214055800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214055800 +0000" stop="20230214060000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214060000 +0000" stop="20230214061500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214061500 +0000" stop="20230214063000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214063000 +0000" stop="20230214065800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214065800 +0000" stop="20230214070000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214070000 +0000" stop="20230214071500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214071500 +0000" stop="20230214073000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214073000 +0000" stop="20230214075800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214075800 +0000" stop="20230214080000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214081500 +0000" stop="20230214083000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214083000 +0000" stop="20230214085800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214085800 +0000" stop="20230214090000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214090000 +0000" stop="20230214091500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214091500 +0000" stop="20230214093000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214093000 +0000" stop="20230214095800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214095800 +0000" stop="20230214100000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214101500 +0000" stop="20230214103000 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214103000 +0000" stop="20230214105800 +0000" channel="EuronewsGerman.fr"><title lang="en">Good Morning Europe</title></programme>
+<programme start="20230214105800 +0000" stop="20230214110000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214110000 +0000" stop="20230214111500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214111500 +0000" stop="20230214113000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214113000 +0000" stop="20230214115800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214115800 +0000" stop="20230214120000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214121500 +0000" stop="20230214123000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214123000 +0000" stop="20230214125800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214125800 +0000" stop="20230214130000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214131500 +0000" stop="20230214133000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214133000 +0000" stop="20230214135800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214135800 +0000" stop="20230214140000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214141500 +0000" stop="20230214143000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214143000 +0000" stop="20230214145800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214145800 +0000" stop="20230214150000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214151500 +0000" stop="20230214153000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214153000 +0000" stop="20230214155800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214155800 +0000" stop="20230214160000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214160000 +0000" stop="20230214161500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214161500 +0000" stop="20230214163000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214163000 +0000" stop="20230214165800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214165800 +0000" stop="20230214170000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214171500 +0000" stop="20230214173000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214173000 +0000" stop="20230214175800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Now</title></programme>
+<programme start="20230214175800 +0000" stop="20230214180000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214181500 +0000" stop="20230214183000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214183000 +0000" stop="20230214185800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214185800 +0000" stop="20230214190000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214190000 +0000" stop="20230214191500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214191500 +0000" stop="20230214193000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214193000 +0000" stop="20230214195800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214195800 +0000" stop="20230214200000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214201500 +0000" stop="20230214203000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214203000 +0000" stop="20230214205800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214205800 +0000" stop="20230214210000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214210000 +0000" stop="20230214211500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214211500 +0000" stop="20230214213000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214213000 +0000" stop="20230214215800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214215800 +0000" stop="20230214220000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214220000 +0000" stop="20230214221500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214221500 +0000" stop="20230214223000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214223000 +0000" stop="20230214225800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214225800 +0000" stop="20230214230000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230214230000 +0000" stop="20230214231500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214231500 +0000" stop="20230214233000 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214233000 +0000" stop="20230214235800 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230214235800 +0000" stop="20230215000000 +0000" channel="EuronewsGerman.fr"><title lang="en">News</title></programme>
+<programme start="20230215000000 +0000" stop="20230215001500 +0000" channel="EuronewsGerman.fr"><title lang="en">Euronews Tonight</title></programme>
+<programme start="20230212234500 +0000" stop="20230213000000 +0000" channel="France24English.fr"><title lang="en">Down To Earth</title></programme>
+<programme start="20230213000000 +0000" stop="20230213001500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213001500 +0000" stop="20230213002100 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230213002100 +0000" stop="20230213003000 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
+<programme start="20230213003000 +0000" stop="20230213004500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213004500 +0000" stop="20230213010000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230213010000 +0000" stop="20230213011500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213011500 +0000" stop="20230213012000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230213012000 +0000" stop="20230213013000 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
+<programme start="20230213013000 +0000" stop="20230213014500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213014500 +0000" stop="20230213020000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
+<programme start="20230213020000 +0000" stop="20230213021500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213021500 +0000" stop="20230213023000 +0000" channel="France24English.fr"><title lang="en">People And Profit</title></programme>
+<programme start="20230213023000 +0000" stop="20230213024500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213024500 +0000" stop="20230213030000 +0000" channel="France24English.fr"><title lang="en">The 51 Percent</title></programme>
+<programme start="20230213030000 +0000" stop="20230213031500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213031500 +0000" stop="20230213033000 +0000" channel="France24English.fr"><title lang="en">France In Focus</title></programme>
+<programme start="20230213033000 +0000" stop="20230213034500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213034500 +0000" stop="20230213040000 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
+<programme start="20230213040000 +0000" stop="20230213041000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213041000 +0000" stop="20230213043000 +0000" channel="France24English.fr"><title lang="en">Revisited</title></programme>
+<programme start="20230213043000 +0000" stop="20230213044000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213044000 +0000" stop="20230213044600 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
+<programme start="20230213044600 +0000" stop="20230213050000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="France24English.fr"><title lang="en">Down To Earth</title></programme>
+<programme start="20230213053000 +0000" stop="20230213054500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213054500 +0000" stop="20230213060000 +0000" channel="France24English.fr"><title lang="en">People And Profit</title></programme>
+<programme start="20230213060000 +0000" stop="20230213061500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213061500 +0000" stop="20230213062100 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230213062100 +0000" stop="20230213063000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230213063000 +0000" stop="20230213064500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213064500 +0000" stop="20230213070000 +0000" channel="France24English.fr"><title lang="en">France In Focus</title></programme>
+<programme start="20230213070000 +0000" stop="20230213071000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213071000 +0000" stop="20230213071600 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230213071600 +0000" stop="20230213073000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230213073000 +0000" stop="20230213074000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213074000 +0000" stop="20230213075200 +0000" channel="France24English.fr"><title lang="en">The 51 Percent</title></programme>
+<programme start="20230213075200 +0000" stop="20230213080000 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213081500 +0000" stop="20230213082100 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230213082100 +0000" stop="20230213083000 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
+<programme start="20230213083000 +0000" stop="20230213084500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213084500 +0000" stop="20230213090000 +0000" channel="France24English.fr"><title lang="en">The Interview</title></programme>
+<programme start="20230213090000 +0000" stop="20230213091500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213091500 +0000" stop="20230213093000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
+<programme start="20230213093000 +0000" stop="20230213094500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213094500 +0000" stop="20230213100000 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213101500 +0000" stop="20230213103000 +0000" channel="France24English.fr"><title lang="en">Talking Europe</title></programme>
+<programme start="20230213103000 +0000" stop="20230213104500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213104500 +0000" stop="20230213110000 +0000" channel="France24English.fr"><title lang="en">Talking Europe</title></programme>
+<programme start="20230213110000 +0000" stop="20230213111500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213111500 +0000" stop="20230213113000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230213113000 +0000" stop="20230213114500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213114500 +0000" stop="20230213120000 +0000" channel="France24English.fr"><title lang="en">Access Asia</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213121500 +0000" stop="20230213123000 +0000" channel="France24English.fr"><title lang="en">The Interview</title></programme>
+<programme start="20230213123000 +0000" stop="20230213124500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213124500 +0000" stop="20230213130000 +0000" channel="France24English.fr"><title lang="en">The 51 Percent</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213131500 +0000" stop="20230213132100 +0000" channel="France24English.fr"><title lang="en">French Connections</title></programme>
+<programme start="20230213132100 +0000" stop="20230213133000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230213133000 +0000" stop="20230213134500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213134500 +0000" stop="20230213140000 +0000" channel="France24English.fr"><title lang="en">Down To Earth</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213141500 +0000" stop="20230213143000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
+<programme start="20230213143000 +0000" stop="20230213144500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213144500 +0000" stop="20230213150000 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213151500 +0000" stop="20230213152100 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230213152100 +0000" stop="20230213153000 +0000" channel="France24English.fr"><title lang="en">You Are Here</title></programme>
+<programme start="20230213153000 +0000" stop="20230213154500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213154500 +0000" stop="20230213160000 +0000" channel="France24English.fr"><title lang="en">People And Profit</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213161500 +0000" stop="20230213163000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230213163000 +0000" stop="20230213164500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213164500 +0000" stop="20230213170000 +0000" channel="France24English.fr"><title lang="en">The Interview</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213171500 +0000" stop="20230213173000 +0000" channel="France24English.fr"><title lang="en">Talking Europe</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213174500 +0000" stop="20230213180000 +0000" channel="France24English.fr"><title lang="en">Talking Europe</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213181500 +0000" stop="20230213183000 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
+<programme start="20230213183000 +0000" stop="20230213184500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213184500 +0000" stop="20230213190000 +0000" channel="France24English.fr"><title lang="en">Access Asia</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213191500 +0000" stop="20230213193000 +0000" channel="France24English.fr"><title lang="en">Sports Sunday</title></programme>
+<programme start="20230213193000 +0000" stop="20230213194500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213194500 +0000" stop="20230213200000 +0000" channel="France24English.fr"><title lang="en">France In Focus</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213201000 +0000" stop="20230213203000 +0000" channel="France24English.fr"><title lang="en">Revisited</title></programme>
+<programme start="20230213203000 +0000" stop="20230213204000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213204000 +0000" stop="20230213205200 +0000" channel="France24English.fr"><title lang="en">The 51 Percent</title></programme>
+<programme start="20230213205200 +0000" stop="20230213210000 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213211500 +0000" stop="20230213213000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
+<programme start="20230213213000 +0000" stop="20230213214500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213214500 +0000" stop="20230213220000 +0000" channel="France24English.fr"><title lang="en">People And Profit</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213221000 +0000" stop="20230213222000 +0000" channel="France24English.fr"><title lang="en">Sports Sunday</title></programme>
+<programme start="20230213222000 +0000" stop="20230213223000 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
+<programme start="20230213223000 +0000" stop="20230213224000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213224000 +0000" stop="20230213230000 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213231500 +0000" stop="20230213233000 +0000" channel="France24English.fr"><title lang="en">Sports Sunday</title></programme>
+<programme start="20230213233000 +0000" stop="20230213234500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230213234500 +0000" stop="20230214000000 +0000" channel="France24English.fr"><title lang="en">The 51 Percent</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214001500 +0000" stop="20230214003000 +0000" channel="France24English.fr"><title lang="en">Sports Sunday</title></programme>
+<programme start="20230214003000 +0000" stop="20230214004500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214004500 +0000" stop="20230214010000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214011500 +0000" stop="20230214012000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214012000 +0000" stop="20230214013000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214013000 +0000" stop="20230214014500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214014500 +0000" stop="20230214020000 +0000" channel="France24English.fr"><title lang="en">People And Profit</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214021500 +0000" stop="20230214023000 +0000" channel="France24English.fr"><title lang="en">Talking Europe</title></programme>
+<programme start="20230214023000 +0000" stop="20230214024500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214024500 +0000" stop="20230214030000 +0000" channel="France24English.fr"><title lang="en">Talking Europe</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214031000 +0000" stop="20230214031500 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
+<programme start="20230214033000 +0000" stop="20230214034000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214034000 +0000" stop="20230214040000 +0000" channel="France24English.fr"><title lang="en">Revisited</title></programme>
+<programme start="20230214040000 +0000" stop="20230214041500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214041500 +0000" stop="20230214043000 +0000" channel="France24English.fr"><title lang="en">Down To Earth</title></programme>
+<programme start="20230214043000 +0000" stop="20230214044500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214044500 +0000" stop="20230214050000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214051500 +0000" stop="20230214051600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214051600 +0000" stop="20230214052000 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214052000 +0000" stop="20230214052500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214052500 +0000" stop="20230214053000 +0000" channel="France24English.fr"><title lang="en">In The Press</title></programme>
+<programme start="20230214053000 +0000" stop="20230214054500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214054500 +0000" stop="20230214054600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214054600 +0000" stop="20230214055100 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214055100 +0000" stop="20230214055600 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230214055600 +0000" stop="20230214060000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214060000 +0000" stop="20230214061700 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214061700 +0000" stop="20230214061800 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214061800 +0000" stop="20230214062200 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214062200 +0000" stop="20230214063000 +0000" channel="France24English.fr"><title lang="en">In The Press</title></programme>
+<programme start="20230214063000 +0000" stop="20230214064500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214064500 +0000" stop="20230214064600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214064600 +0000" stop="20230214065100 +0000" channel="France24English.fr"><title lang="en">Global Grid</title></programme>
+<programme start="20230214065100 +0000" stop="20230214065600 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214065600 +0000" stop="20230214070000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214070000 +0000" stop="20230214071600 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214071600 +0000" stop="20230214071700 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214071700 +0000" stop="20230214072200 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214072200 +0000" stop="20230214073000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214073000 +0000" stop="20230214074000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214074000 +0000" stop="20230214074500 +0000" channel="France24English.fr"><title lang="en">Perspective</title></programme>
+<programme start="20230214074500 +0000" stop="20230214074600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214074600 +0000" stop="20230214075600 +0000" channel="France24English.fr"><title lang="en">Focus + Sports</title></programme>
+<programme start="20230214075600 +0000" stop="20230214080000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081600 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214081600 +0000" stop="20230214081700 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214081700 +0000" stop="20230214082200 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214082200 +0000" stop="20230214083000 +0000" channel="France24English.fr"><title lang="en">In The Press</title></programme>
+<programme start="20230214083000 +0000" stop="20230214084500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214084500 +0000" stop="20230214084600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214084600 +0000" stop="20230214085100 +0000" channel="France24English.fr"><title lang="en">A La Carte</title></programme>
+<programme start="20230214085100 +0000" stop="20230214085600 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214085600 +0000" stop="20230214090000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214090000 +0000" stop="20230214091500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214091500 +0000" stop="20230214093000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
+<programme start="20230214093000 +0000" stop="20230214094500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214094500 +0000" stop="20230214095000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214095000 +0000" stop="20230214095500 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230214095500 +0000" stop="20230214100000 +0000" channel="France24English.fr"><title lang="en">Instant Mobile</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214101500 +0000" stop="20230214103000 +0000" channel="France24English.fr"><title lang="en">People And Profit</title></programme>
+<programme start="20230214103000 +0000" stop="20230214104500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214104500 +0000" stop="20230214110000 +0000" channel="France24English.fr"><title lang="en">The 51 Percent</title></programme>
+<programme start="20230214110000 +0000" stop="20230214111600 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214111600 +0000" stop="20230214113000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230214113000 +0000" stop="20230214114500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214114500 +0000" stop="20230214115100 +0000" channel="France24English.fr"><title lang="en">You Are Here</title></programme>
+<programme start="20230214115100 +0000" stop="20230214120000 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214121500 +0000" stop="20230214121600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214121600 +0000" stop="20230214121900 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214121900 +0000" stop="20230214123000 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214123000 +0000" stop="20230214124500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214124500 +0000" stop="20230214124600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214124600 +0000" stop="20230214125100 +0000" channel="France24English.fr"><title lang="en">Culture Critics</title></programme>
+<programme start="20230214125100 +0000" stop="20230214125600 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214125600 +0000" stop="20230214130000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214131500 +0000" stop="20230214131600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214131600 +0000" stop="20230214132100 +0000" channel="France24English.fr"><title lang="en">Culture Critics</title></programme>
+<programme start="20230214132100 +0000" stop="20230214132600 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230214132600 +0000" stop="20230214133000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214133000 +0000" stop="20230214134500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214134500 +0000" stop="20230214134600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214134600 +0000" stop="20230214135100 +0000" channel="France24English.fr"><title lang="en">Science</title></programme>
+<programme start="20230214135100 +0000" stop="20230214140000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214141000 +0000" stop="20230214141600 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
+<programme start="20230214141600 +0000" stop="20230214143000 +0000" channel="France24English.fr"><title lang="en">Access Asia</title></programme>
+<programme start="20230214143000 +0000" stop="20230214144000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214144000 +0000" stop="20230214150000 +0000" channel="France24English.fr"><title lang="en">Revisited</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214151500 +0000" stop="20230214152100 +0000" channel="France24English.fr"><title lang="en">French Connections</title></programme>
+<programme start="20230214152100 +0000" stop="20230214153000 +0000" channel="France24English.fr"><title lang="en">You Are Here</title></programme>
+<programme start="20230214153000 +0000" stop="20230214154500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214154500 +0000" stop="20230214160000 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
+<programme start="20230214160000 +0000" stop="20230214161600 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214161600 +0000" stop="20230214163000 +0000" channel="France24English.fr"><title lang="en">Encore!</title></programme>
+<programme start="20230214163000 +0000" stop="20230214164500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214164500 +0000" stop="20230214170000 +0000" channel="France24English.fr"><title lang="en">France In Focus</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214171500 +0000" stop="20230214171600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214171600 +0000" stop="20230214173000 +0000" channel="France24English.fr"><title lang="en">Top Story</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214174500 +0000" stop="20230214174600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214174600 +0000" stop="20230214175100 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214175100 +0000" stop="20230214180000 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181000 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214181000 +0000" stop="20230214190000 +0000" channel="France24English.fr"><title lang="en">The Debate</title></programme>
+<programme start="20230214190000 +0000" stop="20230214191500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214191500 +0000" stop="20230214191600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214191600 +0000" stop="20230214192100 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214192100 +0000" stop="20230214193000 +0000" channel="France24English.fr"><title lang="en">Sports Chronicle</title></programme>
+<programme start="20230214193000 +0000" stop="20230214194500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214194500 +0000" stop="20230214194600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214194600 +0000" stop="20230214195100 +0000" channel="France24English.fr"><title lang="en">Truth Or Fake</title></programme>
+<programme start="20230214195100 +0000" stop="20230214200000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201700 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214201700 +0000" stop="20230214201800 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214201800 +0000" stop="20230214203000 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214203000 +0000" stop="20230214204400 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214204400 +0000" stop="20230214204600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214204600 +0000" stop="20230214210000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa</title></programme>
+<programme start="20230214210000 +0000" stop="20230214211500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214211500 +0000" stop="20230214211600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214211600 +0000" stop="20230214212100 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20230214212100 +0000" stop="20230214213000 +0000" channel="France24English.fr"><title lang="en">Truth Or Fake</title></programme>
+<programme start="20230214213000 +0000" stop="20230214214400 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214214400 +0000" stop="20230214214600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214214600 +0000" stop="20230214220000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa</title></programme>
+<programme start="20230214220000 +0000" stop="20230214221500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214221500 +0000" stop="20230214221600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214221600 +0000" stop="20230214223000 +0000" channel="France24English.fr"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20230214223000 +0000" stop="20230214224500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214224500 +0000" stop="20230214224600 +0000" channel="France24English.fr"><title lang="en">Headlines</title></programme>
+<programme start="20230214224600 +0000" stop="20230214225100 +0000" channel="France24English.fr"><title lang="en">Sports</title></programme>
+<programme start="20230214225100 +0000" stop="20230214230000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20230214230000 +0000" stop="20230214231100 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230214231100 +0000" stop="20230215000000 +0000" channel="France24English.fr"><title lang="en">The Debate</title></programme>
+<programme start="20230215000000 +0000" stop="20230215001500 +0000" channel="France24English.fr"><title lang="en">The News</title></programme>
+<programme start="20230212200000 +0000" stop="20230213000000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230213000000 +0000" stop="20230213040000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230213040000 +0000" stop="20230213080000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230213080000 +0000" stop="20230213120000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230213120000 +0000" stop="20230213160000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230213160000 +0000" stop="20230213200000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230213200000 +0000" stop="20230214000000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230214000000 +0000" stop="20230214040000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230214040000 +0000" stop="20230214080000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230214080000 +0000" stop="20230214120000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230214120000 +0000" stop="20230214160000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230214160000 +0000" stop="20230214200000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230214200000 +0000" stop="20230215000000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230215000000 +0000" stop="20230215040000 +0000" channel="KBSWorld.kr"><title lang="en">KBS World</title></programme>
+<programme start="20230212190000 +0000" stop="20230213010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230213010000 +0000" stop="20230213030000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230213030000 +0000" stop="20230213070000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="MTV00s.uk"><title lang="en">Crazy In Love!</title></programme>
+<programme start="20230213080000 +0000" stop="20230213130000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="MTV00s.uk"><title lang="en">Crazy In Love!</title></programme>
+<programme start="20230213140000 +0000" stop="20230213180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don&apos;t Lie</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="MTV00s.uk"><title lang="en">Chillout Zone</title></programme>
+<programme start="20230213190000 +0000" stop="20230214010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230214010000 +0000" stop="20230214030000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230214030000 +0000" stop="20230214070000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="MTV00s.uk"><title lang="en">Class Of 2009!</title></programme>
+<programme start="20230214080000 +0000" stop="20230214130000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="MTV00s.uk"><title lang="en">Class Of 2009!</title></programme>
+<programme start="20230214140000 +0000" stop="20230214180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don&apos;t Lie</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="MTV00s.uk"><title lang="en">Classic Collabs!</title></programme>
+<programme start="20230214190000 +0000" stop="20230215010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+<programme start="20230212225500 +0000" stop="20230213002000 +0000" channel="MTVLive.uk"><title lang="en">Non-Stop 21st Century Love! Top 20</title></programme>
+<programme start="20230213002000 +0000" stop="20230213010000 +0000" channel="MTVLive.uk"><title lang="en">Hot Right Now!</title></programme>
+<programme start="20230213010000 +0000" stop="20230213020000 +0000" channel="MTVLive.uk"><title lang="en">The Rock Zone!</title></programme>
+<programme start="20230213020000 +0000" stop="20230213024500 +0000" channel="MTVLive.uk"><title lang="en">MTV World Stage: EMA 2022...</title></programme>
+<programme start="20230213024500 +0000" stop="20230213033000 +0000" channel="MTVLive.uk"><title lang="en">MTV World Stage: Isle of MTV...</title></programme>
+<programme start="20230213033000 +0000" stop="20230213050000 +0000" channel="MTVLive.uk"><title lang="en">HD Hits!</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="MTVLive.uk"><title lang="en">Global Beats!</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="MTVLive.uk"><title lang="en">MTV Rewind: 2021</title></programme>
+<programme start="20230213070000 +0000" stop="20230213082500 +0000" channel="MTVLive.uk"><title lang="en">The Weeknd X Ariana Grande X...</title></programme>
+<programme start="20230213082500 +0000" stop="20230213090000 +0000" channel="MTVLive.uk"><title lang="en">Hot Right Now!</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="MTVLive.uk"><title lang="en">Global Beats!</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="MTVLive.uk"><title lang="en">The Rock Zone!</title></programme>
+<programme start="20230213110000 +0000" stop="20230213112500 +0000" channel="MTVLive.uk"><title lang="en">Kings Of Leon: Rocks Special</title></programme>
+<programme start="20230213112500 +0000" stop="20230213121000 +0000" channel="MTVLive.uk"><title lang="en">Red Hot Chili Peppers: World Stage - Ep. 3</title></programme>
+<programme start="20230213121000 +0000" stop="20230213123000 +0000" channel="MTVLive.uk"><title lang="en">MTV Push Live 2020: Yungblud - Ep. 3</title></programme>
+<programme start="20230213123000 +0000" stop="20230213140000 +0000" channel="MTVLive.uk"><title lang="en">HD Hits!</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="MTVLive.uk"><title lang="en">MTV Rewind: 2021</title></programme>
+<programme start="20230213150000 +0000" stop="20230213162500 +0000" channel="MTVLive.uk"><title lang="en">The Weeknd X Ariana Grande X...</title></programme>
+<programme start="20230213162500 +0000" stop="20230213170000 +0000" channel="MTVLive.uk"><title lang="en">Hot Right Now!</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="MTVLive.uk"><title lang="en">Global Beats!</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="MTVLive.uk"><title lang="en">The Rock Zone!</title></programme>
+<programme start="20230213190000 +0000" stop="20230213194500 +0000" channel="MTVLive.uk"><title lang="en">MTV World Stage: Jason Derulo - Ep. 324</title></programme>
+<programme start="20230213194500 +0000" stop="20230213203000 +0000" channel="MTVLive.uk"><title lang="en">MTV World Stage: Isle of MTV...</title></programme>
+<programme start="20230213203000 +0000" stop="20230213220000 +0000" channel="MTVLive.uk"><title lang="en">HD Hits!</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="MTVLive.uk"><title lang="en">MTV Rewind: 2021</title></programme>
+<programme start="20230213230000 +0000" stop="20230214003000 +0000" channel="MTVLive.uk"><title lang="en">The Weeknd X Ariana Grande X...</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="MTVLive.uk"><title lang="en">Hot Right Now!</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="MTVLive.uk"><title lang="en">The Rock Zone!</title></programme>
+<programme start="20230214020000 +0000" stop="20230214024500 +0000" channel="MTVLive.uk"><title lang="en">Behind The Music: Alanis... T1 - Ep. 124</title></programme>
+<programme start="20230214024500 +0000" stop="20230214032500 +0000" channel="MTVLive.uk"><title lang="en">Behind the Music: The Bangles T1 - Ep. 116</title></programme>
+<programme start="20230214032500 +0000" stop="20230214050000 +0000" channel="MTVLive.uk"><title lang="en">HD Hits!</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="MTVLive.uk"><title lang="en">Global Beats!</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="MTVLive.uk"><title lang="en">MTV Rewind: 2010</title></programme>
+<programme start="20230214070000 +0000" stop="20230214083000 +0000" channel="MTVLive.uk"><title lang="en">Crazy What Love Can Do! Party...</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="MTVLive.uk"><title lang="en">Hot Right Now!</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="MTVLive.uk"><title lang="en">Global Beats!</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="MTVLive.uk"><title lang="en">The Rock Zone!</title></programme>
+<programme start="20230214110000 +0000" stop="20230214114500 +0000" channel="MTVLive.uk"><title lang="en">MTV World Stage: Jason Derulo - Ep. 324</title></programme>
+<programme start="20230214114500 +0000" stop="20230214123000 +0000" channel="MTVLive.uk"><title lang="en">MTV World Stage: Isle of MTV...</title></programme>
+<programme start="20230214123000 +0000" stop="20230214140000 +0000" channel="MTVLive.uk"><title lang="en">HD Hits!</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="MTVLive.uk"><title lang="en">MTV Rewind: 2010</title></programme>
+<programme start="20230214150000 +0000" stop="20230214163000 +0000" channel="MTVLive.uk"><title lang="en">Crazy What Love Can Do! Party...</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="MTVLive.uk"><title lang="en">Hot Right Now!</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="MTVLive.uk"><title lang="en">Global Beats!</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="MTVLive.uk"><title lang="en">The Rock Zone!</title></programme>
+<programme start="20230214190000 +0000" stop="20230214194500 +0000" channel="MTVLive.uk"><title lang="en">Behind The Music: Alanis... T1 - Ep. 124</title></programme>
+<programme start="20230214194500 +0000" stop="20230214203000 +0000" channel="MTVLive.uk"><title lang="en">Behind the Music: The Bangles T1 - Ep. 116</title></programme>
+<programme start="20230214203000 +0000" stop="20230214220000 +0000" channel="MTVLive.uk"><title lang="en">HD Hits!</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="MTVLive.uk"><title lang="en">MTV Rewind: 2010</title></programme>
+<programme start="20230214230000 +0000" stop="20230215003000 +0000" channel="MTVLive.uk"><title lang="en">Crazy What Love Can Do! Party...</title></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Somewhere Street</title></programme>
+<programme start="20230213000000 +0000" stop="20230213001000 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213001000 +0000" stop="20230213002300 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213002300 +0000" stop="20230213003000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Japan From Above: Up Close</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Where We Call Home</title></programme>
+<programme start="20230213010000 +0000" stop="20230213011500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213011500 +0000" stop="20230213013000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230213013000 +0000" stop="20230213014500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Activate Your Japanese!</title></programme>
+<programme start="20230213014500 +0000" stop="20230213015500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Culture Crossroads</title></programme>
+<programme start="20230213015500 +0000" stop="20230213020000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef Mini</title></programme>
+<programme start="20230213020000 +0000" stop="20230213021500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213021500 +0000" stop="20230213023000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Seasoning The Seasons</title></programme>
+<programme start="20230213030000 +0000" stop="20230213031500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213031500 +0000" stop="20230213033000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="NHKWorldJapan.jp"><title lang="en">J-Melo</title></programme>
+<programme start="20230213040000 +0000" stop="20230213041500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213041500 +0000" stop="20230213043000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="NHKWorldJapan.jp"><title lang="en">The Mark Of Beauty</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Where We Call Home</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Asia 24</title></programme>
+<programme start="20230213063000 +0000" stop="20230213064500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Activate Your Japanese!</title></programme>
+<programme start="20230213064500 +0000" stop="20230213065500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Culture Crossroads</title></programme>
+<programme start="20230213065500 +0000" stop="20230213070000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef Mini</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Asia 24</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Seasoning The Seasons</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213081500 +0000" stop="20230213082300 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213082300 +0000" stop="20230213083000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Treasure Box Japan: Shimane</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="NHKWorldJapan.jp"><title lang="en">The Mark Of Beauty</title></programme>
+<programme start="20230213090000 +0000" stop="20230213091500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213091500 +0000" stop="20230213093000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="NHKWorldJapan.jp"><title lang="en">J-Melo</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213101800 +0000" stop="20230213103000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Where We Call Home</title></programme>
+<programme start="20230213110000 +0000" stop="20230213114000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsroom Tokyo</title></programme>
+<programme start="20230213114000 +0000" stop="20230213115500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230213115500 +0000" stop="20230213120000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Ukiyoe Edo-Life: The Great Race</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213121800 +0000" stop="20230213123000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213123000 +0000" stop="20230213124500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Activate Your Japanese!</title></programme>
+<programme start="20230213124500 +0000" stop="20230213125500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Culture Crossroads</title></programme>
+<programme start="20230213125500 +0000" stop="20230213130000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef Mini</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213131800 +0000" stop="20230213133000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Seasoning The Seasons</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213141500 +0000" stop="20230213143000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Medical Frontiers</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213151500 +0000" stop="20230213153000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Where We Call Home</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213161500 +0000" stop="20230213163000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="NHKWorldJapan.jp"><title lang="en">The Mark Of Beauty</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213171500 +0000" stop="20230213173000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Activate Your Japanese!</title></programme>
+<programme start="20230213174500 +0000" stop="20230213175500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Culture Crossroads</title></programme>
+<programme start="20230213175500 +0000" stop="20230213180000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef Mini</title></programme>
+<programme start="20230213180000 +0000" stop="20230213184000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsroom Tokyo</title></programme>
+<programme start="20230213184000 +0000" stop="20230213185500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230213185500 +0000" stop="20230213190000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Ukiyoe Edo-Life: The Great Race</title></programme>
+<programme start="20230213190000 +0000" stop="20230213195000 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Documentary</title></programme>
+<programme start="20230213195000 +0000" stop="20230213195500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Time-Lapse Japan</title></programme>
+<programme start="20230213195500 +0000" stop="20230213200000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Japan From Above: Up Close</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213201800 +0000" stop="20230213203000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Medical Frontiers</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213211800 +0000" stop="20230213213000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Where We Call Home</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213221800 +0000" stop="20230213223000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230213223000 +0000" stop="20230213224500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Activate Your Japanese!</title></programme>
+<programme start="20230213224500 +0000" stop="20230213225500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Culture Crossroads</title></programme>
+<programme start="20230213225500 +0000" stop="20230213230000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef Mini</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230213231500 +0000" stop="20230213232000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Ukiyoe Edo-Life: The Great Race</title></programme>
+<programme start="20230213232000 +0000" stop="20230213232500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Time-Lapse Japan</title></programme>
+<programme start="20230213232500 +0000" stop="20230213233000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Treasure Box Japan: Shimane</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="NHKWorldJapan.jp"><title lang="en">The Mark Of Beauty</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214001500 +0000" stop="20230214003000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Journeys In Japan</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214011500 +0000" stop="20230214013000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214021500 +0000" stop="20230214023000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Document 72 Hours</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Medical Frontiers</title></programme>
+<programme start="20230214040000 +0000" stop="20230214041500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214041500 +0000" stop="20230214043000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214043000 +0000" stop="20230214044500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Deeper Look From New York</title></programme>
+<programme start="20230214044500 +0000" stop="20230214045500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Doctor&apos;s Insight</title></programme>
+<programme start="20230214045500 +0000" stop="20230214050000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Nun&apos;s Cookbook</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214051500 +0000" stop="20230214053000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Journeys In Japan</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Asia 24</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Asia 24</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Document 72 Hours</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214081500 +0000" stop="20230214082300 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214082300 +0000" stop="20230214083000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Treasure Box Japan: Shimane</title></programme>
+<programme start="20230214083000 +0000" stop="20230214084500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Deeper Look From New York</title></programme>
+<programme start="20230214084500 +0000" stop="20230214085500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Doctor&apos;s Insight</title></programme>
+<programme start="20230214085500 +0000" stop="20230214090000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Nun&apos;s Cookbook</title></programme>
+<programme start="20230214090000 +0000" stop="20230214091500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214091500 +0000" stop="20230214093000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Medical Frontiers</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214101800 +0000" stop="20230214103000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Journeys In Japan</title></programme>
+<programme start="20230214110000 +0000" stop="20230214114000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsroom Tokyo</title></programme>
+<programme start="20230214114000 +0000" stop="20230214115500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230214115500 +0000" stop="20230214120000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Ukiyoe Edo-Life: Edo Aquatics</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214121800 +0000" stop="20230214123000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214131800 +0000" stop="20230214133000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Document 72 Hours</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214141500 +0000" stop="20230214143000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Science View</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214151500 +0000" stop="20230214153000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Journeys In Japan</title></programme>
+<programme start="20230214160000 +0000" stop="20230214161500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214161500 +0000" stop="20230214163000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230214163000 +0000" stop="20230214164500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Deeper Look From New York</title></programme>
+<programme start="20230214164500 +0000" stop="20230214165500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Doctor&apos;s Insight</title></programme>
+<programme start="20230214165500 +0000" stop="20230214170000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Nun&apos;s Cookbook</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214171500 +0000" stop="20230214173000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline In Depth</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef</title></programme>
+<programme start="20230214180000 +0000" stop="20230214184000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsroom Tokyo</title></programme>
+<programme start="20230214184000 +0000" stop="20230214185500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Direct Talk</title></programme>
+<programme start="20230214185500 +0000" stop="20230214190000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Ukiyoe Edo-Life: Edo Aquatics</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Biz Stream</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Document 72 Hours</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214201800 +0000" stop="20230214203000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Science View</title></programme>
+<programme start="20230214210000 +0000" stop="20230214211800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214211800 +0000" stop="20230214213000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Journeys In Japan</title></programme>
+<programme start="20230214220000 +0000" stop="20230214221800 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214221800 +0000" stop="20230214223000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Newsline Biz</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Dining With The Chef</title></programme>
+<programme start="20230214230000 +0000" stop="20230214231500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230214231500 +0000" stop="20230214232000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Ukiyoe Edo-Life: Edo Aquatics</title></programme>
+<programme start="20230214232000 +0000" stop="20230214232500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Time-Lapse Japan</title></programme>
+<programme start="20230214232500 +0000" stop="20230214233000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Treasure Box Japan: Shimane</title></programme>
+<programme start="20230214233000 +0000" stop="20230214234500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Deeper Look From New York</title></programme>
+<programme start="20230214234500 +0000" stop="20230214235500 +0000" channel="NHKWorldJapan.jp"><title lang="en">Doctor&apos;s Insight</title></programme>
+<programme start="20230214235500 +0000" stop="20230215000000 +0000" channel="NHKWorldJapan.jp"><title lang="en">Nun&apos;s Cookbook</title></programme>
+<programme start="20230215000000 +0000" stop="20230215001500 +0000" channel="NHKWorldJapan.jp"><title lang="en">NHF Newsline</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky Midnight News</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213013000 +0000" stop="20230213020000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Ian King Live</title></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World View</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Ian King Live</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The News Hour With Mark Austin</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The News Hour With Mark Austin</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At Six</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At Six</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News Tonight</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News Tonight</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Pledge</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At 9</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At 9</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At 10</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky Midnight News</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Ian King Live</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World News</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="SkyNewsInternational.uk"><title lang="en">World View</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sunrise</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="SkyNewsInternational.uk"><title lang="en">All Out Politics</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Ian King Live</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Kay Burley Show</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The News Hour With Mark Austin</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The News Hour With Mark Austin</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At Six</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At Six</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News Tonight</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News Tonight</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="SkyNewsInternational.uk"><title lang="en">The Pledge</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At 9</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At 9</title></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News At 10</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky News</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Press Preview</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="SkyNewsInternational.uk"><title lang="en">Sky Midnight News</title></programme>
+<programme start="20230212200000 +0000" stop="20230213000000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230213000000 +0000" stop="20230213040000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230213040000 +0000" stop="20230213080000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230213080000 +0000" stop="20230213120000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230213120000 +0000" stop="20230213160000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230213160000 +0000" stop="20230213200000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230213200000 +0000" stop="20230214000000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230214000000 +0000" stop="20230214040000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230214040000 +0000" stop="20230214080000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230214080000 +0000" stop="20230214120000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230214120000 +0000" stop="20230214160000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230214160000 +0000" stop="20230214200000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230214200000 +0000" stop="20230215000000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230215000000 +0000" stop="20230215040000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>
+<programme start="20230212234500 +0000" stop="20230213000000 +0000" channel="TRTWorld.tr"><title lang="en">Newsfeed</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="TRTWorld.tr"><title lang="en">Showcase</title></programme>
+<programme start="20230213010000 +0000" stop="20230213011500 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213011500 +0000" stop="20230213012900 +0000" channel="TRTWorld.tr"><title lang="en">Newsfeed</title></programme>
+<programme start="20230213012900 +0000" stop="20230213015900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230213015900 +0000" stop="20230213022900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213022900 +0000" stop="20230213025900 +0000" channel="TRTWorld.tr"><title lang="en">Money Talks</title></programme>
+<programme start="20230213025900 +0000" stop="20230213032900 +0000" channel="TRTWorld.tr"><title lang="en">Africa Matters</title></programme>
+<programme start="20230213032900 +0000" stop="20230213035900 +0000" channel="TRTWorld.tr"><title lang="en">Playback</title></programme>
+<programme start="20230213035900 +0000" stop="20230213042900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213042900 +0000" stop="20230213045900 +0000" channel="TRTWorld.tr"><title lang="en">Nexus</title></programme>
+<programme start="20230213045900 +0000" stop="20230213052900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213052900 +0000" stop="20230213055900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230213055900 +0000" stop="20230213062900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213062900 +0000" stop="20230213065900 +0000" channel="TRTWorld.tr"><title lang="en">Money Talks</title></programme>
+<programme start="20230213065900 +0000" stop="20230213073000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213073000 +0000" stop="20230213075900 +0000" channel="TRTWorld.tr"><title lang="en">Beyond Borders</title></programme>
+<programme start="20230213075900 +0000" stop="20230213085900 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230213085900 +0000" stop="20230213095900 +0000" channel="TRTWorld.tr"><title lang="en">Storyteller</title></programme>
+<programme start="20230213095900 +0000" stop="20230213103000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="TRTWorld.tr"><title lang="en">Playback</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213113000 +0000" stop="20230213115900 +0000" channel="TRTWorld.tr"><title lang="en">Inside America</title></programme>
+<programme start="20230213115900 +0000" stop="20230213130000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230213130000 +0000" stop="20230213132900 +0000" channel="TRTWorld.tr"><title lang="en">Strait Talk</title></programme>
+<programme start="20230213132900 +0000" stop="20230213135900 +0000" channel="TRTWorld.tr"><title lang="en">Nexus</title></programme>
+<programme start="20230213135900 +0000" stop="20230213142900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213142900 +0000" stop="20230213150000 +0000" channel="TRTWorld.tr"><title lang="en">Across The Balkans</title></programme>
+<programme start="20230213150000 +0000" stop="20230213152900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230213152900 +0000" stop="20230213155900 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230213155900 +0000" stop="20230213170000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213171500 +0000" stop="20230213173000 +0000" channel="TRTWorld.tr"><title lang="en">Newsfeed</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="TRTWorld.tr"><title lang="en">Strait Talk</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="TRTWorld.tr"><title lang="en">The Innerview</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="TRTWorld.tr"><title lang="en">Inside America</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="TRTWorld.tr"><title lang="en">Just 2 Degrees</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="TRTWorld.tr"><title lang="en">Storyteller</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="TRTWorld.tr"><title lang="en">The Innerview</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214011500 +0000" stop="20230214012900 +0000" channel="TRTWorld.tr"><title lang="en">Newsfeed</title></programme>
+<programme start="20230214012900 +0000" stop="20230214015900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230214015900 +0000" stop="20230214022900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214022900 +0000" stop="20230214025900 +0000" channel="TRTWorld.tr"><title lang="en">Across The Balkans</title></programme>
+<programme start="20230214025900 +0000" stop="20230214035900 +0000" channel="TRTWorld.tr"><title lang="en">Storyteller</title></programme>
+<programme start="20230214035900 +0000" stop="20230214043000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214043000 +0000" stop="20230214045900 +0000" channel="TRTWorld.tr"><title lang="en">Playback</title></programme>
+<programme start="20230214045900 +0000" stop="20230214053000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214053000 +0000" stop="20230214055900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230214055900 +0000" stop="20230214063000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214063000 +0000" stop="20230214065900 +0000" channel="TRTWorld.tr"><title lang="en">Nexus</title></programme>
+<programme start="20230214065900 +0000" stop="20230214072900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214072900 +0000" stop="20230214075900 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230214075900 +0000" stop="20230214090000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="TRTWorld.tr"><title lang="en">The Innerview</title></programme>
+<programme start="20230214093000 +0000" stop="20230214095900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230214095900 +0000" stop="20230214102900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214102900 +0000" stop="20230214105900 +0000" channel="TRTWorld.tr"><title lang="en">Inside America</title></programme>
+<programme start="20230214105900 +0000" stop="20230214113000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214113000 +0000" stop="20230214115900 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230214115900 +0000" stop="20230214130000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230214130000 +0000" stop="20230214135900 +0000" channel="TRTWorld.tr"><title lang="en">Storyteller</title></programme>
+<programme start="20230214135900 +0000" stop="20230214142900 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214142900 +0000" stop="20230214150000 +0000" channel="TRTWorld.tr"><title lang="en">Just 2 Degrees</title></programme>
+<programme start="20230214150000 +0000" stop="20230214152900 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230214152900 +0000" stop="20230214155900 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230214155900 +0000" stop="20230214170000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214171500 +0000" stop="20230214173000 +0000" channel="TRTWorld.tr"><title lang="en">Newsfeed</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="TRTWorld.tr"><title lang="en">Beyond Borders</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="TRTWorld.tr"><title lang="en">Across The Balkans</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="TRTWorld.tr"><title lang="en">Strait Talk</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="TRTWorld.tr"><title lang="en">Newshour</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="TRTWorld.tr"><title lang="en">Africa Matters</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="TRTWorld.tr"><title lang="en">Showcase</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="TRTWorld.tr"><title lang="en">Roundtable</title></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="TRTWorld.tr"><title lang="en">The Newsmakers</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="TRTWorld.tr"><title lang="en">Across The Balkans</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="TRTWorld.tr"><title lang="en">Strait Talk</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="TRTWorld.tr"><title lang="en">News</title></programme>
+</tv>

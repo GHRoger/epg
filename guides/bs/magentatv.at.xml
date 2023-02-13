@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="FilmKlub.rs"><display-name>Film Klub</display-name><icon src="https://i.imgur.com/a6Jq6Qg.png"/><url>https://magentatv.at</url></channel>
+<channel id="Hayat.ba"><display-name>Hayat</display-name><icon src="https://i.imgur.com/5tVKJyn.png"/><url>https://magentatv.at</url></channel>
+<programme start="20230212230000 +0000" stop="20230213000900 +0000" channel="FilmKlub.rs"><title lang="bs">Potrazi Vandu Kos</title><credits><director>Zivorad &quot;Zika&quot; Mitrovic</director><actor>Olga Spiridonovic</actor><actor>Zoran Ristanovic</actor><actor>Jozo Laurencic</actor></credits><date>19570101</date><category lang="bs">Drama</category><category lang="bs">Film</category><category lang="bs">Mysterien</category></programme>
+<programme start="20230213000900 +0000" stop="20230213005100 +0000" channel="FilmKlub.rs"><title lang="bs">Pogledi zatvorenih ociju</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213005100 +0000" stop="20230213010000 +0000" channel="FilmKlub.rs"><title lang="bs">Skupljač Filmova</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213010000 +0000" stop="20230213030000 +0000" channel="FilmKlub.rs"><title lang="bs">Daleko je sunce</title><desc lang="bs">Daleko je Sunce je jugoslovenski partizanski film snimljen 1953. godine u režiji Radoša Novakovića. Scenario filma zasnovan je na istoimenom romanu Dobrice Ćosića.</desc><credits><director>Rados Novakovic</director><actor>Branko Plesa</actor><actor>Rade Markovic</actor><actor>Dragomir Felba</actor><actor>Marko Todorovic</actor><actor>Janez Vrhovec</actor></credits><date>19530101</date><category lang="bs">Film</category><category lang="bs">Krieg</category></programme>
+<programme start="20230213030000 +0000" stop="20230213043000 +0000" channel="FilmKlub.rs"><title lang="bs">Tesna koža 1</title><credits><director>Milivoje Milošević</director><actor>Ružica Sokić</actor><actor>Nikola Simic</actor><actor>Milan Gutović</actor><actor>Rahela Ferari</actor></credits><date>19820101</date><category lang="bs">Film</category><category lang="bs">Komödie</category></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="FilmKlub.rs"><title lang="bs">Kasno je</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213050000 +0000" stop="20230213051300 +0000" channel="FilmKlub.rs"><title lang="bs">Skupljač Filmova</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213051300 +0000" stop="20230213070000 +0000" channel="FilmKlub.rs"><title lang="bs">Nevjera</title><date>19530101</date><category lang="bs">Drama</category><category lang="bs">Film</category></programme>
+<programme start="20230213070000 +0000" stop="20230213071400 +0000" channel="FilmKlub.rs"><title lang="bs">Religija na filmu</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213071400 +0000" stop="20230213072600 +0000" channel="FilmKlub.rs"><title lang="bs">Religija na filmu</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213072600 +0000" stop="20230213081200 +0000" channel="FilmKlub.rs"><title lang="bs">Potpisani</title></programme>
+<programme start="20230213081200 +0000" stop="20230213090000 +0000" channel="FilmKlub.rs"><title lang="bs">Put za Kujumbu</title></programme>
+<programme start="20230213090000 +0000" stop="20230213102000 +0000" channel="FilmKlub.rs"><title lang="bs">Držanje za vazduh</title><desc lang="bs">Topla lirska priča o ljubavi i nesporazumima, sećanjima i dečačkim snovima. Kroz priču se sagledaju sva lepota i čistota nežnih duša, prvi posleratni dani, dani poleta, entuzijazma i nevinosti.</desc><credits><director>Zdravko Sotra</director><actor>Danilo Stojkovic</actor><actor>Velimir `Bata&apos; Zivojinovic</actor><actor>Slavko Stimac</actor><actor>Marko Vojinovic</actor><actor>Jelica Sretenovic</actor></credits><date>19850101</date><category lang="bs">Drama</category><category lang="bs">Film</category></programme>
+<programme start="20230213102000 +0000" stop="20230213110000 +0000" channel="FilmKlub.rs"><title lang="bs">Euforia</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230213110000 +0000" stop="20230213123100 +0000" channel="FilmKlub.rs"><title lang="bs">Belo odelo</title><credits><director>Lazar Ristovski</director><actor>Lazar Ristovski</actor><actor>Radmila Shchogolyeva</actor><actor>Dragan Nikolic</actor><actor>Velimir `Bata&apos; Zivojinovic</actor><actor>Danilo Bata Stojković</actor><actor>Bogdan Diklic</actor><actor>Renata Ulmanski</actor><actor>Radoš Bajić</actor><actor>Igor Bojovic</actor><actor>Branimir Brstina</actor><producer>Petar Ristic</producer><producer>Lazar Ristovski</producer></credits><date>19990101</date><category lang="bs">Film</category><category lang="bs">Komödie</category></programme>
+<programme start="20230213123100 +0000" stop="20230213130000 +0000" channel="FilmKlub.rs"><title lang="bs">Mousferatu</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213130000 +0000" stop="20230213143200 +0000" channel="FilmKlub.rs"><title lang="bs">Josef</title><credits><director>Stanislav Tomic</director><actor>Neven Aljinovic-Tot</actor><actor>Alen Liveric</actor><actor>Sandra Loncaric</actor></credits><date>20110101</date><category lang="bs">Film</category><category lang="bs">Action</category><category lang="bs">Krieg</category></programme>
+<programme start="20230213143200 +0000" stop="20230213150000 +0000" channel="FilmKlub.rs"><title lang="bs">Nivo 9</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213150000 +0000" stop="20230213170000 +0000" channel="FilmKlub.rs"><title lang="bs">Šesta brzina</title><desc lang="bs">Učestvujući otvorena srca u odnosu sa mušterijama, automehaničar Života doživljava razne zgode. Neke su smešne, neke su tužne, neke otkrivaju lepotu, a neke ljudsku bedu.</desc><credits><director>Zdravko Sotra</director><actor>Velimir Bata Živojinović</actor><actor>Zoran Radmilović</actor><actor>Mira Banjac</actor><actor>Milena Dravić</actor><actor>Milivoje Tomic</actor><actor>Dragan Maksimovic</actor><actor>Aljosa Vuckovic</actor><actor>Stevo Zigon</actor><actor>Milan Srdoc</actor><actor>Tanja Boskovic</actor><producer>Bojan Maljevic</producer></credits><date>19810101</date><category lang="bs">Film</category><category lang="bs">Komödie</category></programme>
+<programme start="20230213170000 +0000" stop="20230213181200 +0000" channel="FilmKlub.rs"><title lang="bs">Religija na filmu</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213181200 +0000" stop="20230213190000 +0000" channel="FilmKlub.rs"><title lang="bs">Put za Kujumbu</title></programme>
+<programme start="20230213190000 +0000" stop="20230213210000 +0000" channel="FilmKlub.rs"><title lang="bs">Više od igre</title><desc lang="bs">Više od igre.</desc><category lang="bs">Nachrichten</category></programme>
+<programme start="20230213210000 +0000" stop="20230213222700 +0000" channel="FilmKlub.rs"><title lang="bs">Braća po materi</title><credits><director>Zdravko Šotra</director><actor>Slavko Štimac</actor><actor>Petar Bozovic</actor><actor>Sonja Savić</actor><actor>Žarko Laušević</actor></credits><date>19880101</date><category lang="bs">Drama</category><category lang="bs">Film</category></programme>
+<programme start="20230213222700 +0000" stop="20230213230000 +0000" channel="FilmKlub.rs"><title lang="bs">To Be Announced</title></programme>
+<programme start="20230213230000 +0000" stop="20230214064900 +0000" channel="FilmKlub.rs"><title lang="bs">SIGN OFF</title><desc lang="bs">Sign off.</desc></programme>
+<programme start="20230214064900 +0000" stop="20230214070000 +0000" channel="FilmKlub.rs"><title lang="bs">Film o Filmu</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214070000 +0000" stop="20230214074700 +0000" channel="FilmKlub.rs"><title lang="bs">Milord</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214074700 +0000" stop="20230214090000 +0000" channel="FilmKlub.rs"><title lang="bs">Kosovski boj</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230214090000 +0000" stop="20230214101600 +0000" channel="FilmKlub.rs"><title lang="bs">Od Naisusa do Konstantinopolisa</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230214101600 +0000" stop="20230214104700 +0000" channel="FilmKlub.rs"><title lang="bs">Hilandaru u pohode</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214104700 +0000" stop="20230214130000 +0000" channel="FilmKlub.rs"><title lang="bs">Puno je zvezda</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230214130000 +0000" stop="20230214144200 +0000" channel="FilmKlub.rs"><title lang="bs">Iz Mog Ugla</title><category lang="bs">Nachrichten</category><category lang="bs">Dokumentation</category></programme>
+<programme start="20230214144200 +0000" stop="20230214170000 +0000" channel="FilmKlub.rs"><title lang="bs">Izvesni pogledi</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214170000 +0000" stop="20230214174700 +0000" channel="FilmKlub.rs"><title lang="bs">Milord</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214174700 +0000" stop="20230214203600 +0000" channel="FilmKlub.rs"><title lang="bs">Kosovski boj</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230214203600 +0000" stop="20230215010000 +0000" channel="FilmKlub.rs"><title lang="bs">Manastiri Srbije</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230212235900 +0000" stop="20230213000300 +0000" channel="Hayat.ba"><title lang="bs">Hamdija Selihbegovic i Muris Varajic - Kuvet</title><category lang="bs">Musik</category></programme>
+<programme start="20230213000300 +0000" stop="20230213000700 +0000" channel="Hayat.ba"><title lang="bs">Mejdi Sulejmani - 1984</title><category lang="bs">Musik</category></programme>
+<programme start="20230213000700 +0000" stop="20230213001000 +0000" channel="Hayat.ba"><title lang="bs">The babe Barbarella i kamosutra - To nisam ja</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213001000 +0000" stop="20230213001300 +0000" channel="Hayat.ba"><title lang="bs">Nikolina Vujic-Tisina</title><category lang="bs">Musical</category></programme>
+<programme start="20230213001300 +0000" stop="20230213001800 +0000" channel="Hayat.ba"><title lang="bs">Tony Cetinski-General bez cinova</title><category lang="bs">Musik</category></programme>
+<programme start="20230213001800 +0000" stop="20230213002200 +0000" channel="Hayat.ba"><title lang="bs">Dino Merlin-Mi</title></programme>
+<programme start="20230213002200 +0000" stop="20230213002500 +0000" channel="Hayat.ba"><title lang="bs">Laka - Hrces</title><category lang="bs">Musical</category></programme>
+<programme start="20230213002500 +0000" stop="20230213002800 +0000" channel="Hayat.ba"><title lang="bs">Nodivo-Kosa plava</title></programme>
+<programme start="20230213002800 +0000" stop="20230213003300 +0000" channel="Hayat.ba"><title lang="bs">Almas Smajlovic- Krug za nas</title><category lang="bs">Musical</category></programme>
+<programme start="20230213003300 +0000" stop="20230213003600 +0000" channel="Hayat.ba"><title lang="bs">Regina-Ti si mi tu</title><category lang="bs">Musical</category></programme>
+<programme start="20230213003600 +0000" stop="20230213004000 +0000" channel="Hayat.ba"><title lang="bs">Eldin Huseinbegovic</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213004000 +0000" stop="20230213004500 +0000" channel="Hayat.ba"><title lang="bs">Latif Mocevic-Saputnik</title></programme>
+<programme start="20230213004500 +0000" stop="20230213005000 +0000" channel="Hayat.ba"><title lang="bs">Hari Mata Hati-Azra</title><category lang="bs">Musical</category></programme>
+<programme start="20230213005000 +0000" stop="20230213005300 +0000" channel="Hayat.ba"><title lang="bs">Dalal i Deen-Ljubav je</title><category lang="bs">Musical</category></programme>
+<programme start="20230213005300 +0000" stop="20230213005700 +0000" channel="Hayat.ba"><title lang="bs">Denial Ahmetovic-Cijeli moj svijet</title><category lang="bs">Musik</category></programme>
+<programme start="20230213005700 +0000" stop="20230213010100 +0000" channel="Hayat.ba"><title lang="bs">Adis Skaljo-Oprosti srce</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213010100 +0000" stop="20230213010600 +0000" channel="Hayat.ba"><title lang="bs">Al Dino-Sto me ne volis</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230213010600 +0000" stop="20230213011000 +0000" channel="Hayat.ba"><title lang="bs">Eldin Huseinbegovic</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213011000 +0000" stop="20230213011400 +0000" channel="Hayat.ba"><title lang="bs">Mirza Soljanin-Racun za ljubav</title><category lang="bs">Musical</category></programme>
+<programme start="20230213011400 +0000" stop="20230213011800 +0000" channel="Hayat.ba"><title lang="bs">Jasna i Frano-Samo jedna noc</title><category lang="bs">Musical</category></programme>
+<programme start="20230213011800 +0000" stop="20230213012200 +0000" channel="Hayat.ba"><title lang="bs">Hari Mata Hari i Elena Risteska-Jos me plasis</title><category lang="bs">Musical</category></programme>
+<programme start="20230213012200 +0000" stop="20230213012600 +0000" channel="Hayat.ba"><title lang="bs">Al Dino-Kreni</title><category lang="bs">Musical</category></programme>
+<programme start="20230213012600 +0000" stop="20230213012900 +0000" channel="Hayat.ba"><title lang="bs">Almir Ajanovic-Bio sam ti drag</title><category lang="bs">Musik</category></programme>
+<programme start="20230213012900 +0000" stop="20230213013300 +0000" channel="Hayat.ba"><title lang="bs">Adnan Jakupovic</title><category lang="bs">Musical</category></programme>
+<programme start="20230213013300 +0000" stop="20230213013700 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Ti si zvijezda</title><category lang="bs">Musical</category></programme>
+<programme start="20230213013700 +0000" stop="20230213014100 +0000" channel="Hayat.ba"><title lang="bs">Kemal Hasic-Dok nas Bog ne rastavi</title><category lang="bs">Musik</category></programme>
+<programme start="20230213014100 +0000" stop="20230213014500 +0000" channel="Hayat.ba"><title lang="bs">Halid Beslic</title><category lang="bs">Musical</category></programme>
+<programme start="20230213014500 +0000" stop="20230213014900 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum-Mojoj majci</title><category lang="bs">Musical</category></programme>
+<programme start="20230213014900 +0000" stop="20230213015300 +0000" channel="Hayat.ba"><title lang="bs">Jasmin Burek-Esma</title><category lang="bs">Musik</category></programme>
+<programme start="20230213015300 +0000" stop="20230213015600 +0000" channel="Hayat.ba"><title lang="bs">Ibrahim Jukan-Poklon</title><category lang="bs">Musical</category></programme>
+<programme start="20230213015600 +0000" stop="20230213020000 +0000" channel="Hayat.ba"><title lang="bs">Denial Ahmetovic-Lazna svetice</title><category lang="bs">Musik</category></programme>
+<programme start="20230213020000 +0000" stop="20230213020300 +0000" channel="Hayat.ba"><title lang="bs">Sejo Boy-Tebi se moze sve</title><category lang="bs">Musical</category></programme>
+<programme start="20230213020300 +0000" stop="20230213020700 +0000" channel="Hayat.ba"><title lang="bs">Sladja Mandic-Drhtala ginula</title><category lang="bs">Musik</category></programme>
+<programme start="20230213020700 +0000" stop="20230213021200 +0000" channel="Hayat.ba"><title lang="bs">Armin Bijedic-Snjegovi</title><category lang="bs">Musical</category></programme>
+<programme start="20230213021200 +0000" stop="20230213021600 +0000" channel="Hayat.ba"><title lang="bs">Asim Brkan-Kako si mi prijatelju</title><category lang="bs">Musical</category></programme>
+<programme start="20230213021600 +0000" stop="20230213021900 +0000" channel="Hayat.ba"><title lang="bs">Alem Kadic-Racun za ljubav</title></programme>
+<programme start="20230213021900 +0000" stop="20230213022300 +0000" channel="Hayat.ba"><title lang="bs">Serif Konjevic-Rano je</title><category lang="bs">Musik</category></programme>
+<programme start="20230213022300 +0000" stop="20230213022600 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Eto ti on</title><category lang="bs">Musical</category></programme>
+<programme start="20230213022600 +0000" stop="20230213023000 +0000" channel="Hayat.ba"><title lang="bs">Elvira Rahic-Orkani</title><category lang="bs">Musik</category></programme>
+<programme start="20230213023000 +0000" stop="20230213023300 +0000" channel="Hayat.ba"><title lang="bs">Dino Memic - Jos boli trag</title><category lang="bs">Musik</category></programme>
+<programme start="20230213023300 +0000" stop="20230213023700 +0000" channel="Hayat.ba"><title lang="bs">Jasmin Burek-Nema dana</title><category lang="bs">Musical</category></programme>
+<programme start="20230213023700 +0000" stop="20230213024100 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213024100 +0000" stop="20230213024400 +0000" channel="Hayat.ba"><title lang="bs">Halid Beslic-Miljacka</title><category lang="bs">Musik</category></programme>
+<programme start="20230213024400 +0000" stop="20230213024800 +0000" channel="Hayat.ba"><title lang="bs">Adnan Jakupovic</title><category lang="bs">Musical</category></programme>
+<programme start="20230213024800 +0000" stop="20230213025200 +0000" channel="Hayat.ba"><title lang="bs">Asim Brkan-Zadnja zedj</title><category lang="bs">Musical</category></programme>
+<programme start="20230213025200 +0000" stop="20230213025600 +0000" channel="Hayat.ba"><title lang="bs">Anida i Marko-Ljubav prava</title><category lang="bs">Musical</category></programme>
+<programme start="20230213025600 +0000" stop="20230213025900 +0000" channel="Hayat.ba"><title lang="bs">Denial Ahmetovic-Tebi zivot ide dalje</title><category lang="bs">Musik</category></programme>
+<programme start="20230213025900 +0000" stop="20230213030200 +0000" channel="Hayat.ba"><title lang="bs">Adnan Jakupovic</title><sub-title lang="bs">Berdas</sub-title><date>20210101</date><category lang="bs">Musical</category></programme>
+<programme start="20230213030200 +0000" stop="20230213030600 +0000" channel="Hayat.ba"><title lang="bs">Sacir Ameti-Sve se vrti oko zena</title><category lang="bs">Musik</category></programme>
+<programme start="20230213030600 +0000" stop="20230213030900 +0000" channel="Hayat.ba"><title lang="bs">Memnun Muzaferija-Sarajevo,Zagreb,Beograd</title><category lang="bs">Musical</category></programme>
+<programme start="20230213030900 +0000" stop="20230213031300 +0000" channel="Hayat.ba"><title lang="bs">Ruza Efendic-Nisam to ja</title><category lang="bs">Musical</category></programme>
+<programme start="20230213031300 +0000" stop="20230213031600 +0000" channel="Hayat.ba"><title lang="bs">Elvira Rahic - Fobija</title><category lang="bs">Musik</category></programme>
+<programme start="20230213031600 +0000" stop="20230213032000 +0000" channel="Hayat.ba"><title lang="bs">Nikolina Kovac-Kako da te zaboravim</title><category lang="bs">Musik</category></programme>
+<programme start="20230213032000 +0000" stop="20230213032400 +0000" channel="Hayat.ba"><title lang="bs">Haris Dzinovic-Pariske kapije</title><category lang="bs">Musik</category></programme>
+<programme start="20230213032400 +0000" stop="20230213032700 +0000" channel="Hayat.ba"><title lang="bs">Armin Sakovic-Dobra strano mog zivota</title><category lang="bs">Musik</category></programme>
+<programme start="20230213032700 +0000" stop="20230213033200 +0000" channel="Hayat.ba"><title lang="bs">Sladja Mandic-Osluskujem</title><category lang="bs">Musical</category></programme>
+<programme start="20230213033200 +0000" stop="20230213033500 +0000" channel="Hayat.ba"><title lang="bs">Almir Ajanovic i Hanka Paldum-Ja nemam snage</title><category lang="bs">Musical</category></programme>
+<programme start="20230213033500 +0000" stop="20230213033900 +0000" channel="Hayat.ba"><title lang="bs">Anida Idrizovic-Ironija</title><category lang="bs">Musical</category></programme>
+<programme start="20230213033900 +0000" stop="20230213034200 +0000" channel="Hayat.ba"><title lang="bs">Amra Halebic-Budi mirna</title><category lang="bs">Musik</category></programme>
+<programme start="20230213034200 +0000" stop="20230213034800 +0000" channel="Hayat.ba"><title lang="bs">Nazif Gljiva-Mix 1</title><category lang="bs">Musical</category></programme>
+<programme start="20230213034800 +0000" stop="20230213035300 +0000" channel="Hayat.ba"><title lang="bs">Dino Bonvivian - Losa procjena</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213035300 +0000" stop="20230213035700 +0000" channel="Hayat.ba"><title lang="bs">Halid Beslic</title><category lang="bs">Musical</category></programme>
+<programme start="20230213035700 +0000" stop="20230213040000 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Eto ti on</title><category lang="bs">Musical</category></programme>
+<programme start="20230213040000 +0000" stop="20230213040400 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum-Merak</title><category lang="bs">Musik</category></programme>
+<programme start="20230213040400 +0000" stop="20230213040700 +0000" channel="Hayat.ba"><title lang="bs">Kemal Hasic-Sjeti se</title><category lang="bs">Musik</category></programme>
+<programme start="20230213040700 +0000" stop="20230213041100 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213041100 +0000" stop="20230213041600 +0000" channel="Hayat.ba"><title lang="bs">Amna Aganovic-Sunce</title><category lang="bs">Musical</category></programme>
+<programme start="20230213041600 +0000" stop="20230213042000 +0000" channel="Hayat.ba"><title lang="bs">Jasmin Burek-Sevap</title><category lang="bs">Musical</category></programme>
+<programme start="20230213042000 +0000" stop="20230213042300 +0000" channel="Hayat.ba"><title lang="bs">Ruza Efendic-Nisam to ja</title><category lang="bs">Musical</category></programme>
+<programme start="20230213042300 +0000" stop="20230213042700 +0000" channel="Hayat.ba"><title lang="bs">Sacir Ameti-Ulica</title><category lang="bs">Musical</category></programme>
+<programme start="20230213042700 +0000" stop="20230213043000 +0000" channel="Hayat.ba"><title lang="bs">Ruza Efendic - Ako se sretnemo</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213043000 +0000" stop="20230213043400 +0000" channel="Hayat.ba"><title lang="bs">Enes Begović</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213043400 +0000" stop="20230213043800 +0000" channel="Hayat.ba"><title lang="bs">Adnan Nezirov-U srce da mi pucas</title><category lang="bs">Musical</category></programme>
+<programme start="20230213043800 +0000" stop="20230213044200 +0000" channel="Hayat.ba"><title lang="bs">Adan Mulahasanovic-Znam ja sve</title><category lang="bs">Musical</category></programme>
+<programme start="20230213044200 +0000" stop="20230213044600 +0000" channel="Hayat.ba"><title lang="bs">Halid Muslimovic-Kasno je</title><category lang="bs">Musical</category></programme>
+<programme start="20230213044600 +0000" stop="20230213045000 +0000" channel="Hayat.ba"><title lang="bs">Enes Begovic-Nema nama ljubavi</title><category lang="bs">Musik</category></programme>
+<programme start="20230213045000 +0000" stop="20230213045400 +0000" channel="Hayat.ba"><title lang="bs">Naida Catic-Lice tvoje</title><category lang="bs">Musik</category></programme>
+<programme start="20230213045400 +0000" stop="20230213045700 +0000" channel="Hayat.ba"><title lang="bs">Almin Dzankovic-Tebi iz inata</title></programme>
+<programme start="20230213045700 +0000" stop="20230213050000 +0000" channel="Hayat.ba"><title lang="bs">Branka Sovrlic - Zapjevaj mi pjesmu bosansku</title><category lang="bs">Musical</category></programme>
+<programme start="20230213050000 +0000" stop="20230213050200 +0000" channel="Hayat.ba"><title lang="bs">Adnan Nezirov-Proljece je vrijeme prevara</title><category lang="bs">Musical</category></programme>
+<programme start="20230213050200 +0000" stop="20230213050400 +0000" channel="Hayat.ba"><title lang="bs">Nazif Gljiva - Kondori lete</title><category lang="bs">Musik</category></programme>
+<programme start="20230213050400 +0000" stop="20230213050600 +0000" channel="Hayat.ba"><title lang="bs">Asmir Grabus-Samo moja</title><category lang="bs">Musical</category></programme>
+<programme start="20230213050600 +0000" stop="20230213050700 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213050700 +0000" stop="20230213051000 +0000" channel="Hayat.ba"><title lang="bs">Amir Begovic-Manje vise</title><category lang="bs">Musical</category></programme>
+<programme start="20230213051000 +0000" stop="20230213051100 +0000" channel="Hayat.ba"><title lang="bs">Semir Ceric Koke-Sve i sad</title><category lang="bs">Musical</category></programme>
+<programme start="20230213051100 +0000" stop="20230213051300 +0000" channel="Hayat.ba"><title lang="bs">Nazif Gljiva-Ako te budu pitali</title><category lang="bs">Musik</category></programme>
+<programme start="20230213051300 +0000" stop="20230213051500 +0000" channel="Hayat.ba"><title lang="bs">Dijana Bliznac-Nemoj da se tripujes</title><category lang="bs">Musical</category></programme>
+<programme start="20230213051500 +0000" stop="20230213051700 +0000" channel="Hayat.ba"><title lang="bs">Mix sevdaha-Zelen lisce</title><category lang="bs">Musical</category></programme>
+<programme start="20230213051700 +0000" stop="20230213052000 +0000" channel="Hayat.ba"><title lang="bs">Enela Palavra-Ljubav vodi me</title><category lang="bs">Musical</category></programme>
+<programme start="20230213052000 +0000" stop="20230213052300 +0000" channel="Hayat.ba"><title lang="bs">Emma Dzaferovic-Drama</title><category lang="bs">Musical</category></programme>
+<programme start="20230213052300 +0000" stop="20230213065000 +0000" channel="Hayat.ba"><title lang="bs">Otvoreni studio</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230213065000 +0000" stop="20230213074500 +0000" channel="Hayat.ba"><title lang="bs">Gorka zemlja</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230213074500 +0000" stop="20230213080000 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230213080000 +0000" stop="20230213090300 +0000" channel="Hayat.ba"><title lang="bs">Jutro s vama</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213090300 +0000" stop="20230213090800 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230213090800 +0000" stop="20230213091500 +0000" channel="Hayat.ba"><title lang="bs">Labeffective</title></programme>
+<programme start="20230213091500 +0000" stop="20230213092000 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230213092000 +0000" stop="20230213101100 +0000" channel="Hayat.ba"><title lang="bs">Tri sestre</title><sub-title lang="bs">Uc Kiz Kardes</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213101100 +0000" stop="20230213101500 +0000" channel="Hayat.ba"><title lang="bs">Almas Smajlovic- Krug za nas</title><category lang="bs">Musical</category></programme>
+<programme start="20230213101500 +0000" stop="20230213101900 +0000" channel="Hayat.ba"><title lang="bs">Komuna</title><sub-title lang="bs">Valovi</sub-title><date>20220101</date><category lang="bs">Musik</category></programme>
+<programme start="20230213101900 +0000" stop="20230213102300 +0000" channel="Hayat.ba"><title lang="bs">Adis Skaljo-Za nas</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213102300 +0000" stop="20230213102600 +0000" channel="Hayat.ba"><title lang="bs">Amir Kazic Leo - Hoću</title><category lang="bs">Musik</category></programme>
+<programme start="20230213102600 +0000" stop="20230213104600 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230213104600 +0000" stop="20230213112900 +0000" channel="Hayat.ba"><title lang="bs">Sweet Lab By Dolcela</title><category lang="bs">Varieté</category></programme>
+<programme start="20230213112900 +0000" stop="20230213113400 +0000" channel="Hayat.ba"><title lang="bs">Zdrave minute</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230213113400 +0000" stop="20230213114900 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230213114900 +0000" stop="20230213115400 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230213115400 +0000" stop="20230213124400 +0000" channel="Hayat.ba"><title lang="bs">Presuda</title><sub-title lang="bs">Yargi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213124400 +0000" stop="20230213125900 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230213125900 +0000" stop="20230213130400 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230213130400 +0000" stop="20230213135500 +0000" channel="Hayat.ba"><title lang="bs">Seldžuci</title><sub-title lang="bs">Alparslan: Buyuk Selcuklu</sub-title><desc lang="bs">05. epizoda - Melikšah ne odustaje od namjere da vidi svog sina iako ga Nizamulmuk uvjerava da je to loš potez za carstvo. Sendžer prati jednog od napadača kako bi saznao ko se krije iza njega.</desc><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213135500 +0000" stop="20230213135900 +0000" channel="Hayat.ba"><title lang="bs">Hari Mata Hari - Stara ljubavi</title><category lang="bs">Musical</category></programme>
+<programme start="20230213135900 +0000" stop="20230213140300 +0000" channel="Hayat.ba"><title lang="bs">Bombaj Stampa-Samo lagano</title><category lang="bs">Musik</category></programme>
+<programme start="20230213140300 +0000" stop="20230213140600 +0000" channel="Hayat.ba"><title lang="bs">Konvoj</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230213140600 +0000" stop="20230213141000 +0000" channel="Hayat.ba"><title lang="bs">Ammara Mistric-Nikada</title><category lang="bs">Musical</category></programme>
+<programme start="20230213141000 +0000" stop="20230213141400 +0000" channel="Hayat.ba"><title lang="bs">Nermin Puskar - Kad u ovu ljubav sumnjam</title></programme>
+<programme start="20230213141400 +0000" stop="20230213141900 +0000" channel="Hayat.ba"><title lang="bs">Zeljko Joksimovic-Mozda je to ljubav</title><category lang="bs">Musical</category></programme>
+<programme start="20230213141900 +0000" stop="20230213143400 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230213143400 +0000" stop="20230213143900 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230213143900 +0000" stop="20230213153000 +0000" channel="Hayat.ba"><title lang="bs">Planina ljubavi</title><sub-title lang="bs">Gonul Dagi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213153000 +0000" stop="20230213165700 +0000" channel="Hayat.ba"><title lang="bs">Otvoreni studio</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230213165700 +0000" stop="20230213175000 +0000" channel="Hayat.ba"><title lang="bs">Zimska kuhinja</title><category lang="bs">Kochen</category></programme>
+<programme start="20230213175000 +0000" stop="20230213181300 +0000" channel="Hayat.ba"><title lang="bs">Vijesti u 7</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230213181300 +0000" stop="20230213184700 +0000" channel="Hayat.ba"><title lang="bs">7 plus</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230213184700 +0000" stop="20230213190000 +0000" channel="Hayat.ba"><title lang="bs">Sport</title><category lang="bs">Sport</category></programme>
+<programme start="20230213190000 +0000" stop="20230213195200 +0000" channel="Hayat.ba"><title lang="bs">Presuda</title><sub-title lang="bs">Yargi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213195200 +0000" stop="20230213204400 +0000" channel="Hayat.ba"><title lang="bs">Seldžuci</title><sub-title lang="bs">Alparslan: Buyuk Selcuklu</sub-title><desc lang="bs">05. epizoda - Melikšah ne odustaje od namjere da vidi svog sina iako ga Nizamulmuk uvjerava da je to loš potez za carstvo. Sendžer prati jednog od napadača kako bi saznao ko se krije iza njega.</desc><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213204400 +0000" stop="20230213214000 +0000" channel="Hayat.ba"><title lang="bs">Tri sestre</title><sub-title lang="bs">Uc Kiz Kardes</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213214000 +0000" stop="20230213223100 +0000" channel="Hayat.ba"><title lang="bs">Planina ljubavi</title><sub-title lang="bs">Gonul Dagi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230213223100 +0000" stop="20230213231500 +0000" channel="Hayat.ba"><title lang="bs">Zimska kuhinja</title><category lang="bs">Kochen</category></programme>
+<programme start="20230213231500 +0000" stop="20230213233500 +0000" channel="Hayat.ba"><title lang="bs">Vijesti u 7</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230213233500 +0000" stop="20230214000800 +0000" channel="Hayat.ba"><title lang="bs">7 plus</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230214000800 +0000" stop="20230214001700 +0000" channel="Hayat.ba"><title lang="bs">Sport</title><category lang="bs">Sport</category></programme>
+<programme start="20230214001700 +0000" stop="20230214002300 +0000" channel="Hayat.ba"><title lang="bs">Savremenici</title><category lang="bs">Musical</category></programme>
+<programme start="20230214002300 +0000" stop="20230214002800 +0000" channel="Hayat.ba"><title lang="bs">Halid Beslic</title><category lang="bs">Musical</category></programme>
+<programme start="20230214002800 +0000" stop="20230214003100 +0000" channel="Hayat.ba"><title lang="bs">Enes Begovic-Nema nama ljubavi</title><category lang="bs">Musik</category></programme>
+<programme start="20230214003100 +0000" stop="20230214003500 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Donesi divlje mirise</title></programme>
+<programme start="20230214003500 +0000" stop="20230214003800 +0000" channel="Hayat.ba"><title lang="bs">Amir Begovic-Manje vise</title><category lang="bs">Musical</category></programme>
+<programme start="20230214003800 +0000" stop="20230214004200 +0000" channel="Hayat.ba"><title lang="bs">Amna Aganovic-Sunce</title><category lang="bs">Musical</category></programme>
+<programme start="20230214004200 +0000" stop="20230214004600 +0000" channel="Hayat.ba"><title lang="bs">Armin Sakovic-Mina</title><category lang="bs">Musical</category></programme>
+<programme start="20230214004600 +0000" stop="20230214005000 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Ti si zvijezda</title><category lang="bs">Musical</category></programme>
+<programme start="20230214005000 +0000" stop="20230214005400 +0000" channel="Hayat.ba"><title lang="bs">Amra Halebic-Krvare sjecanja</title><category lang="bs">Musik</category></programme>
+<programme start="20230214005400 +0000" stop="20230214005700 +0000" channel="Hayat.ba"><title lang="bs">Haris Dzinovic-Godine ti dobro stoje</title><category lang="bs">Musik</category></programme>
+<programme start="20230214005700 +0000" stop="20230214010100 +0000" channel="Hayat.ba"><title lang="bs">Jasna Gospić i Halid Bešlić - Samo Jednom</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214010100 +0000" stop="20230214010400 +0000" channel="Hayat.ba"><title lang="bs">Dino Memic-Andjeo bez duse</title><category lang="bs">Musical</category></programme>
+<programme start="20230214010400 +0000" stop="20230214010700 +0000" channel="Hayat.ba"><title lang="bs">Adnan Jakupovic-Hladna voda</title></programme>
+<programme start="20230214010700 +0000" stop="20230214011100 +0000" channel="Hayat.ba"><title lang="bs">Adnan Jakupovic</title><category lang="bs">Musical</category></programme>
+<programme start="20230214011100 +0000" stop="20230214011500 +0000" channel="Hayat.ba"><title lang="bs">Armin Sakovic-Mina</title><category lang="bs">Musical</category></programme>
+<programme start="20230214011500 +0000" stop="20230214011900 +0000" channel="Hayat.ba"><title lang="bs">Sladja Mandic-Drhtala ginula</title><category lang="bs">Musik</category></programme>
+<programme start="20230214011900 +0000" stop="20230214012300 +0000" channel="Hayat.ba"><title lang="bs">Armin Bijedic-Snjegovi</title><category lang="bs">Musical</category></programme>
+<programme start="20230214012300 +0000" stop="20230214012700 +0000" channel="Hayat.ba"><title lang="bs">Asim Brkan-Kako si mi prijatelju</title><category lang="bs">Musical</category></programme>
+<programme start="20230214012700 +0000" stop="20230214013000 +0000" channel="Hayat.ba"><title lang="bs">Muharem Serbezovski-Da je srce dijamant</title><category lang="bs">Musical</category></programme>
+<programme start="20230214013000 +0000" stop="20230214013400 +0000" channel="Hayat.ba"><title lang="bs">Alem Kadic-Racun za ljubav</title></programme>
+<programme start="20230214013400 +0000" stop="20230214013700 +0000" channel="Hayat.ba"><title lang="bs">Serif Konjevic-Rano je</title><category lang="bs">Musik</category></programme>
+<programme start="20230214013700 +0000" stop="20230214014100 +0000" channel="Hayat.ba"><title lang="bs">Elvira Rahic-Orkani</title><category lang="bs">Musik</category></programme>
+<programme start="20230214014100 +0000" stop="20230214014500 +0000" channel="Hayat.ba"><title lang="bs">Jasmin Burek-Nema dana</title><category lang="bs">Musical</category></programme>
+<programme start="20230214014500 +0000" stop="20230214014900 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum</title><category lang="bs">Dokumentation</category></programme>
+<programme start="20230214014900 +0000" stop="20230214015300 +0000" channel="Hayat.ba"><title lang="bs">Nazif Gljiva-Arijana</title><category lang="bs">Musical</category></programme>
+<programme start="20230214015300 +0000" stop="20230214015700 +0000" channel="Hayat.ba"><title lang="bs">Anida i Marko-Ljubav prava</title><category lang="bs">Musical</category></programme>
+<programme start="20230214015700 +0000" stop="20230214020100 +0000" channel="Hayat.ba"><title lang="bs">Dino Bonvivan-Zivotna</title><category lang="bs">Musik</category></programme>
+<programme start="20230214020100 +0000" stop="20230214020400 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Eto ti on</title><category lang="bs">Musical</category></programme>
+<programme start="20230214020400 +0000" stop="20230214020800 +0000" channel="Hayat.ba"><title lang="bs">Halid Beslic-Sevdah da se dogodi</title><category lang="bs">Musik</category></programme>
+<programme start="20230214020800 +0000" stop="20230214021200 +0000" channel="Hayat.ba"><title lang="bs">Enes Begovic</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214021200 +0000" stop="20230214021500 +0000" channel="Hayat.ba"><title lang="bs">Nihad Alibegovic-Donesi divlje mirise</title></programme>
+<programme start="20230214021500 +0000" stop="20230214021900 +0000" channel="Hayat.ba"><title lang="bs">Hanka Paldum-Merak</title><category lang="bs">Musik</category></programme>
+<programme start="20230214021900 +0000" stop="20230214022200 +0000" channel="Hayat.ba"><title lang="bs">Nihad Kantic Sike-Pola grada pola Bosne</title><category lang="bs">Musical</category></programme>
+<programme start="20230214022200 +0000" stop="20230214022600 +0000" channel="Hayat.ba"><title lang="bs">Osman Hadzic - Sve je daleko</title><category lang="bs">Musical</category></programme>
+<programme start="20230214022600 +0000" stop="20230214023000 +0000" channel="Hayat.ba"><title lang="bs">Isko Jakupovic-Tamburasi</title><category lang="bs">Musical</category></programme>
+<programme start="20230214023000 +0000" stop="20230214023300 +0000" channel="Hayat.ba"><title lang="bs">Jasmin Burek-Lijepa si</title><category lang="bs">Musical</category></programme>
+<programme start="20230214023300 +0000" stop="20230214023700 +0000" channel="Hayat.ba"><title lang="bs">Semir Ceric Koke-Sve i sad</title><category lang="bs">Musical</category></programme>
+<programme start="20230214023700 +0000" stop="20230214024100 +0000" channel="Hayat.ba"><title lang="bs">Sacir Ameti-Dobra dusa</title><category lang="bs">Musik</category></programme>
+<programme start="20230214024100 +0000" stop="20230214024400 +0000" channel="Hayat.ba"><title lang="bs">Regina-Zub za zub</title><category lang="bs">Musical</category></programme>
+<programme start="20230214024400 +0000" stop="20230214024800 +0000" channel="Hayat.ba"><title lang="bs">Dum Dum-Ti i ja</title><category lang="bs">Musical</category></programme>
+<programme start="20230214024800 +0000" stop="20230214025200 +0000" channel="Hayat.ba"><title lang="bs">Zlatan Karic-Let love be your game</title><category lang="bs">Musik</category></programme>
+<programme start="20230214025200 +0000" stop="20230214025700 +0000" channel="Hayat.ba"><title lang="bs">Jasna, Cola, Ismeta, Hari-Trebevic opet silazi u grad</title><category lang="bs">Musik</category></programme>
+<programme start="20230214025700 +0000" stop="20230214030100 +0000" channel="Hayat.ba"><title lang="bs">Bukowskee-Amman</title><category lang="bs">Musical</category></programme>
+<programme start="20230214030100 +0000" stop="20230214030400 +0000" channel="Hayat.ba"><title lang="bs">Nodivo - Opet smo izgubili ljubav</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214030400 +0000" stop="20230214030800 +0000" channel="Hayat.ba"><title lang="bs">Petar Graso - Voli me</title><category lang="bs">Musik</category></programme>
+<programme start="20230214030800 +0000" stop="20230214031200 +0000" channel="Hayat.ba"><title lang="bs">Regina-Ti si mi tu</title><category lang="bs">Musical</category></programme>
+<programme start="20230214031200 +0000" stop="20230214031500 +0000" channel="Hayat.ba"><title lang="bs">Samir Alebic-Prodala si ljubav</title><category lang="bs">Musik</category></programme>
+<programme start="20230214031500 +0000" stop="20230214031900 +0000" channel="Hayat.ba"><title lang="bs">Sasa Kovacevic-Mogli smo sve</title><category lang="bs">Musik</category></programme>
+<programme start="20230214031900 +0000" stop="20230214032400 +0000" channel="Hayat.ba"><title lang="bs">Geronimo-Nebo je tu</title><category lang="bs">Musical</category></programme>
+<programme start="20230214032400 +0000" stop="20230214032700 +0000" channel="Hayat.ba"><title lang="bs">Neno Muric-Bicu tvoja sjena</title><category lang="bs">Musik</category></programme>
+<programme start="20230214032700 +0000" stop="20230214033200 +0000" channel="Hayat.ba"><title lang="bs">Mirza Soljanin-Tebi da se vratim</title><category lang="bs">Musik</category></programme>
+<programme start="20230214033200 +0000" stop="20230214033600 +0000" channel="Hayat.ba"><title lang="bs">Amir Kazić Leo - Krevet od ruža</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214033600 +0000" stop="20230214034100 +0000" channel="Hayat.ba"><title lang="bs">Goran Karan-Kuca nase pisme</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214034100 +0000" stop="20230214034600 +0000" channel="Hayat.ba"><title lang="bs">Hari Mata Hari</title><category lang="bs">Musik</category></programme>
+<programme start="20230214034600 +0000" stop="20230214034900 +0000" channel="Hayat.ba"><title lang="bs">Igor Vukojevic-Prvi ples</title><category lang="bs">Musik</category></programme>
+<programme start="20230214034900 +0000" stop="20230214035300 +0000" channel="Hayat.ba"><title lang="bs">Jasna Gospic-Lisce sa Balkana</title><category lang="bs">Musik</category></programme>
+<programme start="20230214035300 +0000" stop="20230214035600 +0000" channel="Hayat.ba"><title lang="bs">Kaliopi - Vucica</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230214035600 +0000" stop="20230214040000 +0000" channel="Hayat.ba"><title lang="bs">Konvoj-Majka</title><category lang="bs">Musik</category></programme>
+<programme start="20230214040000 +0000" stop="20230214040400 +0000" channel="Hayat.ba"><title lang="bs">Latif Mocevic-Zeni</title><category lang="bs">Musik</category></programme>
+<programme start="20230214040400 +0000" stop="20230214040900 +0000" channel="Hayat.ba"><title lang="bs">Eldin Huseinbegovic</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214040900 +0000" stop="20230214041300 +0000" channel="Hayat.ba"><title lang="bs">Armin Muzaferija-Dzehva</title></programme>
+<programme start="20230214041300 +0000" stop="20230214041700 +0000" channel="Hayat.ba"><title lang="bs">Letu Stuke-Supermarket</title><category lang="bs">Musik</category></programme>
+<programme start="20230214041700 +0000" stop="20230214042100 +0000" channel="Hayat.ba"><title lang="bs">Tropico Band &amp; Mirza Soljanin-Sarajevo Beograd</title></programme>
+<programme start="20230214042100 +0000" stop="20230214042500 +0000" channel="Hayat.ba"><title lang="bs">Mirza Malkoc-Ne ostavljaj me sad</title><category lang="bs">Musical</category></programme>
+<programme start="20230214042500 +0000" stop="20230214042800 +0000" channel="Hayat.ba"><title lang="bs">Neno Muric - Bole Daljine</title><category lang="bs">Musical</category></programme>
+<programme start="20230214042800 +0000" stop="20230214043300 +0000" channel="Hayat.ba"><title lang="bs">Enes Ukic-Vjencani dar</title><category lang="bs">Musical</category></programme>
+<programme start="20230214043300 +0000" stop="20230214043700 +0000" channel="Hayat.ba"><title lang="bs">Armin Muzaferija-Samo ti</title><category lang="bs">Musik</category></programme>
+<programme start="20230214043700 +0000" stop="20230214044000 +0000" channel="Hayat.ba"><title lang="bs">Eldin Huseinbegovic-Oko moje</title><category lang="bs">Musical</category></programme>
+<programme start="20230214044000 +0000" stop="20230214044400 +0000" channel="Hayat.ba"><title lang="bs">Mirsad Kulo - Svak se o svom jadu zabavio</title><category lang="bs">Musical</category></programme>
+<programme start="20230214044400 +0000" stop="20230214044700 +0000" channel="Hayat.ba"><title lang="bs">Emir &amp; Frozen Camels Feat. Mirza-Ters bosanka</title><category lang="bs">Musical</category></programme>
+<programme start="20230214044700 +0000" stop="20230214045100 +0000" channel="Hayat.ba"><title lang="bs">Maid Mirojevic</title><category lang="bs">Musical</category></programme>
+<programme start="20230214045100 +0000" stop="20230214045500 +0000" channel="Hayat.ba"><title lang="bs">Adis Skaljo-Oprosti srce</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214045500 +0000" stop="20230214045800 +0000" channel="Hayat.ba"><title lang="bs">Grupa Zar i Igor-Mikrokosmos</title><category lang="bs">Musik</category></programme>
+<programme start="20230214045800 +0000" stop="20230214050300 +0000" channel="Hayat.ba"><title lang="bs">Zejd Soto-Slovo ljubavi</title><category lang="bs">Musik</category></programme>
+<programme start="20230214050300 +0000" stop="20230214050600 +0000" channel="Hayat.ba"><title lang="bs">Dzejlana Herenda-Cvijet u kamenu</title><category lang="bs">Musik</category></programme>
+<programme start="20230214050600 +0000" stop="20230214051000 +0000" channel="Hayat.ba"><title lang="bs">Jasna Gospić i Halid Bešlić - Samo Jednom</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214051000 +0000" stop="20230214051400 +0000" channel="Hayat.ba"><title lang="bs">Armin Muzaferija-Putujem</title><category lang="bs">Musik</category></programme>
+<programme start="20230214051400 +0000" stop="20230214051700 +0000" channel="Hayat.ba"><title lang="bs">Mirza Soljanin-Tamna strana</title><category lang="bs">Musical</category></programme>
+<programme start="20230214051700 +0000" stop="20230214053500 +0000" channel="Hayat.ba"><title lang="bs">Abdusamed Sljivar-O tebi</title><category lang="bs">Musical</category></programme>
+<programme start="20230214053500 +0000" stop="20230214065000 +0000" channel="Hayat.ba"><title lang="bs">Otvoreni studio</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230214065000 +0000" stop="20230214074500 +0000" channel="Hayat.ba"><title lang="bs">Gorka zemlja</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230214074500 +0000" stop="20230214080000 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230214080000 +0000" stop="20230214091000 +0000" channel="Hayat.ba"><title lang="bs">Jutro s vama</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214091000 +0000" stop="20230214091500 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230214091500 +0000" stop="20230214092000 +0000" channel="Hayat.ba"><title lang="bs">Labeffective</title></programme>
+<programme start="20230214092000 +0000" stop="20230214092500 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230214092500 +0000" stop="20230214102000 +0000" channel="Hayat.ba"><title lang="bs">Tri sestre</title><sub-title lang="bs">Uc Kiz Kardes</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214102000 +0000" stop="20230214103500 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230214103500 +0000" stop="20230214103900 +0000" channel="Hayat.ba"><title lang="bs">Komuna feat. Leo-Fatma</title></programme>
+<programme start="20230214103900 +0000" stop="20230214104000 +0000" channel="Hayat.ba"><title lang="bs">Amel Curic - Te Zime</title><category lang="bs">Varieté</category></programme>
+<programme start="20230214104000 +0000" stop="20230214113000 +0000" channel="Hayat.ba"><title lang="bs">Zimska kuhinja</title><category lang="bs">Kochen</category></programme>
+<programme start="20230214113000 +0000" stop="20230214113500 +0000" channel="Hayat.ba"><title lang="bs">Zdrave minute</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230214113500 +0000" stop="20230214115000 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230214115000 +0000" stop="20230214115500 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230214115500 +0000" stop="20230214124500 +0000" channel="Hayat.ba"><title lang="bs">Presuda</title><sub-title lang="bs">Yargi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214124500 +0000" stop="20230214130000 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230214130000 +0000" stop="20230214130500 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230214130500 +0000" stop="20230214135500 +0000" channel="Hayat.ba"><title lang="bs">Seldžuci</title><sub-title lang="bs">Alparslan: Buyuk Selcuklu</sub-title><desc lang="bs">05. epizoda - Melikšah ne odustaje od namjere da vidi svog sina iako ga Nizamulmuk uvjerava da je to loš potez za carstvo. Sendžer prati jednog od napadača kako bi saznao ko se krije iza njega.</desc><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214135500 +0000" stop="20230214141000 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><sub-title lang="bs">TV Izlog - vikend</sub-title><date>20230101</date><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230214141000 +0000" stop="20230214141300 +0000" channel="Hayat.ba"><title lang="bs">Emir &amp; Frozen Camels Feat. Mirza-Ters bosanka</title><category lang="bs">Musical</category></programme>
+<programme start="20230214141300 +0000" stop="20230214141700 +0000" channel="Hayat.ba"><title lang="bs">Adis Skaljo-Masala</title><category lang="bs">Komödie</category></programme>
+<programme start="20230214141700 +0000" stop="20230214142000 +0000" channel="Hayat.ba"><title lang="bs">Denial Ahmetovic-Licni heroj</title><category lang="bs">Musical</category></programme>
+<programme start="20230214142000 +0000" stop="20230214143500 +0000" channel="Hayat.ba"><title lang="bs">TV izlog</title><category lang="bs">Gesellschaft</category></programme>
+<programme start="20230214143500 +0000" stop="20230214144000 +0000" channel="Hayat.ba"><title lang="bs">Natura Health</title><category lang="bs">Gesundheit</category></programme>
+<programme start="20230214144000 +0000" stop="20230214153000 +0000" channel="Hayat.ba"><title lang="bs">Planina ljubavi</title><sub-title lang="bs">Gonul Dagi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214153000 +0000" stop="20230214170000 +0000" channel="Hayat.ba"><title lang="bs">Otvoreni studio</title><category lang="bs">Unterhaltung</category></programme>
+<programme start="20230214170000 +0000" stop="20230214174900 +0000" channel="Hayat.ba"><title lang="bs">Zimska kuhinja</title><category lang="bs">Kochen</category></programme>
+<programme start="20230214174900 +0000" stop="20230214180900 +0000" channel="Hayat.ba"><title lang="bs">Vijesti u 7</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230214180900 +0000" stop="20230214184400 +0000" channel="Hayat.ba"><title lang="bs">7 plus</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230214184400 +0000" stop="20230214190000 +0000" channel="Hayat.ba"><title lang="bs">Sport</title><category lang="bs">Sport</category></programme>
+<programme start="20230214190000 +0000" stop="20230214195500 +0000" channel="Hayat.ba"><title lang="bs">Presuda</title><sub-title lang="bs">Yargi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214195500 +0000" stop="20230214205000 +0000" channel="Hayat.ba"><title lang="bs">Seldžuci</title><sub-title lang="bs">Alparslan: Buyuk Selcuklu</sub-title><desc lang="bs">05. epizoda - Melikšah ne odustaje od namjere da vidi svog sina iako ga Nizamulmuk uvjerava da je to loš potez za carstvo. Sendžer prati jednog od napadača kako bi saznao ko se krije iza njega.</desc><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214205000 +0000" stop="20230214214500 +0000" channel="Hayat.ba"><title lang="bs">Tri sestre</title><sub-title lang="bs">Uc Kiz Kardes</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214214500 +0000" stop="20230214224000 +0000" channel="Hayat.ba"><title lang="bs">Planina ljubavi</title><sub-title lang="bs">Gonul Dagi</sub-title><date>20220101</date><category lang="bs">Varieté</category></programme>
+<programme start="20230214224000 +0000" stop="20230214232500 +0000" channel="Hayat.ba"><title lang="bs">Zimska kuhinja</title><category lang="bs">Kochen</category></programme>
+<programme start="20230214232500 +0000" stop="20230214234500 +0000" channel="Hayat.ba"><title lang="bs">Vijesti u 7</title><category lang="bs">Nachrichten</category></programme>
+<programme start="20230214234500 +0000" stop="20230215001500 +0000" channel="Hayat.ba"><title lang="bs">7 plus</title><category lang="bs">Nachrichten</category></programme>
+</tv>

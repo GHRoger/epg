@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="AndorraTV.ad"><display-name>Andorra TV</display-name><icon src="https://i.imgur.com/CnhTn8i.png"/><url>https://andorradifusio.ad</url></channel>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20230213070000 +0000" stop="20230213120000 +0000" channel="AndorraTV.ad"><title lang="ca">InfoNeu</title></programme>
+<programme start="20230213120000 +0000" stop="20230213124000 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20230213124000 +0000" stop="20230213124500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230213124500 +0000" stop="20230213131500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20230213131500 +0000" stop="20230213140000 +0000" channel="AndorraTV.ad"><title lang="ca">Dia E</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150500 +0000" channel="AndorraTV.ad"><title lang="ca">Recull setmanal</title></programme>
+<programme start="20230213150500 +0000" stop="20230213170000 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230213181000 +0000" stop="20230213191000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20230213191000 +0000" stop="20230213194000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20230213194000 +0000" stop="20230213194500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230213194500 +0000" stop="20230213201500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20230213201500 +0000" stop="20230213203500 +0000" channel="AndorraTV.ad"><title lang="ca">Tot Lliga</title></programme>
+<programme start="20230213203500 +0000" stop="20230213212000 +0000" channel="AndorraTV.ad"><title lang="ca">Dia E</title></programme>
+<programme start="20230213212000 +0000" stop="20230213214500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20230213214500 +0000" stop="20230214000000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20230214070000 +0000" stop="20230214120000 +0000" channel="AndorraTV.ad"><title lang="ca">InfoNeu</title></programme>
+<programme start="20230214120000 +0000" stop="20230214124000 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20230214124000 +0000" stop="20230214124500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230214124500 +0000" stop="20230214131500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20230214131500 +0000" stop="20230214140000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20230214143000 +0000" stop="20230214151500 +0000" channel="AndorraTV.ad"><title lang="ca">Dia E</title></programme>
+<programme start="20230214151500 +0000" stop="20230214153500 +0000" channel="AndorraTV.ad"><title lang="ca">Tot Lliga</title></programme>
+<programme start="20230214153500 +0000" stop="20230214170000 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230214181000 +0000" stop="20230214191000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20230214191000 +0000" stop="20230214194000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20230214194000 +0000" stop="20230214194500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20230214194500 +0000" stop="20230214201500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20230214201500 +0000" stop="20230214211500 +0000" channel="AndorraTV.ad"><title lang="ca">Concert: Nadal amb passió</title></programme>
+<programme start="20230214211500 +0000" stop="20230214214000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20230214214000 +0000" stop="20230215000000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+</tv>

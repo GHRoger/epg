@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="France24French.fr"><display-name>France 24 French</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/><url>https://mujtvprogram.cz</url></channel>
+<channel id="Mezzo.fr"><display-name>Mezzo</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/512px-Mezzo_Logo.svg.png"/><url>https://mujtvprogram.cz</url></channel>
+<channel id="MezzoLiveHD.fr"><display-name>Mezzo Live HD</display-name><icon src="https://i.imgur.com/ZfSiW6X.png"/><url>https://mujtvprogram.cz</url></channel>
+<channel id="TV5MondeEurope.fr"><display-name>TV5Monde Europe</display-name><icon src="https://i.imgur.com/rPAbMSu.png"/><url>https://mujtvprogram.cz</url></channel>
+<programme start="20230213040000 +0000" stop="20230213041400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213041400 +0000" stop="20230213043000 +0000" channel="France24French.fr"><title lang="fr">ACTUELLES</title></programme>
+<programme start="20230213043000 +0000" stop="20230213044400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213044400 +0000" stop="20230213050000 +0000" channel="France24French.fr"><title lang="fr">LE GROS MOT DE L&apos;ECO</title></programme>
+<programme start="20230213050000 +0000" stop="20230213052000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213052000 +0000" stop="20230213053000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INFO ECO</title></programme>
+<programme start="20230213053000 +0000" stop="20230213054900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213054900 +0000" stop="20230213055400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 06h50</title></programme>
+<programme start="20230213055400 +0000" stop="20230213060000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213060000 +0000" stop="20230213061500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213061500 +0000" stop="20230213061600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213061600 +0000" stop="20230213062100 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE</title></programme>
+<programme start="20230213062100 +0000" stop="20230213063000 +0000" channel="France24French.fr"><title lang="fr">REPORTAGE F24</title></programme>
+<programme start="20230213063000 +0000" stop="20230213064000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213064000 +0000" stop="20230213064500 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title></programme>
+<programme start="20230213064500 +0000" stop="20230213064600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213064600 +0000" stop="20230213065100 +0000" channel="France24French.fr"><title lang="fr">L&apos;INFO ECO</title></programme>
+<programme start="20230213065100 +0000" stop="20230213070000 +0000" channel="France24French.fr"><title lang="fr">FOCUS</title></programme>
+<programme start="20230213070000 +0000" stop="20230213071500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213071500 +0000" stop="20230213071600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213071600 +0000" stop="20230213073000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INVITE DU JOUR</title></programme>
+<programme start="20230213073000 +0000" stop="20230213073900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213073900 +0000" stop="20230213074400 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title></programme>
+<programme start="20230213074400 +0000" stop="20230213074500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213074500 +0000" stop="20230213075000 +0000" channel="France24French.fr"><title lang="fr">FOCUS PKG</title></programme>
+<programme start="20230213075000 +0000" stop="20230213075400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 08h50</title></programme>
+<programme start="20230213075400 +0000" stop="20230213080000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213081400 +0000" stop="20230213081500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213081500 +0000" stop="20230213082000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INFO ECO</title></programme>
+<programme start="20230213082000 +0000" stop="20230213083000 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE</title></programme>
+<programme start="20230213083000 +0000" stop="20230213084500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213084500 +0000" stop="20230213084600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213084600 +0000" stop="20230213085000 +0000" channel="France24French.fr"><title lang="fr">A LA CARTE</title></programme>
+<programme start="20230213085000 +0000" stop="20230213085900 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230213085900 +0000" stop="20230213090900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213090900 +0000" stop="20230213092900 +0000" channel="France24French.fr"><title lang="fr">LEGENDES URBAINES</title></programme>
+<programme start="20230213092900 +0000" stop="20230213093900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213093900 +0000" stop="20230213100000 +0000" channel="France24French.fr"><title lang="fr">ICI L&apos;EUROPE 1ére Partie</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213101400 +0000" stop="20230213103000 +0000" channel="France24French.fr"><title lang="fr">ELEMENT TERRE</title></programme>
+<programme start="20230213103000 +0000" stop="20230213104400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213104400 +0000" stop="20230213110000 +0000" channel="France24French.fr"><title lang="fr">L&apos;ENTRETIEN</title></programme>
+<programme start="20230213110000 +0000" stop="20230213111400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213111400 +0000" stop="20230213111500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213111500 +0000" stop="20230213113000 +0000" channel="France24French.fr"><title lang="fr">A L&apos;AFFICHE</title></programme>
+<programme start="20230213113000 +0000" stop="20230213114400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213114400 +0000" stop="20230213114600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213114600 +0000" stop="20230213115000 +0000" channel="France24French.fr"><title lang="fr">FOCUS +Lct Sport 12h45</title></programme>
+<programme start="20230213115000 +0000" stop="20230213120000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213121400 +0000" stop="20230213121500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213121500 +0000" stop="20230213122000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INVITE DU JOUR</title></programme>
+<programme start="20230213122000 +0000" stop="20230213123000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230213123000 +0000" stop="20230213125000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213125000 +0000" stop="20230213125100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213125100 +0000" stop="20230213130000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SCIENCES SANTE</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213131400 +0000" stop="20230213131600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213131600 +0000" stop="20230213132100 +0000" channel="France24French.fr"><title lang="fr">FOCUS</title></programme>
+<programme start="20230213132100 +0000" stop="20230213133000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUES DU JOUR</title></programme>
+<programme start="20230213133000 +0000" stop="20230213134400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213134400 +0000" stop="20230213134500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213134500 +0000" stop="20230213135000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE CULTURE</title></programme>
+<programme start="20230213135000 +0000" stop="20230213140000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230213140000 +0000" stop="20230213140900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213140900 +0000" stop="20230213142200 +0000" channel="France24French.fr"><title lang="fr">AFRIQUE HEBDO</title></programme>
+<programme start="20230213142200 +0000" stop="20230213143000 +0000" channel="France24French.fr"><title lang="fr">FOCUS FRANCE</title></programme>
+<programme start="20230213143000 +0000" stop="20230213143900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213143900 +0000" stop="20230213150000 +0000" channel="France24French.fr"><title lang="fr">LE PARIS DES ARTS</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213151400 +0000" stop="20230213153000 +0000" channel="France24French.fr"><title lang="fr">REPORTERS PLT + PKG</title></programme>
+<programme start="20230213153000 +0000" stop="20230213154400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213154400 +0000" stop="20230213155900 +0000" channel="France24French.fr"><title lang="fr">A L&apos;AFFICHE</title></programme>
+<programme start="20230213155900 +0000" stop="20230213161400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213161400 +0000" stop="20230213162900 +0000" channel="France24French.fr"><title lang="fr">LE GROS MOT DE L&apos;ECO</title></programme>
+<programme start="20230213162900 +0000" stop="20230213164400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230213164400 +0000" stop="20230213170000 +0000" channel="France24French.fr"><title lang="fr">C&apos;EST EN FRANCE</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213171500 +0000" stop="20230213171600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213171600 +0000" stop="20230213173000 +0000" channel="France24French.fr"><title lang="fr">LE FAIT DU JOUR</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213174400 +0000" stop="20230213174600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213174600 +0000" stop="20230213175200 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR</title></programme>
+<programme start="20230213175200 +0000" stop="20230213180000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213181000 +0000" stop="20230213190000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213191400 +0000" stop="20230213191500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213191500 +0000" stop="20230213192000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR</title></programme>
+<programme start="20230213192000 +0000" stop="20230213193000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="France24French.fr"><title lang="fr">ON VA PLUS LOIN</title></programme>
+<programme start="20230213200000 +0000" stop="20230213202000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213202000 +0000" stop="20230213202100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213202100 +0000" stop="20230213203000 +0000" channel="France24French.fr"><title lang="fr">INTOX</title></programme>
+<programme start="20230213203000 +0000" stop="20230213204200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213204200 +0000" stop="20230213204400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213204400 +0000" stop="20230213210000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213211400 +0000" stop="20230213211500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213211500 +0000" stop="20230213212000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR</title></programme>
+<programme start="20230213212000 +0000" stop="20230213213000 +0000" channel="France24French.fr"><title lang="fr">INTOX</title></programme>
+<programme start="20230213213000 +0000" stop="20230213214200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213214200 +0000" stop="20230213214400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213214400 +0000" stop="20230213220000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213221400 +0000" stop="20230213221500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213221500 +0000" stop="20230213223000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE + INFO INTOX</title></programme>
+<programme start="20230213223000 +0000" stop="20230213224500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213224500 +0000" stop="20230213224600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230213224600 +0000" stop="20230213225100 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS</title></programme>
+<programme start="20230213225100 +0000" stop="20230213230000 +0000" channel="France24French.fr"><title lang="fr">FOCUS DIRECT</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230213231100 +0000" stop="20230214000000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214001400 +0000" stop="20230214003000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230214003000 +0000" stop="20230214004400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214004400 +0000" stop="20230214010000 +0000" channel="France24French.fr"><title lang="fr">A L&apos;AFFICHE</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214011400 +0000" stop="20230214013000 +0000" channel="France24French.fr"><title lang="fr">LE GROS MOT DE L&apos;ECO</title></programme>
+<programme start="20230214013000 +0000" stop="20230214014400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214014400 +0000" stop="20230214020000 +0000" channel="France24French.fr"><title lang="fr">C&apos;EST EN FRANCE</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214021100 +0000" stop="20230214030000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT</title></programme>
+<programme start="20230214030000 +0000" stop="20230214030900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214030900 +0000" stop="20230214033000 +0000" channel="France24French.fr"><title lang="fr">REPORTERS PLT + PKG</title></programme>
+<programme start="20230214033000 +0000" stop="20230214033900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214033900 +0000" stop="20230214040000 +0000" channel="France24French.fr"><title lang="fr">LEGENDES URBAINES</title></programme>
+<programme start="20230214040000 +0000" stop="20230214040900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214040900 +0000" stop="20230214043000 +0000" channel="France24French.fr"><title lang="fr">ICI L&apos;EUROPE 2éme Partie</title></programme>
+<programme start="20230214043000 +0000" stop="20230214044000 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214044000 +0000" stop="20230214044400 +0000" channel="France24French.fr"><title lang="fr">L&apos;INSTANT MOBILE</title></programme>
+<programme start="20230214044400 +0000" stop="20230214050000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230214050000 +0000" stop="20230214052000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214052000 +0000" stop="20230214053000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INFO ECO</title></programme>
+<programme start="20230214053000 +0000" stop="20230214054900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214054900 +0000" stop="20230214055400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 06h50</title></programme>
+<programme start="20230214055400 +0000" stop="20230214060000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214060000 +0000" stop="20230214061500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214061500 +0000" stop="20230214061600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214061600 +0000" stop="20230214062100 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE</title></programme>
+<programme start="20230214062100 +0000" stop="20230214063000 +0000" channel="France24French.fr"><title lang="fr">REPORTAGE F24</title></programme>
+<programme start="20230214063000 +0000" stop="20230214064000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214064000 +0000" stop="20230214064500 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title></programme>
+<programme start="20230214064500 +0000" stop="20230214064600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214064600 +0000" stop="20230214065100 +0000" channel="France24French.fr"><title lang="fr">L&apos;INFO ECO</title></programme>
+<programme start="20230214065100 +0000" stop="20230214070000 +0000" channel="France24French.fr"><title lang="fr">FOCUS</title></programme>
+<programme start="20230214070000 +0000" stop="20230214071500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214071500 +0000" stop="20230214071600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214071600 +0000" stop="20230214073000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INVITE DU JOUR</title></programme>
+<programme start="20230214073000 +0000" stop="20230214073900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214073900 +0000" stop="20230214074400 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title></programme>
+<programme start="20230214074400 +0000" stop="20230214074500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214074500 +0000" stop="20230214075000 +0000" channel="France24French.fr"><title lang="fr">FOCUS PKG</title></programme>
+<programme start="20230214075000 +0000" stop="20230214075400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 08h50</title></programme>
+<programme start="20230214075400 +0000" stop="20230214080000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214081400 +0000" stop="20230214081500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214081500 +0000" stop="20230214082000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INFO ECO</title></programme>
+<programme start="20230214082000 +0000" stop="20230214083000 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE</title></programme>
+<programme start="20230214083000 +0000" stop="20230214084500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214084500 +0000" stop="20230214084600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214084600 +0000" stop="20230214085000 +0000" channel="France24French.fr"><title lang="fr">A LA CARTE</title></programme>
+<programme start="20230214085000 +0000" stop="20230214085900 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230214085900 +0000" stop="20230214090900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214090900 +0000" stop="20230214092900 +0000" channel="France24French.fr"><title lang="fr">LE PARIS DES ARTS</title></programme>
+<programme start="20230214092900 +0000" stop="20230214093900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214093900 +0000" stop="20230214100000 +0000" channel="France24French.fr"><title lang="fr">ICI L&apos;EUROPE 2éme Partie</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214101400 +0000" stop="20230214103000 +0000" channel="France24French.fr"><title lang="fr">ACTUELLES</title></programme>
+<programme start="20230214103000 +0000" stop="20230214104400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214104400 +0000" stop="20230214110000 +0000" channel="France24French.fr"><title lang="fr">L&apos;ENTRETIEN DE L&apos;INTEL ECO</title></programme>
+<programme start="20230214110000 +0000" stop="20230214111400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214111400 +0000" stop="20230214111500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214111500 +0000" stop="20230214113000 +0000" channel="France24French.fr"><title lang="fr">A L&apos;AFFICHE</title></programme>
+<programme start="20230214113000 +0000" stop="20230214114400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214114400 +0000" stop="20230214114600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214114600 +0000" stop="20230214115000 +0000" channel="France24French.fr"><title lang="fr">FOCUS +Lct Sport 12h45</title></programme>
+<programme start="20230214115000 +0000" stop="20230214120000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214121400 +0000" stop="20230214121500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214121500 +0000" stop="20230214122000 +0000" channel="France24French.fr"><title lang="fr">L&apos;INVITE DU JOUR</title></programme>
+<programme start="20230214122000 +0000" stop="20230214123000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230214123000 +0000" stop="20230214125000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214125000 +0000" stop="20230214125100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214125100 +0000" stop="20230214130000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SCIENCES SANTE</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214131400 +0000" stop="20230214131600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214131600 +0000" stop="20230214132100 +0000" channel="France24French.fr"><title lang="fr">FOCUS</title></programme>
+<programme start="20230214132100 +0000" stop="20230214133000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUES DU JOUR</title></programme>
+<programme start="20230214133000 +0000" stop="20230214134400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214134400 +0000" stop="20230214134500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214134500 +0000" stop="20230214135000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE CULTURE</title></programme>
+<programme start="20230214135000 +0000" stop="20230214140000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214141000 +0000" stop="20230214141400 +0000" channel="France24French.fr"><title lang="fr">FOCUS FRANCE</title></programme>
+<programme start="20230214141400 +0000" stop="20230214143000 +0000" channel="France24French.fr"><title lang="fr">C&apos;EST EN FRANCE</title></programme>
+<programme start="20230214143000 +0000" stop="20230214143900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214143900 +0000" stop="20230214150000 +0000" channel="France24French.fr"><title lang="fr">LEGENDES URBAINES</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214151400 +0000" stop="20230214153000 +0000" channel="France24French.fr"><title lang="fr">ELEMENT TERRE</title></programme>
+<programme start="20230214153000 +0000" stop="20230214154400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214154400 +0000" stop="20230214155900 +0000" channel="France24French.fr"><title lang="fr">A L&apos;AFFICHE</title></programme>
+<programme start="20230214155900 +0000" stop="20230214161400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214161400 +0000" stop="20230214162900 +0000" channel="France24French.fr"><title lang="fr">L&apos;ENTRETIEN DE L&apos;INTEL ECO</title></programme>
+<programme start="20230214162900 +0000" stop="20230214164400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230214164400 +0000" stop="20230214170000 +0000" channel="France24French.fr"><title lang="fr">EXPRESS ORIENT</title></programme>
+<programme start="20230214170000 +0000" stop="20230214170500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214170500 +0000" stop="20230214173000 +0000" channel="France24French.fr"><title lang="fr">MARDI POLITIQUE</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214174400 +0000" stop="20230214174600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214174600 +0000" stop="20230214175200 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR</title></programme>
+<programme start="20230214175200 +0000" stop="20230214180000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214181000 +0000" stop="20230214190000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT</title></programme>
+<programme start="20230214190000 +0000" stop="20230214191400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214191400 +0000" stop="20230214191500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214191500 +0000" stop="20230214192000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR</title></programme>
+<programme start="20230214192000 +0000" stop="20230214193000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="France24French.fr"><title lang="fr">ON VA PLUS LOIN</title></programme>
+<programme start="20230214200000 +0000" stop="20230214202000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214202000 +0000" stop="20230214202100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214202100 +0000" stop="20230214203000 +0000" channel="France24French.fr"><title lang="fr">INTOX</title></programme>
+<programme start="20230214203000 +0000" stop="20230214204200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214204200 +0000" stop="20230214204400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214204400 +0000" stop="20230214210000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230214210000 +0000" stop="20230214211400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214211400 +0000" stop="20230214211500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214211500 +0000" stop="20230214212000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR</title></programme>
+<programme start="20230214212000 +0000" stop="20230214213000 +0000" channel="France24French.fr"><title lang="fr">INTOX</title></programme>
+<programme start="20230214213000 +0000" stop="20230214214200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214214200 +0000" stop="20230214214400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214214400 +0000" stop="20230214220000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230214220000 +0000" stop="20230214221400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214221400 +0000" stop="20230214221500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214221500 +0000" stop="20230214223000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE + INFO INTOX</title></programme>
+<programme start="20230214223000 +0000" stop="20230214224500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214224500 +0000" stop="20230214224600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES</title></programme>
+<programme start="20230214224600 +0000" stop="20230214225100 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS</title></programme>
+<programme start="20230214225100 +0000" stop="20230214230000 +0000" channel="France24French.fr"><title lang="fr">FOCUS DIRECT</title></programme>
+<programme start="20230214230000 +0000" stop="20230214231100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230214231100 +0000" stop="20230215000000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT</title></programme>
+<programme start="20230215000000 +0000" stop="20230215001400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230215001400 +0000" stop="20230215003000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L&apos;AFRIQUE</title></programme>
+<programme start="20230215003000 +0000" stop="20230215004400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230215004400 +0000" stop="20230215010000 +0000" channel="France24French.fr"><title lang="fr">A L&apos;AFFICHE</title></programme>
+<programme start="20230215010000 +0000" stop="20230215011400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230215011400 +0000" stop="20230215013000 +0000" channel="France24French.fr"><title lang="fr">L&apos;ENTRETIEN DE L&apos;INTEL ECO</title></programme>
+<programme start="20230215013000 +0000" stop="20230215014400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230215014400 +0000" stop="20230215020000 +0000" channel="France24French.fr"><title lang="fr">EXPRESS ORIENT</title></programme>
+<programme start="20230215020000 +0000" stop="20230215021100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230215021100 +0000" stop="20230215030000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT</title></programme>
+<programme start="20230215030000 +0000" stop="20230215031400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title></programme>
+<programme start="20230215031400 +0000" stop="20230215032100 +0000" channel="France24French.fr"><title lang="fr">LES OBSERVATEURS</title></programme>
+<programme start="20230215032100 +0000" stop="20230215033000 +0000" channel="France24French.fr"><title lang="fr">FOCUS SOLO</title></programme>
+<programme start="20230215033000 +0000" stop="20230215034400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title></programme>
+<programme start="20230215034400 +0000" stop="20230215035200 +0000" channel="France24French.fr"><title lang="fr">PAS 2 QUARTIER</title></programme>
+<programme start="20230215035200 +0000" stop="20230215040000 +0000" channel="France24French.fr"><title lang="fr">FOCUS FRANCE</title></programme>
+<programme start="20230213042900 +0000" stop="20230213054400 +0000" channel="Mezzo.fr"><title lang="fr">New Morning: Kinga Glyk</title><category lang="fr">hudba</category></programme>
+<programme start="20230213054400 +0000" stop="20230213063000 +0000" channel="Mezzo.fr"><title lang="fr">Festival Nancy Jazz Pulsations: Laurent Coulondre Trio</title><category lang="fr">hudba</category></programme>
+<programme start="20230213063000 +0000" stop="20230213080000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213080000 +0000" stop="20230213090200 +0000" channel="Mezzo.fr"><title lang="fr">J. Brahms: Smyčcový kvartet č. 1, Smyčcový kvintet č. 2</title><category lang="fr">hudba</category></programme>
+<programme start="20230213090200 +0000" stop="20230213103300 +0000" channel="Mezzo.fr"><title lang="fr">Balet: Shurale</title><category lang="fr">hudba</category></programme>
+<programme start="20230213103300 +0000" stop="20230213113000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213113000 +0000" stop="20230213124400 +0000" channel="Mezzo.fr"><title lang="fr">Staatskapelle Dresden a Ch. Thielemann: Schumannovy symfonie č. 3 a 4</title><category lang="fr">hudba</category></programme>
+<programme start="20230213124400 +0000" stop="20230213143500 +0000" channel="Mezzo.fr"><title lang="fr">M. Pollini, Ch. Thielemann, Staatskapelle Dresden: Brahms a Busoni</title><category lang="fr">hudba</category></programme>
+<programme start="20230213143500 +0000" stop="20230213150000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213150000 +0000" stop="20230213171500 +0000" channel="Mezzo.fr"><title lang="fr">J. Massenet: Werther v Curyšské opeře</title><category lang="fr">hudba</category></programme>
+<programme start="20230213171500 +0000" stop="20230213180000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213180000 +0000" stop="20230213193000 +0000" channel="Mezzo.fr"><title lang="fr">Dánský národní symfonický orchestr: Agents are forever</title><category lang="fr">hudba</category></programme>
+<programme start="20230213193000 +0000" stop="20230213202100 +0000" channel="Mezzo.fr"><title lang="fr">Vzpomínka na Ference Fricsaye</title><category lang="fr">hudba</category></programme>
+<programme start="20230213202100 +0000" stop="20230213212300 +0000" channel="Mezzo.fr"><title lang="fr">Vídenští filharmonikové, Ch. Thielemann: Symfonie č. 3 Es dur, Op. 55 „Eroica“ L. van Beethovena</title><category lang="fr">hudba</category></programme>
+<programme start="20230213212300 +0000" stop="20230213223000 +0000" channel="Mezzo.fr"><title lang="fr">Y. Nézét-Seguin a Rotterdamská filharmonie: Šostakovič</title><category lang="fr">hudba</category></programme>
+<programme start="20230213223000 +0000" stop="20230213233000 +0000" channel="Mezzo.fr"><title lang="fr">Yannick Nézet-Séguin: Portrét</title><category lang="fr">hudba</category></programme>
+<programme start="20230213233000 +0000" stop="20230214001600 +0000" channel="Mezzo.fr"><title lang="fr">Jazz Estival Lugano: Milt Jackson &amp; Ray Brown Quartet</title><category lang="fr">hudba</category></programme>
+<programme start="20230214001600 +0000" stop="20230214011600 +0000" channel="Mezzo.fr"><title lang="fr">Antonio Zambujo - Rua da Emenda - La Cigale/Paříž</title><category lang="fr">hudba</category></programme>
+<programme start="20230214011600 +0000" stop="20230214022900 +0000" channel="Mezzo.fr"><title lang="fr">Festival de Jazz á Séte: Laurent Coulondre Trio - pocta Michelu Petruccianimu</title><category lang="fr">hudba</category></programme>
+<programme start="20230214022900 +0000" stop="20230214032300 +0000" channel="Mezzo.fr"><title lang="fr">F. Cabrera: Medusa s J. S. Ruizovou</title><category lang="fr">hudba</category></programme>
+<programme start="20230214032300 +0000" stop="20230214043800 +0000" channel="Mezzo.fr"><title lang="fr">New Morning: Kinga Glyk</title><category lang="fr">hudba</category></programme>
+<programme start="20230214043800 +0000" stop="20230214060000 +0000" channel="Mezzo.fr"><title lang="fr">Jazzový festival Montreux: Joao Bosco</title><category lang="fr">hudba</category></programme>
+<programme start="20230214060000 +0000" stop="20230214070900 +0000" channel="Mezzo.fr"><title lang="fr">Jazzový festival Montréal: Roberto Fonseca</title><category lang="fr">hudba</category></programme>
+<programme start="20230214070900 +0000" stop="20230214080000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214080000 +0000" stop="20230214103300 +0000" channel="Mezzo.fr"><title lang="fr">J.-B. Lully: Phaëton v Královské opeře ve Versailles</title><category lang="fr">hudba</category></programme>
+<programme start="20230214103300 +0000" stop="20230214110000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214110000 +0000" stop="20230214115800 +0000" channel="Mezzo.fr"><title lang="fr">Jicchak Perlman - virtuozní houslista</title><category lang="fr">hudba</category></programme>
+<programme start="20230214115800 +0000" stop="20230214125700 +0000" channel="Mezzo.fr"><title lang="fr">Jacqueline du Pre: A Gift Beyond Words</title><category lang="fr">hudba</category></programme>
+<programme start="20230214125700 +0000" stop="20230214143400 +0000" channel="Mezzo.fr"><title lang="fr">H. von Karajan a Vídeňští filharmonikové: Novoroční koncert 1987</title><category lang="fr">hudba</category></programme>
+<programme start="20230214143400 +0000" stop="20230214150000 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214150000 +0000" stop="20230214162700 +0000" channel="Mezzo.fr"><title lang="fr">Emergences: Mladí choreografové</title><category lang="fr">hudba</category></programme>
+<programme start="20230214162700 +0000" stop="20230214165700 +0000" channel="Mezzo.fr"><title lang="fr">Intermezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214165700 +0000" stop="20230214184000 +0000" channel="Mezzo.fr"><title lang="fr">M. Pollini, Ch. Thielemann, Staatskapelle Dresden: Brahms a Reger</title><category lang="fr">hudba</category></programme>
+<programme start="20230214184000 +0000" stop="20230214193000 +0000" channel="Mezzo.fr"><title lang="fr">Itzhak Perlman hraje Brahmsův Houslový koncert</title><category lang="fr">hudba</category></programme>
+<programme start="20230214193000 +0000" stop="20230214202400 +0000" channel="Mezzo.fr"><title lang="fr">Paul Taylor Dance Company v Paříži - Théâtre national de Chaillot</title><category lang="fr">hudba</category></programme>
+<programme start="20230214202400 +0000" stop="20230214212900 +0000" channel="Mezzo.fr"><title lang="fr">Kader Attou: Allegria v Théâtre national de Chaillot</title><category lang="fr">hudba</category></programme>
+<programme start="20230214212900 +0000" stop="20230214230500 +0000" channel="Mezzo.fr"><title lang="fr">Emergences: Mladí choreografové</title><category lang="fr">hudba</category></programme>
+<programme start="20230214230500 +0000" stop="20230215001100 +0000" channel="Mezzo.fr"><title lang="fr">E. Schwarz a Lucernský symfonický orchestr: Beethoven na festivalu v Gstaadu</title><category lang="fr">hudba</category></programme>
+<programme start="20230215001100 +0000" stop="20230215012400 +0000" channel="Mezzo.fr"><title lang="fr">Festival de Jazz á Séte: Laurent Coulondre Trio - pocta Michelu Petruccianimu</title><category lang="fr">hudba</category></programme>
+<programme start="20230215012400 +0000" stop="20230215023300 +0000" channel="Mezzo.fr"><title lang="fr">Jazzový festival Montréal: Roberto Fonseca</title><category lang="fr">hudba</category></programme>
+<programme start="20230215023300 +0000" stop="20230215034800 +0000" channel="Mezzo.fr"><title lang="fr">New Morning: Kinga Glyk</title><category lang="fr">hudba</category></programme>
+<programme start="20230215034800 +0000" stop="20230215043400 +0000" channel="Mezzo.fr"><title lang="fr">Jazz Estival Lugano: Milt Jackson &amp; Ray Brown Quartet</title><category lang="fr">hudba</category></programme>
+<programme start="20230213041100 +0000" stop="20230213043000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213043000 +0000" stop="20230213070500 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Elektra by Strauss at the Metropolitan Opera</title><category lang="fr">hudba</category></programme>
+<programme start="20230213070500 +0000" stop="20230213083000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Keith Lockhart and the Orchestre National de Lille: Attahir, Reich, Glass</title><category lang="fr">hudba</category></programme>
+<programme start="20230213083000 +0000" stop="20230213090400 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel &amp; Michael Barenboim moments musicaux at the Boulez Saal: Mozart&apos;s violin sonata K 526 and Vari</title><category lang="fr">hudba</category></programme>
+<programme start="20230213090400 +0000" stop="20230213091300 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 25</title><category lang="fr">hudba</category></programme>
+<programme start="20230213091300 +0000" stop="20230213092300 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 20</title><category lang="fr">hudba</category></programme>
+<programme start="20230213092300 +0000" stop="20230213094100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 10</title><category lang="fr">hudba</category></programme>
+<programme start="20230213094100 +0000" stop="20230213095400 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 22</title><category lang="fr">hudba</category></programme>
+<programme start="20230213095400 +0000" stop="20230213101000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 9</title><category lang="fr">hudba</category></programme>
+<programme start="20230213101000 +0000" stop="20230213103700 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 2</title><category lang="fr">hudba</category></programme>
+<programme start="20230213103700 +0000" stop="20230213105200 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 27</title><category lang="fr">hudba</category></programme>
+<programme start="20230213105200 +0000" stop="20230213112200 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 11</title><category lang="fr">hudba</category></programme>
+<programme start="20230213112200 +0000" stop="20230213120000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 15</title><category lang="fr">hudba</category></programme>
+<programme start="20230213120000 +0000" stop="20230213133200 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Riccardo Muti and the Berlin Philharmonic Orchestra: Requiem by Verdi</title><category lang="fr">hudba</category></programme>
+<programme start="20230213133200 +0000" stop="20230213145700 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Kirill Petrenko and the Berlin Philharmonic Orchestra: Pärt, Ligeti, Barber, Mahler</title><category lang="fr">hudba</category></programme>
+<programme start="20230213145700 +0000" stop="20230213160000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213160000 +0000" stop="20230213172100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Carte Blanche Erik Truffaz - Jazz á Vienne</title><category lang="fr">hudba</category></programme>
+<programme start="20230213172100 +0000" stop="20230213182100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Stéphane Belmondo Quintet - Jazz á Vienne</title><category lang="fr">hudba</category></programme>
+<programme start="20230213182100 +0000" stop="20230213192100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Marcel Khalife &amp; Bachar Mar-Khalife - Jazz á Vienne</title><category lang="fr">hudba</category></programme>
+<programme start="20230213192100 +0000" stop="20230213200000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230213200000 +0000" stop="20230213213000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Gala des étoiles - Prix de Lausanne 2023</title><category lang="fr">hudba</category></programme>
+<programme start="20230213213000 +0000" stop="20230213232000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">The Flames of Paris by Alexei Ratmansky - Bolshoi Ballet</title><category lang="fr">hudba</category></programme>
+<programme start="20230213232000 +0000" stop="20230214010000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">The Czech Philharmonic and Semyon Bychkov: Mahler&apos;s Ninth Symphony</title><category lang="fr">hudba</category></programme>
+<programme start="20230214010000 +0000" stop="20230214022100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Carte Blanche Erik Truffaz - Jazz á Vienne</title><category lang="fr">hudba</category></programme>
+<programme start="20230214022100 +0000" stop="20230214032100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Stéphane Belmondo Quintet - Jazz á Vienne</title><category lang="fr">hudba</category></programme>
+<programme start="20230214032100 +0000" stop="20230214042100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Marcel Khalife &amp; Bachar Mar-Khalife - Jazz á Vienne</title><category lang="fr">hudba</category></programme>
+<programme start="20230214042100 +0000" stop="20230214050000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214050000 +0000" stop="20230214063200 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Riccardo Muti and the Berlin Philharmonic Orchestra: Requiem by Verdi</title><category lang="fr">hudba</category></programme>
+<programme start="20230214063200 +0000" stop="20230214075700 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Kirill Petrenko and the Berlin Philharmonic Orchestra: Pärt, Ligeti, Barber, Mahler</title><category lang="fr">hudba</category></programme>
+<programme start="20230214075700 +0000" stop="20230214083000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214083000 +0000" stop="20230214101200 +0000" channel="MezzoLiveHD.fr"><title lang="fr">The Flames of Paris by Alexei Ratmansky - Bolshoi Ballet</title><category lang="fr">hudba</category></programme>
+<programme start="20230214101200 +0000" stop="20230214111900 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Gala des étoiles - Prix de Lausanne 2023</title><category lang="fr">hudba</category></programme>
+<programme start="20230214111900 +0000" stop="20230214120000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214120000 +0000" stop="20230214133000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Gala from Berlin - Berliner Philharmoniker, Kirill Petrenko</title><category lang="fr">hudba</category></programme>
+<programme start="20230214133000 +0000" stop="20230214150900 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Tugan Sokhiev and the Berlin Philharmonic at the Waldbühne</title><category lang="fr">hudba</category></programme>
+<programme start="20230214150900 +0000" stop="20230214160000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">InterMezzo</title><category lang="fr">hudba</category></programme>
+<programme start="20230214160000 +0000" stop="20230214184000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Luisa Miller by Verdi at the Metropolitan Opera</title><category lang="fr">hudba</category></programme>
+<programme start="20230214184000 +0000" stop="20230214200000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Charpentier&apos;s Actéon at the Théâtre du Châtelet, Paris</title><category lang="fr">hudba</category></programme>
+<programme start="20230214200000 +0000" stop="20230214204000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim moments musicaux at the Boulez Saal: Schumann</title><category lang="fr">hudba</category></programme>
+<programme start="20230214204000 +0000" stop="20230214210900 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 3</title><category lang="fr">hudba</category></programme>
+<programme start="20230214210900 +0000" stop="20230214214100 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 4</title><category lang="fr">hudba</category></programme>
+<programme start="20230214214100 +0000" stop="20230214220300 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 28</title><category lang="fr">hudba</category></programme>
+<programme start="20230214220300 +0000" stop="20230214222600 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 12</title><category lang="fr">hudba</category></programme>
+<programme start="20230214222600 +0000" stop="20230214223500 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 19</title><category lang="fr">hudba</category></programme>
+<programme start="20230214223500 +0000" stop="20230214225500 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 5</title><category lang="fr">hudba</category></programme>
+<programme start="20230214225500 +0000" stop="20230214231000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 6</title><category lang="fr">hudba</category></programme>
+<programme start="20230214231000 +0000" stop="20230215010000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Yannick Nézet-Séguin and the Orchestre Métropolitain de Montréal: Berlioz, Saint-Saëns, Elgar</title><category lang="fr">hudba</category></programme>
+<programme start="20230215010000 +0000" stop="20230215024200 +0000" channel="MezzoLiveHD.fr"><title lang="fr">The Flames of Paris by Alexei Ratmansky - Bolshoi Ballet</title><category lang="fr">hudba</category></programme>
+<programme start="20230215024200 +0000" stop="20230215034900 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Gala des étoiles - Prix de Lausanne 2023</title><category lang="fr">hudba</category></programme>
+<programme start="20230215034900 +0000" stop="20230215050000 +0000" channel="MezzoLiveHD.fr"><title lang="fr">Bruce Liu: a Chopin recital</title><category lang="fr">hudba</category></programme>
+<programme start="20230213042000 +0000" stop="20230213043000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE DESSOUS DES CARTES</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OBJECTIF MONDE L&apos;HEBDO</title></programme>
+<programme start="20230213050000 +0000" stop="20230213052500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE 6H00 INFO</title></programme>
+<programme start="20230213052500 +0000" stop="20230213053000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213053000 +0000" stop="20230213055000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230213055000 +0000" stop="20230213055500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA SÉQUENCE DU FILMEUR</title></programme>
+<programme start="20230213055500 +0000" stop="20230213060000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA MINUTE URBAINE</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230213070000 +0000" stop="20230213072500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE RADIO-CANADA</title></programme>
+<programme start="20230213072500 +0000" stop="20230213074000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230213074000 +0000" stop="20230213080500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">POPULATION D&apos;AFRIQUE</title></programme>
+<programme start="20230213080500 +0000" stop="20230213083500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CUISINE OUVERTE</title></programme>
+<programme start="20230213083500 +0000" stop="20230213090000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ROI DES RIVIÉRES</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C&apos;EST DU BELGE</title></programme>
+<programme start="20230213093000 +0000" stop="20230213095500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ÉPICERIE FINE</title></programme>
+<programme start="20230213095500 +0000" stop="20230213100000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE, ENTREPRISES</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230213101500 +0000" stop="20230213102000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213102000 +0000" stop="20230213104000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230213104000 +0000" stop="20230213104500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230213104500 +0000" stop="20230213113000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TOUT LE MONDE VEUT PRENDRE SA PLACE</title></programme>
+<programme start="20230213113000 +0000" stop="20230213123000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MARIA CASARÉS, ALBERT CAMUS - TOI, MA VIE</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTBF</title></programme>
+<programme start="20230213130000 +0000" stop="20230213143500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA BONNE CONDUITE</title></programme>
+<programme start="20230213143500 +0000" stop="20230213150000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">HEP TAXI !</title></programme>
+<programme start="20230213150000 +0000" stop="20230213152500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230213152500 +0000" stop="20230213153000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">QUESTIONS POUR UN CHAMPION</title></programme>
+<programme start="20230213160500 +0000" stop="20230213170000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE POINT</title></programme>
+<programme start="20230213170000 +0000" stop="20230213172000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">64&apos; LE MONDE EN FRANÇAIS - 1RE PARTIE</title></programme>
+<programme start="20230213172000 +0000" stop="20230213172500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE</title></programme>
+<programme start="20230213172500 +0000" stop="20230213173000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">L&apos;INVITÉ</title></programme>
+<programme start="20230213174000 +0000" stop="20230213184000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ</title></programme>
+<programme start="20230213184000 +0000" stop="20230213193000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ</title></programme>
+<programme start="20230213193000 +0000" stop="20230213195500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE FRANCE 2</title></programme>
+<programme start="20230213195500 +0000" stop="20230213200000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213200000 +0000" stop="20230213213500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">SECRETS D&apos;HISTOIRE</title></programme>
+<programme start="20230213213500 +0000" stop="20230213215500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTS</title></programme>
+<programme start="20230213215500 +0000" stop="20230213220000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213220000 +0000" stop="20230213235500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LES PORTES DE LA NUIT</title></programme>
+<programme start="20230213235500 +0000" stop="20230214002000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL AFRIQUE</title></programme>
+<programme start="20230214002000 +0000" stop="20230214002500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214002500 +0000" stop="20230214012000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">SUR LE FRONT</title></programme>
+<programme start="20230214012000 +0000" stop="20230214020000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CHACUN SON ÎLE</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214030000 +0000" stop="20230214032500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ALLÔ TRIBUNAL</title></programme>
+<programme start="20230214032500 +0000" stop="20230214043000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C DANS L&apos;AIR</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">BONNE SANTÉ !</title></programme>
+<programme start="20230214050000 +0000" stop="20230214052500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE 6H00 INFO</title></programme>
+<programme start="20230214052500 +0000" stop="20230214053000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214053000 +0000" stop="20230214055000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230214055000 +0000" stop="20230214055500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA SÉQUENCE DU FILMEUR</title></programme>
+<programme start="20230214055500 +0000" stop="20230214060000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA MINUTE URBAINE</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230214070000 +0000" stop="20230214072500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE RADIO-CANADA</title></programme>
+<programme start="20230214072500 +0000" stop="20230214074000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230214074000 +0000" stop="20230214080500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LES MATERNELLES D&apos;AFRIQUE</title></programme>
+<programme start="20230214080500 +0000" stop="20230214083500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ÉPICERIE FINE</title></programme>
+<programme start="20230214083500 +0000" stop="20230214090500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">HISTOIRE(S) DE JARDINS</title></programme>
+<programme start="20230214090500 +0000" stop="20230214093000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">KEBEC</title></programme>
+<programme start="20230214093000 +0000" stop="20230214095500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">5 CHEFS DANS MA CUISINE</title></programme>
+<programme start="20230214095500 +0000" stop="20230214100000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230214101500 +0000" stop="20230214102000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214102000 +0000" stop="20230214104000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214104000 +0000" stop="20230214104500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230214104500 +0000" stop="20230214113500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TOUT LE MONDE VEUT PRENDRE SA PLACE</title></programme>
+<programme start="20230214113500 +0000" stop="20230214123000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MA VIE D&apos;APRÉS</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTBF</title></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CAIN</title></programme>
+<programme start="20230214135000 +0000" stop="20230214144500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CAIN</title></programme>
+<programme start="20230214144500 +0000" stop="20230214150000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ITINÉRAIRES PAYSANS</title></programme>
+<programme start="20230214150000 +0000" stop="20230214152500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214152500 +0000" stop="20230214153000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">QUESTIONS POUR UN CHAMPION</title></programme>
+<programme start="20230214160500 +0000" stop="20230214170000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TEMPS PRÉSENT</title></programme>
+<programme start="20230214170000 +0000" stop="20230214172000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">64&apos; LE MONDE EN FRANÇAIS - 1RE PARTIE</title></programme>
+<programme start="20230214172000 +0000" stop="20230214172500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE</title></programme>
+<programme start="20230214172500 +0000" stop="20230214173000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">L&apos;INVITÉ</title></programme>
+<programme start="20230214174000 +0000" stop="20230214191000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">J&apos;ENTENDS DES VOIX QUI ME PARLENT</title></programme>
+<programme start="20230214191000 +0000" stop="20230214193000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ÉCHO-LOGIS</title></programme>
+<programme start="20230214193000 +0000" stop="20230214195500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE FRANCE 2</title></programme>
+<programme start="20230214195500 +0000" stop="20230214200000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214200000 +0000" stop="20230214205500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ</title></programme>
+<programme start="20230214205500 +0000" stop="20230214214500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ</title></programme>
+<programme start="20230214214500 +0000" stop="20230214220500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTS</title></programme>
+<programme start="20230214220500 +0000" stop="20230214221000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214221000 +0000" stop="20230214234000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA GRANDE LIBRAIRIE</title></programme>
+<programme start="20230214234000 +0000" stop="20230215000500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL AFRIQUE</title></programme>
+<programme start="20230215000500 +0000" stop="20230215001000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230215001000 +0000" stop="20230215010500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE POINT</title></programme>
+<programme start="20230215010500 +0000" stop="20230215020000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CHACUN SON ÎLE</title></programme>
+<programme start="20230215020000 +0000" stop="20230215022500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230215022500 +0000" stop="20230215030000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230215030000 +0000" stop="20230215032500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ALLÔ TRIBUNAL</title></programme>
+<programme start="20230215032500 +0000" stop="20230215043000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C DANS L&apos;AIR</title></programme>
+</tv>

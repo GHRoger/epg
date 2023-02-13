@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="0porMovistarPlus.es"><display-name>#0 por Movistar+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/512px-0_por_Movistar_Plus%2B_2022_logo.svg.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="Canal24Horas.es"><display-name>Canal 24 Horas</display-name><icon src="https://i.imgur.com/QYGrq71.png"/><url>https://m.tv.sms.cz</url></channel>
+<programme start="20230213044100 +0000" stop="20230213053100 +0000" channel="0porMovistarPlus.es"><title lang="es">Planeta Verde: Mundos estacionales</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213053100 +0000" stop="20230213062100 +0000" channel="0porMovistarPlus.es"><title lang="es">Planeta Verde: Mundos desérticos</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213062100 +0000" stop="20230213071300 +0000" channel="0porMovistarPlus.es"><title lang="es">Planeta Verde: Mundos humanos</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213071300 +0000" stop="20230213080000 +0000" channel="0porMovistarPlus.es"><title lang="es">Conspiraciones al descubierto: Jack el Destripador y el doble de Rudolf Hess</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213085100 +0000" channel="0porMovistarPlus.es"><title lang="es">Conspiraciones al descubierto: La fuga de Alcatraz y la expedición perdida de Franklin</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213085100 +0000" stop="20230213094300 +0000" channel="0porMovistarPlus.es"><title lang="es">?Por qué vivimos más?: Vacunas</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213094300 +0000" stop="20230213104000 +0000" channel="0porMovistarPlus.es"><title lang="es">?Por qué vivimos más?: Big Data</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213104000 +0000" stop="20230213113300 +0000" channel="0porMovistarPlus.es"><title lang="es">?Por qué vivimos más?: Medicamentos</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213113300 +0000" stop="20230213123200 +0000" channel="0porMovistarPlus.es"><title lang="es">?Por qué vivimos más?: Conducta</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213123200 +0000" stop="20230213133000 +0000" channel="0porMovistarPlus.es"><title lang="es">Crímenes: Kevin</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213133000 +0000" stop="20230213134000 +0000" channel="0porMovistarPlus.es"><title lang="es">Los Goya 2023 - Diario: Diario 8 - Ganadores</title><desc lang="es">Cine</desc></programme>
+<programme start="20230213134000 +0000" stop="20230213141200 +0000" channel="0porMovistarPlus.es"><title lang="es">Leo talks: Emprendedores</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230213141200 +0000" stop="20230213144300 +0000" channel="0porMovistarPlus.es"><title lang="es">Ilustres Ignorantes: Hipocondríacos</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230213144300 +0000" stop="20230213145000 +0000" channel="0porMovistarPlus.es"><title lang="es">ConVecinos II (5)</title><desc lang="es">El secreto de una obsesión Series</desc></programme>
+<programme start="20230213145000 +0000" stop="20230213173300 +0000" channel="0porMovistarPlus.es"><title lang="es">Django desencadenado</title><desc lang="es">Cine</desc></programme>
+<programme start="20230213173300 +0000" stop="20230213190000 +0000" channel="0porMovistarPlus.es"><title lang="es">El Rey Escorpión</title><desc lang="es">Cine</desc></programme>
+<programme start="20230213190000 +0000" stop="20230213194400 +0000" channel="0porMovistarPlus.es"><title lang="es">Blue Bloods (Familia de policías) VIII (1)</title><desc lang="es">Reduciendo danos Series</desc></programme>
+<programme start="20230213194400 +0000" stop="20230213203100 +0000" channel="0porMovistarPlus.es"><title lang="es">Blue Bloods (Familia de policías) VIII (2)</title><desc lang="es">Fantasmas del pasado Series</desc></programme>
+<programme start="20230213203100 +0000" stop="20230213213000 +0000" channel="0porMovistarPlus.es"><title lang="es">La química de los elementos: Reacción</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213213000 +0000" stop="20230213223000 +0000" channel="0porMovistarPlus.es"><title lang="es">Crímenes: Manoli</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230213223000 +0000" stop="20230213235500 +0000" channel="0porMovistarPlus.es"><title lang="es">La Resistencia: Episodio</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230213235500 +0000" stop="20230214005000 +0000" channel="0porMovistarPlus.es"><title lang="es">Martínez y Hermanos: Dani Parejo, Ignatius Farray e India Martínez</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230214005000 +0000" stop="20230214013900 +0000" channel="0porMovistarPlus.es"><title lang="es">Litvinenko: el asesinato del espía ruso</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214013900 +0000" stop="20230214014700 +0000" channel="0porMovistarPlus.es"><title lang="es">Los Goya 2023 - Diario: Diario 8 - Ganadores</title><desc lang="es">Cine</desc></programme>
+<programme start="20230214014700 +0000" stop="20230214023700 +0000" channel="0porMovistarPlus.es"><title lang="es">Cómo los trenes cambiaron el mundo: En la geopolítica</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214023700 +0000" stop="20230214032600 +0000" channel="0porMovistarPlus.es"><title lang="es">Cómo los trenes cambiaron el mundo: En la economía</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214032600 +0000" stop="20230214042600 +0000" channel="0porMovistarPlus.es"><title lang="es">Cómo los trenes cambiaron el mundo: En los negocios</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214041600 +0000" stop="20230214050500 +0000" channel="0porMovistarPlus.es"><title lang="es">Cómo los trenes cambiaron el mundo: En el día a día</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214050500 +0000" stop="20230214055500 +0000" channel="0porMovistarPlus.es"><title lang="es">Cómo los trenes cambiaron el mundo: En la guerra</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214055500 +0000" stop="20230214064600 +0000" channel="0porMovistarPlus.es"><title lang="es">Cómo los trenes cambiaron el mundo: Trenes con nombre propio</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214064600 +0000" stop="20230214072000 +0000" channel="0porMovistarPlus.es"><title lang="es">Historias del Agua: La memoria del agua</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214072000 +0000" stop="20230214080700 +0000" channel="0porMovistarPlus.es"><title lang="es">Conspiraciones al descubierto: La bomba atómica alemana y el hundimiento del Titanic</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214080700 +0000" stop="20230214085800 +0000" channel="0porMovistarPlus.es"><title lang="es">Conspiraciones al descubierto: Amelia Earhart y el misterio de Salvator Mundi</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214085800 +0000" stop="20230214095300 +0000" channel="0porMovistarPlus.es"><title lang="es">H2O: La importancia del agua: Vida</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214095300 +0000" stop="20230214104500 +0000" channel="0porMovistarPlus.es"><title lang="es">H2O: La importancia del agua: Civilizaciones</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214104500 +0000" stop="20230214114100 +0000" channel="0porMovistarPlus.es"><title lang="es">H2O: La importancia del agua: Crisis</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214114100 +0000" stop="20230214123800 +0000" channel="0porMovistarPlus.es"><title lang="es">La química de los elementos: Reacción</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214123800 +0000" stop="20230214133200 +0000" channel="0porMovistarPlus.es"><title lang="es">Crímenes: Manoli</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214133200 +0000" stop="20230214145400 +0000" channel="0porMovistarPlus.es"><title lang="es">La Resistencia: Episodio</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230214145400 +0000" stop="20230214145500 +0000" channel="0porMovistarPlus.es"><title lang="es">ConVecinos II (6)</title><desc lang="es">Rumores que matan Series</desc></programme>
+<programme start="20230214145500 +0000" stop="20230214164500 +0000" channel="0porMovistarPlus.es"><title lang="es">El cambiazo</title><desc lang="es">Cine</desc></programme>
+<programme start="20230214164500 +0000" stop="20230214181500 +0000" channel="0porMovistarPlus.es"><title lang="es">Malditos vecinos 2</title><desc lang="es">Cine</desc></programme>
+<programme start="20230214181500 +0000" stop="20230214185900 +0000" channel="0porMovistarPlus.es"><title lang="es">Blue Bloods (Familia de policías) VIII (3)</title><desc lang="es">El enemigo de mi enemigo Series</desc></programme>
+<programme start="20230214185900 +0000" stop="20230214194400 +0000" channel="0porMovistarPlus.es"><title lang="es">Blue Bloods (Familia de policías) VIII (4)</title><desc lang="es">De repente Series</desc></programme>
+<programme start="20230214194400 +0000" stop="20230214203000 +0000" channel="0porMovistarPlus.es"><title lang="es">Blue Bloods (Familia de policías) VIII (5)</title><desc lang="es">Los olvidados Series</desc></programme>
+<programme start="20230214203000 +0000" stop="20230214213000 +0000" channel="0porMovistarPlus.es"><title lang="es">Conquistando el cielo: La supremacía del cielo</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="0porMovistarPlus.es"><title lang="es">Leo talks: Culto al cuerpo</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="0porMovistarPlus.es"><title lang="es">Ilustres Ignorantes: Amor verdadero</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230214223000 +0000" stop="20230214235500 +0000" channel="0porMovistarPlus.es"><title lang="es">La Resistencia: Episodio</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230214235500 +0000" stop="20230215005500 +0000" channel="0porMovistarPlus.es"><title lang="es">Crímenes: Manoli</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230215005500 +0000" stop="20230215015500 +0000" channel="0porMovistarPlus.es"><title lang="es">La química de los elementos: Reacción</title><desc lang="es">Documentales</desc></programme>
+<programme start="20230215015500 +0000" stop="20230215025100 +0000" channel="0porMovistarPlus.es"><title lang="es">Cinco Tenedores (1)</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230215025100 +0000" stop="20230215035000 +0000" channel="0porMovistarPlus.es"><title lang="es">Cinco Tenedores (2)</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230215035000 +0000" stop="20230215045000 +0000" channel="0porMovistarPlus.es"><title lang="es">Cinco Tenedores (3)</title><desc lang="es">Entretenimiento</desc></programme>
+<programme start="20230213040000 +0000" stop="20230213044500 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230213044500 +0000" stop="20230213050000 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A U COCINA</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213053000 +0000" stop="20230213061500 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230213061500 +0000" stop="20230213070000 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR2</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA, PUNTOS DE VISTA</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="CGTN.cn"><title lang="es">AMÉRICA AHORA</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="CGTN.cn"><title lang="es">ECONOMIA AL DIA</title></programme>
+<programme start="20230213103000 +0000" stop="20230213111500 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230213111500 +0000" stop="20230213120000 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR2</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213121500 +0000" stop="20230213130000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A TU COCINA, PUNTOS DE VISTA, NIHAO CHINA</title></programme>
+<programme start="20230213140000 +0000" stop="20230213144500 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230213144500 +0000" stop="20230213153000 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230213153000 +0000" stop="20230213154500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213154500 +0000" stop="20230213160000 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A TU COCINA</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="CGTN.cn"><title lang="es">AMÉRICA AHORA</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213174500 +0000" stop="20230213180000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE, PUNTOS DE VISTA</title></programme>
+<programme start="20230213183000 +0000" stop="20230213184500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213184500 +0000" stop="20230213193000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230213193000 +0000" stop="20230213194500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213194500 +0000" stop="20230213200000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="CGTN.cn"><title lang="es">AMÉRICA AHORA</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213211500 +0000" stop="20230213213000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="CGTN.cn"><title lang="es">HORA INFANTIL</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A TU COCINA</title></programme>
+<programme start="20230214011500 +0000" stop="20230214013000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230214040000 +0000" stop="20230214044500 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230214044500 +0000" stop="20230214050000 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A U COCINA</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214053000 +0000" stop="20230214061500 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230214061500 +0000" stop="20230214070000 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR2</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="CGTN.cn"><title lang="es">HORA INFANTIL</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="CGTN.cn"><title lang="es">ECONOMIA AL DIA</title></programme>
+<programme start="20230214103000 +0000" stop="20230214111500 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230214111500 +0000" stop="20230214120000 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR2</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214121500 +0000" stop="20230214130000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230214133000 +0000" stop="20230214134500 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A TU COCINA</title></programme>
+<programme start="20230214134500 +0000" stop="20230214140000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230214140000 +0000" stop="20230214144500 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230214144500 +0000" stop="20230214153000 +0000" channel="CGTN.cn"><title lang="es">EL PROYECTOR1</title></programme>
+<programme start="20230214153000 +0000" stop="20230214154500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214154500 +0000" stop="20230214160000 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A TU COCINA</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="CGTN.cn"><title lang="es">HORA INFANTIL</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214174500 +0000" stop="20230214180000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230214183000 +0000" stop="20230214184500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214184500 +0000" stop="20230214193000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230214193000 +0000" stop="20230214194500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214194500 +0000" stop="20230214200000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="CGTN.cn"><title lang="es">HORA INFANTIL</title></programme>
+<programme start="20230214210000 +0000" stop="20230214211500 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230214211500 +0000" stop="20230214213000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="CGTN.cn"><title lang="es">DOCUMENTAL</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="CGTN.cn"><title lang="es">DIÁLOGO</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="CGTN.cn"><title lang="es">ASÍ ES CHINA</title></programme>
+<programme start="20230215010000 +0000" stop="20230215011500 +0000" channel="CGTN.cn"><title lang="es">DE CHINA A TU COCINA</title></programme>
+<programme start="20230215011500 +0000" stop="20230215013000 +0000" channel="CGTN.cn"><title lang="es">NIHAO CHINA</title></programme>
+<programme start="20230215013000 +0000" stop="20230215020000 +0000" channel="CGTN.cn"><title lang="es">DIARIOS DE VIAJE</title></programme>
+<programme start="20230215020000 +0000" stop="20230215023000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230215023000 +0000" stop="20230215030000 +0000" channel="CGTN.cn"><title lang="es">RONDA ARTÍSTICA</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="CGTN.cn"><title lang="es">CCTV NOTICIAS</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230213043000 +0000" stop="20230213044500 +0000" channel="Canal24Horas.es"><title lang="es">Objetivo Igualdad</title></programme>
+<programme start="20230213044500 +0000" stop="20230213050000 +0000" channel="Canal24Horas.es"><title lang="es">Emprende</title></programme>
+<programme start="20230213050000 +0000" stop="20230213070000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Matinal</title><desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Ad...</desc></programme>
+<programme start="20230213070000 +0000" stop="20230213090000 +0000" channel="Canal24Horas.es"><title lang="es">La hora de La 1: La hora política</title><desc lang="es">Magazine matinal de la 1 presentado por Igor Gómez en el que se reúne información de actualidad con...</desc></programme>
+<programme start="20230213090000 +0000" stop="20230213130000 +0000" channel="Canal24Horas.es"><title lang="es">Diario 24</title><desc lang="es">Una mirada detallada a las noticias que marcan cada jornada, desde los puntos donde se generan y con...</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230213140000 +0000" stop="20230213145000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario 1</title><desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en Espana. Alejandra Herranz...</desc></programme>
+<programme start="20230213145000 +0000" stop="20230213150000 +0000" channel="Canal24Horas.es"><title lang="es">Espacio de ajuste</title><desc lang="es">Breve espacio que incluye reportajes y otros programas de contenidos diversos</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230213160000 +0000" stop="20230213190000 +0000" channel="Canal24Horas.es"><title lang="es">La tarde en 24h</title><desc lang="es">Cristina Pampín conduce &apos;&apos;La Tarde en 24h&apos;&apos;. Cinco horas en directo con todas las noticias de actual...</desc></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario 2</title></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="Canal24Horas.es"><title lang="es">La noche en 24 horas</title><desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de...</desc></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="Canal24Horas.es"><title lang="es">La hora cultural</title><desc lang="es">Espacio que reúne a personajes del mundo del arte y la cultura espanoles e internacionales</desc></programme>
+<programme start="20230214000000 +0000" stop="20230214002900 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230214002900 +0000" stop="20230214004500 +0000" channel="Canal24Horas.es"><title lang="es">Objetivo Igualdad</title></programme>
+<programme start="20230214004500 +0000" stop="20230214010000 +0000" channel="Canal24Horas.es"><title lang="es">Emprende</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="Canal24Horas.es"><title lang="es">La hora cultural</title><desc lang="es">Espacio que reúne a personajes del mundo del arte y la cultura espanoles e internacionales</desc></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Internacional</title></programme>
+<programme start="20230214050000 +0000" stop="20230214070000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario Matinal</title><desc lang="es">Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Ad...</desc></programme>
+<programme start="20230214070000 +0000" stop="20230214090000 +0000" channel="Canal24Horas.es"><title lang="es">La hora de La 1: La hora política</title><desc lang="es">Magazine matinal de la 1 presentado por Igor Gómez en el que se reúne información de actualidad con...</desc></programme>
+<programme start="20230214090000 +0000" stop="20230214120000 +0000" channel="Canal24Horas.es"><title lang="es">Diario 24</title><desc lang="es">Una mirada detallada a las noticias que marcan cada jornada, desde los puntos donde se generan y con...</desc></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="Canal24Horas.es"><title lang="es">Canal 24 Horas en directo</title><desc lang="es">Senal en directo en el Canal 24 horas</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230214140000 +0000" stop="20230214145000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario 1</title><desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en Espana. Alejandra Herranz...</desc></programme>
+<programme start="20230214145000 +0000" stop="20230214150000 +0000" channel="Canal24Horas.es"><title lang="es">Espacio de ajuste</title><desc lang="es">Breve espacio que incluye reportajes y otros programas de contenidos diversos</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="Canal24Horas.es"><title lang="es">Canal 24 Horas en directo</title><desc lang="es">Senal en directo en el Canal 24 horas</desc></programme>
+<programme start="20230214160000 +0000" stop="20230214190000 +0000" channel="Canal24Horas.es"><title lang="es">La tarde en 24h</title><desc lang="es">Cristina Pampín conduce &apos;&apos;La Tarde en 24h&apos;&apos;. Cinco horas en directo con todas las noticias de actual...</desc></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="Canal24Horas.es"><title lang="es">Telediario 2</title></programme>
+<programme start="20230214210000 +0000" stop="20230214230000 +0000" channel="Canal24Horas.es"><title lang="es">La noche en 24 horas</title><desc lang="es">Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de...</desc></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="Canal24Horas.es"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Espanola, este c...</desc></programme>
+</tv>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="BNTV.ba"><display-name>BN TV</display-name><icon src="https://i.imgur.com/DUBvfWb.png"/><url>https://m.tv.sms.cz</url></channel>
+<programme start="20230213040000 +0000" stop="20230213053000 +0000" channel="BNTV.ba"><title lang="bs">Muzički izlog</title><desc lang="bs">Muzički program BN TV</desc></programme>
+<programme start="20230213053000 +0000" stop="20230213080000 +0000" channel="BNTV.ba"><title lang="bs">Dobro jutro, Srpska</title><desc lang="bs">Jutarnji program BN televizije</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213085000 +0000" channel="BNTV.ba"><title lang="bs">Priče zavičajne</title></programme>
+<programme start="20230213085000 +0000" stop="20230213092500 +0000" channel="BNTV.ba"><title lang="bs">Poreznik Gavro</title></programme>
+<programme start="20230213092500 +0000" stop="20230213110000 +0000" channel="BNTV.ba"><title lang="bs">Vrata do vrata</title></programme>
+<programme start="20230213110000 +0000" stop="20230213112000 +0000" channel="BNTV.ba"><title lang="bs">Novosti</title><desc lang="bs">Aktuelne informacije i vijesti</desc></programme>
+<programme start="20230213112000 +0000" stop="20230213150000 +0000" channel="BNTV.ba"><title lang="bs">Zabranjeno voće</title><desc lang="bs">(Yasak Elma)</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213152000 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 1</title><desc lang="bs">Info</desc></programme>
+<programme start="20230213152000 +0000" stop="20230213160000 +0000" channel="BNTV.ba"><title lang="bs">Tri sestre</title><desc lang="bs">(Üç K?z Kardeş)</desc></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="BNTV.ba"><title lang="bs">Zavjet</title><desc lang="bs">(Emanet)</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213173500 +0000" channel="BNTV.ba"><title lang="bs">Danas u Srpskoj</title><desc lang="bs">Informativna emisija BN televizije o aktualnim događanjima u Republici Srpskoj</desc></programme>
+<programme start="20230213173500 +0000" stop="20230213182000 +0000" channel="BNTV.ba"><title lang="bs">Dobro jutro, komšija</title><desc lang="bs">Pitka i iskričava komedija, prepuna krajiškog humora na temu međukomšijskih odnosa</desc></programme>
+<programme start="20230213182000 +0000" stop="20230213183000 +0000" channel="BNTV.ba"><title lang="bs">Marketing</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190500 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 2</title><desc lang="bs">Info</desc></programme>
+<programme start="20230213190500 +0000" stop="20230213195500 +0000" channel="BNTV.ba"><title lang="bs">Presuda</title><desc lang="bs">(Yarg?)</desc></programme>
+<programme start="20230213195500 +0000" stop="20230213213000 +0000" channel="BNTV.ba"><title lang="bs">Crno na bijelo</title><desc lang="bs">Otvoreno o svim političkim, ekonomskim i društvenim pitanjima, ali i ljudskim sudbinama. Istinito ,...</desc></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 3</title><desc lang="bs">Info</desc></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="BNTV.ba"><title lang="bs">Državni službenik</title></programme>
+<programme start="20230213230000 +0000" stop="20230214010000 +0000" channel="BNTV.ba"><title lang="bs">Astročet</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 3</title><desc lang="bs">Info</desc></programme>
+<programme start="20230214013000 +0000" stop="20230214024500 +0000" channel="BNTV.ba"><title lang="bs">BN koktel</title><desc lang="bs">Bojan Belić će i u novoj sezoni emisije &quot;BN koktel&quot; ugostiti sjajne goste sa estrade</desc></programme>
+<programme start="20230214024500 +0000" stop="20230214033000 +0000" channel="BNTV.ba"><title lang="bs">Muzički šou</title><desc lang="bs">Muzički šou BN televizije</desc></programme>
+<programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="BNTV.ba"><title lang="bs">Danas u Srpskoj</title><desc lang="bs">Informativna emisija BN televizije o aktualnim događanjima u Republici Srpskoj</desc></programme>
+<programme start="20230214040000 +0000" stop="20230214044500 +0000" channel="BNTV.ba"><title lang="bs">TV serija</title></programme>
+<programme start="20230214044500 +0000" stop="20230214053000 +0000" channel="BNTV.ba"><title lang="bs">Muzički izlog</title><desc lang="bs">Muzički program BN TV</desc></programme>
+<programme start="20230214053000 +0000" stop="20230214080000 +0000" channel="BNTV.ba"><title lang="bs">Dobro jutro, Srpska</title><desc lang="bs">Jutarnji program BN televizije</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214085000 +0000" channel="BNTV.ba"><title lang="bs">Priče zavičajne</title></programme>
+<programme start="20230214085000 +0000" stop="20230214092000 +0000" channel="BNTV.ba"><title lang="bs">Poreznik Gavro</title></programme>
+<programme start="20230214092000 +0000" stop="20230214110000 +0000" channel="BNTV.ba"><title lang="bs">Vrata do vrata</title></programme>
+<programme start="20230214110000 +0000" stop="20230214112000 +0000" channel="BNTV.ba"><title lang="bs">Novosti</title><desc lang="bs">Aktuelne informacije i vijesti</desc></programme>
+<programme start="20230214112000 +0000" stop="20230214150000 +0000" channel="BNTV.ba"><title lang="bs">Zabranjeno voće</title><desc lang="bs">(Yasak Elma)</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214152000 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 1</title><desc lang="bs">Info</desc></programme>
+<programme start="20230214152000 +0000" stop="20230214160000 +0000" channel="BNTV.ba"><title lang="bs">Tri sestre</title><desc lang="bs">(Üç K?z Kardeş)</desc></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="BNTV.ba"><title lang="bs">Zavjet</title><desc lang="bs">(Emanet)</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214173500 +0000" channel="BNTV.ba"><title lang="bs">Danas u Srpskoj</title><desc lang="bs">Informativna emisija BN televizije o aktualnim događanjima u Republici Srpskoj</desc></programme>
+<programme start="20230214173500 +0000" stop="20230214181500 +0000" channel="BNTV.ba"><title lang="bs">Dobro jutro, komšija</title><desc lang="bs">Pitka i iskričava komedija, prepuna krajiškog humora na temu međukomšijskih odnosa</desc></programme>
+<programme start="20230214181500 +0000" stop="20230214183000 +0000" channel="BNTV.ba"><title lang="bs">Marketing</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190500 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 2</title><desc lang="bs">Info</desc></programme>
+<programme start="20230214190500 +0000" stop="20230214200000 +0000" channel="BNTV.ba"><title lang="bs">Presuda</title><desc lang="bs">(Yarg?)</desc></programme>
+<programme start="20230214200000 +0000" stop="20230214213000 +0000" channel="BNTV.ba"><title lang="bs">Ja volim Srbiju</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 3</title><desc lang="bs">Info</desc></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="BNTV.ba"><title lang="bs">Državni službenik</title></programme>
+<programme start="20230214230000 +0000" stop="20230215010000 +0000" channel="BNTV.ba"><title lang="bs">Astročet</title></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="BNTV.ba"><title lang="bs">Dnevnik 3</title><desc lang="bs">Info</desc></programme>
+<programme start="20230215013000 +0000" stop="20230215030000 +0000" channel="BNTV.ba"><title lang="bs">Crno na bijelo</title><desc lang="bs">Otvoreno o svim političkim, ekonomskim i društvenim pitanjima, ali i ljudskim sudbinama. Istinito ,...</desc></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="BNTV.ba"><title lang="bs">Životne priče</title><desc lang="bs">Novi serijal autora Gorana Stojićevića. Neobične priče, naizgled neobičnih ljudi</desc></programme>
+<programme start="20230215033000 +0000" stop="20230215043000 +0000" channel="BNTV.ba"><title lang="bs">Danas u Srpskoj</title><desc lang="bs">Informativna emisija BN televizije o aktualnim događanjima u Republici Srpskoj</desc></programme>
+</tv>

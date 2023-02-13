@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="DWEnglish.de"><display-name>DW English</display-name><icon src="https://i.imgur.com/A1xzjOI.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="DasErste.de"><display-name>Das Erste</display-name><icon src="https://i.imgur.com/tGHLJSF.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="SAT1.de"><display-name>SAT.1</display-name><icon src="https://i.imgur.com/d71PqdE.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="Sport1.de"><display-name>Sport 1</display-name><icon src="https://i.imgur.com/Tsjt7v9.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="ZDF.de"><display-name>ZDF</display-name><icon src="https://i.imgur.com/rtLb6m9.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<programme start="20230213050000 +0000" stop="20230213054500 +0000" channel="DWEnglish.de"><title lang="de">Leonardo da Vincis rätselhaftestes Bild - Die Felsgrottenmadonna, DokFilm</title><category lang="de">ostalo</category></programme>
+<programme start="20230213054500 +0000" stop="20230213064500 +0000" channel="DWEnglish.de"><title lang="de">Mittendrin - Flughafen Frankfurt - Dauereinsatz für die Flughafenfeuerwehr</title><category lang="de">ostalo</category></programme>
+<programme start="20230213064500 +0000" stop="20230213071500 +0000" channel="DWEnglish.de"><title lang="de">Lesenswert - Von Lesern für Leser</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213071500 +0000" stop="20230213080000 +0000" channel="DWEnglish.de"><title lang="de">Expedition in die Heimat - Stuttgart by Night</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213080000 +0000" stop="20230213080300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213080300 +0000" stop="20230213083000 +0000" channel="DWEnglish.de"><title lang="de">Projekt Zukunft</title><category lang="de">Magazin</category></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="DWEnglish.de"><title lang="de">37 Grad - Solo-Mütter</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="DWEnglish.de"><title lang="de">Sondersendung - Music impossible: Mein Song. Dein Sound. Mike Singer und Doro Pesch</title><category lang="de">ostalo</category></programme>
+<programme start="20230213100000 +0000" stop="20230213104500 +0000" channel="DWEnglish.de"><title lang="de">Leonardo da Vincis rätselhaftestes Bild - Die Felsgrottenmadonna, DokFilm</title><category lang="de">ostalo</category></programme>
+<programme start="20230213104500 +0000" stop="20230213110000 +0000" channel="DWEnglish.de"><title lang="de">Reporter - Italien: Begehrte Korallen</title><category lang="de">Informativni</category></programme>
+<programme start="20230213110000 +0000" stop="20230213110300 +0000" channel="DWEnglish.de"><title lang="de">Heute Xpress - Der schnelle Nachrichtenüberblick</title><category lang="de">Informativni</category></programme>
+<programme start="20230213110300 +0000" stop="20230213113000 +0000" channel="DWEnglish.de"><title lang="de">Projekt Zukunft</title><category lang="de">Magazin</category></programme>
+<programme start="20230213113000 +0000" stop="20230213123000 +0000" channel="DWEnglish.de"><title lang="de">Bares für Rares - Wertvoll oder wertlos?</title><category lang="de">Magazin</category></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="DWEnglish.de"><title lang="de">Kochen mit Martina &amp; Moritz</title><category lang="de">Kulinarski</category></programme>
+<programme start="20230213130000 +0000" stop="20230213130300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213130300 +0000" stop="20230213133000 +0000" channel="DWEnglish.de"><title lang="de">In Good Shape - Allergien, Heuschnupfen und Asthma</title><category lang="de">Lifestyle</category></programme>
+<programme start="20230213133000 +0000" stop="20230213141500 +0000" channel="DWEnglish.de"><title lang="de">Europe in Concert - Maria João (Portugal)</title><category lang="de">Glazbeni</category></programme>
+<programme start="20230213141500 +0000" stop="20230213150000 +0000" channel="DWEnglish.de"><title lang="de">Bauen.Wohnen.Design - Heimatflimmern - Klein, kleiner, Tiny House</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213150000 +0000" stop="20230213150300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213150300 +0000" stop="20230213153000 +0000" channel="DWEnglish.de"><title lang="de">Projekt Zukunft</title><category lang="de">Magazin</category></programme>
+<programme start="20230213153000 +0000" stop="20230213163000 +0000" channel="DWEnglish.de"><title lang="de">Anne Will - Berlin-Wahl, zweiter Versuch - Neustart oder weiter so?</title><category lang="de">Informativni</category></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="DWEnglish.de"><title lang="de">Lesenswert - Von Lesern für Leser</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213170000 +0000" stop="20230213170300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213170300 +0000" stop="20230213173000 +0000" channel="DWEnglish.de"><title lang="de">Check-in - Winter-Reisetipps für Berlin</title><category lang="de">Magazin</category></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="DWEnglish.de"><title lang="de">In Good Shape - Allergien, Heuschnupfen und Asthma</title><category lang="de">Lifestyle</category></programme>
+<programme start="20230213180000 +0000" stop="20230213184500 +0000" channel="DWEnglish.de"><title lang="de">Europe in Concert - Maria João (Portugal)</title><category lang="de">Glazbeni</category></programme>
+<programme start="20230213184500 +0000" stop="20230213190000 +0000" channel="DWEnglish.de"><title lang="de">Frag den Lesch - Ein gigantischer Eisberg erzählt</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="DWEnglish.de"><title lang="de">Sondersendung - Founders’ Valley Africa: Digitale Lösungen - Leben in Würde?</title><category lang="de">ostalo</category></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="DWEnglish.de"><title lang="de">Anne Will - Berlin-Wahl, zweiter Versuch - Neustart oder weiter so?</title><category lang="de">Informativni</category></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="DWEnglish.de"><title lang="de">37 Grad - Solo-Mütter</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="DWEnglish.de"><title lang="de">Global 3000, Das Globalisierungsmagazin</title><category lang="de">Informativni</category></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="DWEnglish.de"><title lang="de">Kochen mit Martina &amp; Moritz</title><category lang="de">Kulinarski</category></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="DWEnglish.de"><title lang="de">Nahaufnahme - Kinder in Zeiten des Krieges - Der Ukrainekrieg und seine jüngsten Opfer</title><category lang="de">Magazin</category></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="DWEnglish.de"><title lang="de">Kick off! - Der 20. Spieltag</title><category lang="de">Sport,Magazin</category></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="DWEnglish.de"><title lang="de">Projekt Zukunft</title><category lang="de">Magazin</category></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="DWEnglish.de"><title lang="de">Kick off! - Der 20. Spieltag</title><category lang="de">Sport,Magazin</category></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="DWEnglish.de"><title lang="de">Sondersendung - Founders’ Valley Africa: Digitale Lösungen - Leben in Würde?</title><category lang="de">ostalo</category></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="DWEnglish.de"><title lang="de">Anne Will - Berlin-Wahl, zweiter Versuch - Neustart oder weiter so?</title><category lang="de">Informativni</category></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="DWEnglish.de"><title lang="de">Bares für Rares - Wertvoll oder wertlos?</title><category lang="de">Magazin</category></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="DWEnglish.de"><title lang="de">Lesenswert - Von Lesern für Leser</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="DWEnglish.de"><title lang="de">Nahaufnahme - Kinder in Zeiten des Krieges - Der Ukrainekrieg und seine jüngsten Opfer</title><category lang="de">Magazin</category></programme>
+<programme start="20230214053000 +0000" stop="20230214054500 +0000" channel="DWEnglish.de"><title lang="de">World Stories - Reportagen der Woche</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214054500 +0000" stop="20230214064500 +0000" channel="DWEnglish.de"><title lang="de">Anne Will - Berlin-Wahl, zweiter Versuch - Neustart oder weiter so?</title><category lang="de">Informativni</category></programme>
+<programme start="20230214064500 +0000" stop="20230214071500 +0000" channel="DWEnglish.de"><title lang="de">Kick off! - Der 20. Spieltag</title><category lang="de">Sport,Magazin</category></programme>
+<programme start="20230214071500 +0000" stop="20230214080000 +0000" channel="DWEnglish.de"><title lang="de">Handwerkskunst!</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214080000 +0000" stop="20230214080300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214080300 +0000" stop="20230214083000 +0000" channel="DWEnglish.de"><title lang="de">Sondersendung - Founders’ Valley Africa: Digitale Lösungen - Leben in Würde?</title><category lang="de">ostalo</category></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="DWEnglish.de"><title lang="de">Kochen mit Martina &amp; Moritz</title><category lang="de">Kulinarski</category></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="DWEnglish.de"><title lang="de">Mittendrin - Flughafen Frankfurt - Dauereinsatz für die Flughafenfeuerwehr</title><category lang="de">ostalo</category></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="DWEnglish.de"><title lang="de">Nahaufnahme - Kinder in Zeiten des Krieges - Der Ukrainekrieg und seine jüngsten Opfer</title><category lang="de">Magazin</category></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="DWEnglish.de"><title lang="de">FrauTV</title><category lang="de">Magazin</category></programme>
+<programme start="20230214110000 +0000" stop="20230214110300 +0000" channel="DWEnglish.de"><title lang="de">Heute Xpress - Der schnelle Nachrichtenüberblick</title><category lang="de">Informativni</category></programme>
+<programme start="20230214110300 +0000" stop="20230214113000 +0000" channel="DWEnglish.de"><title lang="de">Kick off! - Der 20. Spieltag</title><category lang="de">Sport,Magazin</category></programme>
+<programme start="20230214113000 +0000" stop="20230214121500 +0000" channel="DWEnglish.de"><title lang="de">Bauen.Wohnen.Design - Heimatflimmern - Klein, kleiner, Tiny House</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214121500 +0000" stop="20230214123000 +0000" channel="DWEnglish.de"><title lang="de">Reporter - Italien: Begehrte Korallen</title><category lang="de">Informativni</category></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="DWEnglish.de"><title lang="de">Lesenswert - Von Lesern für Leser</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214130000 +0000" stop="20230214130300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214130300 +0000" stop="20230214133000 +0000" channel="DWEnglish.de"><title lang="de">Sondersendung - Founders’ Valley Africa: Digitale Lösungen - Leben in Würde?</title><category lang="de">ostalo</category></programme>
+<programme start="20230214133000 +0000" stop="20230214141500 +0000" channel="DWEnglish.de"><title lang="de">Leonardo da Vincis rätselhaftestes Bild - Die Felsgrottenmadonna, DokFilm</title><category lang="de">ostalo</category></programme>
+<programme start="20230214141500 +0000" stop="20230214150000 +0000" channel="DWEnglish.de"><title lang="de">Expedition in die Heimat - Stuttgart by Night</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214150000 +0000" stop="20230214150300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214150300 +0000" stop="20230214153000 +0000" channel="DWEnglish.de"><title lang="de">Kick off! - Der 20. Spieltag</title><category lang="de">Sport,Magazin</category></programme>
+<programme start="20230214153000 +0000" stop="20230214164500 +0000" channel="DWEnglish.de"><title lang="de">Hart aber fair - Putins Überfall, Europas Albtraum: Ein Jahr Krieg und kein Ende in Sicht?</title><category lang="de">Informativni</category></programme>
+<programme start="20230214164500 +0000" stop="20230214170000 +0000" channel="DWEnglish.de"><title lang="de">Shift - Leben in der digitalen Welt</title><category lang="de">Magazin</category></programme>
+<programme start="20230214170000 +0000" stop="20230214170300 +0000" channel="DWEnglish.de"><title lang="de">Tagesschau in 100 Sekunden - Kurznachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214170300 +0000" stop="20230214173000 +0000" channel="DWEnglish.de"><title lang="de">Kick off! - Der 20. Spieltag</title><category lang="de">Sport,Magazin</category></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="DWEnglish.de"><title lang="de">Kulturzeit - Feuilleton im Fernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="DWEnglish.de"><title lang="de">Nahaufnahme - Kinder in Zeiten des Krieges - Der Ukrainekrieg und seine jüngsten Opfer</title><category lang="de">Magazin</category></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="DWEnglish.de"><title lang="de">FrauTV</title><category lang="de">Magazin</category></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="DWEnglish.de"><title lang="de">Global 3000, Das Globalisierungsmagazin</title><category lang="de">Informativni</category></programme>
+<programme start="20230214200000 +0000" stop="20230214211500 +0000" channel="DWEnglish.de"><title lang="de">Hart aber fair - Putins Überfall, Europas Albtraum: Ein Jahr Krieg und kein Ende in Sicht?</title><category lang="de">Informativni</category></programme>
+<programme start="20230214211500 +0000" stop="20230214213000 +0000" channel="DWEnglish.de"><title lang="de">Frag den Lesch - Physik: Triumph und Tragödie</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="DWEnglish.de"><title lang="de">Kulturzeit - Feuilleton im Fernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="DWEnglish.de"><title lang="de">Lesenswert - Von Lesern für Leser</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214230000 +0000" stop="20230214234500 +0000" channel="DWEnglish.de"><title lang="de">Hallo, KI - Liebesgeschichten aus der Zukunft, DokFilm</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214234500 +0000" stop="20230215000000 +0000" channel="DWEnglish.de"><title lang="de">Reporter - Italien: Begehrte Korallen</title><category lang="de">Informativni</category></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="DWEnglish.de"><title lang="de">Kochen mit Martina &amp; Moritz</title><category lang="de">Kulinarski</category></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="DWEnglish.de"><title lang="de">Kulturzeit - Feuilleton im Fernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230215013000 +0000" stop="20230215020000 +0000" channel="DWEnglish.de"><title lang="de">Global 3000, Das Globalisierungsmagazin</title><category lang="de">Informativni</category></programme>
+<programme start="20230215020000 +0000" stop="20230215031500 +0000" channel="DWEnglish.de"><title lang="de">Hart aber fair - Putins Überfall, Europas Albtraum: Ein Jahr Krieg und kein Ende in Sicht?</title><category lang="de">Informativni</category></programme>
+<programme start="20230215031500 +0000" stop="20230215033000 +0000" channel="DWEnglish.de"><title lang="de">Frag den Lesch - Ein gigantischer Eisberg erzählt</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230215033000 +0000" stop="20230215040000 +0000" channel="DWEnglish.de"><title lang="de">Kulturzeit - Feuilleton im Fernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="DWEnglish.de"><title lang="de">Der Tag - Die Geschichten hinter den Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230215043000 +0000" stop="20230215050000 +0000" channel="DWEnglish.de"><title lang="de">REV</title><category lang="de">Magazin</category></programme>
+<programme start="20230213050000 +0000" stop="20230213080000 +0000" channel="DasErste.de"><title lang="de">ARD-Morgenmagazin, Das Erste am Morgen</title><category lang="de">Magazin</category></programme>
+<programme start="20230213080000 +0000" stop="20230213080500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213080500 +0000" stop="20230213085500 +0000" channel="DasErste.de"><title lang="de">Live nach Neun, Raus ins Leben</title><category lang="de">Magazin</category></programme>
+<programme start="20230213085500 +0000" stop="20230213094500 +0000" channel="DasErste.de"><title lang="de">Verrückt nach Meer (55), Ab in den Süden</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213094500 +0000" stop="20230213101500 +0000" channel="DasErste.de"><title lang="de">Meister des Alltags, mit Florian Weber</title><category lang="de">Magazin</category></programme>
+<programme start="20230213101500 +0000" stop="20230213110000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas? kviz</title><category lang="de">Zabava</category></programme>
+<programme start="20230213110000 +0000" stop="20230213111500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213111500 +0000" stop="20230213120000 +0000" channel="DasErste.de"><title lang="de">ARD-Buffet, Leben &amp; genießen</title><category lang="de">Kulinarski</category></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="DasErste.de"><title lang="de">ZDF-Mittagsmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230213130000 +0000" stop="20230213131000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213131000 +0000" stop="20230213140000 +0000" channel="DasErste.de"><title lang="de">Rote Rosen, serija</title><category lang="de">Drama</category></programme>
+<programme start="20230213140000 +0000" stop="20230213141000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213141000 +0000" stop="20230213150000 +0000" channel="DasErste.de"><title lang="de">Sturm der Liebe (3980), serija</title><category lang="de">Telenovela</category></programme>
+<programme start="20230213150000 +0000" stop="20230213151000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213151000 +0000" stop="20230213160000 +0000" channel="DasErste.de"><title lang="de">Verrückt nach Meer (337), Mitternachtssonne am Nordkap</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213160000 +0000" stop="20230213161500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213161500 +0000" stop="20230213170000 +0000" channel="DasErste.de"><title lang="de">Brisant, Moderation: Marwa Eldessouky</title><category lang="de">Magazin</category></programme>
+<programme start="20230213170000 +0000" stop="20230213175000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas? kviz</title><category lang="de">Zabava</category></programme>
+<programme start="20230213175000 +0000" stop="20230213184500 +0000" channel="DasErste.de"><title lang="de">Morden im Norden (131), serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230213184500 +0000" stop="20230213185000 +0000" channel="DasErste.de"><title lang="de">Wissen vor acht - Zukunft</title><category lang="de">Magazin</category></programme>
+<programme start="20230213185000 +0000" stop="20230213185500 +0000" channel="DasErste.de"><title lang="de">Wetter vor acht</title><category lang="de">Informativni</category></programme>
+<programme start="20230213185500 +0000" stop="20230213190000 +0000" channel="DasErste.de"><title lang="de">Wirtschaft vor acht</title><category lang="de">Informativni</category></programme>
+<programme start="20230213190000 +0000" stop="20230213191500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="DasErste.de"><title lang="de">Ukraine - Krieg im Leben, Trailer</title><category lang="de">ostalo</category></programme>
+<programme start="20230213200000 +0000" stop="20230213211500 +0000" channel="DasErste.de"><title lang="de">Hart aber fair</title><category lang="de">Informativni</category></programme>
+<programme start="20230213211500 +0000" stop="20230213215000 +0000" channel="DasErste.de"><title lang="de">Tagesthemen, mit Wetter</title><category lang="de">Informativni</category></programme>
+<programme start="20230213215000 +0000" stop="20230213223500 +0000" channel="DasErste.de"><title lang="de">Anklage gegen Putin?</title><category lang="de">ostalo</category></programme>
+<programme start="20230213223500 +0000" stop="20230213232000 +0000" channel="DasErste.de"><title lang="de">Das Duell: Selenskyj gegen Putin, Deutschland /Frankreich 2023</title><category lang="de">ostalo</category></programme>
+<programme start="20230213232000 +0000" stop="20230213233000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230213233000 +0000" stop="20230214010300 +0000" channel="DasErste.de"><title lang="de">Tatort: Unten im Tal, Fernsehfilm Deutschland 2023</title><category lang="de">Drama,Kriminalistički</category></programme>
+<programme start="20230214010300 +0000" stop="20230214010500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214010500 +0000" stop="20230214022000 +0000" channel="DasErste.de"><title lang="de">Hart aber fair</title><category lang="de">Informativni</category></programme>
+<programme start="20230214022000 +0000" stop="20230214030500 +0000" channel="DasErste.de"><title lang="de">Anklage gegen Putin?</title><category lang="de">ostalo</category></programme>
+<programme start="20230214030500 +0000" stop="20230214034300 +0000" channel="DasErste.de"><title lang="de">Brisant</title><category lang="de">Magazin</category></programme>
+<programme start="20230214034300 +0000" stop="20230214034500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214034500 +0000" stop="20230214043000 +0000" channel="DasErste.de"><title lang="de">Das Duell: Selenskyj gegen Putin, Deutschland /Frankreich 2023</title><category lang="de">ostalo</category></programme>
+<programme start="20230214043000 +0000" stop="20230214080000 +0000" channel="DasErste.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230214050000 +0000" stop="20230214080000 +0000" channel="DasErste.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230214080000 +0000" stop="20230214080500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214080500 +0000" stop="20230214085500 +0000" channel="DasErste.de"><title lang="de">Live nach Neun, Raus ins Leben</title><category lang="de">Magazin</category></programme>
+<programme start="20230214085500 +0000" stop="20230214094500 +0000" channel="DasErste.de"><title lang="de">Verrückt nach Meer (56), Tanz durch den Ärmelkanal</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214094500 +0000" stop="20230214101500 +0000" channel="DasErste.de"><title lang="de">Meister des Alltags, mit Florian Weber</title><category lang="de">Magazin</category></programme>
+<programme start="20230214101500 +0000" stop="20230214110000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas? kviz</title><category lang="de">Zabava</category></programme>
+<programme start="20230214110000 +0000" stop="20230214111500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214111500 +0000" stop="20230214120000 +0000" channel="DasErste.de"><title lang="de">ARD-Buffet, Leben &amp; genießen</title><category lang="de">Kulinarski</category></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="DasErste.de"><title lang="de">ZDF-Mittagsmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230214130000 +0000" stop="20230214131000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214131000 +0000" stop="20230214140000 +0000" channel="DasErste.de"><title lang="de">Rote Rosen, serija</title><category lang="de">Drama</category></programme>
+<programme start="20230214140000 +0000" stop="20230214141000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214141000 +0000" stop="20230214150000 +0000" channel="DasErste.de"><title lang="de">Sturm der Liebe (3981), serija</title><category lang="de">Telenovela</category></programme>
+<programme start="20230214150000 +0000" stop="20230214151000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214151000 +0000" stop="20230214160000 +0000" channel="DasErste.de"><title lang="de">Verrückt nach Meer (338), Gletscherglück in Norwegen</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214160000 +0000" stop="20230214161500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214161500 +0000" stop="20230214170000 +0000" channel="DasErste.de"><title lang="de">Brisant</title><category lang="de">Magazin</category></programme>
+<programme start="20230214170000 +0000" stop="20230214175000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas? kviz</title><category lang="de">Zabava</category></programme>
+<programme start="20230214175000 +0000" stop="20230214184500 +0000" channel="DasErste.de"><title lang="de">WaPo Elbe, Vatertag</title><category lang="de">ostalo</category></programme>
+<programme start="20230214184500 +0000" stop="20230214185000 +0000" channel="DasErste.de"><title lang="de">Wissen vor acht - Natur, Der Flechten-Vierer!</title><category lang="de">Magazin</category></programme>
+<programme start="20230214185000 +0000" stop="20230214185500 +0000" channel="DasErste.de"><title lang="de">Wetter vor acht</title><category lang="de">Informativni</category></programme>
+<programme start="20230214185500 +0000" stop="20230214190000 +0000" channel="DasErste.de"><title lang="de">Wirtschaft vor acht</title><category lang="de">Informativni</category></programme>
+<programme start="20230214190000 +0000" stop="20230214191500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214191500 +0000" stop="20230214200000 +0000" channel="DasErste.de"><title lang="de">Tage, die es nicht gab, Deutschland/Österreich 2023 Tipp</title><category lang="de">Drama</category></programme>
+<programme start="20230214200000 +0000" stop="20230214205000 +0000" channel="DasErste.de"><title lang="de">Tage, die es nicht gab, Deutschland/Österreich 2023 Tipp</title><category lang="de">Drama</category></programme>
+<programme start="20230214205000 +0000" stop="20230214212000 +0000" channel="DasErste.de"><title lang="de">Report Mainz</title><category lang="de">Magazin</category></programme>
+<programme start="20230214212000 +0000" stop="20230214215500 +0000" channel="DasErste.de"><title lang="de">Tagesthemen, mit Wetter</title><category lang="de">Informativni</category></programme>
+<programme start="20230214215500 +0000" stop="20230214231000 +0000" channel="DasErste.de"><title lang="de">maischberger, Tipp</title><category lang="de">Magazin</category></programme>
+<programme start="20230214231000 +0000" stop="20230214232000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230214232000 +0000" stop="20230215000500 +0000" channel="DasErste.de"><title lang="de">Tage, die es nicht gab, Deutschland/Österreich 2023 Tipp</title><category lang="de">Drama</category></programme>
+<programme start="20230215000500 +0000" stop="20230215005800 +0000" channel="DasErste.de"><title lang="de">Tage, die es nicht gab, Deutschland/Österreich 2023 Tipp</title><category lang="de">Drama</category></programme>
+<programme start="20230215005800 +0000" stop="20230215010000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230215010000 +0000" stop="20230215021500 +0000" channel="DasErste.de"><title lang="de">maischberger</title><category lang="de">Magazin</category></programme>
+<programme start="20230215021500 +0000" stop="20230215030000 +0000" channel="DasErste.de"><title lang="de">Wildes Österreich, Alpengipfel und Steppensee</title><category lang="de">ostalo</category></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="DasErste.de"><title lang="de">Europamagazin, Bericht aus Brüssel</title><category lang="de">Magazin</category></programme>
+<programme start="20230215033000 +0000" stop="20230215035800 +0000" channel="DasErste.de"><title lang="de">Brisant</title><category lang="de">Magazin</category></programme>
+<programme start="20230215035800 +0000" stop="20230215040000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title><category lang="de">Informativni</category></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="DasErste.de"><title lang="de">Report Mainz</title><category lang="de">Magazin</category></programme>
+<programme start="20230215043000 +0000" stop="20230215080000 +0000" channel="DasErste.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230213050000 +0000" stop="20230213090000 +0000" channel="SAT1.de"><title lang="de">SAT.1-Frühstücksfernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="SAT1.de"><title lang="de">Britt - Der Talk, talk-show</title><category lang="de">ostalo</category></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="SAT1.de"><title lang="de">Auf Streife - Die Spezialisten, serija</title><category lang="de">Magazin</category></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="SAT1.de"><title lang="de">Klinik am Südring, Der Wald ist tot</title><category lang="de">Reality</category></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="SAT1.de"><title lang="de">Klinik am Südring, Er steht und steht und steht</title><category lang="de">Reality</category></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="SAT1.de"><title lang="de">Britt - Der Talk, talk-show</title><category lang="de">ostalo</category></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt, Teenagerliebe</title><category lang="de">Reality</category></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt</title><category lang="de">Reality</category></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt, Verschollen</title><category lang="de">Reality</category></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt, Bad Romance</title><category lang="de">Reality</category></programme>
+<programme start="20230213180000 +0000" stop="20230213185500 +0000" channel="SAT1.de"><title lang="de">Mein Mann kann, game show</title><category lang="de">ostalo</category></programme>
+<programme start="20230213185500 +0000" stop="20230213191500 +0000" channel="SAT1.de"><title lang="de">SAT.1 Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230213191500 +0000" stop="20230213213000 +0000" channel="SAT1.de"><title lang="de">Dating Game - Die SAT.1 Kult-Show-Wochen</title><category lang="de">ostalo</category></programme>
+<programme start="20230213213000 +0000" stop="20230214001000 +0000" channel="SAT1.de"><title lang="de">Mein Mann kann, game show</title><category lang="de">ostalo</category></programme>
+<programme start="20230214001000 +0000" stop="20230214015500 +0000" channel="SAT1.de"><title lang="de">Dating Game - Die SAT.1 Kult-Show-Wochen</title><category lang="de">ostalo</category></programme>
+<programme start="20230214015500 +0000" stop="20230214020000 +0000" channel="SAT1.de"><title lang="de">So gesehen, show</title><category lang="de">ostalo</category></programme>
+<programme start="20230214020000 +0000" stop="20230214024000 +0000" channel="SAT1.de"><title lang="de">Auf Streife - Die Spezialisten, serija</title><category lang="de">Magazin</category></programme>
+<programme start="20230214024000 +0000" stop="20230214032500 +0000" channel="SAT1.de"><title lang="de">Auf Streife - Die Spezialisten, serija</title><category lang="de">Magazin</category></programme>
+<programme start="20230214032500 +0000" stop="20230214041000 +0000" channel="SAT1.de"><title lang="de">Auf Streife - Die Spezialisten, serija</title><category lang="de">Magazin</category></programme>
+<programme start="20230214041000 +0000" stop="20230214043000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214043000 +0000" stop="20230214090000 +0000" channel="SAT1.de"><title lang="de">SAT.1-Frühstücksfernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230214050000 +0000" stop="20230214090000 +0000" channel="SAT1.de"><title lang="de">SAT.1-Frühstücksfernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="SAT1.de"><title lang="de">Britt - Der Talk, talk-show</title><category lang="de">ostalo</category></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="SAT1.de"><title lang="de">Auf Streife - Die Spezialisten, serija</title><category lang="de">Magazin</category></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="SAT1.de"><title lang="de">Klinik am Südring, Hostel oder Herd</title><category lang="de">Reality</category></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="SAT1.de"><title lang="de">Klinik am Südring, Die Luft geht aus</title><category lang="de">Reality</category></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="SAT1.de"><title lang="de">Britt - Der Talk, talk-show</title><category lang="de">ostalo</category></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt, Hüllenlos - Wohnung los?</title><category lang="de">Reality</category></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt</title><category lang="de">Reality</category></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt, Wie du mir so ich dir</title><category lang="de">Reality</category></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="SAT1.de"><title lang="de">Lenßen übernimmt, Kauf dich glücklich</title><category lang="de">Reality</category></programme>
+<programme start="20230214180000 +0000" stop="20230214185500 +0000" channel="SAT1.de"><title lang="de">Mein Mann kann, game show</title><category lang="de">ostalo</category></programme>
+<programme start="20230214185500 +0000" stop="20230214191500 +0000" channel="SAT1.de"><title lang="de">SAT.1 Nachrichten</title><category lang="de">Informativni</category></programme>
+<programme start="20230214191500 +0000" stop="20230214201500 +0000" channel="SAT1.de"><title lang="de">Navy CIS, serija</title><category lang="de">Kriminalistički,Akcija</category></programme>
+<programme start="20230214201500 +0000" stop="20230214211500 +0000" channel="SAT1.de"><title lang="de">NCIS: Los Angeles, serija</title><category lang="de">Kriminalistički,Akcija</category></programme>
+<programme start="20230214211500 +0000" stop="20230214221500 +0000" channel="SAT1.de"><title lang="de">Bull, serija</title><category lang="de">Drama,Kriminalistički,Komedija</category></programme>
+<programme start="20230214221500 +0000" stop="20230214231000 +0000" channel="SAT1.de"><title lang="de">Bull, serija</title><category lang="de">Drama,Kriminalistički,Komedija</category></programme>
+<programme start="20230214231000 +0000" stop="20230215000500 +0000" channel="SAT1.de"><title lang="de">Navy CIS, serija</title><category lang="de">Kriminalistički,Akcija</category></programme>
+<programme start="20230215000500 +0000" stop="20230215005000 +0000" channel="SAT1.de"><title lang="de">NCIS: Los Angeles, serija</title><category lang="de">Kriminalistički,Akcija</category></programme>
+<programme start="20230215005000 +0000" stop="20230215013500 +0000" channel="SAT1.de"><title lang="de">Bull, serija</title><category lang="de">Drama,Kriminalistički,Komedija</category></programme>
+<programme start="20230215013500 +0000" stop="20230215021500 +0000" channel="SAT1.de"><title lang="de">Bull, serija</title><category lang="de">Drama,Kriminalistički,Komedija</category></programme>
+<programme start="20230215021500 +0000" stop="20230215030000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230215030000 +0000" stop="20230215034500 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230215034500 +0000" stop="20230215043000 +0000" channel="SAT1.de"><title lang="de">Auf Streife</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230215043000 +0000" stop="20230215090000 +0000" channel="SAT1.de"><title lang="de">SAT.1-Frühstücksfernsehen</title><category lang="de">Magazin</category></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="Sport1.de"><title lang="de">Teleshopping</title><category lang="de">Sport</category></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="Sport1.de"><title lang="de">Antworten mit Bayless Conley</title><category lang="de">Magazin</category></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="Sport1.de"><title lang="de">Die ARCHE-Fernsehkanzel</title><category lang="de">Religijski</category></programme>
+<programme start="20230213070000 +0000" stop="20230213090000 +0000" channel="Sport1.de"><title lang="de">Teleshopping</title><category lang="de">Sport</category></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="Sport1.de"><title lang="de">Storage Wars - Geschäfte in Kanada, Lokalprominenz</title><category lang="de">Reality</category></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Wikinger</title><category lang="de">Reality</category></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Schulausflug</title><category lang="de">Reality</category></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Online-Offensive</title><category lang="de">Reality</category></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Deutsche Schwertarbeit</title><category lang="de">Reality</category></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Geheimnisvolle Lieferung</title><category lang="de">Reality</category></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Grüne Zeiten</title><category lang="de">Reality</category></programme>
+<programme start="20230213183000 +0000" stop="20230213191500 +0000" channel="Sport1.de"><title lang="de">UŽIVO: SPORT1 News</title><category lang="de">Informativni</category></programme>
+<programme start="20230213191500 +0000" stop="20230213194500 +0000" channel="Sport1.de"><title lang="de">Storage Wars - Geschäfte in Kanada, Lebensberatung</title><category lang="de">Reality</category></programme>
+<programme start="20230213194500 +0000" stop="20230213201000 +0000" channel="Sport1.de"><title lang="de">Storage Wars - Geschäfte in Kanada, Verrückter Vogel</title><category lang="de">Reality</category></programme>
+<programme start="20230213201000 +0000" stop="20230213203500 +0000" channel="Sport1.de"><title lang="de">Storage Wars - Geschäfte in Kanada, Bogarts Baby</title><category lang="de">Reality</category></programme>
+<programme start="20230213203500 +0000" stop="20230213210000 +0000" channel="Sport1.de"><title lang="de">Storage Wars - Geschäfte in Kanada, Lektion fürs Leben</title><category lang="de">Reality</category></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="Sport1.de"><title lang="de">Chase Tag, World Championship 2022</title><category lang="de">Sport</category></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="Sport1.de"><title lang="de">SlapFight, Heavy Hitters</title><category lang="de">Sport</category></programme>
+<programme start="20230214000000 +0000" stop="20230214020000 +0000" channel="Sport1.de"><title lang="de">SPORT1 Late-Movie, Pumas junge Beute</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="Sport1.de"><title lang="de">Teleshopping</title><category lang="de">Sport</category></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="Sport1.de"><title lang="de">Antworten mit Bayless Conley</title><category lang="de">Magazin</category></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="Sport1.de"><title lang="de">Die ARCHE-Fernsehkanzel</title><category lang="de">Religijski</category></programme>
+<programme start="20230214070000 +0000" stop="20230214090000 +0000" channel="Sport1.de"><title lang="de">Teleshopping</title><category lang="de">Sport</category></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="Sport1.de"><title lang="de">NORMAL</title><category lang="de">Magazin</category></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="Sport1.de"><title lang="de">Storage Wars - Geschäfte in Kanada, Extreme Edition</title><category lang="de">Reality</category></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Ein Mann, ein Wunsch</title><category lang="de">Reality</category></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Schaffner Chum</title><category lang="de">Reality</category></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Braumeister</title><category lang="de">Reality</category></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, April, April</title><category lang="de">Reality</category></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Kommunistenkarre</title><category lang="de">Reality</category></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="Sport1.de"><title lang="de">Pawn Stars - Die Drei vom Pfandhaus, Fußmassage</title><category lang="de">Reality</category></programme>
+<programme start="20230214183000 +0000" stop="20230214191500 +0000" channel="Sport1.de"><title lang="de">UŽIVO: SPORT1 News</title><category lang="de">Informativni</category></programme>
+<programme start="20230214191500 +0000" stop="20230214221500 +0000" channel="Sport1.de"><title lang="de">UŽIVO: Fantalk, Achtelfinale, Hinspiele</title><category lang="de">Magazin</category></programme>
+<programme start="20230214221500 +0000" stop="20230214230000 +0000" channel="Sport1.de"><title lang="de">Scooore! - Internationales Fußball Magazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230214230000 +0000" stop="20230214234500 +0000" channel="Sport1.de"><title lang="de">3. Liga Pur, 22. Spieltag</title><category lang="de">Magazin</category></programme>
+<programme start="20230214234500 +0000" stop="20230215000000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215013000 +0000" stop="20230215020000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215020000 +0000" stop="20230215023000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215023000 +0000" stop="20230215030000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215033000 +0000" stop="20230215040000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230215043000 +0000" stop="20230215050000 +0000" channel="Sport1.de"><title lang="de">Sport Clips</title><category lang="de">Za odrasle</category></programme>
+<programme start="20230213050000 +0000" stop="20230213080000 +0000" channel="ZDF.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230213080000 +0000" stop="20230213080500 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title><category lang="de">Informativni</category></programme>
+<programme start="20230213080500 +0000" stop="20230213093000 +0000" channel="ZDF.de"><title lang="de">Volle Kanne - Service täglich</title><category lang="de">Magazin</category></programme>
+<programme start="20230213093000 +0000" stop="20230213101500 +0000" channel="ZDF.de"><title lang="de">Hamburg 112, serija</title><category lang="de">Drama</category></programme>
+<programme start="20230213101500 +0000" stop="20230213110000 +0000" channel="ZDF.de"><title lang="de">SOKO Stuttgart, serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230213110000 +0000" stop="20230213111000 +0000" channel="ZDF.de"><title lang="de">heute</title><category lang="de">Informativni</category></programme>
+<programme start="20230213111000 +0000" stop="20230213120000 +0000" channel="ZDF.de"><title lang="de">drehscheibe</title><category lang="de">Magazin</category></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="ZDF.de"><title lang="de">ZDF-Mittagsmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230213130000 +0000" stop="20230213131500 +0000" channel="ZDF.de"><title lang="de">heute - in Deutschland</title><category lang="de">Informativni</category></programme>
+<programme start="20230213131500 +0000" stop="20230213140000 +0000" channel="ZDF.de"><title lang="de">Die Küchenschlacht</title><category lang="de">ostalo</category></programme>
+<programme start="20230213140000 +0000" stop="20230213140500 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title><category lang="de">Informativni</category></programme>
+<programme start="20230213140500 +0000" stop="20230213150000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares</title><category lang="de">Magazin</category></programme>
+<programme start="20230213150000 +0000" stop="20230213151000 +0000" channel="ZDF.de"><title lang="de">heute - in Europa</title><category lang="de">Informativni</category></programme>
+<programme start="20230213151000 +0000" stop="20230213160000 +0000" channel="ZDF.de"><title lang="de">Die Rosenheim-Cops</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230213160000 +0000" stop="20230213161000 +0000" channel="ZDF.de"><title lang="de">heute</title><category lang="de">Informativni</category></programme>
+<programme start="20230213161000 +0000" stop="20230213164500 +0000" channel="ZDF.de"><title lang="de">hallo deutschland</title><category lang="de">Magazin</category></programme>
+<programme start="20230213164500 +0000" stop="20230213170000 +0000" channel="ZDF.de"><title lang="de">Leute heute</title><category lang="de">Magazin</category></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="ZDF.de"><title lang="de">SOKO Hamburg, serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230213180000 +0000" stop="20230213182000 +0000" channel="ZDF.de"><title lang="de">heute</title><category lang="de">Informativni</category></programme>
+<programme start="20230213182000 +0000" stop="20230213183000 +0000" channel="ZDF.de"><title lang="de">Wetter</title><category lang="de">Informativni</category></programme>
+<programme start="20230213183000 +0000" stop="20230213191500 +0000" channel="ZDF.de"><title lang="de">ZDF spezial - Hilfe und Verzweiflung im Erdbebengebiet - Die Katastrophe in der Türkei und Syrien</title><category lang="de">ostalo</category></programme>
+<programme start="20230213191500 +0000" stop="20230213204500 +0000" channel="ZDF.de"><title lang="de">Der Fernsehfilm der Woche: Düstersee</title><category lang="de">ostalo</category></programme>
+<programme start="20230213204500 +0000" stop="20230213211500 +0000" channel="ZDF.de"><title lang="de">heute journal</title><category lang="de">Informativni</category></programme>
+<programme start="20230213211500 +0000" stop="20230213225000 +0000" channel="ZDF.de"><title lang="de">The Tunnel - Die Todesfalle, film</title><category lang="de">Triler,Drama</category></programme>
+<programme start="20230213225000 +0000" stop="20230213230500 +0000" channel="ZDF.de"><title lang="de">heute journal update</title><category lang="de">Informativni</category></programme>
+<programme start="20230213230500 +0000" stop="20230214004500 +0000" channel="ZDF.de"><title lang="de">Das kleine Fernsehspiel: Die Hände meiner Mutter</title><category lang="de">Drama</category></programme>
+<programme start="20230214004500 +0000" stop="20230214013000 +0000" channel="ZDF.de"><title lang="de">neoriginal: West of Liberty (6)</title><category lang="de">Triler,Drama</category></programme>
+<programme start="20230214013000 +0000" stop="20230214030500 +0000" channel="ZDF.de"><title lang="de">Furia (1), serija</title><category lang="de">Triler</category></programme>
+<programme start="20230214030500 +0000" stop="20230214035000 +0000" channel="ZDF.de"><title lang="de">SOKO Hamburg, serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230214035000 +0000" stop="20230214040000 +0000" channel="ZDF.de"><title lang="de">Leute heute</title><category lang="de">Magazin</category></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="ZDF.de"><title lang="de">hallo deutschland</title><category lang="de">Magazin</category></programme>
+<programme start="20230214043000 +0000" stop="20230214080000 +0000" channel="ZDF.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230214050000 +0000" stop="20230214080000 +0000" channel="ZDF.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+<programme start="20230214080000 +0000" stop="20230214080500 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title><category lang="de">Informativni</category></programme>
+<programme start="20230214080500 +0000" stop="20230214093000 +0000" channel="ZDF.de"><title lang="de">Volle Kanne - Service täglich</title><category lang="de">Magazin</category></programme>
+<programme start="20230214093000 +0000" stop="20230214101500 +0000" channel="ZDF.de"><title lang="de">Hamburg 112, serija</title><category lang="de">Drama</category></programme>
+<programme start="20230214101500 +0000" stop="20230214110000 +0000" channel="ZDF.de"><title lang="de">SOKO Stuttgart, serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230214110000 +0000" stop="20230214111000 +0000" channel="ZDF.de"><title lang="de">heute</title><category lang="de">Informativni</category></programme>
+<programme start="20230214111000 +0000" stop="20230214130500 +0000" channel="ZDF.de"><title lang="de">sportstudio live</title><category lang="de">Magazin,Sportski</category></programme>
+<programme start="20230214130500 +0000" stop="20230214130700 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title><category lang="de">Informativni</category></programme>
+<programme start="20230214130700 +0000" stop="20230214153000 +0000" channel="ZDF.de"><title lang="de">sportstudio live</title><category lang="de">Magazin,Sportski</category></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares - Lieblingsstücke</title><category lang="de">Magazin</category></programme>
+<programme start="20230214160000 +0000" stop="20230214161000 +0000" channel="ZDF.de"><title lang="de">heute</title><category lang="de">Informativni</category></programme>
+<programme start="20230214161000 +0000" stop="20230214164500 +0000" channel="ZDF.de"><title lang="de">hallo deutschland</title><category lang="de">Magazin</category></programme>
+<programme start="20230214164500 +0000" stop="20230214170000 +0000" channel="ZDF.de"><title lang="de">Leute heute</title><category lang="de">Magazin</category></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="ZDF.de"><title lang="de">SOKO Köln, serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230214180000 +0000" stop="20230214182000 +0000" channel="ZDF.de"><title lang="de">heute</title><category lang="de">Informativni</category></programme>
+<programme start="20230214182000 +0000" stop="20230214182500 +0000" channel="ZDF.de"><title lang="de">Wetter</title><category lang="de">Informativni</category></programme>
+<programme start="20230214182500 +0000" stop="20230214191500 +0000" channel="ZDF.de"><title lang="de">Die Rosenheim-Cops</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230214191500 +0000" stop="20230214200000 +0000" channel="ZDF.de"><title lang="de">ZDFzeit: Mensch Messner!</title><category lang="de">Magazin</category></programme>
+<programme start="20230214200000 +0000" stop="20230214204500 +0000" channel="ZDF.de"><title lang="de">frontal</title><category lang="de">Informativni</category></programme>
+<programme start="20230214204500 +0000" stop="20230214211500 +0000" channel="ZDF.de"><title lang="de">heute journal</title><category lang="de">Informativni</category></programme>
+<programme start="20230214211500 +0000" stop="20230214214500 +0000" channel="ZDF.de"><title lang="de">37°: Vor uns die Sintflut</title><category lang="de">Dokumentarni</category></programme>
+<programme start="20230214214500 +0000" stop="20230214230000 +0000" channel="ZDF.de"><title lang="de">Markus Lanz, talk-show</title><category lang="de">Politički</category></programme>
+<programme start="20230214230000 +0000" stop="20230214231500 +0000" channel="ZDF.de"><title lang="de">heute journal update</title><category lang="de">Informativni</category></programme>
+<programme start="20230214231500 +0000" stop="20230215005000 +0000" channel="ZDF.de"><title lang="de">The Tunnel - Die Todesfalle, film</title><category lang="de">Triler,Drama</category></programme>
+<programme start="20230215005000 +0000" stop="20230215020500 +0000" channel="ZDF.de"><title lang="de">Mord in Genua - Ein Fall für Petra Delicato</title><category lang="de">ostalo</category></programme>
+<programme start="20230215020500 +0000" stop="20230215025500 +0000" channel="ZDF.de"><title lang="de">neoriginal: Sløborn (3), serija</title><category lang="de">Drama</category></programme>
+<programme start="20230215025500 +0000" stop="20230215034000 +0000" channel="ZDF.de"><title lang="de">SOKO Köln, serija</title><category lang="de">Kriminalistički</category></programme>
+<programme start="20230215034000 +0000" stop="20230215035500 +0000" channel="ZDF.de"><title lang="de">Leute heute</title><category lang="de">Magazin</category></programme>
+<programme start="20230215035500 +0000" stop="20230215043000 +0000" channel="ZDF.de"><title lang="de">hallo deutschland</title><category lang="de">Magazin</category></programme>
+<programme start="20230215043000 +0000" stop="20230215080000 +0000" channel="ZDF.de"><title lang="de">ARD-Morgenmagazin</title><category lang="de">Magazin</category></programme>
+</tv>

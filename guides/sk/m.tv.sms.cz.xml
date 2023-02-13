@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="24.sk"><display-name>:24</display-name><icon src="https://i.imgur.com/tTCuczU.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="ArcadiaTV.li"><display-name>Arcadia TV</display-name><icon src="https://i.imgur.com/9x39SPV.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="ArenaSport1.sk"><display-name>Arena Sport 1</display-name><icon src="https://i.imgur.com/2qf67zW.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="ArenaSport2.sk"><display-name>Arena Sport 2</display-name><icon src="https://i.imgur.com/Yq3Jf19.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="CNLEurope.kz"><display-name>CNL Europe</display-name><icon src="https://i.imgur.com/TcJydX0.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="ChuckTV.sk"><display-name>Chuck TV</display-name><icon src="https://i.imgur.com/iKXL9AW.png"/><url>https://m.tv.sms.cz</url></channel>
+<channel id="LifeTv.sk"><display-name>LifeTv</display-name><icon src="https://i.imgur.com/jO8kAY2.png"/><url>https://m.tv.sms.cz</url></channel>
+<programme start="20230213023500 +0000" stop="20230213024500 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213024500 +0000" stop="20230213033000 +0000" channel="24.sk"><title lang="sk">Sobotné dialógy</title><desc lang="sk">Politická diskusia o témach, ktoré počas týždňa rezonovali v politickom a spoločenskom dianí. Jedna...</desc></programme>
+<programme start="20230213033000 +0000" stop="20230213042500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213042500 +0000" stop="20230213044500 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213044500 +0000" stop="20230213050000 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213050000 +0000" stop="20230213050500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213050500 +0000" stop="20230213060000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213090000 +0000" stop="20230213092000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213092000 +0000" stop="20230213093000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213093000 +0000" stop="20230213095000 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230213095000 +0000" stop="20230213110000 +0000" channel="24.sk"><title lang="sk">O 5 minút 12</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213113000 +0000" stop="20230213115500 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230213115500 +0000" stop="20230213122500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213122500 +0000" stop="20230213123500 +0000" channel="24.sk"><title lang="sk">Československý filmový týždenník</title><desc lang="sk">Československo (1970)</desc></programme>
+<programme start="20230213123500 +0000" stop="20230213125000 +0000" channel="24.sk"><title lang="sk">Československý filmový týždenník</title><desc lang="sk">Československo (1970)</desc></programme>
+<programme start="20230213125000 +0000" stop="20230213130000 +0000" channel="24.sk"><title lang="sk">Hírek</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213132500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213132500 +0000" stop="20230213133000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213133000 +0000" stop="20230213140500 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230213140500 +0000" stop="20230213143000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213152500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213152500 +0000" stop="20230213154500 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230213154500 +0000" stop="20230213161000 +0000" channel="24.sk"><title lang="sk">Ekonomika :24</title><desc lang="sk">Každý deň aktuálne spravodajstvo zo sveta ekonomiky s erudovanými odborníkmi, čerstvými informáciami...</desc></programme>
+<programme start="20230213161000 +0000" stop="20230213163000 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="24.sk"><title lang="sk">Bedeker (9/38)</title><desc lang="sk">Česká republika (2017)</desc></programme>
+<programme start="20230213180000 +0000" stop="20230213185000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213185000 +0000" stop="20230213191000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213191000 +0000" stop="20230213192000 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213192000 +0000" stop="20230213200000 +0000" channel="24.sk"><title lang="sk">Správy a komentáre</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230213210000 +0000" stop="20230213212500 +0000" channel="24.sk"><title lang="sk">Nočné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213212500 +0000" stop="20230213214000 +0000" channel="24.sk"><title lang="sk">Ekonomika :24</title><desc lang="sk">Každý deň aktuálne spravodajstvo zo sveta ekonomiky s erudovanými odborníkmi, čerstvými informáciami...</desc></programme>
+<programme start="20230213214000 +0000" stop="20230213215500 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213215500 +0000" stop="20230213222500 +0000" channel="24.sk"><title lang="sk">Nočné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213222500 +0000" stop="20230213224500 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230213224500 +0000" stop="20230213234000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213234000 +0000" stop="20230213234500 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213234500 +0000" stop="20230214001500 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214001500 +0000" stop="20230214004500 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214004500 +0000" stop="20230214010000 +0000" channel="24.sk"><title lang="sk">Ekonomika :24</title><desc lang="sk">Každý deň aktuálne spravodajstvo zo sveta ekonomiky s erudovanými odborníkmi, čerstvými informáciami...</desc></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214011500 +0000" stop="20230214020500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214020500 +0000" stop="20230214022000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214022000 +0000" stop="20230214023000 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214023000 +0000" stop="20230214025000 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230214025000 +0000" stop="20230214030500 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214030500 +0000" stop="20230214034500 +0000" channel="24.sk"><title lang="sk">Správy a komentáre</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214034500 +0000" stop="20230214044500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214043500 +0000" stop="20230214045000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214045000 +0000" stop="20230214050000 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214050000 +0000" stop="20230214050500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214050500 +0000" stop="20230214060000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="24.sk"><title lang="sk">Ranné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214090000 +0000" stop="20230214092000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214092000 +0000" stop="20230214093000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214093000 +0000" stop="20230214095000 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230214095000 +0000" stop="20230214103000 +0000" channel="24.sk"><title lang="sk">Správy a komentáre</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="24.sk"><title lang="sk">Bedeker (9/38)</title><desc lang="sk">Česká republika (2017)</desc></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214113000 +0000" stop="20230214115500 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214115500 +0000" stop="20230214122500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214122500 +0000" stop="20230214125000 +0000" channel="24.sk"><title lang="sk">Peniaze</title><desc lang="sk">Všetko čo potrebujete vedieť o (svojich) peniazoch. Slovenská republika (2023)</desc></programme>
+<programme start="20230214125000 +0000" stop="20230214130000 +0000" channel="24.sk"><title lang="sk">Hírek</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214132500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214132500 +0000" stop="20230214133000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214133000 +0000" stop="20230214140500 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214140500 +0000" stop="20230214142500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214142500 +0000" stop="20230214150000 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214152500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214152500 +0000" stop="20230214154500 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230214154500 +0000" stop="20230214161000 +0000" channel="24.sk"><title lang="sk">Ekonomika :24</title><desc lang="sk">Každý deň aktuálne spravodajstvo zo sveta ekonomiky s erudovanými odborníkmi, čerstvými informáciami...</desc></programme>
+<programme start="20230214161000 +0000" stop="20230214163000 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="24.sk"><title lang="sk">Bedeker (10/38)</title><desc lang="sk">Česká republika (2017)</desc></programme>
+<programme start="20230214180000 +0000" stop="20230214185000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214185000 +0000" stop="20230214191000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214191000 +0000" stop="20230214192000 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214192000 +0000" stop="20230214200000 +0000" channel="24.sk"><title lang="sk">Správy a komentáre</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230214210000 +0000" stop="20230214212500 +0000" channel="24.sk"><title lang="sk">Nočné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214212500 +0000" stop="20230214214000 +0000" channel="24.sk"><title lang="sk">Ekonomika :24</title><desc lang="sk">Každý deň aktuálne spravodajstvo zo sveta ekonomiky s erudovanými odborníkmi, čerstvými informáciami...</desc></programme>
+<programme start="20230214214000 +0000" stop="20230214215500 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214215500 +0000" stop="20230214222500 +0000" channel="24.sk"><title lang="sk">Nočné správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214222500 +0000" stop="20230214224500 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230214224500 +0000" stop="20230214234000 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214234000 +0000" stop="20230214234500 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230214234500 +0000" stop="20230215001500 +0000" channel="24.sk"><title lang="sk">Interview :24</title><desc lang="sk">Diskusná relácia s hosťom o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230215001500 +0000" stop="20230215004500 +0000" channel="24.sk"><title lang="sk">Z prvej ruky</title><desc lang="sk">Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2023)</desc></programme>
+<programme start="20230215004500 +0000" stop="20230215010000 +0000" channel="24.sk"><title lang="sk">Ekonomika :24</title><desc lang="sk">Každý deň aktuálne spravodajstvo zo sveta ekonomiky s erudovanými odborníkmi, čerstvými informáciami...</desc></programme>
+<programme start="20230215010000 +0000" stop="20230215011500 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230215011500 +0000" stop="20230215020500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230215020500 +0000" stop="20230215022000 +0000" channel="24.sk"><title lang="sk">Góly - body - sekundy</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230215022000 +0000" stop="20230215023000 +0000" channel="24.sk"><title lang="sk">Počasie</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230215023000 +0000" stop="20230215025000 +0000" channel="24.sk"><title lang="sk">Svet :24</title><desc lang="sk">Diskusná relácia o najdôležitejších udalostiach v zahraničí. Slovenská republika (2023)</desc></programme>
+<programme start="20230215025000 +0000" stop="20230215030500 +0000" channel="24.sk"><title lang="sk">Správy RTVS z regiónov</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230215030500 +0000" stop="20230215034500 +0000" channel="24.sk"><title lang="sk">Správy a komentáre</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230215034500 +0000" stop="20230215044500 +0000" channel="24.sk"><title lang="sk">Správy RTVS</title><desc lang="sk">Slovenská republika (2023)</desc></programme>
+<programme start="20230213040000 +0000" stop="20230213041200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Li-ťiang</desc></programme>
+<programme start="20230213041200 +0000" stop="20230213043800 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Madrid</desc></programme>
+<programme start="20230213043800 +0000" stop="20230213045000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Valparaiso</desc></programme>
+<programme start="20230213045000 +0000" stop="20230213050000 +0000" channel="ArcadiaTV.li"><title lang="sk">Modern Times Wonders</title><desc lang="sk">Železnice Šinkansen</desc></programme>
+<programme start="20230213050000 +0000" stop="20230213055300 +0000" channel="ArcadiaTV.li"><title lang="sk">7 Days</title><desc lang="sk">Libye</desc></programme>
+<programme start="20230213055300 +0000" stop="20230213060000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Malmö</desc></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="ArcadiaTV.li"><title lang="sk">Doc Time</title><desc lang="sk">Erta Ale</desc></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Dublin</desc></programme>
+<programme start="20230213070000 +0000" stop="20230213072900 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Nockalmstrasse</desc></programme>
+<programme start="20230213072900 +0000" stop="20230213075500 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Honolulu</desc></programme>
+<programme start="20230213075500 +0000" stop="20230213080000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Meissen</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213082700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Miláno</desc></programme>
+<programme start="20230213082700 +0000" stop="20230213083800 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Palác Pavlovsk</desc></programme>
+<programme start="20230213083800 +0000" stop="20230213084300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Tan Druk</desc></programme>
+<programme start="20230213084300 +0000" stop="20230213085400 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Izola</desc></programme>
+<programme start="20230213085400 +0000" stop="20230213090000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Soul</desc></programme>
+<programme start="20230213090000 +0000" stop="20230213094800 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Parks</title><desc lang="sk">Etosha</desc></programme>
+<programme start="20230213094800 +0000" stop="20230213100000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Hluboká nad Vltavou</desc></programme>
+<programme start="20230213100000 +0000" stop="20230213102700 +0000" channel="ArcadiaTV.li"><title lang="sk">Terra Mystica</title><desc lang="sk">Veľkonočný ostrov</desc></programme>
+<programme start="20230213102700 +0000" stop="20230213103800 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Namaskard</desc></programme>
+<programme start="20230213103800 +0000" stop="20230213104300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Hortobagy Mata</desc></programme>
+<programme start="20230213104300 +0000" stop="20230213105300 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Hierapolis</desc></programme>
+<programme start="20230213105300 +0000" stop="20230213110000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Národný park Cajas</desc></programme>
+<programme start="20230213110000 +0000" stop="20230213112900 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Kapverdy</desc></programme>
+<programme start="20230213112900 +0000" stop="20230213115500 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Delta Mekongu</desc></programme>
+<programme start="20230213115500 +0000" stop="20230213120000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Ostrov Öland</desc></programme>
+<programme start="20230213120000 +0000" stop="20230213122700 +0000" channel="ArcadiaTV.li"><title lang="sk">Travel Logue</title><desc lang="sk">Mongolské cesty</desc></programme>
+<programme start="20230213122700 +0000" stop="20230213125400 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Kiev</desc></programme>
+<programme start="20230213125400 +0000" stop="20230213130000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Park pro rodiny s dětmi</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213132700 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Jazero Inlay</desc></programme>
+<programme start="20230213132700 +0000" stop="20230213133800 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Národní park Petrified Forest</desc></programme>
+<programme start="20230213133800 +0000" stop="20230213134300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Hagharzin</desc></programme>
+<programme start="20230213134300 +0000" stop="20230213135400 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">La Laguna (Tenerife)</desc></programme>
+<programme start="20230213135400 +0000" stop="20230213140000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Zámek ve Versailles</desc></programme>
+<programme start="20230213140000 +0000" stop="20230213142700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Cyprus</desc></programme>
+<programme start="20230213142700 +0000" stop="20230213143800 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Nefta</desc></programme>
+<programme start="20230213143800 +0000" stop="20230213144300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Plymouth</desc></programme>
+<programme start="20230213144300 +0000" stop="20230213145400 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Buddhistický chrám Džókhang</desc></programme>
+<programme start="20230213145400 +0000" stop="20230213150000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Maymand</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213151200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Bari</desc></programme>
+<programme start="20230213151200 +0000" stop="20230213153900 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Nice</desc></programme>
+<programme start="20230213153900 +0000" stop="20230213155000 +0000" channel="ArcadiaTV.li"><title lang="sk">Regio</title><desc lang="sk">Mazury</desc></programme>
+<programme start="20230213155000 +0000" stop="20230213160000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Sukhothaj</desc></programme>
+<programme start="20230213160000 +0000" stop="20230213162900 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Plavba po čtyřech řekách</desc></programme>
+<programme start="20230213162900 +0000" stop="20230213165500 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Damašok</desc></programme>
+<programme start="20230213165500 +0000" stop="20230213170000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Kursiu Nerija</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213175500 +0000" channel="ArcadiaTV.li"><title lang="sk">7 Days</title><desc lang="sk">Kalifornie</desc></programme>
+<programme start="20230213175500 +0000" stop="20230213180000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Museum Meiji-Mura</desc></programme>
+<programme start="20230213180000 +0000" stop="20230213182700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Krakov</desc></programme>
+<programme start="20230213182700 +0000" stop="20230213185400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Plavba po Níle</desc></programme>
+<programme start="20230213185400 +0000" stop="20230213190000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Ibiza</desc></programme>
+<programme start="20230213190000 +0000" stop="20230213191200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Buxoro</desc></programme>
+<programme start="20230213191200 +0000" stop="20230213193800 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Toronto</desc></programme>
+<programme start="20230213193800 +0000" stop="20230213195000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Pútnický kostol vo Wies</desc></programme>
+<programme start="20230213195000 +0000" stop="20230213200000 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Manu</desc></programme>
+<programme start="20230213200000 +0000" stop="20230213205300 +0000" channel="ArcadiaTV.li"><title lang="sk">Cosmos Global</title><desc lang="sk">Maroko - Čtyři královská města</desc></programme>
+<programme start="20230213205300 +0000" stop="20230213210000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Z mesta Oban na ostrov Mull</desc></programme>
+<programme start="20230213210000 +0000" stop="20230213212700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Havana</desc></programme>
+<programme start="20230213212700 +0000" stop="20230213215400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Cesta po Mato Grosso</desc></programme>
+<programme start="20230213215400 +0000" stop="20230213220000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Železnice Furka Bergbahn</desc></programme>
+<programme start="20230213220000 +0000" stop="20230213222900 +0000" channel="ArcadiaTV.li"><title lang="sk">Gardens of the World</title><desc lang="sk">Divoké horské zahrady</desc></programme>
+<programme start="20230213222900 +0000" stop="20230213225500 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Galícia</desc></programme>
+<programme start="20230213225500 +0000" stop="20230213230000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Vlakem podél jávských sopek</desc></programme>
+<programme start="20230213230000 +0000" stop="20230213234800 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Parks</title><desc lang="sk">Bažiny Mississippi</desc></programme>
+<programme start="20230213234800 +0000" stop="20230214000000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Kurašiki</desc></programme>
+<programme start="20230214000000 +0000" stop="20230214002900 +0000" channel="ArcadiaTV.li"><title lang="sk">Gardens of the World</title><desc lang="sk">Národná botanická záhrada v Bruseli</desc></programme>
+<programme start="20230214002900 +0000" stop="20230214005500 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Prehliadka krajiny Inkov</desc></programme>
+<programme start="20230214005500 +0000" stop="20230214010000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Brindisi</desc></programme>
+<programme start="20230214010000 +0000" stop="20230214012700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Menorca</desc></programme>
+<programme start="20230214012700 +0000" stop="20230214013800 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Záhrada bohov</desc></programme>
+<programme start="20230214013800 +0000" stop="20230214014300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Přírodní park Eisenwurzen</desc></programme>
+<programme start="20230214014300 +0000" stop="20230214015400 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Palác Čchangdok</desc></programme>
+<programme start="20230214015400 +0000" stop="20230214020000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Bangkok</desc></programme>
+<programme start="20230214020000 +0000" stop="20230214025300 +0000" channel="ArcadiaTV.li"><title lang="sk">Cosmos Global</title><desc lang="sk">Afrika - barvy černého kontinentu</desc></programme>
+<programme start="20230214025300 +0000" stop="20230214030000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Hnězdno</desc></programme>
+<programme start="20230214030000 +0000" stop="20230214032700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Andalúzia</desc></programme>
+<programme start="20230214032700 +0000" stop="20230214035400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Plavba po Karibiku</desc></programme>
+<programme start="20230214035400 +0000" stop="20230214045400 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Brno</desc></programme>
+<programme start="20230214040000 +0000" stop="20230214041200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Prambanan</desc></programme>
+<programme start="20230214041200 +0000" stop="20230214043900 +0000" channel="ArcadiaTV.li"><title lang="sk">Extravaganza</title><desc lang="sk">Zajímavosti na Rýně</desc></programme>
+<programme start="20230214043900 +0000" stop="20230214045000 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Orkhonii Khundii</desc></programme>
+<programme start="20230214045000 +0000" stop="20230214050000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Locronan</desc></programme>
+<programme start="20230214050000 +0000" stop="20230214052700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">La Palma</desc></programme>
+<programme start="20230214052700 +0000" stop="20230214055400 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Halifax</desc></programme>
+<programme start="20230214055400 +0000" stop="20230214060000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Telč</desc></programme>
+<programme start="20230214060000 +0000" stop="20230214061100 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Rieka Chobe</desc></programme>
+<programme start="20230214061100 +0000" stop="20230214062200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Persepolis</desc></programme>
+<programme start="20230214062200 +0000" stop="20230214065000 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Tuniská oáza</desc></programme>
+<programme start="20230214065000 +0000" stop="20230214070000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Tatew</desc></programme>
+<programme start="20230214070000 +0000" stop="20230214072700 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Isla Grande de Chiloe</desc></programme>
+<programme start="20230214072700 +0000" stop="20230214075400 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Solná komora</desc></programme>
+<programme start="20230214075400 +0000" stop="20230214080000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Martinik</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214085300 +0000" channel="ArcadiaTV.li"><title lang="sk">Cosmos Global</title><desc lang="sk">Sicílie</desc></programme>
+<programme start="20230214085300 +0000" stop="20230214090000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Starodávny Khorezm</desc></programme>
+<programme start="20230214090000 +0000" stop="20230214092700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Rovaniemi</desc></programme>
+<programme start="20230214092700 +0000" stop="20230214093800 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Janov - Historické centrum</desc></programme>
+<programme start="20230214093800 +0000" stop="20230214094300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Kampung Naga</desc></programme>
+<programme start="20230214094300 +0000" stop="20230214095400 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Národní park Capitol Reef</desc></programme>
+<programme start="20230214095400 +0000" stop="20230214100000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Osaka</desc></programme>
+<programme start="20230214100000 +0000" stop="20230214102900 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Vlak Jakobín</desc></programme>
+<programme start="20230214102900 +0000" stop="20230214105500 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Hanoj</desc></programme>
+<programme start="20230214105500 +0000" stop="20230214110000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Ljubljana</desc></programme>
+<programme start="20230214110000 +0000" stop="20230214115300 +0000" channel="ArcadiaTV.li"><title lang="sk">7 Days</title><desc lang="sk">Indie</desc></programme>
+<programme start="20230214115300 +0000" stop="20230214120000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Rothenburg ob der Tauber</desc></programme>
+<programme start="20230214120000 +0000" stop="20230214122900 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Hrady Umajjovskej púšte</desc></programme>
+<programme start="20230214122900 +0000" stop="20230214125500 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Monako</desc></programme>
+<programme start="20230214125500 +0000" stop="20230214130000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Ostrov Ischia</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214132700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Kyklady</desc></programme>
+<programme start="20230214132700 +0000" stop="20230214133800 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Dóm svätého Štefana</desc></programme>
+<programme start="20230214133800 +0000" stop="20230214134300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Vodopády Petrohué</desc></programme>
+<programme start="20230214134300 +0000" stop="20230214135400 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Liwonde</desc></programme>
+<programme start="20230214135400 +0000" stop="20230214140000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Chrám svatého Michala</desc></programme>
+<programme start="20230214140000 +0000" stop="20230214142700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Funchal</desc></programme>
+<programme start="20230214142700 +0000" stop="20230214143700 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Čínsky pavilón</desc></programme>
+<programme start="20230214143700 +0000" stop="20230214144300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Riga</desc></programme>
+<programme start="20230214144300 +0000" stop="20230214145400 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Glaumbaer</desc></programme>
+<programme start="20230214145400 +0000" stop="20230214150000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Spišský Hrad</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214152700 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Vodný raj</desc></programme>
+<programme start="20230214152700 +0000" stop="20230214155400 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Dubaj</desc></programme>
+<programme start="20230214155400 +0000" stop="20230214160000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Okolí Bodminu</desc></programme>
+<programme start="20230214160000 +0000" stop="20230214161100 +0000" channel="ArcadiaTV.li"><title lang="sk">Travel Stories</title><desc lang="sk">Nomádi z Čhangthangu</desc></programme>
+<programme start="20230214161100 +0000" stop="20230214162200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Švedagónska Pagoda</desc></programme>
+<programme start="20230214162200 +0000" stop="20230214165000 +0000" channel="ArcadiaTV.li"><title lang="sk">Esovision</title><desc lang="sk">Moře</desc></programme>
+<programme start="20230214165000 +0000" stop="20230214170000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Ostrihom</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214172700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Paríž</desc></programme>
+<programme start="20230214172700 +0000" stop="20230214173800 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Banská Štiavnica</desc></programme>
+<programme start="20230214173800 +0000" stop="20230214174300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Národný park Awaš</desc></programme>
+<programme start="20230214174300 +0000" stop="20230214175400 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Kourion</desc></programme>
+<programme start="20230214175400 +0000" stop="20230214180000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Nesebar</desc></programme>
+<programme start="20230214180000 +0000" stop="20230214182700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Drážďany</desc></programme>
+<programme start="20230214182700 +0000" stop="20230214185400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Transsibírska magistrála</desc></programme>
+<programme start="20230214185400 +0000" stop="20230214190000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Varšavské staré město</desc></programme>
+<programme start="20230214190000 +0000" stop="20230214192800 +0000" channel="ArcadiaTV.li"><title lang="sk">Terra Mystica</title><desc lang="sk">Kapadokie</desc></programme>
+<programme start="20230214192800 +0000" stop="20230214193900 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Kláštěr Melk</desc></programme>
+<programme start="20230214193900 +0000" stop="20230214195000 +0000" channel="ArcadiaTV.li"><title lang="sk">Footsteps</title><desc lang="sk">V létě i v zimě</desc></programme>
+<programme start="20230214195000 +0000" stop="20230214200000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Machu Picchu</desc></programme>
+<programme start="20230214200000 +0000" stop="20230214202700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">San Diego</desc></programme>
+<programme start="20230214202700 +0000" stop="20230214205400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Rieka Kwai</desc></programme>
+<programme start="20230214205400 +0000" stop="20230214210000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Pico</desc></programme>
+<programme start="20230214210000 +0000" stop="20230214215300 +0000" channel="ArcadiaTV.li"><title lang="sk">7 Days</title><desc lang="sk">Chorvatsko</desc></programme>
+<programme start="20230214215300 +0000" stop="20230214220000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Údolí Kathmandu</desc></programme>
+<programme start="20230214220000 +0000" stop="20230214222700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Toskánsko</desc></programme>
+<programme start="20230214222700 +0000" stop="20230214223800 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Pule Si</desc></programme>
+<programme start="20230214223800 +0000" stop="20230214224300 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Národní park Pantanal</desc></programme>
+<programme start="20230214224300 +0000" stop="20230214225400 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">El Quseir el Quadim</desc></programme>
+<programme start="20230214225400 +0000" stop="20230214230000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Bagan</desc></programme>
+<programme start="20230214230000 +0000" stop="20230214235500 +0000" channel="ArcadiaTV.li"><title lang="sk">7 Days</title><desc lang="sk">Kalifornie</desc></programme>
+<programme start="20230214235500 +0000" stop="20230215000000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Museum Meiji-Mura</desc></programme>
+<programme start="20230215000000 +0000" stop="20230215002700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Krakov</desc></programme>
+<programme start="20230215002700 +0000" stop="20230215005400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Plavba po Níle</desc></programme>
+<programme start="20230215005400 +0000" stop="20230215010000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Ibiza</desc></programme>
+<programme start="20230215010000 +0000" stop="20230215011200 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Buxoro</desc></programme>
+<programme start="20230215011200 +0000" stop="20230215013800 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Toronto</desc></programme>
+<programme start="20230215013800 +0000" stop="20230215015000 +0000" channel="ArcadiaTV.li"><title lang="sk">Global Treasures</title><desc lang="sk">Pútnický kostol vo Wies</desc></programme>
+<programme start="20230215015000 +0000" stop="20230215020000 +0000" channel="ArcadiaTV.li"><title lang="sk">Nature Wonders</title><desc lang="sk">Manu</desc></programme>
+<programme start="20230215020000 +0000" stop="20230215025300 +0000" channel="ArcadiaTV.li"><title lang="sk">Cosmos Global</title><desc lang="sk">Maroko - Čtyři královská města</desc></programme>
+<programme start="20230215025300 +0000" stop="20230215030000 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Z mesta Oban na ostrov Mull</desc></programme>
+<programme start="20230215030000 +0000" stop="20230215032700 +0000" channel="ArcadiaTV.li"><title lang="sk">Vista Point</title><desc lang="sk">Havana</desc></programme>
+<programme start="20230215032700 +0000" stop="20230215035400 +0000" channel="ArcadiaTV.li"><title lang="sk">On Tour</title><desc lang="sk">Cesta po Mato Grosso</desc></programme>
+<programme start="20230215035400 +0000" stop="20230215045400 +0000" channel="ArcadiaTV.li"><title lang="sk">Planet Terra</title><desc lang="sk">Železnice Furka Bergbahn</desc></programme>
+<programme start="20230213000000 +0000" stop="20230213053000 +0000" channel="ArenaSport1.sk"><title lang="sk">Nočné vysielanie</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230213060000 +0000" stop="20230213061000 +0000" channel="ArenaSport1.sk"><title lang="sk">Športové sekundy</title><desc lang="sk">Športové spravodajstvo</desc></programme>
+<programme start="20230213061000 +0000" stop="20230213063500 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213063500 +0000" stop="20230213070000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230213070000 +0000" stop="20230213083000 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213083000 +0000" stop="20230213100000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="ArenaSport1.sk"><title lang="sk">Luxusné auta z Hamburgu</title><desc lang="sk">Reality show zo sveta luxusných prémiových áut</desc></programme>
+<programme start="20230213103000 +0000" stop="20230213113000 +0000" channel="ArenaSport1.sk"><title lang="sk">Profíci na konské sily - Mladí jazdci</title><desc lang="sk">Reality show zo sveta tuningu áut</desc></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="ArenaSport1.sk"><title lang="sk">Lovci nákladiakov</title><desc lang="sk">Reality show o záchrane klasických amerických truckov</desc></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="ArenaSport1.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213133000 +0000" stop="20230213141500 +0000" channel="ArenaSport1.sk"><title lang="sk">Luxusné auta z Hamburgu</title><desc lang="sk">Reality show zo sveta luxusných prémiových áut</desc></programme>
+<programme start="20230213141500 +0000" stop="20230213150000 +0000" channel="ArenaSport1.sk"><title lang="sk">Rýchle jazdy</title><desc lang="sk">Reality show - auto na objednávku</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230213153000 +0000" stop="20230213161500 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213161500 +0000" stop="20230213170000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213174500 +0000" channel="ArenaSport1.sk"><title lang="sk">Profíci na konské sily - Zábava s autom cez 200 koní</title><desc lang="sk">Reality show zo sveta tuningu áut</desc></programme>
+<programme start="20230213174500 +0000" stop="20230213181500 +0000" channel="ArenaSport1.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230213181500 +0000" stop="20230213184500 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230213184500 +0000" stop="20230213193000 +0000" channel="ArenaSport1.sk"><title lang="sk">Rýchle jazdy</title><desc lang="sk">Reality show - auto na objednávku</desc></programme>
+<programme start="20230213193000 +0000" stop="20230213203000 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213203000 +0000" stop="20230213211500 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230213211500 +0000" stop="20230213231500 +0000" channel="ArenaSport1.sk"><title lang="sk">Boavista FC - Casa Pia</title><desc lang="sk">Priamy prenos z 20. kola portugalskej ligy</desc></programme>
+<programme start="20230213231500 +0000" stop="20230214000000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="ArenaSport1.sk"><title lang="sk">Nočné vysielanie</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230214060000 +0000" stop="20230214061000 +0000" channel="ArenaSport1.sk"><title lang="sk">Športové sekundy</title><desc lang="sk">Športové spravodajstvo</desc></programme>
+<programme start="20230214061000 +0000" stop="20230214063500 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214063500 +0000" stop="20230214070000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230214070000 +0000" stop="20230214083000 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214083000 +0000" stop="20230214100000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="ArenaSport1.sk"><title lang="sk">Luxusné auta z Hamburgu</title><desc lang="sk">Reality show zo sveta luxusných prémiových áut</desc></programme>
+<programme start="20230214103000 +0000" stop="20230214113000 +0000" channel="ArenaSport1.sk"><title lang="sk">Profíci na konské sily - Krížnik ciest pre Henryho</title><desc lang="sk">Reality show zo sveta tuningu áut</desc></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="ArenaSport1.sk"><title lang="sk">Lovci nákladiakov</title><desc lang="sk">Reality show o záchrane klasických amerických truckov</desc></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="ArenaSport1.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214133000 +0000" stop="20230214141500 +0000" channel="ArenaSport1.sk"><title lang="sk">Luxusné auta z Hamburgu</title><desc lang="sk">Reality show zo sveta luxusných prémiových áut</desc></programme>
+<programme start="20230214141500 +0000" stop="20230214150000 +0000" channel="ArenaSport1.sk"><title lang="sk">Rýchle jazdy</title><desc lang="sk">Reality show - auto na objednávku</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230214153000 +0000" stop="20230214161500 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214161500 +0000" stop="20230214170000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214174500 +0000" channel="ArenaSport1.sk"><title lang="sk">Profíci na konské sily - Rodinné auto do 5000 Eur</title><desc lang="sk">Reality show zo sveta tuningu áut</desc></programme>
+<programme start="20230214174500 +0000" stop="20230214181500 +0000" channel="ArenaSport1.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230214181500 +0000" stop="20230214184500 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230214184500 +0000" stop="20230214193000 +0000" channel="ArenaSport1.sk"><title lang="sk">Rýchle jazdy</title><desc lang="sk">Reality show - auto na objednávku</desc></programme>
+<programme start="20230214193000 +0000" stop="20230214203000 +0000" channel="ArenaSport1.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="ArenaSport1.sk"><title lang="sk">Motoring</title><desc lang="sk">Novinky a testy áut</desc></programme>
+<programme start="20230214210000 +0000" stop="20230214214500 +0000" channel="ArenaSport1.sk"><title lang="sk">Profíci na konské sily - Hľadanie najlepšieho BMW 3er</title><desc lang="sk">Reality show zo sveta tuningu áut</desc></programme>
+<programme start="20230214214500 +0000" stop="20230214223000 +0000" channel="ArenaSport1.sk"><title lang="sk">Záchrancovia klasických áut</title><desc lang="sk">Reality show zo sveta záchrany vzácnych veteránov</desc></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="ArenaSport1.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="ArenaSport1.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="ArenaSport1.sk"><title lang="sk">Nočné vysielanie</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="ArenaSport2.sk"><title lang="sk">Fit s Lexi</title><desc lang="sk">Dostaňte sa do formy spolu s nami</desc></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="ArenaSport2.sk"><title lang="sk">Fit s Lexi</title><desc lang="sk">Dostaňte sa do formy spolu s nami</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="ArenaSport2.sk"><title lang="sk">Varenie s Lexi</title><desc lang="sk">Jedzte zdravo a chutne</desc></programme>
+<programme start="20230213083000 +0000" stop="20230213091500 +0000" channel="ArenaSport2.sk"><title lang="sk">Celebritné preteky na kolesách</title><desc lang="sk">Reality show o celebritách na koňoch na kolesách</desc></programme>
+<programme start="20230213091500 +0000" stop="20230213094500 +0000" channel="ArenaSport2.sk"><title lang="sk">Bunker</title><desc lang="sk">Obľúbený seriál dokumentov z prostredia golfu</desc></programme>
+<programme start="20230213094500 +0000" stop="20230213101500 +0000" channel="ArenaSport2.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230213101500 +0000" stop="20230213104500 +0000" channel="ArenaSport2.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230213104500 +0000" stop="20230213111500 +0000" channel="ArenaSport2.sk"><title lang="sk">Ako žiť fit</title><desc lang="sk">Všetko o zdravom životnom štýle</desc></programme>
+<programme start="20230213111500 +0000" stop="20230213131500 +0000" channel="ArenaSport2.sk"><title lang="sk">Sc Heerenveen - Feyenoord</title><desc lang="sk">Záznam z 21. kola holandskej Eredivisie</desc></programme>
+<programme start="20230213131500 +0000" stop="20230213134500 +0000" channel="ArenaSport2.sk"><title lang="sk">Tímy snov - Miami Heat</title><desc lang="sk">Slávni tréneri zostavujú svoj tím snov</desc></programme>
+<programme start="20230213134500 +0000" stop="20230213141500 +0000" channel="ArenaSport2.sk"><title lang="sk">Slávni tréneri - Hitzfeld</title><desc lang="sk">Dokument o osudoch a kariére slávnych trénerov</desc></programme>
+<programme start="20230213141500 +0000" stop="20230213144500 +0000" channel="ArenaSport2.sk"><title lang="sk">Nesmrteľní - Ribéry</title><desc lang="sk">Dokument o jedinečných osobnostiach športu</desc></programme>
+<programme start="20230213144500 +0000" stop="20230213153000 +0000" channel="ArenaSport2.sk"><title lang="sk">Celebritné preteky na kolesách</title><desc lang="sk">Reality show o celebritách na koňoch na kolesách</desc></programme>
+<programme start="20230213153000 +0000" stop="20230213173000 +0000" channel="ArenaSport2.sk"><title lang="sk">AFC Ajax - RKC Waalwijk</title><desc lang="sk">Záznam z 21. kola holandskej Eredivisie</desc></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="ArenaSport2.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="ArenaSport2.sk"><title lang="sk">Aston Martin</title><desc lang="sk">Zaujímavý dokument o legendárnej značke</desc></programme>
+<programme start="20230213190000 +0000" stop="20230213220000 +0000" channel="ArenaSport2.sk"><title lang="sk">EFC 98</title><desc lang="sk">Záznam z turnaja MMA série Extreme Fighting Championship</desc></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="ArenaSport2.sk"><title lang="sk">Napriek všetkému - Phelps</title><desc lang="sk">Osudy slávnych športovcov v ceste na vrchol</desc></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="ArenaSport2.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="ArenaSport2.sk"><title lang="sk">Nočné vysielanie</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="ArenaSport2.sk"><title lang="sk">Fit s Lexi</title><desc lang="sk">Dostaňte sa do formy spolu s nami</desc></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="ArenaSport2.sk"><title lang="sk">Fit s Lexi</title><desc lang="sk">Dostaňte sa do formy spolu s nami</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="ArenaSport2.sk"><title lang="sk">Varenie s Lexi</title><desc lang="sk">Jedzte zdravo a chutne</desc></programme>
+<programme start="20230214083000 +0000" stop="20230214091500 +0000" channel="ArenaSport2.sk"><title lang="sk">Celebritné preteky na kolesách</title><desc lang="sk">Reality show o celebritách na koňoch na kolesách</desc></programme>
+<programme start="20230214091500 +0000" stop="20230214094500 +0000" channel="ArenaSport2.sk"><title lang="sk">Bunker</title><desc lang="sk">Obľúbený seriál dokumentov z prostredia golfu</desc></programme>
+<programme start="20230214094500 +0000" stop="20230214101500 +0000" channel="ArenaSport2.sk"><title lang="sk">Topspeed</title><desc lang="sk">Autá, ktoré stoja za to</desc></programme>
+<programme start="20230214101500 +0000" stop="20230214104500 +0000" channel="ArenaSport2.sk"><title lang="sk">Vytuningované jazdy Fínsko</title><desc lang="sk">Reality show zo sveta tuningu inak</desc></programme>
+<programme start="20230214104500 +0000" stop="20230214111500 +0000" channel="ArenaSport2.sk"><title lang="sk">Ako žiť fit</title><desc lang="sk">Všetko o zdravom životnom štýle</desc></programme>
+<programme start="20230214111500 +0000" stop="20230214131500 +0000" channel="ArenaSport2.sk"><title lang="sk">KVC WESTERLO - KAA GENT</title><desc lang="sk">Záznam z 25. kola belgickej Jupiler League</desc></programme>
+<programme start="20230214131500 +0000" stop="20230214134500 +0000" channel="ArenaSport2.sk"><title lang="sk">Tímy snov - Golden State Warriors</title><desc lang="sk">Slávni tréneri zostavujú svoj tím snov</desc></programme>
+<programme start="20230214134500 +0000" stop="20230214141500 +0000" channel="ArenaSport2.sk"><title lang="sk">Slávni tréneri - Trapattoni</title><desc lang="sk">Dokument o osudoch a kariére slávnych trénerov</desc></programme>
+<programme start="20230214141500 +0000" stop="20230214144500 +0000" channel="ArenaSport2.sk"><title lang="sk">Nesmrteľní - Donovan</title><desc lang="sk">Dokument o jedinečných osobnostiach športu</desc></programme>
+<programme start="20230214144500 +0000" stop="20230214153000 +0000" channel="ArenaSport2.sk"><title lang="sk">Celebritné preteky na kolesách</title><desc lang="sk">Reality show o celebritách na koňoch na kolesách</desc></programme>
+<programme start="20230214153000 +0000" stop="20230214173000 +0000" channel="ArenaSport2.sk"><title lang="sk">PSV Eindhoven - FC Groningen</title><desc lang="sk">Záznam z 21. kola holandskej Eredivisie</desc></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="ArenaSport2.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214180000 +0000" stop="20230214200000 +0000" channel="ArenaSport2.sk"><title lang="sk">FC Bayern München - Veolia Towers Hamburg</title><desc lang="sk">Priamy prenos z 21. kola nemeckej BBL bundesligy</desc></programme>
+<programme start="20230214200000 +0000" stop="20230214220000 +0000" channel="ArenaSport2.sk"><title lang="sk">EFC 99</title><desc lang="sk">Záznam z turnaja MMA série Extreme Fighting Championship</desc></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="ArenaSport2.sk"><title lang="sk">Napriek všetkému - Beckham</title><desc lang="sk">Osudy slávnych športovcov v ceste na vrchol</desc></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="ArenaSport2.sk"><title lang="sk">Autožurnál</title><desc lang="sk">Novinky zo sveta automobilov očami Michala Karpata</desc></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="ArenaSport2.sk"><title lang="sk">Nočné vysielanie</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="CNLEurope.kz"><title lang="sk">Vosstan’ i sveti</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="CNLEurope.kz"><title lang="sk">Bož’i generaly</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="CNLEurope.kz"><title lang="sk">Domašnjaja gruppa s Rikom Rennerom</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="CNLEurope.kz"><title lang="sk">Superkniga. Mul’tfil’m</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="CNLEurope.kz"><title lang="sk">Poslednee vremja</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="CNLEurope.kz"><title lang="sk">Dom Very</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="CNLEurope.kz"><title lang="sk">Uznavaja evrejskogo Iisusa. Ravvin Shnajder</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="CNLEurope.kz"><title lang="sk">Pobedonosnyj golos verujuščego</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="CNLEurope.kz"><title lang="sk">Istina Evangelija</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="CNLEurope.kz"><title lang="sk">Živaja vera</title></programme>
+<programme start="20230213101500 +0000" stop="20230213103000 +0000" channel="CNLEurope.kz"><title lang="sk">Hleb na každyj den’. Ol’ga Golikova</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="CNLEurope.kz"><title lang="sk">Shou Very</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="CNLEurope.kz"><title lang="sk">Ty važen! Din Sajks</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CNLEurope.kz"><title lang="sk">Bož’i generaly</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CNLEurope.kz"><title lang="sk">Domašnjaja gruppa s Rikom Rennerom</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="CNLEurope.kz"><title lang="sk">Muzykal’naja pauza</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="CNLEurope.kz"><title lang="sk">Klub 700</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="CNLEurope.kz"><title lang="sk">Roditel’skij kompas</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="CNLEurope.kz"><title lang="sk">Pobedonosnyj golos verujuščego</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="CNLEurope.kz"><title lang="sk">Cerkov’ Novoe Tvorenie</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="CNLEurope.kz"><title lang="sk">Festival’ Manny. Perri Stoun</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="CNLEurope.kz"><title lang="sk">Shou Very</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="CNLEurope.kz"><title lang="sk">Otvety s Bejlessom Konli</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="CNLEurope.kz"><title lang="sk">Kafedra Vsemirnoj Evangelizacii</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="CNLEurope.kz"><title lang="sk">Domašnjaja gruppa s Rikom Rennerom</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="CNLEurope.kz"><title lang="sk">Istina Evangelija</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="CNLEurope.kz"><title lang="sk">Roditel’skij kompas</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="CNLEurope.kz"><title lang="sk">Pobedonosnyj golos verujuščego</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="CNLEurope.kz"><title lang="sk">Cerkov’ Novoe Tvorenie</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="CNLEurope.kz"><title lang="sk">Festival’ Manny. Perri Stoun</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="CNLEurope.kz"><title lang="sk">Shou Very</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="CNLEurope.kz"><title lang="sk">Otvety s Bejlessom Konli</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="CNLEurope.kz"><title lang="sk">Kafedra Vsemirnoj Evangelizacii</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="CNLEurope.kz"><title lang="sk">Domašnjaja gruppa s Rikom Rennerom</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="CNLEurope.kz"><title lang="sk">Istina Evangelija</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="CNLEurope.kz"><title lang="sk">Kafedra Vsemirnoj Evangelizacii</title></programme>
+<programme start="20230214033000 +0000" stop="20230214034500 +0000" channel="CNLEurope.kz"><title lang="sk">Muzykal’naja pauza</title></programme>
+<programme start="20230214034500 +0000" stop="20230214044500 +0000" channel="CNLEurope.kz"><title lang="sk">Načni den’ s Bogom. Pavel Renner</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="CNLEurope.kz"><title lang="sk">Uznavaja evrejskogo Iisusa. Ravvin Shnajder</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="CNLEurope.kz"><title lang="sk">Zolotoe vremja</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="CNLEurope.kz"><title lang="sk">Mužskaja konferencija</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="CNLEurope.kz"><title lang="sk">Sila very</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="CNLEurope.kz"><title lang="sk">Prikosnovenie s Čarl’zom Stenli</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="CNLEurope.kz"><title lang="sk">Dom Very</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="CNLEurope.kz"><title lang="sk">Probuždenie segodnja. Džonatan Shattlsvort</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="CNLEurope.kz"><title lang="sk">Pobedonosnyj golos verujuščego</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="CNLEurope.kz"><title lang="sk">Istina Evangelija</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="CNLEurope.kz"><title lang="sk">Poslannik</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="CNLEurope.kz"><title lang="sk">Shou Very</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="CNLEurope.kz"><title lang="sk">Uglubljajas’ v Slovo. Derek i Hilari Uoker</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CNLEurope.kz"><title lang="sk">Zolotoe vremja</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="CNLEurope.kz"><title lang="sk">Mužskaja konferencija</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="CNLEurope.kz"><title lang="sk">Poslednee vremja</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="CNLEurope.kz"><title lang="sk">Povorot na 180 gradusov</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="CNLEurope.kz"><title lang="sk">Putevoditel’ po Izrailju</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="CNLEurope.kz"><title lang="sk">Pobedonosnyj golos verujuščego</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="CNLEurope.kz"><title lang="sk">Festival’ Manny. Perri Stoun</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="CNLEurope.kz"><title lang="sk">Povorotnyj moment. D?vid Džerimaja</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="CNLEurope.kz"><title lang="sk">Shou Very</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="CNLEurope.kz"><title lang="sk">Cerkov’ Novoe Tvorenie</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="CNLEurope.kz"><title lang="sk">Ty važen! Din Sajks</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="CNLEurope.kz"><title lang="sk">Domašnjaja gruppa s Rikom Rennerom</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="CNLEurope.kz"><title lang="sk">Istina Evangelija</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="CNLEurope.kz"><title lang="sk">Putevoditel’ po Izrailju</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="CNLEurope.kz"><title lang="sk">Pobedonosnyj golos verujuščego</title></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="CNLEurope.kz"><title lang="sk">Žizn’, polnaja radosti</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="CNLEurope.kz"><title lang="sk">Festival’ Manny. Perri Stoun</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="CNLEurope.kz"><title lang="sk">Izmeni svoj mir</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="CNLEurope.kz"><title lang="sk">Povorotnyj moment. D?vid Džerimaja</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="CNLEurope.kz"><title lang="sk">Shou Very</title></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="CNLEurope.kz"><title lang="sk">Cerkov’ Novoe Tvorenie</title></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="CNLEurope.kz"><title lang="sk">Ty važen! Din Sajks</title></programme>
+<programme start="20230215013000 +0000" stop="20230215020000 +0000" channel="CNLEurope.kz"><title lang="sk">Domašnjaja gruppa s Rikom Rennerom</title></programme>
+<programme start="20230215020000 +0000" stop="20230215023000 +0000" channel="CNLEurope.kz"><title lang="sk">Istina Evangelija</title></programme>
+<programme start="20230215023000 +0000" stop="20230215030000 +0000" channel="CNLEurope.kz"><title lang="sk">Vremja s D?nis Renner</title></programme>
+<programme start="20230215030000 +0000" stop="20230215031500 +0000" channel="CNLEurope.kz"><title lang="sk">Živaja vera</title></programme>
+<programme start="20230215031500 +0000" stop="20230215033000 +0000" channel="CNLEurope.kz"><title lang="sk">Hleb na každyj den’. Ol’ga Golikova</title></programme>
+<programme start="20230215033000 +0000" stop="20230215034500 +0000" channel="CNLEurope.kz"><title lang="sk">Muzykal’naja pauza</title></programme>
+<programme start="20230215034500 +0000" stop="20230215044500 +0000" channel="CNLEurope.kz"><title lang="sk">Načni den’ s Bogom. Pavel Renner</title></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214040000 +0000" stop="20230214050000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="ChuckTV.sk"><title lang="sk">Chuck TV</title><desc lang="sk">Chuck TV</desc></programme>
+<programme start="20230213041000 +0000" stop="20230213043000 +0000" channel="LifeTv.sk"><title lang="sk">Biblia za rok: 365 Biblických povzbudení</title></programme>
+<programme start="20230213043000 +0000" stop="20230213061000 +0000" channel="LifeTv.sk"><title lang="sk">Spoločenstvo Martindom</title></programme>
+<programme start="20230213061000 +0000" stop="20230213070000 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - BJB Palisády</title></programme>
+<programme start="20230213070000 +0000" stop="20230213081500 +0000" channel="LifeTv.sk"><title lang="sk">Godzone konferencia 2021</title></programme>
+<programme start="20230213081500 +0000" stop="20230213091500 +0000" channel="LifeTv.sk"><title lang="sk">Vladimír Šosták - Ješua</title></programme>
+<programme start="20230213091500 +0000" stop="20230213101000 +0000" channel="LifeTv.sk"><title lang="sk">Godzone message</title></programme>
+<programme start="20230213101000 +0000" stop="20230213103000 +0000" channel="LifeTv.sk"><title lang="sk">Biblia za rok: 365 Biblických povzbudení</title></programme>
+<programme start="20230213103000 +0000" stop="20230213114500 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - Slovo Života Bratislava</title></programme>
+<programme start="20230213114500 +0000" stop="20230213121500 +0000" channel="LifeTv.sk"><title lang="sk">Biblické príbehy</title></programme>
+<programme start="20230213121500 +0000" stop="20230213130000 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - BJB Košice</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="LifeTv.sk"><title lang="sk">Sid Roth: To je nadprirodzené!</title></programme>
+<programme start="20230213133000 +0000" stop="20230213150000 +0000" channel="LifeTv.sk"><title lang="sk">CAMPFEST blok</title></programme>
+<programme start="20230213150000 +0000" stop="20230213161000 +0000" channel="LifeTv.sk"><title lang="sk">Mobilizácia 2021</title></programme>
+<programme start="20230213161000 +0000" stop="20230213163000 +0000" channel="LifeTv.sk"><title lang="sk">Biblia za rok: 365 Biblických povzbudení</title></programme>
+<programme start="20230213163000 +0000" stop="20230213174500 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - AC Košice</title></programme>
+<programme start="20230213174500 +0000" stop="20230213181500 +0000" channel="LifeTv.sk"><title lang="sk">Spoznaj ríšu zvierat inými očami</title></programme>
+<programme start="20230213181500 +0000" stop="20230213190000 +0000" channel="LifeTv.sk"><title lang="sk">John a Lisa Bevere: Manželstvo</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="LifeTv.sk"><title lang="sk">20 minútovka</title></programme>
+<programme start="20230213193000 +0000" stop="20230213204500 +0000" channel="LifeTv.sk"><title lang="sk">Nová DNA</title></programme>
+<programme start="20230213204500 +0000" stop="20230213212000 +0000" channel="LifeTv.sk"><title lang="sk">Relácia DNES</title></programme>
+<programme start="20230213212000 +0000" stop="20230213220000 +0000" channel="LifeTv.sk"><title lang="sk">Národný týždeň manželstva</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="LifeTv.sk"><title lang="sk">Program z Domu modlitieb a chvál v Kansas City</title></programme>
+<programme start="20230214041000 +0000" stop="20230214043000 +0000" channel="LifeTv.sk"><title lang="sk">Biblia za rok: 365 Biblických povzbudení</title></programme>
+<programme start="20230214043000 +0000" stop="20230214054500 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - AC Košice</title></programme>
+<programme start="20230214054500 +0000" stop="20230214061500 +0000" channel="LifeTv.sk"><title lang="sk">Spoznaj ríšu zvierat inými očami</title></programme>
+<programme start="20230214061500 +0000" stop="20230214070000 +0000" channel="LifeTv.sk"><title lang="sk">John a Lisa Bevere: Manželstvo</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="LifeTv.sk"><title lang="sk">20 minútovka</title></programme>
+<programme start="20230214073000 +0000" stop="20230214084500 +0000" channel="LifeTv.sk"><title lang="sk">Nová DNA</title></programme>
+<programme start="20230214084500 +0000" stop="20230214092000 +0000" channel="LifeTv.sk"><title lang="sk">Relácia DNES</title></programme>
+<programme start="20230214092000 +0000" stop="20230214101000 +0000" channel="LifeTv.sk"><title lang="sk">Národný týždeň manželstva</title></programme>
+<programme start="20230214101000 +0000" stop="20230214103000 +0000" channel="LifeTv.sk"><title lang="sk">Biblia za rok: 365 Biblických povzbudení</title></programme>
+<programme start="20230214103000 +0000" stop="20230214121000 +0000" channel="LifeTv.sk"><title lang="sk">Spoločenstvo Martindom</title></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - BJB Palisády</title></programme>
+<programme start="20230214130000 +0000" stop="20230214141500 +0000" channel="LifeTv.sk"><title lang="sk">Godzone konferencia 2021</title></programme>
+<programme start="20230214141500 +0000" stop="20230214151500 +0000" channel="LifeTv.sk"><title lang="sk">Vladimír Šosták - Ješua</title></programme>
+<programme start="20230214151500 +0000" stop="20230214161000 +0000" channel="LifeTv.sk"><title lang="sk">Godzone message</title></programme>
+<programme start="20230214161000 +0000" stop="20230214163000 +0000" channel="LifeTv.sk"><title lang="sk">Biblia za rok: 365 Biblických povzbudení</title></programme>
+<programme start="20230214163000 +0000" stop="20230214174500 +0000" channel="LifeTv.sk"><title lang="sk">Slovo viery - Slovo Života Brno</title></programme>
+<programme start="20230214174500 +0000" stop="20230214181500 +0000" channel="LifeTv.sk"><title lang="sk">Animované príbehy</title></programme>
+<programme start="20230214181500 +0000" stop="20230214190000 +0000" channel="LifeTv.sk"><title lang="sk">John a Lisa Bevere: Manželstvo</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="LifeTv.sk"><title lang="sk">Relácia DNES</title></programme>
+<programme start="20230214193000 +0000" stop="20230214210000 +0000" channel="LifeTv.sk"><title lang="sk">Konferencia kresťanských služobníkov</title></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="LifeTv.sk"><title lang="sk">Národný týždeň manželstva</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="LifeTv.sk"><title lang="sk">Program z Domu modlitieb a chvál v Kansas City</title></programme>
+</tv>

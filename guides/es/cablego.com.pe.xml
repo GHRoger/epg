@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="ATV.pe"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="ATVPlus.pe"><display-name>ATV+</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="AmericaTelevision.pe"><display-name>America Television</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="BHTV.pe"><display-name>BHTV</display-name><icon src="https://i.imgur.com/oNFOKFI.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="Conecta2TV.pe"><display-name>Conecta2TV</display-name><icon src="https://i.imgur.com/cfHaLt2.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="CongresoTV.pe"><display-name>Congreso TV</display-name><icon src="https://i.imgur.com/r0foZ5t.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="DePeliculaLatinAmerica.mx"><display-name>De Pelicula Latin America</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="DistritoComedia.mx"><display-name>Distrito Comedia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="EcuadorTV.ec"><display-name>Ecuador TV</display-name><icon src="https://i.imgur.com/6Wohi2q.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="EuropaEuropa.ar"><display-name>Europa Europa</display-name><icon src="https://i.imgur.com/w5SOfyJ.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="ExitosaTV.pe"><display-name>Exitosa TV</display-name><icon src="https://i.imgur.com/pu0BSB7.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="GlobalTV.pe"><display-name>Global TV</display-name><icon src="https://i.imgur.com/5Xj9iaA.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="GoldenEdgePanregional.mx"><display-name>Golden Edge Panregional</display-name><icon src="https://i.imgur.com/SlSbcp3.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="Karibena.pe"><display-name>Karibena</display-name><icon src="https://i.imgur.com/cgHjg1e.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="Latina.pe"><display-name>Latina</display-name><icon src="https://i.imgur.com/RMFG5au.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="Nativa.pe"><display-name>Nativa</display-name><icon src="https://i.imgur.com/Y9k9XSO.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="OvacionTV.pe"><display-name>Ovacion TV</display-name><icon src="https://i.imgur.com/7Xndgxk.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="PBO.pe"><display-name>PBO</display-name><icon src="https://i.imgur.com/vBpxX4S.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="PanamericanaTV.pe"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="PasionesLatinAmerica.us"><display-name>Pasiones Latin America</display-name><icon src="https://i.imgur.com/VGnbWjO.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="TVPeru.pe"><display-name>TV Peru</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="USMPTV.pe"><display-name>USMPTV</display-name><icon src="https://i.imgur.com/9cmIv3q.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="Venus.ar"><display-name>Venus</display-name><icon src="https://i.imgur.com/4LFXPMk.png"/><url>https://cablego.com.pe</url></channel>
+<channel id="WillaxTV.pe"><display-name>Willax TV</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://cablego.com.pe</url></channel>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="ATV.pe"><title lang="es">De película</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="ATV.pe"><title lang="es">Mentes criminales</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="ATV.pe"><title lang="es">El águila roja</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="ATV.pe"><title lang="es">Almas suspendidas</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="ATV.pe"><title lang="es">A corazón abierto</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="ATV.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230213110000 +0000" stop="20230213150000 +0000" channel="ATV.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="ATV.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="ATV.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230213170000 +0000" stop="20230213190000 +0000" channel="ATV.pe"><title lang="es">Feriha</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="ATV.pe"><title lang="es">La taxista</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="ATV.pe"><title lang="es">Perdóname</title></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="ATV.pe"><title lang="es">Elif</title></programme>
+<programme start="20230213230000 +0000" stop="20230214003000 +0000" channel="ATV.pe"><title lang="es">Legado de amor</title></programme>
+<programme start="20230214003000 +0000" stop="20230214014500 +0000" channel="ATV.pe"><title lang="es">ATV Noticias al estilo Juliana</title></programme>
+<programme start="20230214014500 +0000" stop="20230214024500 +0000" channel="ATV.pe"><title lang="es">Andrea</title></programme>
+<programme start="20230214024500 +0000" stop="20230214040000 +0000" channel="ATV.pe"><title lang="es">Magaly TV</title></programme>
+<programme start="20230214040000 +0000" stop="20230214045000 +0000" channel="ATV.pe"><title lang="es">ATV Noticias</title></programme>
+<programme start="20230214045000 +0000" stop="20230214052000 +0000" channel="ATV.pe"><title lang="es">El Deportivo</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="ATV.pe"><title lang="es">Criminología naval LA</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="ATV.pe"><title lang="es">Mentes criminales</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="ATV.pe"><title lang="es">El águila roja</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="ATV.pe"><title lang="es">Almas suspendidas</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="ATV.pe"><title lang="es">A corazón abierto</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="ATV.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230214110000 +0000" stop="20230214150000 +0000" channel="ATV.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="ATV.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="ATV.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230214170000 +0000" stop="20230214190000 +0000" channel="ATV.pe"><title lang="es">Feriha</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="ATV.pe"><title lang="es">La taxista</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="ATV.pe"><title lang="es">Perdóname</title></programme>
+<programme start="20230214210000 +0000" stop="20230214230000 +0000" channel="ATV.pe"><title lang="es">Elif</title></programme>
+<programme start="20230214230000 +0000" stop="20230215003000 +0000" channel="ATV.pe"><title lang="es">Legado de amor</title></programme>
+<programme start="20230215003000 +0000" stop="20230215014500 +0000" channel="ATV.pe"><title lang="es">ATV Noticias al estilo Juliana</title></programme>
+<programme start="20230215014500 +0000" stop="20230215024500 +0000" channel="ATV.pe"><title lang="es">Andrea</title></programme>
+<programme start="20230215024500 +0000" stop="20230215040000 +0000" channel="ATV.pe"><title lang="es">Magaly TV</title></programme>
+<programme start="20230215040000 +0000" stop="20230215045000 +0000" channel="ATV.pe"><title lang="es">ATV Noticias</title></programme>
+<programme start="20230215045000 +0000" stop="20230215052000 +0000" channel="ATV.pe"><title lang="es">El Deportivo</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="ATVPlus.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230213110000 +0000" stop="20230213150000 +0000" channel="ATVPlus.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="ATVPlus.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="ATVPlus.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230213170000 +0000" stop="20230213210000 +0000" channel="ATVPlus.pe"><title lang="es">En contacto</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="ATVPlus.pe"><title lang="es">+ Deportes</title></programme>
+<programme start="20230213213000 +0000" stop="20230213230000 +0000" channel="ATVPlus.pe"><title lang="es">+ Q Noticias</title></programme>
+<programme start="20230213230000 +0000" stop="20230214020000 +0000" channel="ATVPlus.pe"><title lang="es">Estación central</title></programme>
+<programme start="20230214020000 +0000" stop="20230214033000 +0000" channel="ATVPlus.pe"><title lang="es">Punto de vista</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="ATVPlus.pe"><title lang="es">+ Deportes</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="ATVPlus.pe"><title lang="es">Estación central</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="ATVPlus.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="ATVPlus.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230214110000 +0000" stop="20230214150000 +0000" channel="ATVPlus.pe"><title lang="es">ATV Noticias - Edición matinal</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="ATVPlus.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="ATVPlus.pe"><title lang="es">Noticias al día</title></programme>
+<programme start="20230214170000 +0000" stop="20230214210000 +0000" channel="ATVPlus.pe"><title lang="es">En contacto</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="ATVPlus.pe"><title lang="es">+ Deportes</title></programme>
+<programme start="20230214213000 +0000" stop="20230214230000 +0000" channel="ATVPlus.pe"><title lang="es">+ Q Noticias</title></programme>
+<programme start="20230214230000 +0000" stop="20230215020000 +0000" channel="ATVPlus.pe"><title lang="es">Estación central</title></programme>
+<programme start="20230215020000 +0000" stop="20230215033000 +0000" channel="ATVPlus.pe"><title lang="es">Punto de vista</title></programme>
+<programme start="20230215033000 +0000" stop="20230215040000 +0000" channel="ATVPlus.pe"><title lang="es">+ Deportes</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="ATVPlus.pe"><title lang="es">Estación central</title></programme>
+<programme start="20230213050000 +0000" stop="20230213063000 +0000" channel="AmericaTelevision.pe"><title lang="es">Rayas: una cebra veloz</title></programme>
+<programme start="20230213063000 +0000" stop="20230213080000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias: edición dominical</title></programme>
+<programme start="20230213080000 +0000" stop="20230213100000 +0000" channel="AmericaTelevision.pe"><title lang="es">Cuarto poder</title></programme>
+<programme start="20230213100000 +0000" stop="20230213120000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Primera edición: local</title></programme>
+<programme start="20230213120000 +0000" stop="20230213143000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Primera edición</title></programme>
+<programme start="20230213143000 +0000" stop="20230213160000 +0000" channel="AmericaTelevision.pe"><title lang="es">América hoy</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="AmericaTelevision.pe"><title lang="es">+ Espectáculos</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Edición mediodía</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="AmericaTelevision.pe"><title lang="es">Rubí</title></programme>
+<programme start="20230213183000 +0000" stop="20230213200000 +0000" channel="AmericaTelevision.pe"><title lang="es">Mande quien mande</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="AmericaTelevision.pe"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="AmericaTelevision.pe"><title lang="es">Los ricos también lloran</title></programme>
+<programme start="20230213220000 +0000" stop="20230214000000 +0000" channel="AmericaTelevision.pe"><title lang="es">Los milagros de la rosa</title></programme>
+<programme start="20230214000000 +0000" stop="20230214014000 +0000" channel="AmericaTelevision.pe"><title lang="es">Esto es guerra</title></programme>
+<programme start="20230214014000 +0000" stop="20230214024000 +0000" channel="AmericaTelevision.pe"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20230214024000 +0000" stop="20230214033000 +0000" channel="AmericaTelevision.pe"><title lang="es">Maricucha</title></programme>
+<programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Edición central</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="AmericaTelevision.pe"><title lang="es">La banda del Chino</title></programme>
+<programme start="20230214053000 +0000" stop="20230214063000 +0000" channel="AmericaTelevision.pe"><title lang="es">Los ricos también lloran</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="AmericaTelevision.pe"><title lang="es">Rubí</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="AmericaTelevision.pe"><title lang="es">América espectáculos</title></programme>
+<programme start="20230214073000 +0000" stop="20230214083000 +0000" channel="AmericaTelevision.pe"><title lang="es">+ Espectáculos</title></programme>
+<programme start="20230214083000 +0000" stop="20230214100000 +0000" channel="AmericaTelevision.pe"><title lang="es">Mande quien mande</title></programme>
+<programme start="20230214100000 +0000" stop="20230214120000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Primera edición: local</title></programme>
+<programme start="20230214120000 +0000" stop="20230214143000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Primera edición</title></programme>
+<programme start="20230214143000 +0000" stop="20230214160000 +0000" channel="AmericaTelevision.pe"><title lang="es">América hoy</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="AmericaTelevision.pe"><title lang="es">+ Espectáculos</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Edición mediodía</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="AmericaTelevision.pe"><title lang="es">Rubí</title></programme>
+<programme start="20230214183000 +0000" stop="20230214200000 +0000" channel="AmericaTelevision.pe"><title lang="es">Mande quien mande</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="AmericaTelevision.pe"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="AmericaTelevision.pe"><title lang="es">Los ricos también lloran</title></programme>
+<programme start="20230214220000 +0000" stop="20230215000000 +0000" channel="AmericaTelevision.pe"><title lang="es">Los milagros de la rosa</title></programme>
+<programme start="20230215000000 +0000" stop="20230215014000 +0000" channel="AmericaTelevision.pe"><title lang="es">Esto es guerra</title></programme>
+<programme start="20230215014000 +0000" stop="20230215024000 +0000" channel="AmericaTelevision.pe"><title lang="es">Al fondo hay sitio</title></programme>
+<programme start="20230215024000 +0000" stop="20230215033000 +0000" channel="AmericaTelevision.pe"><title lang="es">Maricucha</title></programme>
+<programme start="20230215033000 +0000" stop="20230215043000 +0000" channel="AmericaTelevision.pe"><title lang="es">América noticias - Edición central</title></programme>
+<programme start="20230215043000 +0000" stop="20230215050000 +0000" channel="AmericaTelevision.pe"><title lang="es">La banda del Chino</title></programme>
+<programme start="20230213050000 +0000" stop="20230213090000 +0000" channel="BHTV.pe"><title lang="es">Butaca BHTV</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="BHTV.pe"><title lang="es">Infomerciales</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="BHTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="BHTV.pe"><title lang="es">Misterios que curan</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="BHTV.pe"><title lang="es">Entre mujeres</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="BHTV.pe"><title lang="es">Pico a pico</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="BHTV.pe"><title lang="es">CCL digital</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="BHTV.pe"><title lang="es">Series BHTV</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="BHTV.pe"><title lang="es">Contacto directo</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="BHTV.pe"><title lang="es">Chef Fitness</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="BHTV.pe"><title lang="es">Todos a la 1</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="BHTV.pe"><title lang="es">Misterios que curan</title></programme>
+<programme start="20230213200000 +0000" stop="20230213220000 +0000" channel="BHTV.pe"><title lang="es">Butaca BHTV</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="BHTV.pe"><title lang="es">Pasión y fútbol</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="BHTV.pe"><title lang="es">Series BHTV</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="BHTV.pe"><title lang="es">Entre redes</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="BHTV.pe"><title lang="es">Punto municipal</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="BHTV.pe"><title lang="es">BHTV Deportes +</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="BHTV.pe"><title lang="es">Todos a la 1</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="BHTV.pe"><title lang="es">Contacto directo</title></programme>
+<programme start="20230214050000 +0000" stop="20230214090000 +0000" channel="BHTV.pe"><title lang="es">Butaca BHTV</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="BHTV.pe"><title lang="es">Infomerciales</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="BHTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="BHTV.pe"><title lang="es">Misterios que curan</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="BHTV.pe"><title lang="es">Punto municipal</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="BHTV.pe"><title lang="es">Todos a la 1</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="BHTV.pe"><title lang="es">Entre redes</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="BHTV.pe"><title lang="es">Series BHTV</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="BHTV.pe"><title lang="es">Contacto directo</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="BHTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="BHTV.pe"><title lang="es">Tiempo de familia</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="BHTV.pe"><title lang="es">Generación Like</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="BHTV.pe"><title lang="es">Misterios que curan</title></programme>
+<programme start="20230214200000 +0000" stop="20230214220000 +0000" channel="BHTV.pe"><title lang="es">Butaca BHTV</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="BHTV.pe"><title lang="es">Series BHTV</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="BHTV.pe"><title lang="es">Cafe &amp; bolsa</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="BHTV.pe"><title lang="es">Sofá café</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="BHTV.pe"><title lang="es">Emprende 3</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="BHTV.pe"><title lang="es">Punto de encuentro</title></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="BHTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20230215033000 +0000" stop="20230215040000 +0000" channel="BHTV.pe"><title lang="es">Tiempo de familia</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="BHTV.pe"><title lang="es">BHTV música</title></programme>
+<programme start="20230213050000 +0000" stop="20230213070000 +0000" channel="Conecta2TV.pe"><title lang="es">Conecta2 noticias</title></programme>
+<programme start="20230213070000 +0000" stop="20230213090000 +0000" channel="Conecta2TV.pe"><title lang="es">Más noticias - Fin de semana</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="Conecta2TV.pe"><title lang="es">Espias del show</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="Conecta2TV.pe"><title lang="es">Mirando la radio</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="Conecta2TV.pe"><title lang="es">Hola salud</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="Conecta2TV.pe"><title lang="es">Espias del show</title></programme>
+<programme start="20230213120000 +0000" stop="20230213170000 +0000" channel="Conecta2TV.pe"><title lang="es">RTL Noticias</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="Conecta2TV.pe"><title lang="es">Sin floro</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="Conecta2TV.pe"><title lang="es">Hola salud</title></programme>
+<programme start="20230213190000 +0000" stop="20230213210000 +0000" channel="Conecta2TV.pe"><title lang="es">Ahora es noticia</title></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="Conecta2TV.pe"><title lang="es">Más noticias</title></programme>
+<programme start="20230213220000 +0000" stop="20230214010000 +0000" channel="Conecta2TV.pe"><title lang="es">Conecta2 noticias</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="Conecta2TV.pe"><title lang="es">La tocó</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="Conecta2TV.pe"><title lang="es">Sin floro</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="Conecta2TV.pe"><title lang="es">Más noticias</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="Conecta2TV.pe"><title lang="es">Punto y coma</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="Conecta2TV.pe"><title lang="es">Sin floro</title></programme>
+<programme start="20230214060000 +0000" stop="20230214100000 +0000" channel="Conecta2TV.pe"><title lang="es">Conecta2 noticias</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="Conecta2TV.pe"><title lang="es">La tocó</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="Conecta2TV.pe"><title lang="es">Más noticias</title></programme>
+<programme start="20230214120000 +0000" stop="20230214170000 +0000" channel="Conecta2TV.pe"><title lang="es">RTL Noticias</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="Conecta2TV.pe"><title lang="es">Sin floro</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="Conecta2TV.pe"><title lang="es">La tocó</title></programme>
+<programme start="20230214190000 +0000" stop="20230214210000 +0000" channel="Conecta2TV.pe"><title lang="es">Ahora es noticia</title></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="Conecta2TV.pe"><title lang="es">Espias del show</title></programme>
+<programme start="20230214220000 +0000" stop="20230215010000 +0000" channel="Conecta2TV.pe"><title lang="es">Conecta2 noticias</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="Conecta2TV.pe"><title lang="es">Vía libre</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="Conecta2TV.pe"><title lang="es">Sin floro</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="Conecta2TV.pe"><title lang="es">Espias del show</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="Conecta2TV.pe"><title lang="es">Punto y coma</title></programme>
+<programme start="20230213050000 +0000" stop="20230213070000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 00:00 - 02:00</title></programme>
+<programme start="20230213070000 +0000" stop="20230213090000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 02:00 - 04:00</title></programme>
+<programme start="20230213090000 +0000" stop="20230213110000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 04:00 - 06:00</title></programme>
+<programme start="20230213110000 +0000" stop="20230213130000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 06:00 - 08:00</title></programme>
+<programme start="20230213130000 +0000" stop="20230213150000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 08:00 - 10:00</title></programme>
+<programme start="20230213150000 +0000" stop="20230213170000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 10:00 - 12:00</title></programme>
+<programme start="20230213170000 +0000" stop="20230213190000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 12:00 - 14:00</title></programme>
+<programme start="20230213190000 +0000" stop="20230213210000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 14:00 - 16:00</title></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 16:00 - 18:00</title></programme>
+<programme start="20230213230000 +0000" stop="20230214010000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 18:00 - 20:00</title></programme>
+<programme start="20230214010000 +0000" stop="20230214030000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 20:00 - 22:00</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 22:00 - 00:00</title></programme>
+<programme start="20230214050000 +0000" stop="20230214070000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 00:00 - 02:00</title></programme>
+<programme start="20230214070000 +0000" stop="20230214090000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 02:00 - 04:00</title></programme>
+<programme start="20230214090000 +0000" stop="20230214110000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 04:00 - 06:00</title></programme>
+<programme start="20230214110000 +0000" stop="20230214130000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 06:00 - 08:00</title></programme>
+<programme start="20230214130000 +0000" stop="20230214150000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 08:00 - 10:00</title></programme>
+<programme start="20230214150000 +0000" stop="20230214170000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 10:00 - 12:00</title></programme>
+<programme start="20230214170000 +0000" stop="20230214190000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 12:00 - 14:00</title></programme>
+<programme start="20230214190000 +0000" stop="20230214210000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 14:00 - 16:00</title></programme>
+<programme start="20230214210000 +0000" stop="20230214230000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 16:00 - 18:00</title></programme>
+<programme start="20230214230000 +0000" stop="20230215010000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 18:00 - 20:00</title></programme>
+<programme start="20230215010000 +0000" stop="20230215030000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 20:00 - 22:00</title></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="CongresoTV.pe"><title lang="es">Broadcast 22:00 - 00:00</title></programme>
+<programme start="20230213054500 +0000" stop="20230213072700 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El fugitivo</title></programme>
+<programme start="20230213072700 +0000" stop="20230213090600 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Una golfa</title></programme>
+<programme start="20230213090600 +0000" stop="20230213103500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Ambiciosa</title></programme>
+<programme start="20230213103500 +0000" stop="20230213121600 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El juicio de los hijos</title></programme>
+<programme start="20230213121600 +0000" stop="20230213135000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El beisbolista fenómeno</title></programme>
+<programme start="20230213135000 +0000" stop="20230213153200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Senda prohibida</title></programme>
+<programme start="20230213153200 +0000" stop="20230213170800 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El oreja rajada</title></programme>
+<programme start="20230213170800 +0000" stop="20230213183500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Gritos en silencio</title></programme>
+<programme start="20230213183500 +0000" stop="20230213201400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Nos lleva la tristeza</title></programme>
+<programme start="20230213201400 +0000" stop="20230213214800 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El beisbolista fenómeno</title></programme>
+<programme start="20230213214800 +0000" stop="20230213233000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Senda prohibida</title></programme>
+<programme start="20230213233000 +0000" stop="20230214010600 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El oreja rajada</title></programme>
+<programme start="20230214010600 +0000" stop="20230214023300 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Gritos en silencio</title></programme>
+<programme start="20230214023300 +0000" stop="20230214041200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Nos lleva la tristeza</title></programme>
+<programme start="20230214041200 +0000" stop="20230214044200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El beisbolista fenómeno</title></programme>
+<programme start="20230214054600 +0000" stop="20230214072800 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Senda prohibida</title></programme>
+<programme start="20230214072800 +0000" stop="20230214090400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El oreja rajada</title></programme>
+<programme start="20230214090400 +0000" stop="20230214103100 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Gritos en silencio</title></programme>
+<programme start="20230214103100 +0000" stop="20230214121000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Nos lleva la tristeza</title></programme>
+<programme start="20230214121000 +0000" stop="20230214134000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El juez de la soga</title></programme>
+<programme start="20230214134000 +0000" stop="20230214153500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Mi esposa y la otra</title></programme>
+<programme start="20230214153500 +0000" stop="20230214170900 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Valente Quintero</title></programme>
+<programme start="20230214170900 +0000" stop="20230214184100 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Marejada</title></programme>
+<programme start="20230214184100 +0000" stop="20230214201400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Ojos tapatíos</title></programme>
+<programme start="20230214201400 +0000" stop="20230214214400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El juez de la soga</title></programme>
+<programme start="20230214214400 +0000" stop="20230214233900 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Mi esposa y la otra</title></programme>
+<programme start="20230214233900 +0000" stop="20230215011300 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Valente Quintero</title></programme>
+<programme start="20230215011300 +0000" stop="20230215024500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Marejada</title></programme>
+<programme start="20230215024500 +0000" stop="20230215041800 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Ojos tapatíos</title></programme>
+<programme start="20230215041800 +0000" stop="20230215044800 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El juez de la soga</title></programme>
+<programme start="20230213060000 +0000" stop="20230213071500 +0000" channel="DistritoComedia.mx"><title lang="es">40 y 20</title></programme>
+<programme start="20230213071500 +0000" stop="20230213081000 +0000" channel="DistritoComedia.mx"><title lang="es">Mi querida herencia</title></programme>
+<programme start="20230213081000 +0000" stop="20230213090500 +0000" channel="DistritoComedia.mx"><title lang="es">Simón dice</title></programme>
+<programme start="20230213090500 +0000" stop="20230213101500 +0000" channel="DistritoComedia.mx"><title lang="es">XH Derbez</title></programme>
+<programme start="20230213101500 +0000" stop="20230213110500 +0000" channel="DistritoComedia.mx"><title lang="es">Cero en conducta</title></programme>
+<programme start="20230213110500 +0000" stop="20230213120000 +0000" channel="DistritoComedia.mx"><title lang="es">La hora pico</title></programme>
+<programme start="20230213120000 +0000" stop="20230213131500 +0000" channel="DistritoComedia.mx"><title lang="es">María de todos los ángeles</title></programme>
+<programme start="20230213131500 +0000" stop="20230213142500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230213142500 +0000" stop="20230213152000 +0000" channel="DistritoComedia.mx"><title lang="es">Una familia de diez</title></programme>
+<programme start="20230213152000 +0000" stop="20230213165500 +0000" channel="DistritoComedia.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230213165500 +0000" stop="20230213175000 +0000" channel="DistritoComedia.mx"><title lang="es">40 y 20</title></programme>
+<programme start="20230213175000 +0000" stop="20230213190500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230213190500 +0000" stop="20230213202000 +0000" channel="DistritoComedia.mx"><title lang="es">Nosotros los guapos</title></programme>
+<programme start="20230213202000 +0000" stop="20230213211500 +0000" channel="DistritoComedia.mx"><title lang="es">Una familia de diez</title></programme>
+<programme start="20230213211500 +0000" stop="20230213225000 +0000" channel="DistritoComedia.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230213225000 +0000" stop="20230214000500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230214000500 +0000" stop="20230214012000 +0000" channel="DistritoComedia.mx"><title lang="es">40 y 20</title></programme>
+<programme start="20230214012000 +0000" stop="20230214021500 +0000" channel="DistritoComedia.mx"><title lang="es">Una familia de diez</title></programme>
+<programme start="20230214021500 +0000" stop="20230214032500 +0000" channel="DistritoComedia.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230214032500 +0000" stop="20230214035500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230214050000 +0000" stop="20230214061000 +0000" channel="DistritoComedia.mx"><title lang="es">40 y 20</title></programme>
+<programme start="20230214061000 +0000" stop="20230214071000 +0000" channel="DistritoComedia.mx"><title lang="es">Más noche</title></programme>
+<programme start="20230214071000 +0000" stop="20230214080000 +0000" channel="DistritoComedia.mx"><title lang="es">Relatos macabrones</title></programme>
+<programme start="20230214080000 +0000" stop="20230214091000 +0000" channel="DistritoComedia.mx"><title lang="es">Perdiendo el juicio</title></programme>
+<programme start="20230214091000 +0000" stop="20230214101500 +0000" channel="DistritoComedia.mx"><title lang="es">XH Derbez</title></programme>
+<programme start="20230214101500 +0000" stop="20230214111000 +0000" channel="DistritoComedia.mx"><title lang="es">Cero en conducta</title></programme>
+<programme start="20230214111000 +0000" stop="20230214120000 +0000" channel="DistritoComedia.mx"><title lang="es">La hora pico</title></programme>
+<programme start="20230214120000 +0000" stop="20230214131500 +0000" channel="DistritoComedia.mx"><title lang="es">María de todos los ángeles</title></programme>
+<programme start="20230214131500 +0000" stop="20230214142500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230214142500 +0000" stop="20230214154000 +0000" channel="DistritoComedia.mx"><title lang="es">Una familia de diez</title></programme>
+<programme start="20230214154000 +0000" stop="20230214165500 +0000" channel="DistritoComedia.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230214165500 +0000" stop="20230214175000 +0000" channel="DistritoComedia.mx"><title lang="es">40 y 20</title></programme>
+<programme start="20230214175000 +0000" stop="20230214190500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230214190500 +0000" stop="20230214202000 +0000" channel="DistritoComedia.mx"><title lang="es">Nosotros los guapos</title></programme>
+<programme start="20230214202000 +0000" stop="20230214213500 +0000" channel="DistritoComedia.mx"><title lang="es">Una familia de diez</title></programme>
+<programme start="20230214213500 +0000" stop="20230214225000 +0000" channel="DistritoComedia.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230214225000 +0000" stop="20230215000500 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230215000500 +0000" stop="20230215012000 +0000" channel="DistritoComedia.mx"><title lang="es">Maratón Una familia de diez</title></programme>
+<programme start="20230215012000 +0000" stop="20230215030000 +0000" channel="DistritoComedia.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230215030000 +0000" stop="20230215041000 +0000" channel="DistritoComedia.mx"><title lang="es">La familia Peluche</title></programme>
+<programme start="20230215041000 +0000" stop="20230215044000 +0000" channel="DistritoComedia.mx"><title lang="es">40 y 20</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="EcuadorTV.ec"><title lang="es">Educa</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="EcuadorTV.ec"><title lang="es">Norris viajando</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="EcuadorTV.ec"><title lang="es">Fuerza latina</title></programme>
+<programme start="20230213080000 +0000" stop="20230213093000 +0000" channel="EcuadorTV.ec"><title lang="es">Los reyes de tus mañanas</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="EcuadorTV.ec"><title lang="es">Mi propio jefe</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="EcuadorTV.ec"><title lang="es">El mundo al día</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="EcuadorTV.ec"><title lang="es">Global 3000</title></programme>
+<programme start="20230213110000 +0000" stop="20230213112000 +0000" channel="EcuadorTV.ec"><title lang="es">Pororo</title></programme>
+<programme start="20230213112000 +0000" stop="20230213114000 +0000" channel="EcuadorTV.ec"><title lang="es">Tayo</title></programme>
+<programme start="20230213114000 +0000" stop="20230213120000 +0000" channel="EcuadorTV.ec"><title lang="es">Animal Rescue</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="EcuadorTV.ec"><title lang="es">Noticias 7</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141500 +0000" channel="EcuadorTV.ec"><title lang="es">Kioka</title></programme>
+<programme start="20230213141500 +0000" stop="20230213143000 +0000" channel="EcuadorTV.ec"><title lang="es">El payaso Plim Plim</title></programme>
+<programme start="20230213143000 +0000" stop="20230213145000 +0000" channel="EcuadorTV.ec"><title lang="es">Pororo</title></programme>
+<programme start="20230213145000 +0000" stop="20230213151000 +0000" channel="EcuadorTV.ec"><title lang="es">Tayo</title></programme>
+<programme start="20230213151000 +0000" stop="20230213153000 +0000" channel="EcuadorTV.ec"><title lang="es">Animal Rescue</title></programme>
+<programme start="20230213153000 +0000" stop="20230213170000 +0000" channel="EcuadorTV.ec"><title lang="es">Los reyes de tus manañas</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="EcuadorTV.ec"><title lang="es">Ya era hora</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="EcuadorTV.ec"><title lang="es">Mi propio jefe</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="EcuadorTV.ec"><title lang="es">Global 3000</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="EcuadorTV.ec"><title lang="es">Educa contigo</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="EcuadorTV.ec"><title lang="es">El mundo entra por mi casa</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="EcuadorTV.ec"><title lang="es">Colores de América Latina</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="EcuadorTV.ec"><title lang="es">La vida bella</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="EcuadorTV.ec"><title lang="es">Noticias 7 - Emisión estelar</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="EcuadorTV.ec"><title lang="es">El show de los fanáticos</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="EcuadorTV.ec"><title lang="es">Ver sin mirar</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="EcuadorTV.ec"><title lang="es">Global 3000</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="EcuadorTV.ec"><title lang="es">El mundo al día</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="EcuadorTV.ec"><title lang="es">Novunted</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="EcuadorTV.ec"><title lang="es">Noticias 7 - Emisión estelar</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="EcuadorTV.ec"><title lang="es">Fanático</title></programme>
+<programme start="20230214080000 +0000" stop="20230214093000 +0000" channel="EcuadorTV.ec"><title lang="es">Los reyes de tus mañanas</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="EcuadorTV.ec"><title lang="es">Mi propio jefe</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="EcuadorTV.ec"><title lang="es">El mundo al día</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="EcuadorTV.ec"><title lang="es">Visión futuro</title></programme>
+<programme start="20230214110000 +0000" stop="20230214112000 +0000" channel="EcuadorTV.ec"><title lang="es">Pororo</title></programme>
+<programme start="20230214112000 +0000" stop="20230214114000 +0000" channel="EcuadorTV.ec"><title lang="es">Tayo</title></programme>
+<programme start="20230214114000 +0000" stop="20230214120000 +0000" channel="EcuadorTV.ec"><title lang="es">Animal Rescue</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="EcuadorTV.ec"><title lang="es">Noticias 7</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141500 +0000" channel="EcuadorTV.ec"><title lang="es">Kioka</title></programme>
+<programme start="20230214141500 +0000" stop="20230214143000 +0000" channel="EcuadorTV.ec"><title lang="es">El payaso Plim Plim</title></programme>
+<programme start="20230214143000 +0000" stop="20230214145000 +0000" channel="EcuadorTV.ec"><title lang="es">Pororo</title></programme>
+<programme start="20230214145000 +0000" stop="20230214151000 +0000" channel="EcuadorTV.ec"><title lang="es">Tayo</title></programme>
+<programme start="20230214151000 +0000" stop="20230214153000 +0000" channel="EcuadorTV.ec"><title lang="es">Animal Rescue</title></programme>
+<programme start="20230214153000 +0000" stop="20230214170000 +0000" channel="EcuadorTV.ec"><title lang="es">Los reyes de tus manañas</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="EcuadorTV.ec"><title lang="es">Ya era hora</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="EcuadorTV.ec"><title lang="es">Mi propio jefe</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="EcuadorTV.ec"><title lang="es">Visión futuro</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="EcuadorTV.ec"><title lang="es">Educa contigo</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="EcuadorTV.ec"><title lang="es">Detrás del fotógrafo</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="EcuadorTV.ec"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="EcuadorTV.ec"><title lang="es">Colores de América Latina</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="EcuadorTV.ec"><title lang="es">La vida bella</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="EcuadorTV.ec"><title lang="es">Noticias 7 - Emisión estelar</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="EcuadorTV.ec"><title lang="es">El show de los fanáticos</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="EcuadorTV.ec"><title lang="es">Ver sin mirar</title></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="EcuadorTV.ec"><title lang="es">Visión futuro</title></programme>
+<programme start="20230215033000 +0000" stop="20230215040000 +0000" channel="EcuadorTV.ec"><title lang="es">El mundo al día</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="EcuadorTV.ec"><title lang="es">Novunted</title></programme>
+<programme start="20230213061500 +0000" stop="20230213081500 +0000" channel="EuropaEuropa.ar"><title lang="es">Montalbano</title></programme>
+<programme start="20230213081500 +0000" stop="20230213102500 +0000" channel="EuropaEuropa.ar"><title lang="es">Lo mejor está por venir</title></programme>
+<programme start="20230213102500 +0000" stop="20230213123000 +0000" channel="EuropaEuropa.ar"><title lang="es">Un hijo llamado Erasmus</title></programme>
+<programme start="20230213123000 +0000" stop="20230213143500 +0000" channel="EuropaEuropa.ar"><title lang="es">Ficción</title></programme>
+<programme start="20230213143500 +0000" stop="20230213163500 +0000" channel="EuropaEuropa.ar"><title lang="es">Blancanieves</title></programme>
+<programme start="20230213163500 +0000" stop="20230213184500 +0000" channel="EuropaEuropa.ar"><title lang="es">Lo mejor está por venir</title></programme>
+<programme start="20230213184500 +0000" stop="20230213210500 +0000" channel="EuropaEuropa.ar"><title lang="es">Amélie</title></programme>
+<programme start="20230213210500 +0000" stop="20230213230000 +0000" channel="EuropaEuropa.ar"><title lang="es">Sin fin</title></programme>
+<programme start="20230213230000 +0000" stop="20230214010000 +0000" channel="EuropaEuropa.ar"><title lang="es">Montalbano</title></programme>
+<programme start="20230214010000 +0000" stop="20230214024000 +0000" channel="EuropaEuropa.ar"><title lang="es">Bajo las estrellas de París</title></programme>
+<programme start="20230214024000 +0000" stop="20230214033500 +0000" channel="EuropaEuropa.ar"><title lang="es">El beso de Singapur</title></programme>
+<programme start="20230214033500 +0000" stop="20230214040500 +0000" channel="EuropaEuropa.ar"><title lang="es">Sin fin</title></programme>
+<programme start="20230214053000 +0000" stop="20230214064500 +0000" channel="EuropaEuropa.ar"><title lang="es">El cazador</title></programme>
+<programme start="20230214064500 +0000" stop="20230214082500 +0000" channel="EuropaEuropa.ar"><title lang="es">Bajo las estrellas de París</title></programme>
+<programme start="20230214082500 +0000" stop="20230214102500 +0000" channel="EuropaEuropa.ar"><title lang="es">Blancanieves</title></programme>
+<programme start="20230214102500 +0000" stop="20230214124500 +0000" channel="EuropaEuropa.ar"><title lang="es">Amélie</title></programme>
+<programme start="20230214124500 +0000" stop="20230214144000 +0000" channel="EuropaEuropa.ar"><title lang="es">Sin fin</title></programme>
+<programme start="20230214144000 +0000" stop="20230214162000 +0000" channel="EuropaEuropa.ar"><title lang="es">Bajo las estrellas de París</title></programme>
+<programme start="20230214162000 +0000" stop="20230214173500 +0000" channel="EuropaEuropa.ar"><title lang="es">El cazador</title></programme>
+<programme start="20230214173500 +0000" stop="20230214192000 +0000" channel="EuropaEuropa.ar"><title lang="es">Comediantes</title></programme>
+<programme start="20230214192000 +0000" stop="20230214213000 +0000" channel="EuropaEuropa.ar"><title lang="es">Con todo mi amor</title></programme>
+<programme start="20230214213000 +0000" stop="20230214234500 +0000" channel="EuropaEuropa.ar"><title lang="es">A la vuelta de la esquina</title></programme>
+<programme start="20230214234500 +0000" stop="20230215010000 +0000" channel="EuropaEuropa.ar"><title lang="es">El cazador</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="EuropaEuropa.ar"><title lang="es">La muerte y los ruiseñores</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="EuropaEuropa.ar"><title lang="es">Las virtudes</title></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="EuropaEuropa.ar"><title lang="es">A la vuelta de la esquina</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="ExitosaTV.pe"><title lang="es">La hora esotérica</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="ExitosaTV.pe"><title lang="es">La voz de los pueblos</title></programme>
+<programme start="20230213070000 +0000" stop="20230213100000 +0000" channel="ExitosaTV.pe"><title lang="es">La voz de los pueblos</title></programme>
+<programme start="20230213100000 +0000" stop="20230213130000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa Perú</title></programme>
+<programme start="20230213130000 +0000" stop="20230213160000 +0000" channel="ExitosaTV.pe"><title lang="es">Hablemos claro</title></programme>
+<programme start="20230213160000 +0000" stop="20230213190000 +0000" channel="ExitosaTV.pe"><title lang="es">Informamos y opinamos</title></programme>
+<programme start="20230213190000 +0000" stop="20230213210000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa deportes</title></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="ExitosaTV.pe"><title lang="es">Los exitosos del humor</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="ExitosaTV.pe"><title lang="es">Médicos en acción</title></programme>
+<programme start="20230214000000 +0000" stop="20230214030000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa te escucha</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa Noticias</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="ExitosaTV.pe"><title lang="es">Acuéstate con Angulo</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="ExitosaTV.pe"><title lang="es">La hora esotérica</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="ExitosaTV.pe"><title lang="es">La voz de los pueblos</title></programme>
+<programme start="20230214070000 +0000" stop="20230214100000 +0000" channel="ExitosaTV.pe"><title lang="es">La voz de los pueblos</title></programme>
+<programme start="20230214100000 +0000" stop="20230214130000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa Perú</title></programme>
+<programme start="20230214130000 +0000" stop="20230214160000 +0000" channel="ExitosaTV.pe"><title lang="es">Hablemos claro</title></programme>
+<programme start="20230214160000 +0000" stop="20230214190000 +0000" channel="ExitosaTV.pe"><title lang="es">Informamos y opinamos</title></programme>
+<programme start="20230214190000 +0000" stop="20230214210000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa deportes</title></programme>
+<programme start="20230214210000 +0000" stop="20230214230000 +0000" channel="ExitosaTV.pe"><title lang="es">Los exitosos del humor</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="ExitosaTV.pe"><title lang="es">Médicos en acción</title></programme>
+<programme start="20230215000000 +0000" stop="20230215030000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa te escucha</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="ExitosaTV.pe"><title lang="es">Exitosa Noticias</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="ExitosaTV.pe"><title lang="es">Acuéstate con Angulo</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="GlobalTV.pe"><title lang="es">Transporter</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="GlobalTV.pe"><title lang="es">Star vs. Force</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="GlobalTV.pe"><title lang="es">Stitch!</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="GlobalTV.pe"><title lang="es">Henry Huggle Monster</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="GlobalTV.pe"><title lang="es">Avengers Assemble</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="GlobalTV.pe"><title lang="es">Guardianes de la galaxia</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="GlobalTV.pe"><title lang="es">Princesita Sofía</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="GlobalTV.pe"><title lang="es">Phineas and Ferb</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="GlobalTV.pe"><title lang="es">El conciertazo</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="GlobalTV.pe"><title lang="es">Saber y ganar</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="GlobalTV.pe"><title lang="es">American Ninja Warrior</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="GlobalTV.pe"><title lang="es">Patoaventuras</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="GlobalTV.pe"><title lang="es">La tropa Goofy</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="GlobalTV.pe"><title lang="es">Quack Pack</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="GlobalTV.pe"><title lang="es">Timon y Pumba</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="GlobalTV.pe"><title lang="es">Comisario Rex</title></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="GlobalTV.pe"><title lang="es">Once</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="GlobalTV.pe"><title lang="es">Alerta cobra</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="GlobalTV.pe"><title lang="es">Flash</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="GlobalTV.pe"><title lang="es">Esperanza</title></programme>
+<programme start="20230214010000 +0000" stop="20230214023000 +0000" channel="GlobalTV.pe"><title lang="es">Amar es primavera</title></programme>
+<programme start="20230214023000 +0000" stop="20230214040000 +0000" channel="GlobalTV.pe"><title lang="es">La familia de mi esposo</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="GlobalTV.pe"><title lang="es">Spartacus</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="GlobalTV.pe"><title lang="es">Fear Factor MTV</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="GlobalTV.pe"><title lang="es">Nutrissa</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="GlobalTV.pe"><title lang="es">Star vs. Force</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="GlobalTV.pe"><title lang="es">Stitch!</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="GlobalTV.pe"><title lang="es">Henry Huggle Monster</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="GlobalTV.pe"><title lang="es">Avengers Assemble</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="GlobalTV.pe"><title lang="es">Guardianes de la galaxia</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="GlobalTV.pe"><title lang="es">Princesita Sofía</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="GlobalTV.pe"><title lang="es">Phineas and Ferb</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="GlobalTV.pe"><title lang="es">El conciertazo</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="GlobalTV.pe"><title lang="es">Saber y ganar</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="GlobalTV.pe"><title lang="es">American Ninja Warrior</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="GlobalTV.pe"><title lang="es">Patoaventuras</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="GlobalTV.pe"><title lang="es">La tropa Goofy</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="GlobalTV.pe"><title lang="es">Quack Pack</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="GlobalTV.pe"><title lang="es">Timon y Pumba</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="GlobalTV.pe"><title lang="es">Comisario Rex</title></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="GlobalTV.pe"><title lang="es">Once</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="GlobalTV.pe"><title lang="es">Alerta cobra</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="GlobalTV.pe"><title lang="es">Flash</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="GlobalTV.pe"><title lang="es">Esperanza</title></programme>
+<programme start="20230215010000 +0000" stop="20230215023000 +0000" channel="GlobalTV.pe"><title lang="es">Amar es primavera</title></programme>
+<programme start="20230215023000 +0000" stop="20230215040000 +0000" channel="GlobalTV.pe"><title lang="es">La familia de mi esposo</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="GlobalTV.pe"><title lang="es">Spartacus</title></programme>
+<programme start="20230213055700 +0000" stop="20230213075000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Rocky Balboa</title></programme>
+<programme start="20230213075000 +0000" stop="20230213093700 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Zapatero a tus zapatos</title></programme>
+<programme start="20230213093700 +0000" stop="20230213114400 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Dos son familia</title></programme>
+<programme start="20230213114400 +0000" stop="20230213134100 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Amor imposible</title></programme>
+<programme start="20230213134100 +0000" stop="20230213160700 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Tan fuerte y tan cerca</title></programme>
+<programme start="20230213160700 +0000" stop="20230213183100 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">El triunfo del espíritu</title></programme>
+<programme start="20230213183100 +0000" stop="20230213202200 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Rocky 3</title></programme>
+<programme start="20230213202200 +0000" stop="20230213220300 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Rocky 4</title></programme>
+<programme start="20230213220300 +0000" stop="20230213235900 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Rocky 5</title></programme>
+<programme start="20230213235900 +0000" stop="20230214015000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Rocky Balboa</title></programme>
+<programme start="20230214015000 +0000" stop="20230214040000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Nunca más</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Asesino: Misión venganza</title></programme>
+<programme start="20230214060100 +0000" stop="20230214082500 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Bajos instintos</title></programme>
+<programme start="20230214082500 +0000" stop="20230214100900 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Sombras en el bosque</title></programme>
+<programme start="20230214100900 +0000" stop="20230214113600 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Un caballo llamado Elefante</title></programme>
+<programme start="20230214113600 +0000" stop="20230214131500 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">¿Conoces a Tomás?</title></programme>
+<programme start="20230214131500 +0000" stop="20230214150300 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">El misterio del Trinidad</title></programme>
+<programme start="20230214150300 +0000" stop="20230214170100 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">El regalo</title></programme>
+<programme start="20230214170100 +0000" stop="20230214185200 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Al borde del abismo</title></programme>
+<programme start="20230214185200 +0000" stop="20230214205000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Ciudad de sombras</title></programme>
+<programme start="20230214205000 +0000" stop="20230214224700 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Falta de ética</title></programme>
+<programme start="20230214224700 +0000" stop="20230215002700 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">El código del miedo</title></programme>
+<programme start="20230215002700 +0000" stop="20230215021400 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Furia implacable</title></programme>
+<programme start="20230215021400 +0000" stop="20230215040000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">Una bala en la cabeza</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="GoldenEdgePanregional.mx"><title lang="es">El centinela</title></programme>
+<programme start="20230213050000 +0000" stop="20230213170000 +0000" channel="Karibena.pe"><title lang="es">Programación local</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="Karibena.pe"><title lang="es">Programación local</title></programme>
+<programme start="20230214050000 +0000" stop="20230214170000 +0000" channel="Karibena.pe"><title lang="es">Programación local</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="Karibena.pe"><title lang="es">Programación local</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="Latina.pe"><title lang="es">Aislados</title></programme>
+<programme start="20230213060000 +0000" stop="20230213080000 +0000" channel="Latina.pe"><title lang="es">Reporte semanal</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="Latina.pe"><title lang="es">Hercai</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="Latina.pe"><title lang="es">Demasiada belleza</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Despierta con matinal</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Matinal nacional</title></programme>
+<programme start="20230213120000 +0000" stop="20230213140000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Matinal</title></programme>
+<programme start="20230213140000 +0000" stop="20230213170000 +0000" channel="Latina.pe"><title lang="es">Arriba mi gente</title></programme>
+<programme start="20230213170000 +0000" stop="20230213193000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Mediodía</title></programme>
+<programme start="20230213193000 +0000" stop="20230213203000 +0000" channel="Latina.pe"><title lang="es">Fruto prohibido</title></programme>
+<programme start="20230213203000 +0000" stop="20230213220000 +0000" channel="Latina.pe"><title lang="es">Toma mi mano</title></programme>
+<programme start="20230213220000 +0000" stop="20230213233000 +0000" channel="Latina.pe"><title lang="es">El valor de una madre</title></programme>
+<programme start="20230213233000 +0000" stop="20230214010000 +0000" channel="Latina.pe"><title lang="es">Corazón de niña</title></programme>
+<programme start="20230214010000 +0000" stop="20230214023000 +0000" channel="Latina.pe"><title lang="es">La voz - Perú</title></programme>
+<programme start="20230214023000 +0000" stop="20230214033000 +0000" channel="Latina.pe"><title lang="es">Traicionada</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Central</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="Latina.pe"><title lang="es">Fruto prohibido</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="Latina.pe"><title lang="es">Espacio alquilado</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="Latina.pe"><title lang="es">Fruto prohibido</title></programme>
+<programme start="20230214070000 +0000" stop="20230214083000 +0000" channel="Latina.pe"><title lang="es">Hercai</title></programme>
+<programme start="20230214083000 +0000" stop="20230214100000 +0000" channel="Latina.pe"><title lang="es">Demasiada belleza</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Despierta con matinal</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Matinal nacional</title></programme>
+<programme start="20230214120000 +0000" stop="20230214140000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Matinal</title></programme>
+<programme start="20230214140000 +0000" stop="20230214170000 +0000" channel="Latina.pe"><title lang="es">Arriba mi gente</title></programme>
+<programme start="20230214170000 +0000" stop="20230214193000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Mediodía</title></programme>
+<programme start="20230214193000 +0000" stop="20230214203000 +0000" channel="Latina.pe"><title lang="es">Fruto prohibido</title></programme>
+<programme start="20230214203000 +0000" stop="20230214220000 +0000" channel="Latina.pe"><title lang="es">Toma mi mano</title></programme>
+<programme start="20230214220000 +0000" stop="20230214233000 +0000" channel="Latina.pe"><title lang="es">El valor de una madre</title></programme>
+<programme start="20230214233000 +0000" stop="20230215010000 +0000" channel="Latina.pe"><title lang="es">Corazón de niña</title></programme>
+<programme start="20230215010000 +0000" stop="20230215023000 +0000" channel="Latina.pe"><title lang="es">La voz - Perú</title></programme>
+<programme start="20230215023000 +0000" stop="20230215033000 +0000" channel="Latina.pe"><title lang="es">Traicionada</title></programme>
+<programme start="20230215033000 +0000" stop="20230215040000 +0000" channel="Latina.pe"><title lang="es">Latina noticias - Central</title></programme>
+<programme start="20230213064000 +0000" stop="20230213074000 +0000" channel="Nativa.pe"><title lang="es">El poder de la fe</title></programme>
+<programme start="20230213074000 +0000" stop="20230213080000 +0000" channel="Nativa.pe"><title lang="es">Bloque salud</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="Nativa.pe"><title lang="es">Zona de impacto</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="Nativa.pe"><title lang="es">Vida divina</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="Nativa.pe"><title lang="es">Noticias con futuro</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="Nativa.pe"><title lang="es">Dosis de salud</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="Nativa.pe"><title lang="es">Las mañanas con Patricia del Río</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="Nativa.pe"><title lang="es">En pocas palabras</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230213150000 +0000" stop="20230213154000 +0000" channel="Nativa.pe"><title lang="es">Show de la fe</title></programme>
+<programme start="20230213154000 +0000" stop="20230213160000 +0000" channel="Nativa.pe"><title lang="es">D viaje</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="Nativa.pe"><title lang="es">Pulso informativo</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="Nativa.pe"><title lang="es">Al vuelo</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="Nativa.pe"><title lang="es">Todo de todo</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="Nativa.pe"><title lang="es">Dosis de salud</title></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="Nativa.pe"><title lang="es">SOS de la fe</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="Nativa.pe"><title lang="es">En pocas palabras</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="Nativa.pe"><title lang="es">Es top</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="Nativa.pe"><title lang="es">Manía por el fútbol</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="Nativa.pe"><title lang="es">Al vuelo</title></programme>
+<programme start="20230214040000 +0000" stop="20230214044000 +0000" channel="Nativa.pe"><title lang="es">Show de la fe</title></programme>
+<programme start="20230214044000 +0000" stop="20230214051000 +0000" channel="Nativa.pe"><title lang="es">Es top</title></programme>
+<programme start="20230214054000 +0000" stop="20230214064000 +0000" channel="Nativa.pe"><title lang="es">Mávila en Nativa</title></programme>
+<programme start="20230214064000 +0000" stop="20230214070000 +0000" channel="Nativa.pe"><title lang="es">Bloque salud</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="Nativa.pe"><title lang="es">En pocas palabras</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="Nativa.pe"><title lang="es">Al vuelo</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="Nativa.pe"><title lang="es">Las mañanas con Patricia del Río</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="Nativa.pe"><title lang="es">Al vuelo</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="Nativa.pe"><title lang="es">Dosis de salud</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="Nativa.pe"><title lang="es">Las mañanas con Patricia del Río</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="Nativa.pe"><title lang="es">En pocas palabras</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230214150000 +0000" stop="20230214154000 +0000" channel="Nativa.pe"><title lang="es">Show de la fe</title></programme>
+<programme start="20230214154000 +0000" stop="20230214160000 +0000" channel="Nativa.pe"><title lang="es">Cocina con calle</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="Nativa.pe"><title lang="es">Pulso informativo</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="Nativa.pe"><title lang="es">Al vuelo</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="Nativa.pe"><title lang="es">Emprendelo</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="Nativa.pe"><title lang="es">Todo de todo</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="Nativa.pe"><title lang="es">Dosis de salud</title></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="Nativa.pe"><title lang="es">Perú Off Road &amp; Racing</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="Nativa.pe"><title lang="es">Universiadas</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="Nativa.pe"><title lang="es">SOS de la fe</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="Nativa.pe"><title lang="es">En pocas palabras</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="Nativa.pe"><title lang="es">Es top</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="Nativa.pe"><title lang="es">Resúmen Universiadas</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="Nativa.pe"><title lang="es">Al vuelo</title></programme>
+<programme start="20230215040000 +0000" stop="20230215044000 +0000" channel="Nativa.pe"><title lang="es">Show de la fe</title></programme>
+<programme start="20230215044000 +0000" stop="20230215051000 +0000" channel="Nativa.pe"><title lang="es">Es top</title></programme>
+<programme start="20230213050000 +0000" stop="20230213090000 +0000" channel="OvacionTV.pe"><title lang="es">00:00 - 04:00</title></programme>
+<programme start="20230213090000 +0000" stop="20230213130000 +0000" channel="OvacionTV.pe"><title lang="es">04:00 - 08:00</title></programme>
+<programme start="20230213130000 +0000" stop="20230213170000 +0000" channel="OvacionTV.pe"><title lang="es">08:00 - 12:00</title></programme>
+<programme start="20230213170000 +0000" stop="20230213210000 +0000" channel="OvacionTV.pe"><title lang="es">12:00 - 16:00</title></programme>
+<programme start="20230213210000 +0000" stop="20230214010000 +0000" channel="OvacionTV.pe"><title lang="es">16:00 - 20:00</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="OvacionTV.pe"><title lang="es">20:00 - 00:00</title></programme>
+<programme start="20230214050000 +0000" stop="20230214090000 +0000" channel="OvacionTV.pe"><title lang="es">00:00 - 04:00</title></programme>
+<programme start="20230214090000 +0000" stop="20230214130000 +0000" channel="OvacionTV.pe"><title lang="es">04:00 - 08:00</title></programme>
+<programme start="20230214130000 +0000" stop="20230214170000 +0000" channel="OvacionTV.pe"><title lang="es">08:00 - 12:00</title></programme>
+<programme start="20230214170000 +0000" stop="20230214210000 +0000" channel="OvacionTV.pe"><title lang="es">12:00 - 16:00</title></programme>
+<programme start="20230214210000 +0000" stop="20230215010000 +0000" channel="OvacionTV.pe"><title lang="es">16:00 - 20:00</title></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="OvacionTV.pe"><title lang="es">20:00 - 00:00</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150600 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213150600 +0000" stop="20230213160000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213180000 +0000" stop="20230213185500 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230213185500 +0000" stop="20230213200000 +0000" channel="PBO.pe"><title lang="es">PBO Marycarmen</title></programme>
+<programme start="20230213200000 +0000" stop="20230213205500 +0000" channel="PBO.pe"><title lang="es">PBO Marycarmen</title></programme>
+<programme start="20230213205500 +0000" stop="20230213220000 +0000" channel="PBO.pe"><title lang="es">PBO Salud</title></programme>
+<programme start="20230213220000 +0000" stop="20230213225500 +0000" channel="PBO.pe"><title lang="es">PBO Salud</title></programme>
+<programme start="20230213225500 +0000" stop="20230214000000 +0000" channel="PBO.pe"><title lang="es">PBO Campeonisimo</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="PBO.pe"><title lang="es">PBO Campeonisimo</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="PBO.pe"><title lang="es">Agatha en PBO</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="PBO.pe"><title lang="es">RVK y Katherine</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="PBO.pe"><title lang="es">RVK y Katherine</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="PBO.pe"><title lang="es">Agatha en PBO</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150600 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230214150600 +0000" stop="20230214160000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214180000 +0000" stop="20230214185500 +0000" channel="PBO.pe"><title lang="es">Chema en PBO</title></programme>
+<programme start="20230214185500 +0000" stop="20230214200000 +0000" channel="PBO.pe"><title lang="es">PBO Marycarmen</title></programme>
+<programme start="20230214200000 +0000" stop="20230214205500 +0000" channel="PBO.pe"><title lang="es">PBO Marycarmen</title></programme>
+<programme start="20230214205500 +0000" stop="20230214220000 +0000" channel="PBO.pe"><title lang="es">PBO Salud</title></programme>
+<programme start="20230214220000 +0000" stop="20230214225500 +0000" channel="PBO.pe"><title lang="es">PBO Salud</title></programme>
+<programme start="20230214225500 +0000" stop="20230215000000 +0000" channel="PBO.pe"><title lang="es">PBO Campeonisimo</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="PBO.pe"><title lang="es">PBO Campeonisimo</title></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="PBO.pe"><title lang="es">Agatha en PBO</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="PBO.pe"><title lang="es">RVK y Katherine</title></programme>
+<programme start="20230215020000 +0000" stop="20230215023000 +0000" channel="PBO.pe"><title lang="es">RVK y Katherine</title></programme>
+<programme start="20230215023000 +0000" stop="20230215030000 +0000" channel="PBO.pe"><title lang="es">Agatha en PBO</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="PBO.pe"><title lang="es">PBO Noticias</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="PanamericanaTV.pe"><title lang="es">Los ambulantes de la risa</title></programme>
+<programme start="20230213051500 +0000" stop="20230213093000 +0000" channel="PanamericanaTV.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213093000 +0000" stop="20230213103000 +0000" channel="PanamericanaTV.pe"><title lang="es">Panorama</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="PanamericanaTV.pe"><title lang="es">Buenos días, Perú - Primera edición</title></programme>
+<programme start="20230213110000 +0000" stop="20230213143000 +0000" channel="PanamericanaTV.pe"><title lang="es">Buenos días, Perú - Segunda edición</title></programme>
+<programme start="20230213143000 +0000" stop="20230213153000 +0000" channel="PanamericanaTV.pe"><title lang="es">Quality Products</title></programme>
+<programme start="20230213153000 +0000" stop="20230213170000 +0000" channel="PanamericanaTV.pe"><title lang="es">Prendete</title></programme>
+<programme start="20230213170000 +0000" stop="20230213200000 +0000" channel="PanamericanaTV.pe"><title lang="es">24 horas - Edición mediodía</title></programme>
+<programme start="20230213200000 +0000" stop="20230213213000 +0000" channel="PanamericanaTV.pe"><title lang="es">Dilo fuerte</title></programme>
+<programme start="20230213213000 +0000" stop="20230213233000 +0000" channel="PanamericanaTV.pe"><title lang="es">¡Victoria!</title></programme>
+<programme start="20230213233000 +0000" stop="20230214003000 +0000" channel="PanamericanaTV.pe"><title lang="es">Los mejores documentales</title></programme>
+<programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="PanamericanaTV.pe"><title lang="es">Moisés y los 10 mandamientos</title></programme>
+<programme start="20230214013000 +0000" stop="20230214030000 +0000" channel="PanamericanaTV.pe"><title lang="es">24 horas - Edición central</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="PanamericanaTV.pe"><title lang="es">2023 en 24 horas</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="PanamericanaTV.pe"><title lang="es">Rastros de mentiras</title></programme>
+<programme start="20230214053000 +0000" stop="20230214094500 +0000" channel="PanamericanaTV.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214094500 +0000" stop="20230214103000 +0000" channel="PanamericanaTV.pe"><title lang="es">2023 en 24 horas</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="PanamericanaTV.pe"><title lang="es">Buenos días, Perú - Primera edición</title></programme>
+<programme start="20230214110000 +0000" stop="20230214143000 +0000" channel="PanamericanaTV.pe"><title lang="es">Buenos días, Perú - Segunda edición</title></programme>
+<programme start="20230214143000 +0000" stop="20230214153000 +0000" channel="PanamericanaTV.pe"><title lang="es">Quality Products</title></programme>
+<programme start="20230214153000 +0000" stop="20230214170000 +0000" channel="PanamericanaTV.pe"><title lang="es">Prendete</title></programme>
+<programme start="20230214170000 +0000" stop="20230214200000 +0000" channel="PanamericanaTV.pe"><title lang="es">24 horas - Edición mediodía</title></programme>
+<programme start="20230214200000 +0000" stop="20230214213000 +0000" channel="PanamericanaTV.pe"><title lang="es">Dilo fuerte</title></programme>
+<programme start="20230214213000 +0000" stop="20230214233000 +0000" channel="PanamericanaTV.pe"><title lang="es">¡Victoria!</title></programme>
+<programme start="20230214233000 +0000" stop="20230215003000 +0000" channel="PanamericanaTV.pe"><title lang="es">Los mejores documentales</title></programme>
+<programme start="20230215003000 +0000" stop="20230215013000 +0000" channel="PanamericanaTV.pe"><title lang="es">Moisés y los 10 mandamientos</title></programme>
+<programme start="20230215013000 +0000" stop="20230215030000 +0000" channel="PanamericanaTV.pe"><title lang="es">24 horas - Edición central</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="PanamericanaTV.pe"><title lang="es">2023 en 24 horas</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="PanamericanaTV.pe"><title lang="es">Rastros de mentiras</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Jardín secreto</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Jardín secreto</title></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Jardín secreto</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Jardín secreto</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Jardín secreto</title></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Las estrellas</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">De nuevo enamorados</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Suerte de vivir</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">A que no me dejas</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="PasionesLatinAmerica.us"><title lang="es">Amar una vez más</title></programme>
+<programme start="20230213050000 +0000" stop="20230213070000 +0000" channel="TVPeru.pe"><title lang="es">Una y mil voces</title></programme>
+<programme start="20230213070000 +0000" stop="20230213090000 +0000" channel="TVPeru.pe"><title lang="es">Todo fútbol</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="TVPeru.pe"><title lang="es">Especiales TV Perú</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="TVPeru.pe"><title lang="es">Jiwasanaka</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="TVPeru.pe"><title lang="es">Ñuqanchik</title></programme>
+<programme start="20230213110000 +0000" stop="20230213130000 +0000" channel="TVPeru.pe"><title lang="es">TVPerú noticias matinal</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="TVPeru.pe"><title lang="es">Mi perro Chocolo</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="TVPeru.pe"><title lang="es">Colórico</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="TVPeru.pe"><title lang="es">Modo Bicentenario</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="TVPeru.pe"><title lang="es">Con sabor a Perú</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="TVPeru.pe"><title lang="es">Mono ve, mono hace - Nueva temporada</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="TVPeru.pe"><title lang="es">Pequeña galaxia</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="TVPeru.pe"><title lang="es">Jiwasanaka</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="TVPeru.pe"><title lang="es">Ñuqanchik</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="TVPeru.pe"><title lang="es">TV Perú Noticias - Edición tarde</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="TVPeru.pe"><title lang="es">Plano detalle</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="TVPeru.pe"><title lang="es">Cuerpo médico</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="TVPeru.pe"><title lang="es">Chaski, el guardaparque</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="TVPeru.pe"><title lang="es">Barrio amigo, actores de cambio</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="TVPeru.pe"><title lang="es">Hecho a mano</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="TVPeru.pe"><title lang="es">Pukllaspa yachay - Aprende jugando</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="TVPeru.pe"><title lang="es">GeoMundo</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="TVPeru.pe"><title lang="es">TVPerú noticias - Edición noche</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="TVPeru.pe"><title lang="es">En pared</title></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="TVPeru.pe"><title lang="es">Museos sin límites</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="TVPeru.pe"><title lang="es">Congreso Noticias</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="TVPeru.pe"><title lang="es">GeoMundo</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="TVPeru.pe"><title lang="es">Pukllaspa yachay - Aprende jugando</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="TVPeru.pe"><title lang="es">En pared</title></programme>
+<programme start="20230214080000 +0000" stop="20230214100000 +0000" channel="TVPeru.pe"><title lang="es">Una y mil voces</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="TVPeru.pe"><title lang="es">Jiwasanaka</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="TVPeru.pe"><title lang="es">Ñuqanchik</title></programme>
+<programme start="20230214110000 +0000" stop="20230214130000 +0000" channel="TVPeru.pe"><title lang="es">TVPerú noticias matinal</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="TVPeru.pe"><title lang="es">Mi perro Chocolo</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="TVPeru.pe"><title lang="es">Colórico</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="TVPeru.pe"><title lang="es">Museos sin límites</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="TVPeru.pe"><title lang="es">Con sabor a Perú</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="TVPeru.pe"><title lang="es">Mono ve, mono hace - Nueva temporada</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="TVPeru.pe"><title lang="es">Pequeña galaxia</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="TVPeru.pe"><title lang="es">Jiwasanaka</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="TVPeru.pe"><title lang="es">Ñuqanchik</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="TVPeru.pe"><title lang="es">TV Perú Noticias - Edición tarde</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="TVPeru.pe"><title lang="es">Plano detalle</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="TVPeru.pe"><title lang="es">Cuerpo médico</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="TVPeru.pe"><title lang="es">Chaski, el guardaparque</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="TVPeru.pe"><title lang="es">Barrio amigo, actores de cambio</title></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="TVPeru.pe"><title lang="es">Hecho a mano</title></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="TVPeru.pe"><title lang="es">Pukllaspa yachay - Aprende jugando</title></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="TVPeru.pe"><title lang="es">GeoMundo</title></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="TVPeru.pe"><title lang="es">TVPerú noticias - Edición noche</title></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="TVPeru.pe"><title lang="es">En pared</title></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="TVPeru.pe"><title lang="es">Sucedió en el Perú</title></programme>
+<programme start="20230215040000 +0000" stop="20230215043000 +0000" channel="TVPeru.pe"><title lang="es">Congreso Noticias</title></programme>
+<programme start="20230213050500 +0000" stop="20230213110000 +0000" channel="USMPTV.pe"><title lang="es">Leer para contarla</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="USMPTV.pe"><title lang="es">Coronavirus, la pandemia</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121000 +0000" channel="USMPTV.pe"><title lang="es">Buenas noticias</title></programme>
+<programme start="20230213121000 +0000" stop="20230213124000 +0000" channel="USMPTV.pe"><title lang="es">Al natural</title></programme>
+<programme start="20230213124000 +0000" stop="20230213125000 +0000" channel="USMPTV.pe"><title lang="es">Camaleón y las naturales ciencias</title></programme>
+<programme start="20230213125000 +0000" stop="20230213130000 +0000" channel="USMPTV.pe"><title lang="es">De paseo</title></programme>
+<programme start="20230213130000 +0000" stop="20230213132000 +0000" channel="USMPTV.pe"><title lang="es">Matemática 3ro</title></programme>
+<programme start="20230213132000 +0000" stop="20230213135000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 3ro</title></programme>
+<programme start="20230213135000 +0000" stop="20230213142000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 3ro</title></programme>
+<programme start="20230213142000 +0000" stop="20230213144000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 3ero</title></programme>
+<programme start="20230213144000 +0000" stop="20230213151000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 4to</title></programme>
+<programme start="20230213151000 +0000" stop="20230213154000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 4to</title></programme>
+<programme start="20230213154000 +0000" stop="20230213161000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 4to</title></programme>
+<programme start="20230213161000 +0000" stop="20230213164000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 5to</title></programme>
+<programme start="20230213164000 +0000" stop="20230213170000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 5to</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171000 +0000" channel="USMPTV.pe"><title lang="es">Buenas noticias</title></programme>
+<programme start="20230213171000 +0000" stop="20230213173000 +0000" channel="USMPTV.pe"><title lang="es">Héroes</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="USMPTV.pe"><title lang="es">Leer para contarla</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="USMPTV.pe"><title lang="es">Los chicos opinan</title></programme>
+<programme start="20230213183000 +0000" stop="20230213184000 +0000" channel="USMPTV.pe"><title lang="es">A la salida</title></programme>
+<programme start="20230213184000 +0000" stop="20230213185000 +0000" channel="USMPTV.pe"><title lang="es">De paseo</title></programme>
+<programme start="20230213185000 +0000" stop="20230213190000 +0000" channel="USMPTV.pe"><title lang="es">Conde cálcula</title></programme>
+<programme start="20230213190000 +0000" stop="20230213192000 +0000" channel="USMPTV.pe"><title lang="es">Matemática 3ro</title></programme>
+<programme start="20230213192000 +0000" stop="20230213195000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 3ro</title></programme>
+<programme start="20230213195000 +0000" stop="20230213202000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 3ro</title></programme>
+<programme start="20230213202000 +0000" stop="20230213204000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 3ero</title></programme>
+<programme start="20230213204000 +0000" stop="20230213211000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 4to</title></programme>
+<programme start="20230213211000 +0000" stop="20230213214000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 4to</title></programme>
+<programme start="20230213214000 +0000" stop="20230213221000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 4to</title></programme>
+<programme start="20230213221000 +0000" stop="20230213224000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 5to</title></programme>
+<programme start="20230213224000 +0000" stop="20230213230000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 5to</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231000 +0000" channel="USMPTV.pe"><title lang="es">Buenas noticias</title></programme>
+<programme start="20230213231000 +0000" stop="20230213232000 +0000" channel="USMPTV.pe"><title lang="es">A la salida</title></programme>
+<programme start="20230213232000 +0000" stop="20230213233000 +0000" channel="USMPTV.pe"><title lang="es">De paseo</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="USMPTV.pe"><title lang="es">Los chicos opinan</title></programme>
+<programme start="20230214000000 +0000" stop="20230214002000 +0000" channel="USMPTV.pe"><title lang="es">Héroes</title></programme>
+<programme start="20230214002000 +0000" stop="20230214005000 +0000" channel="USMPTV.pe"><title lang="es">Leer para contarla</title></programme>
+<programme start="20230214005000 +0000" stop="20230214010000 +0000" channel="USMPTV.pe"><title lang="es">Conde cálcula</title></programme>
+<programme start="20230214010000 +0000" stop="20230214012000 +0000" channel="USMPTV.pe"><title lang="es">Matemática 3ro</title></programme>
+<programme start="20230214012000 +0000" stop="20230214015000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 3ro</title></programme>
+<programme start="20230214015000 +0000" stop="20230214022000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 3ro</title></programme>
+<programme start="20230214022000 +0000" stop="20230214024000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 3ero</title></programme>
+<programme start="20230214024000 +0000" stop="20230214031000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 4to</title></programme>
+<programme start="20230214031000 +0000" stop="20230214034000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 4to</title></programme>
+<programme start="20230214034000 +0000" stop="20230214041000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 4to</title></programme>
+<programme start="20230214041000 +0000" stop="20230214044000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 5to</title></programme>
+<programme start="20230214044000 +0000" stop="20230214051000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 5to</title></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="USMPTV.pe"><title lang="es">Coronavirus, la pandemia</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121000 +0000" channel="USMPTV.pe"><title lang="es">Buenas noticias</title></programme>
+<programme start="20230214121000 +0000" stop="20230214124000 +0000" channel="USMPTV.pe"><title lang="es">Al natural</title></programme>
+<programme start="20230214124000 +0000" stop="20230214125000 +0000" channel="USMPTV.pe"><title lang="es">Camaleón y las naturales ciencias</title></programme>
+<programme start="20230214125000 +0000" stop="20230214130000 +0000" channel="USMPTV.pe"><title lang="es">De paseo</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 4to</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 4to</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 4to</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 5to</title></programme>
+<programme start="20230214150000 +0000" stop="20230214152000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 5to</title></programme>
+<programme start="20230214152000 +0000" stop="20230214154000 +0000" channel="USMPTV.pe"><title lang="es">Matemática 3ro</title></programme>
+<programme start="20230214154000 +0000" stop="20230214161000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 3ro</title></programme>
+<programme start="20230214161000 +0000" stop="20230214164000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 3ro</title></programme>
+<programme start="20230214164000 +0000" stop="20230214170000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 3ero</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171000 +0000" channel="USMPTV.pe"><title lang="es">Buenas noticias</title></programme>
+<programme start="20230214171000 +0000" stop="20230214173000 +0000" channel="USMPTV.pe"><title lang="es">Héroes</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="USMPTV.pe"><title lang="es">Leer para contarla</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="USMPTV.pe"><title lang="es">Los chicos opinan</title></programme>
+<programme start="20230214183000 +0000" stop="20230214184000 +0000" channel="USMPTV.pe"><title lang="es">A la salida</title></programme>
+<programme start="20230214184000 +0000" stop="20230214185000 +0000" channel="USMPTV.pe"><title lang="es">De paseo</title></programme>
+<programme start="20230214185000 +0000" stop="20230214190000 +0000" channel="USMPTV.pe"><title lang="es">Conde cálcula</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 4to</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 4to</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 4to</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 5to</title></programme>
+<programme start="20230214210000 +0000" stop="20230214212000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 5to</title></programme>
+<programme start="20230214212000 +0000" stop="20230214214000 +0000" channel="USMPTV.pe"><title lang="es">Matemática 3ro</title></programme>
+<programme start="20230214214000 +0000" stop="20230214221000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 3ro</title></programme>
+<programme start="20230214221000 +0000" stop="20230214224000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 3ro</title></programme>
+<programme start="20230214224000 +0000" stop="20230214230000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 3ero</title></programme>
+<programme start="20230214230000 +0000" stop="20230214231000 +0000" channel="USMPTV.pe"><title lang="es">Buenas noticias</title></programme>
+<programme start="20230214231000 +0000" stop="20230214232000 +0000" channel="USMPTV.pe"><title lang="es">A la salida</title></programme>
+<programme start="20230214232000 +0000" stop="20230214233000 +0000" channel="USMPTV.pe"><title lang="es">De paseo</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="USMPTV.pe"><title lang="es">Los chicos opinan</title></programme>
+<programme start="20230215000000 +0000" stop="20230215002000 +0000" channel="USMPTV.pe"><title lang="es">Héroes</title></programme>
+<programme start="20230215002000 +0000" stop="20230215005000 +0000" channel="USMPTV.pe"><title lang="es">Leer para contarla</title></programme>
+<programme start="20230215005000 +0000" stop="20230215010000 +0000" channel="USMPTV.pe"><title lang="es">Conde cálcula</title></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 4to</title></programme>
+<programme start="20230215013000 +0000" stop="20230215020000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 4to</title></programme>
+<programme start="20230215020000 +0000" stop="20230215023000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 4to</title></programme>
+<programme start="20230215023000 +0000" stop="20230215030000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 5to</title></programme>
+<programme start="20230215030000 +0000" stop="20230215032000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 5to</title></programme>
+<programme start="20230215032000 +0000" stop="20230215034000 +0000" channel="USMPTV.pe"><title lang="es">Matemática 3ro</title></programme>
+<programme start="20230215034000 +0000" stop="20230215041000 +0000" channel="USMPTV.pe"><title lang="es">Comunicación 3ro</title></programme>
+<programme start="20230215041000 +0000" stop="20230215044000 +0000" channel="USMPTV.pe"><title lang="es">Ciencia, Tecnología y Ambiente 3ro</title></programme>
+<programme start="20230215044000 +0000" stop="20230215051000 +0000" channel="USMPTV.pe"><title lang="es">Hist, Geo y Eco 3ero</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="WillaxTV.pe"><title lang="es">La milenaria</title></programme>
+<programme start="20230213060000 +0000" stop="20230213110000 +0000" channel="WillaxTV.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230213110000 +0000" stop="20230213150000 +0000" channel="WillaxTV.pe"><title lang="es">PBO Digital</title></programme>
+<programme start="20230213150000 +0000" stop="20230213163000 +0000" channel="WillaxTV.pe"><title lang="es">El Dr. Borda</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="WillaxTV.pe"><title lang="es">Pedro, el escamoso</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="WillaxTV.pe"><title lang="es">Living Green</title></programme>
+<programme start="20230213173000 +0000" stop="20230213185000 +0000" channel="WillaxTV.pe"><title lang="es">Willax noticias - Edición mediodía</title></programme>
+<programme start="20230213185000 +0000" stop="20230213211500 +0000" channel="WillaxTV.pe"><title lang="es">Amor y fuego</title></programme>
+<programme start="20230213211500 +0000" stop="20230213221500 +0000" channel="WillaxTV.pe"><title lang="es">Tu mejor compra</title></programme>
+<programme start="20230213221500 +0000" stop="20230213232000 +0000" channel="WillaxTV.pe"><title lang="es">UDM</title></programme>
+<programme start="20230213232000 +0000" stop="20230213235000 +0000" channel="WillaxTV.pe"><title lang="es">Mi bella genio</title></programme>
+<programme start="20230213235000 +0000" stop="20230214005000 +0000" channel="WillaxTV.pe"><title lang="es">Willax noticias - Edición central</title></programme>
+<programme start="20230214005000 +0000" stop="20230214005500 +0000" channel="WillaxTV.pe"><title lang="es">Camotillo, el tinterillo</title></programme>
+<programme start="20230214005500 +0000" stop="20230214015500 +0000" channel="WillaxTV.pe"><title lang="es">Milagros Leiva. Entrevista</title></programme>
+<programme start="20230214015500 +0000" stop="20230214030300 +0000" channel="WillaxTV.pe"><title lang="es">Beto a saber</title></programme>
+<programme start="20230214030300 +0000" stop="20230214040300 +0000" channel="WillaxTV.pe"><title lang="es">Combutters</title></programme>
+<programme start="20230214040300 +0000" stop="20230214040800 +0000" channel="WillaxTV.pe"><title lang="es">Yo caviar</title></programme>
+<programme start="20230214040800 +0000" stop="20230214043800 +0000" channel="WillaxTV.pe"><title lang="es">Willax Deportes</title></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="WillaxTV.pe"><title lang="es">La milenaria</title></programme>
+<programme start="20230214060000 +0000" stop="20230214110000 +0000" channel="WillaxTV.pe"><title lang="es">Nutrisa</title></programme>
+<programme start="20230214110000 +0000" stop="20230214150000 +0000" channel="WillaxTV.pe"><title lang="es">PBO Digital</title></programme>
+<programme start="20230214150000 +0000" stop="20230214163000 +0000" channel="WillaxTV.pe"><title lang="es">El Dr. Borda</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="WillaxTV.pe"><title lang="es">Pedro, el escamoso</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="WillaxTV.pe"><title lang="es">Living Green</title></programme>
+<programme start="20230214173000 +0000" stop="20230214185000 +0000" channel="WillaxTV.pe"><title lang="es">Willax noticias - Edición mediodía</title></programme>
+<programme start="20230214185000 +0000" stop="20230214211500 +0000" channel="WillaxTV.pe"><title lang="es">Amor y fuego</title></programme>
+<programme start="20230214211500 +0000" stop="20230214221500 +0000" channel="WillaxTV.pe"><title lang="es">Tu mejor compra</title></programme>
+<programme start="20230214221500 +0000" stop="20230214232000 +0000" channel="WillaxTV.pe"><title lang="es">UDM</title></programme>
+<programme start="20230214232000 +0000" stop="20230214235000 +0000" channel="WillaxTV.pe"><title lang="es">Mi bella genio</title></programme>
+<programme start="20230214235000 +0000" stop="20230215005000 +0000" channel="WillaxTV.pe"><title lang="es">Willax noticias - Edición central</title></programme>
+<programme start="20230215005000 +0000" stop="20230215005500 +0000" channel="WillaxTV.pe"><title lang="es">Camotillo, el tinterillo</title></programme>
+<programme start="20230215005500 +0000" stop="20230215015500 +0000" channel="WillaxTV.pe"><title lang="es">Milagros Leiva. Entrevista</title></programme>
+<programme start="20230215015500 +0000" stop="20230215030300 +0000" channel="WillaxTV.pe"><title lang="es">Beto a saber</title></programme>
+<programme start="20230215030300 +0000" stop="20230215040300 +0000" channel="WillaxTV.pe"><title lang="es">Combutters</title></programme>
+<programme start="20230215040300 +0000" stop="20230215040800 +0000" channel="WillaxTV.pe"><title lang="es">Yo caviar</title></programme>
+<programme start="20230215040800 +0000" stop="20230215043800 +0000" channel="WillaxTV.pe"><title lang="es">Willax Deportes</title></programme>
+</tv>

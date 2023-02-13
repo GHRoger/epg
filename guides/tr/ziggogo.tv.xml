@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="EuroD.tr"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="EuroStar.tr"><display-name>EuroStar</display-name><icon src="https://i.imgur.com/kb165Ot.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="Haberturk.tr"><display-name>Haberturk</display-name><icon src="https://i.imgur.com/sUFh3Qr.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="ShowTurk.tr"><display-name>Show Turk</display-name><icon src="https://i.imgur.com/NM2eYgs.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="TRTMuzik.tr"><display-name>TRT Muzik</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="TV8International.tr"><display-name>TV 8 International</display-name><icon src="https://i.imgur.com/qvGLz0a.png"/><url>https://ziggogo.tv</url></channel>
+</tv>

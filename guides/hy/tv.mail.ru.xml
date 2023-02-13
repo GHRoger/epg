@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="21TV.am"><display-name>21 TV</display-name><icon src="https://i.imgur.com/jSvTwk5.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="5TVArmenia.am"><display-name>5TV Armenia</display-name><icon src="https://i.imgur.com/VRD6enL.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATV.am"><display-name>ATV</display-name><icon src="https://i.imgur.com/BRQTJib.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATVBazmocTV.am"><display-name>ATV Bazmoc TV</display-name><icon src="https://i.imgur.com/bMGwT7V.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATVFilmzone.am"><display-name>ATV Filmzone</display-name><icon src="https://i.imgur.com/uWBrDpV.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATVHayTV.am"><display-name>ATV Hay TV</display-name><icon src="https://i.imgur.com/KCkzU5R.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATVKhaghaliqTV.am"><display-name>ATV Khaghaliq TV</display-name><icon src="https://i.imgur.com/mrfm9uY.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATVKinoman.am"><display-name>ATV Kinoman</display-name><icon src="https://i.imgur.com/lidNHkH.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ATVTavaTV.am"><display-name>ATV Tava TV</display-name><icon src="https://i.imgur.com/cndJCRU.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="Armenia1.am"><display-name>Armenia 1</display-name><icon src="https://i.imgur.com/aFy3soi.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="ArmeniaTV.am"><display-name>Armenia TV</display-name><icon src="https://i.imgur.com/AvP7giY.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="KentronTV.am"><display-name>Kentron TV</display-name><icon src="https://i.imgur.com/gY26kwH.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="NorHayastanTV.am"><display-name>Nor Hayastan TV</display-name><icon src="https://i.imgur.com/QH7VytI.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="TBNArmenia.us"><display-name>TBN Armenia</display-name><icon src="https://i.imgur.com/U5XsT3j.png"/><url>https://tv.mail.ru</url></channel>
+<channel id="YerkirMediaTV.am"><display-name>Yerkir Media TV</display-name><icon src="https://i.imgur.com/FKpxkVH.png"/><url>https://tv.mail.ru</url></channel>
+<programme start="20230213020000 +0000" stop="20230213020200 +0000" channel="21TV.am"><title lang="hy">ՀՀ օրհներգ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213020200 +0000" stop="20230213022000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213022000 +0000" stop="20230213065800 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213065800 +0000" stop="20230213070000 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="21TV.am"><title lang="hy">Օրդ բարի</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213080000 +0000" stop="20230213080100 +0000" channel="21TV.am"><title lang="hy">Chek in Yerevan</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213080100 +0000" stop="20230213083500 +0000" channel="21TV.am"><title lang="hy">Այսօր խոսենք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213083500 +0000" stop="20230213092000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213092000 +0000" stop="20230213092200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213092200 +0000" stop="20230213100000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213100000 +0000" stop="20230213100200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213100200 +0000" stop="20230213102000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213102000 +0000" stop="20230213102200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213102200 +0000" stop="20230213110200 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213110200 +0000" stop="20230213110500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213110500 +0000" stop="20230213113000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="21TV.am"><title lang="hy">Չեմ հավատում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213120000 +0000" stop="20230213120200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213120200 +0000" stop="20230213122000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213122000 +0000" stop="20230213122500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213122500 +0000" stop="20230213130000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213130000 +0000" stop="20230213130200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213130200 +0000" stop="20230213140000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213140000 +0000" stop="20230213140200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213140200 +0000" stop="20230213150200 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213150200 +0000" stop="20230213150500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213150500 +0000" stop="20230213152200 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213152200 +0000" stop="20230213152500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230213152500 +0000" stop="20230213162400 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213162400 +0000" stop="20230213162500 +0000" channel="21TV.am"><title lang="hy">Chek in Yerevan</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213162500 +0000" stop="20230213184500 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213184500 +0000" stop="20230213191500 +0000" channel="21TV.am"><title lang="hy">Turbo Դրայվ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213200000 +0000" stop="20230213200200 +0000" channel="21TV.am"><title lang="hy">ՀՀ օրհներգ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213200200 +0000" stop="20230213203500 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213203500 +0000" stop="20230213223000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="21TV.am"><title lang="hy">Այսօր խոսենք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213230000 +0000" stop="20230213233500 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213233500 +0000" stop="20230214010000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214020000 +0000" stop="20230214020200 +0000" channel="21TV.am"><title lang="hy">ՀՀ օրհներգ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214020200 +0000" stop="20230214033000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214033000 +0000" stop="20230214053000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="21TV.am"><title lang="hy">Այսօր խոսենք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214070000 +0000" stop="20230214070200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214070200 +0000" stop="20230214080000 +0000" channel="21TV.am"><title lang="hy">Օրդ բարի</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214080000 +0000" stop="20230214080100 +0000" channel="21TV.am"><title lang="hy">Chek in Yerevan</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214080100 +0000" stop="20230214082200 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214082200 +0000" stop="20230214082500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214082500 +0000" stop="20230214090000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214090000 +0000" stop="20230214090200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214090200 +0000" stop="20230214100000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214100000 +0000" stop="20230214100200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214100200 +0000" stop="20230214102000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214102000 +0000" stop="20230214110000 +0000" channel="21TV.am"><title lang="hy">Ռետրո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214110000 +0000" stop="20230214110200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214110200 +0000" stop="20230214120000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214120000 +0000" stop="20230214120200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214120200 +0000" stop="20230214130000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214130000 +0000" stop="20230214130200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214130200 +0000" stop="20230214134200 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214134200 +0000" stop="20230214134500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214134500 +0000" stop="20230214140000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214140000 +0000" stop="20230214140200 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214140200 +0000" stop="20230214150200 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214150200 +0000" stop="20230214150500 +0000" channel="21TV.am"><title lang="hy">Թի վի - թրեյդ</title><category lang="hy">Телемагазин</category></programme>
+<programme start="20230214150500 +0000" stop="20230214153500 +0000" channel="21TV.am"><title lang="hy">Չեմ հավատում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214153500 +0000" stop="20230214162500 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214162500 +0000" stop="20230214162600 +0000" channel="21TV.am"><title lang="hy">Chek in Yerevan</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214162600 +0000" stop="20230214190000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214200000 +0000" stop="20230214200200 +0000" channel="21TV.am"><title lang="hy">ՀՀ օրհներգ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214200200 +0000" stop="20230214204500 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214204500 +0000" stop="20230214213000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214213000 +0000" stop="20230214230000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="21TV.am"><title lang="hy">Ռետրո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214233000 +0000" stop="20230215001000 +0000" channel="21TV.am"><title lang="hy">Նոնստոպ․ Տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230215001000 +0000" stop="20230215011000 +0000" channel="21TV.am"><title lang="hy">Համերգ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213030000 +0000" stop="20230213041500 +0000" channel="5TVArmenia.am"><title lang="hy">Պահապան առյուծը</title></programme>
+<programme start="20230213041500 +0000" stop="20230213042500 +0000" channel="5TVArmenia.am"><title lang="hy">Աֆիշ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213042500 +0000" stop="20230213062500 +0000" channel="5TVArmenia.am"><title lang="hy">Պահապան առյուծը</title></programme>
+<programme start="20230213062500 +0000" stop="20230213063500 +0000" channel="5TVArmenia.am"><title lang="hy">Հոպլա շոու</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213063500 +0000" stop="20230213064500 +0000" channel="5TVArmenia.am"><title lang="hy">Երաժշական տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213064500 +0000" stop="20230213083000 +0000" channel="5TVArmenia.am"><title lang="hy">Խարդախության արքաները</title><category lang="hy">Документальное</category></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213090000 +0000" stop="20230213091000 +0000" channel="5TVArmenia.am"><title lang="hy">Աֆիշ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213091000 +0000" stop="20230213100000 +0000" channel="5TVArmenia.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101000 +0000" channel="5TVArmenia.am"><title lang="hy">Հոպլա շոու</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213101000 +0000" stop="20230213110000 +0000" channel="5TVArmenia.am"><title lang="hy">Օլիգարխի կինը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213120000 +0000" stop="20230213125500 +0000" channel="5TVArmenia.am"><title lang="hy">Մի անգամ Ռոստովում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213125500 +0000" stop="20230213135000 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213135000 +0000" stop="20230213140000 +0000" channel="5TVArmenia.am"><title lang="hy">Հոպլա շոու</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230213143000 +0000" stop="20230213152000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213152000 +0000" stop="20230213153000 +0000" channel="5TVArmenia.am"><title lang="hy">Կարճ ասած</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213153000 +0000" stop="20230213154500 +0000" channel="5TVArmenia.am"><title lang="hy">Եվրոպական տեսակետ</title><category lang="hy">Другое</category></programme>
+<programme start="20230213154500 +0000" stop="20230213163000 +0000" channel="5TVArmenia.am"><title lang="hy">Ի՞նչ է անում քո կինը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213163000 +0000" stop="20230213172000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213172000 +0000" stop="20230213181500 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213181500 +0000" stop="20230213184000 +0000" channel="5TVArmenia.am"><title lang="hy">Հարցազրույց</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230213184000 +0000" stop="20230213184500 +0000" channel="5TVArmenia.am"><title lang="hy">Բառերէն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213184500 +0000" stop="20230213193000 +0000" channel="5TVArmenia.am"><title lang="hy">Մի անգամ Ռոստովում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201000 +0000" channel="5TVArmenia.am"><title lang="hy">Աֆիշ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213201000 +0000" stop="20230213203500 +0000" channel="5TVArmenia.am"><title lang="hy">Հ/Ս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213203500 +0000" stop="20230213212000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213212000 +0000" stop="20230213221500 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213221500 +0000" stop="20230213231000 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213231000 +0000" stop="20230213233500 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230213233500 +0000" stop="20230214000000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="5TVArmenia.am"><title lang="hy">Սթիվ Ջոբս. Մարդը մեքենայում</title><category lang="hy">Документальное</category></programme>
+<programme start="20230214020500 +0000" stop="20230214030000 +0000" channel="5TVArmenia.am"><title lang="hy">Թղթե տուն. Տոկիոյից Բեռլին</title><category lang="hy">Документальное</category></programme>
+<programme start="20230214030000 +0000" stop="20230214041500 +0000" channel="5TVArmenia.am"><title lang="hy">Պահապան առյուծը</title></programme>
+<programme start="20230214041500 +0000" stop="20230214042500 +0000" channel="5TVArmenia.am"><title lang="hy">Աֆիշ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214042500 +0000" stop="20230214051000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214051000 +0000" stop="20230214052000 +0000" channel="5TVArmenia.am"><title lang="hy">Հոպլա շոու</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214052000 +0000" stop="20230214053500 +0000" channel="5TVArmenia.am"><title lang="hy">Երաժշական տեսահոլովակներ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214053500 +0000" stop="20230214060000 +0000" channel="5TVArmenia.am"><title lang="hy">Պահապան առյուծը</title></programme>
+<programme start="20230214060000 +0000" stop="20230214065000 +0000" channel="5TVArmenia.am"><title lang="hy">Միայն մի բառ ասա</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214065000 +0000" stop="20230214070000 +0000" channel="5TVArmenia.am"><title lang="hy">Կարճ ասած</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214070000 +0000" stop="20230214073500 +0000" channel="5TVArmenia.am"><title lang="hy">Օրագիր</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214073500 +0000" stop="20230214083000 +0000" channel="5TVArmenia.am"><title lang="hy">Ի՞նչ է անում քո կինը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214090000 +0000" stop="20230214091000 +0000" channel="5TVArmenia.am"><title lang="hy">Աֆիշ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214091000 +0000" stop="20230214100000 +0000" channel="5TVArmenia.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101000 +0000" channel="5TVArmenia.am"><title lang="hy">Հոպլա շոու</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214101000 +0000" stop="20230214110000 +0000" channel="5TVArmenia.am"><title lang="hy">Պուանտներ գիրուկի համար</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120500 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214120500 +0000" stop="20230214125500 +0000" channel="5TVArmenia.am"><title lang="hy">Մի անգամ Ռոստովում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214125500 +0000" stop="20230214135000 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214135000 +0000" stop="20230214140000 +0000" channel="5TVArmenia.am"><title lang="hy">Հոպլա շոու</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230214143000 +0000" stop="20230214152000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214152000 +0000" stop="20230214153000 +0000" channel="5TVArmenia.am"><title lang="hy">Կարճ ասած</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214153000 +0000" stop="20230214163000 +0000" channel="5TVArmenia.am"><title lang="hy">Ի՞նչ է անում քո կինը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214163000 +0000" stop="20230214172000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214172000 +0000" stop="20230214181500 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214181500 +0000" stop="20230214184000 +0000" channel="5TVArmenia.am"><title lang="hy">Հարցազրույց</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230214184000 +0000" stop="20230214184500 +0000" channel="5TVArmenia.am"><title lang="hy">Բառերէն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214184500 +0000" stop="20230214193000 +0000" channel="5TVArmenia.am"><title lang="hy">Մի անգամ Ռոստովում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201000 +0000" channel="5TVArmenia.am"><title lang="hy">Աֆիշ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214201000 +0000" stop="20230214203500 +0000" channel="5TVArmenia.am"><title lang="hy">Հ/Ս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214203500 +0000" stop="20230214212000 +0000" channel="5TVArmenia.am"><title lang="hy">Հայլուր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214212000 +0000" stop="20230214221500 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214221500 +0000" stop="20230214231000 +0000" channel="5TVArmenia.am"><title lang="hy">Թագը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214231000 +0000" stop="20230214233500 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230214233500 +0000" stop="20230215000000 +0000" channel="5TVArmenia.am"><title lang="hy">Հիտլերի մերձավորները</title></programme>
+<programme start="20230215000000 +0000" stop="20230215013500 +0000" channel="5TVArmenia.am"><title lang="hy">Մաքլարեն</title><category lang="hy">Документальное</category></programme>
+<programme start="20230215013500 +0000" stop="20230215023500 +0000" channel="5TVArmenia.am"><title lang="hy">Միշել Օբամա. Իմ պատմությունը</title><category lang="hy">Документальное</category></programme>
+<programme start="20230213020000 +0000" stop="20230213024500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213024500 +0000" stop="20230213033000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213033000 +0000" stop="20230213041500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213041500 +0000" stop="20230213050000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213050000 +0000" stop="20230213054500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213054500 +0000" stop="20230213063000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213063000 +0000" stop="20230213071500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213071500 +0000" stop="20230213080000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213080000 +0000" stop="20230213084500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213084500 +0000" stop="20230213093000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213093000 +0000" stop="20230213101500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213101500 +0000" stop="20230213110000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213110000 +0000" stop="20230213114500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213114500 +0000" stop="20230213123000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213123000 +0000" stop="20230213131500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213131500 +0000" stop="20230213140000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213140000 +0000" stop="20230213144500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213144500 +0000" stop="20230213153000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213153000 +0000" stop="20230213161500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213161500 +0000" stop="20230213170000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213170000 +0000" stop="20230213174500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213174500 +0000" stop="20230213183000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213183000 +0000" stop="20230213191500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213200000 +0000" stop="20230213204500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213204500 +0000" stop="20230213213000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213213000 +0000" stop="20230213221500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213221500 +0000" stop="20230213230000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213230000 +0000" stop="20230213234500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213234500 +0000" stop="20230214003000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214003000 +0000" stop="20230214011500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214011500 +0000" stop="20230214021500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214020000 +0000" stop="20230214024500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214024500 +0000" stop="20230214033000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214033000 +0000" stop="20230214041500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214041500 +0000" stop="20230214050000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214050000 +0000" stop="20230214054500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214054500 +0000" stop="20230214063000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214063000 +0000" stop="20230214071500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214071500 +0000" stop="20230214080000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214080000 +0000" stop="20230214084500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214084500 +0000" stop="20230214093000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214093000 +0000" stop="20230214101500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214101500 +0000" stop="20230214110000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214110000 +0000" stop="20230214114500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214114500 +0000" stop="20230214123000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214123000 +0000" stop="20230214131500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214131500 +0000" stop="20230214140000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214140000 +0000" stop="20230214144500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214144500 +0000" stop="20230214153000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214153000 +0000" stop="20230214161500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214161500 +0000" stop="20230214170000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214170000 +0000" stop="20230214174500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214174500 +0000" stop="20230214183000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214183000 +0000" stop="20230214191500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214191500 +0000" stop="20230214200000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214200000 +0000" stop="20230214204500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214204500 +0000" stop="20230214213000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Փախուստ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214213000 +0000" stop="20230214221500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214221500 +0000" stop="20230214230000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Գերբնականը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214230000 +0000" stop="20230214234500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214234500 +0000" stop="20230215003000 +0000" channel="ATVBazmocTV.am"><title lang="hy">Քայլող մեռյալները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230215003000 +0000" stop="20230215011500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230215011500 +0000" stop="20230215021500 +0000" channel="ATVBazmocTV.am"><title lang="hy">Ֆորս ֊ մաժորները</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213020000 +0000" stop="20230213033000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213033000 +0000" stop="20230213050000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213050000 +0000" stop="20230213063000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213063000 +0000" stop="20230213080000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213080000 +0000" stop="20230213093000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213093000 +0000" stop="20230213110000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213110000 +0000" stop="20230213123000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213123000 +0000" stop="20230213140000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213140000 +0000" stop="20230213153000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213153000 +0000" stop="20230213170000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213170000 +0000" stop="20230213183000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213183000 +0000" stop="20230213200000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213200000 +0000" stop="20230213213000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213213000 +0000" stop="20230213230000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213230000 +0000" stop="20230214003000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214020000 +0000" stop="20230214033000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214033000 +0000" stop="20230214050000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214050000 +0000" stop="20230214063000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214063000 +0000" stop="20230214080000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214080000 +0000" stop="20230214093000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214093000 +0000" stop="20230214110000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214110000 +0000" stop="20230214123000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214123000 +0000" stop="20230214140000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214140000 +0000" stop="20230214153000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214153000 +0000" stop="20230214170000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214170000 +0000" stop="20230214183000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214183000 +0000" stop="20230214200000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214200000 +0000" stop="20230214213000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214213000 +0000" stop="20230214230000 +0000" channel="ATVFilmzone.am"><title lang="hy">Լայֆհաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214230000 +0000" stop="20230215003000 +0000" channel="ATVFilmzone.am"><title lang="hy">Զվարճալի վիդեո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215003000 +0000" stop="20230215013000 +0000" channel="ATVFilmzone.am"><title lang="hy">Գրավիչ շինարարություն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213020000 +0000" stop="20230213030000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213030000 +0000" stop="20230213040000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213050000 +0000" stop="20230213062000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր ընտրանին</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213062000 +0000" stop="20230213080000 +0000" channel="ATVHayTV.am"><title lang="hy">Համերգ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213100000 +0000" stop="20230213112000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213112000 +0000" stop="20230213120000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր ընտրանին</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213120000 +0000" stop="20230213140000 +0000" channel="ATVHayTV.am"><title lang="hy">Համերգ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213150000 +0000" stop="20230213154000 +0000" channel="ATVHayTV.am"><title lang="hy">Շաբաթ երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213154000 +0000" stop="20230213170000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="ATVHayTV.am"><title lang="hy">Սիրո ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="ATVHayTV.am"><title lang="hy">Օրվա ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213210000 +0000" stop="20230213214000 +0000" channel="ATVHayTV.am"><title lang="hy">Շաբաթ երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213214000 +0000" stop="20230213230000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="ATVHayTV.am"><title lang="hy">Սիրո ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="ATVHayTV.am"><title lang="hy">Օրվա ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214030000 +0000" stop="20230214034000 +0000" channel="ATVHayTV.am"><title lang="hy">Շաբաթ երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214034000 +0000" stop="20230214050000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214050000 +0000" stop="20230214060000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="ATVHayTV.am"><title lang="hy">Սիրո ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="ATVHayTV.am"><title lang="hy">Օրվա ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214090000 +0000" stop="20230214094000 +0000" channel="ATVHayTV.am"><title lang="hy">Շաբաթ երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214094000 +0000" stop="20230214110000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214110000 +0000" stop="20230214120000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="ATVHayTV.am"><title lang="hy">Սիրո ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="ATVHayTV.am"><title lang="hy">Օրվա ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214150000 +0000" stop="20230214154000 +0000" channel="ATVHayTV.am"><title lang="hy">Շաբաթ երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214154000 +0000" stop="20230214170000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="ATVHayTV.am"><title lang="hy">Սիրո ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="ATVHayTV.am"><title lang="hy">Օրվա ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="ATVHayTV.am"><title lang="hy">Շախով շուխով</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214210000 +0000" stop="20230214214000 +0000" channel="ATVHayTV.am"><title lang="hy">Շաբաթ երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214214000 +0000" stop="20230214230000 +0000" channel="ATVHayTV.am"><title lang="hy">Պարի ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="ATVHayTV.am"><title lang="hy">Մեր լեռների պես</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="ATVHayTV.am"><title lang="hy">Սիրո ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="ATVHayTV.am"><title lang="hy">Օրվա ռիթմը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213030500 +0000" stop="20230213043500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Սփարկ.Մոլորակի հերոսը</title></programme>
+<programme start="20230213043500 +0000" stop="20230213061000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Կուբո.Սամուրայի լեգենդը</title></programme>
+<programme start="20230213061000 +0000" stop="20230213074000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Խիզախ արքայադուստրը</title></programme>
+<programme start="20230213074000 +0000" stop="20230213112500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230213112500 +0000" stop="20230213134000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230213134000 +0000" stop="20230213140000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Բարբոսկինները</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Սոյուզմուլտֆիլմ</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անգետիկը լուսնի վրա</title></programme>
+<programme start="20230213160000 +0000" stop="20230213164500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230213164500 +0000" stop="20230213173000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230213173000 +0000" stop="20230213181500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230213181500 +0000" stop="20230213194000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անճոռնի ես 3</title></programme>
+<programme start="20230213194000 +0000" stop="20230213200000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Տիման ու Տոման</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լունտիկը</title></programme>
+<programme start="20230213203500 +0000" stop="20230213210500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Փազլ</title></programme>
+<programme start="20230213210500 +0000" stop="20230213220500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անգետիկը լուսնի վրա</title></programme>
+<programme start="20230213220500 +0000" stop="20230213225000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230213225000 +0000" stop="20230213233500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230213233500 +0000" stop="20230214002000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230214002000 +0000" stop="20230214014500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անճոռնի ես 3</title></programme>
+<programme start="20230214014500 +0000" stop="20230214024500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Տիման ու Տոման</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լունտիկը</title></programme>
+<programme start="20230214023500 +0000" stop="20230214030500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Փազլ</title></programme>
+<programme start="20230214030500 +0000" stop="20230214040500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անգետիկը լուսնի վրա</title></programme>
+<programme start="20230214040500 +0000" stop="20230214045000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230214045000 +0000" stop="20230214053500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230214053500 +0000" stop="20230214062000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230214062000 +0000" stop="20230214074500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անճոռնի ես 3</title></programme>
+<programme start="20230214074500 +0000" stop="20230214080000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Տիման ու Տոման</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լունտիկը</title></programme>
+<programme start="20230214083500 +0000" stop="20230214090500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Փազլ</title></programme>
+<programme start="20230214090500 +0000" stop="20230214100500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անգետիկը լուսնի վրա</title></programme>
+<programme start="20230214100500 +0000" stop="20230214105000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230214105000 +0000" stop="20230214113500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230214113500 +0000" stop="20230214122000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230214122000 +0000" stop="20230214134500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անճոռնի ես 3</title></programme>
+<programme start="20230214134500 +0000" stop="20230214140000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Տիման ու Տոման</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լունտիկը</title></programme>
+<programme start="20230214143500 +0000" stop="20230214150500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Փազլ</title></programme>
+<programme start="20230214150500 +0000" stop="20230214160500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անգետիկը լուսնի վրա</title></programme>
+<programme start="20230214160500 +0000" stop="20230214165000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230214165000 +0000" stop="20230214173500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230214173500 +0000" stop="20230214182000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230214182000 +0000" stop="20230214195500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Արքայադուստրն ու գորտը</title></programme>
+<programme start="20230214195500 +0000" stop="20230214200000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Տիման ու Տոման</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լունտիկը</title></programme>
+<programme start="20230214203500 +0000" stop="20230214210500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Փազլ</title></programme>
+<programme start="20230214210500 +0000" stop="20230214220500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Անգետիկը լուսնի վրա</title></programme>
+<programme start="20230214220500 +0000" stop="20230214225000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Լեդի Բագը և Սուպեր Կատուն</title></programme>
+<programme start="20230214225000 +0000" stop="20230214233500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Վիննի Թուխ</title></programme>
+<programme start="20230214233500 +0000" stop="20230215002000 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Պարոն Բին</title></programme>
+<programme start="20230215002000 +0000" stop="20230215015500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Արքայադուստրն ու գորտը</title></programme>
+<programme start="20230215015500 +0000" stop="20230215025500 +0000" channel="ATVKhaghaliqTV.am"><title lang="hy">Տիման ու Տոման</title></programme>
+<programme start="20230213020000 +0000" stop="20230213035500 +0000" channel="ATVKinoman.am"><title lang="hy">22 փամփուշտ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213035500 +0000" stop="20230213055000 +0000" channel="ATVKinoman.am"><title lang="hy">Կապիկների երկիրը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213055000 +0000" stop="20230213080000 +0000" channel="ATVKinoman.am"><title lang="hy">Հայրենասերի օրը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213080000 +0000" stop="20230213102500 +0000" channel="ATVKinoman.am"><title lang="hy">Դեղամիջոց առողջության դեմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213102500 +0000" stop="20230213120000 +0000" channel="ATVKinoman.am"><title lang="hy">Աստծո զրահները.Գանձեր որոնելիս</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213120000 +0000" stop="20230213133500 +0000" channel="ATVKinoman.am"><title lang="hy">Հարլի Դեվիդսոնը և կովբոյ Մալբորոն</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213133500 +0000" stop="20230213155500 +0000" channel="ATVKinoman.am"><title lang="hy">Երկնային արքայություն</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213155500 +0000" stop="20230213174000 +0000" channel="ATVKinoman.am"><title lang="hy">Իդեալական անծանոթը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213174000 +0000" stop="20230213194000 +0000" channel="ATVKinoman.am"><title lang="hy">Մթնշաղ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213194000 +0000" stop="20230213213000 +0000" channel="ATVKinoman.am"><title lang="hy">Մահվան պահանջ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213213000 +0000" stop="20230213233500 +0000" channel="ATVKinoman.am"><title lang="hy">Ֆորսաժ 5</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213233500 +0000" stop="20230214014000 +0000" channel="ATVKinoman.am"><title lang="hy">Ֆորսաժ 6</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214014000 +0000" stop="20230214024000 +0000" channel="ATVKinoman.am"><title lang="hy">Սայրի վրայով վազողը 2049</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214041500 +0000" stop="20230214055500 +0000" channel="ATVKinoman.am"><title lang="hy">Տիտանների մարտը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214055500 +0000" stop="20230214073000 +0000" channel="ATVKinoman.am"><title lang="hy">Տիտանների զայրույթը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214073000 +0000" stop="20230214092500 +0000" channel="ATVKinoman.am"><title lang="hy">Իրենից դուրս</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214092500 +0000" stop="20230214113000 +0000" channel="ATVKinoman.am"><title lang="hy">Մթնշաղը, սագա, նորալուսին</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214113000 +0000" stop="20230214143000 +0000" channel="ATVKinoman.am"><title lang="hy">Կնքահայրը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214143000 +0000" stop="20230214164500 +0000" channel="ATVKinoman.am"><title lang="hy">Մեծ խաղ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214164500 +0000" stop="20230214185000 +0000" channel="ATVKinoman.am"><title lang="hy">Ֆորսաժ 6</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214185000 +0000" stop="20230214212500 +0000" channel="ATVKinoman.am"><title lang="hy">Սայրի վրայով վազողը 2049</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214212500 +0000" stop="20230214230500 +0000" channel="ATVKinoman.am"><title lang="hy">Տիտանների մարտը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214230500 +0000" stop="20230215004000 +0000" channel="ATVKinoman.am"><title lang="hy">Տիտանների զայրույթը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230215004000 +0000" stop="20230215014000 +0000" channel="ATVKinoman.am"><title lang="hy">Իրենից դուրս</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213020000 +0000" stop="20230213022500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213022500 +0000" stop="20230213031000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ամերիկայի լավագույն խոհարարը</title><category lang="hy">Ток-шоу</category></programme>
+<programme start="20230213031000 +0000" stop="20230213034500 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213034500 +0000" stop="20230213041000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213041000 +0000" stop="20230213043500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213043500 +0000" stop="20230213053000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213053000 +0000" stop="20230213054500 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213054500 +0000" stop="20230213061000 +0000" channel="ATVTavaTV.am"><title lang="hy">Տնից հեռու</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213061000 +0000" stop="20230213062000 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213062000 +0000" stop="20230213065000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213065000 +0000" stop="20230213073000 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213080000 +0000" stop="20230213082500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213082500 +0000" stop="20230213091000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ամերիկայի լավագույն խոհարարը</title><category lang="hy">Ток-шоу</category></programme>
+<programme start="20230213091000 +0000" stop="20230213094000 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213094000 +0000" stop="20230213100500 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213100500 +0000" stop="20230213103000 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213103000 +0000" stop="20230213112500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213112500 +0000" stop="20230213114000 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213114000 +0000" stop="20230213121000 +0000" channel="ATVTavaTV.am"><title lang="hy">Տնից հեռու</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213121000 +0000" stop="20230213122500 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213122500 +0000" stop="20230213125500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213125500 +0000" stop="20230213133000 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213140000 +0000" stop="20230213142500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213142500 +0000" stop="20230213151000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ամերիկայի լավագույն խոհարարը</title><category lang="hy">Ток-шоу</category></programme>
+<programme start="20230213151000 +0000" stop="20230213154500 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213154500 +0000" stop="20230213161000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213161000 +0000" stop="20230213163500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213163500 +0000" stop="20230213172500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213172500 +0000" stop="20230213174000 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213174000 +0000" stop="20230213181000 +0000" channel="ATVTavaTV.am"><title lang="hy">Տնից հեռու</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213181000 +0000" stop="20230213182500 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213182500 +0000" stop="20230213185000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213185000 +0000" stop="20230213193000 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213200000 +0000" stop="20230213202500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213202500 +0000" stop="20230213211000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ամերիկայի լավագույն խոհարարը</title><category lang="hy">Ток-шоу</category></programme>
+<programme start="20230213211000 +0000" stop="20230213214500 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213214500 +0000" stop="20230213221000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213221000 +0000" stop="20230213223500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213223500 +0000" stop="20230213232500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213232500 +0000" stop="20230213234000 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213234000 +0000" stop="20230214001000 +0000" channel="ATVTavaTV.am"><title lang="hy">Տնից հեռու</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214001000 +0000" stop="20230214002500 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214002500 +0000" stop="20230214005000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214005000 +0000" stop="20230214013000 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214013000 +0000" stop="20230214023000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214020000 +0000" stop="20230214022500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214022500 +0000" stop="20230214031000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ամերիկայի լավագույն խոհարարը</title><category lang="hy">Ток-шоу</category></programme>
+<programme start="20230214031000 +0000" stop="20230214034500 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214034500 +0000" stop="20230214041000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214041000 +0000" stop="20230214043500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214043500 +0000" stop="20230214052500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214052500 +0000" stop="20230214054000 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214054000 +0000" stop="20230214061000 +0000" channel="ATVTavaTV.am"><title lang="hy">Տնից հեռու</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214061000 +0000" stop="20230214062500 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214062500 +0000" stop="20230214065000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214065000 +0000" stop="20230214073000 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214080000 +0000" stop="20230214082500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214082500 +0000" stop="20230214091000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ամերիկայի լավագույն խոհարարը</title><category lang="hy">Ток-шоу</category></programme>
+<programme start="20230214091000 +0000" stop="20230214094500 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214094500 +0000" stop="20230214101000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214101000 +0000" stop="20230214103500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214103500 +0000" stop="20230214112500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214112500 +0000" stop="20230214114000 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214114000 +0000" stop="20230214121000 +0000" channel="ATVTavaTV.am"><title lang="hy">Տնից հեռու</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214121000 +0000" stop="20230214122500 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214122500 +0000" stop="20230214125000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214125000 +0000" stop="20230214133000 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214140000 +0000" stop="20230214142500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214142500 +0000" stop="20230214152500 +0000" channel="ATVTavaTV.am"><title lang="hy">Անգլիայի լավագույն հրուշակագործը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214152500 +0000" stop="20230214160000 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214160000 +0000" stop="20230214162500 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214162500 +0000" stop="20230214165500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214165500 +0000" stop="20230214174500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214174500 +0000" stop="20230214180500 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214180500 +0000" stop="20230214182000 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214182000 +0000" stop="20230214185000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214185000 +0000" stop="20230214192500 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214192500 +0000" stop="20230214200000 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214200000 +0000" stop="20230214202500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալիան Ձեր խոհանոցում</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214202500 +0000" stop="20230214212500 +0000" channel="ATVTavaTV.am"><title lang="hy">Անգլիայի լավագույն հրուշակագործը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214212500 +0000" stop="20230214220000 +0000" channel="ATVTavaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214220000 +0000" stop="20230214222500 +0000" channel="ATVTavaTV.am"><title lang="hy">Ջեյմս Օլիվերի խոհարարական գաղտնիքները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214222500 +0000" stop="20230214225500 +0000" channel="ATVTavaTV.am"><title lang="hy">Պատրաստում է Աինա Գարդենը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214225500 +0000" stop="20230214234500 +0000" channel="ATVTavaTV.am"><title lang="hy">Իմ խոհանոցի կանոնները</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214234500 +0000" stop="20230215000500 +0000" channel="ATVTavaTV.am"><title lang="hy">Անձնական խոհարար</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215000500 +0000" stop="20230215002000 +0000" channel="ATVTavaTV.am"><title lang="hy">Բուսական ծագումով ուտելիքներ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215002000 +0000" stop="20230215005000 +0000" channel="ATVTavaTV.am"><title lang="hy">Իտալական խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215005000 +0000" stop="20230215012500 +0000" channel="ATVTavaTV.am"><title lang="hy">Քաղաքից դուրս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215012500 +0000" stop="20230215022500 +0000" channel="ATVTavaTV.am"><title lang="hy">Ռեյմոնդ Բլան-խոհանոցային գաղտնիքներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213021000 +0000" stop="20230213023500 +0000" channel="Armenia1.am"><title lang="hy">Գործարար</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213023500 +0000" stop="20230213040500 +0000" channel="Armenia1.am"><title lang="hy">Մուլտֆիլմ</title></programme>
+<programme start="20230213040500 +0000" stop="20230213050000 +0000" channel="Armenia1.am"><title lang="hy">Հատուկ բաժին</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213050000 +0000" stop="20230213073000 +0000" channel="Armenia1.am"><title lang="hy">Առավոտ լուսո</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="Armenia1.am"><title lang="hy">Գործարար</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="Armenia1.am"><title lang="hy">Ազգային համեր</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213083000 +0000" stop="20230213085000 +0000" channel="Armenia1.am"><title lang="hy">Մերոնք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213085000 +0000" stop="20230213090000 +0000" channel="Armenia1.am"><title lang="hy">5 րոպե ԱՐՎԵՍՏ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213090000 +0000" stop="20230213092500 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213092500 +0000" stop="20230213101000 +0000" channel="Armenia1.am"><title lang="hy">Մեր արխիվը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213101000 +0000" stop="20230213103500 +0000" channel="Armenia1.am"><title lang="hy">Օտարամայիճամփեքիվրա-</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213103500 +0000" stop="20230213110000 +0000" channel="Armenia1.am"><title lang="hy">Զորոյի քրոնիկները</title></programme>
+<programme start="20230213110000 +0000" stop="20230213112500 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213112500 +0000" stop="20230213122000 +0000" channel="Armenia1.am"><title lang="hy">Հանդիպում Առաջինում</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213122000 +0000" stop="20230213125000 +0000" channel="Armenia1.am"><title lang="hy">Պատրաստենք միասին</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213125000 +0000" stop="20230213130000 +0000" channel="Armenia1.am"><title lang="hy">5 րոպե ԱՐՎԵՍՏ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213133000 +0000" stop="20230213141000 +0000" channel="Armenia1.am"><title lang="hy">Կնոջ օրագիր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213141000 +0000" stop="20230213150000 +0000" channel="Armenia1.am"><title lang="hy">Վարպետության դաս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213153000 +0000" stop="20230213162000 +0000" channel="Armenia1.am"><title lang="hy">Արժե ապրել</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213162000 +0000" stop="20230213163500 +0000" channel="Armenia1.am"><title lang="hy">Ինդեքս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213163500 +0000" stop="20230213170000 +0000" channel="Armenia1.am"><title lang="hy">Մուլտերը խոսում են հայերեն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213170000 +0000" stop="20230213180500 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213180500 +0000" stop="20230213181000 +0000" channel="Armenia1.am"><title lang="hy">Եղանակի տեսություն Գագիկ Սուրենյանի հետ</title><category lang="hy">Новости</category></programme>
+<programme start="20230213181000 +0000" stop="20230213183500 +0000" channel="Armenia1.am"><title lang="hy">Հարցազրույց Պետրոս Ղազարյանի հետ</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230213183500 +0000" stop="20230213191500 +0000" channel="Armenia1.am"><title lang="hy">Սպասիր ինձ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="Armenia1.am"><title lang="hy">Սիսի</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213200000 +0000" stop="20230213213000 +0000" channel="Armenia1.am"><title lang="hy">Ֆոկուս խումբ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213213000 +0000" stop="20230213215000 +0000" channel="Armenia1.am"><title lang="hy">Օտարամայիճամփեքիվրա-</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213215000 +0000" stop="20230213221000 +0000" channel="Armenia1.am"><title lang="hy">Լեզուն հայրենիք է</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213221000 +0000" stop="20230213224000 +0000" channel="Armenia1.am"><title lang="hy">Սպասիր ինձ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213224000 +0000" stop="20230213230500 +0000" channel="Armenia1.am"><title lang="hy">Պատրաստենք միասին</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213230500 +0000" stop="20230213233500 +0000" channel="Armenia1.am"><title lang="hy">Կնոջ օրագիր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213233500 +0000" stop="20230214001000 +0000" channel="Armenia1.am"><title lang="hy">Երջանկության մեխանիկան</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214001000 +0000" stop="20230214012000 +0000" channel="Armenia1.am"><title lang="hy">Բենեֆիս</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214012000 +0000" stop="20230214014000 +0000" channel="Armenia1.am"><title lang="hy">Գործարար</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214014000 +0000" stop="20230214024000 +0000" channel="Armenia1.am"><title lang="hy">Հանդիպում Առաջինում</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214022500 +0000" stop="20230214025000 +0000" channel="Armenia1.am"><title lang="hy">Զորոյի քրոնիկները</title></programme>
+<programme start="20230214025000 +0000" stop="20230214032500 +0000" channel="Armenia1.am"><title lang="hy">Կնոջ օրագիր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214032500 +0000" stop="20230214035000 +0000" channel="Armenia1.am"><title lang="hy">Պատրաստենք միասին</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214035000 +0000" stop="20230214050000 +0000" channel="Armenia1.am"><title lang="hy">Երգ երգոց</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214050000 +0000" stop="20230214073000 +0000" channel="Armenia1.am"><title lang="hy">Առավոտ լուսո</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214073000 +0000" stop="20230214081000 +0000" channel="Armenia1.am"><title lang="hy">Արժե ապրել</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214081000 +0000" stop="20230214085500 +0000" channel="Armenia1.am"><title lang="hy">Պատվի համար</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214085500 +0000" stop="20230214090000 +0000" channel="Armenia1.am"><title lang="hy">5 րոպե ԱՐՎԵՍՏ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214090000 +0000" stop="20230214092500 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214092500 +0000" stop="20230214100000 +0000" channel="Armenia1.am"><title lang="hy">Սպասիր ինձ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214100000 +0000" stop="20230214103500 +0000" channel="Armenia1.am"><title lang="hy">Ֆոկուս խումբ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214103500 +0000" stop="20230214110000 +0000" channel="Armenia1.am"><title lang="hy">Զորոյի քրոնիկները</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214113000 +0000" stop="20230214122000 +0000" channel="Armenia1.am"><title lang="hy">Սիսի</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214122000 +0000" stop="20230214125000 +0000" channel="Armenia1.am"><title lang="hy">Վարպետության դաս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214125000 +0000" stop="20230214130000 +0000" channel="Armenia1.am"><title lang="hy">5 րոպե ԱՐՎԵՍՏ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214133000 +0000" stop="20230214141000 +0000" channel="Armenia1.am"><title lang="hy">Կնոջ օրագիր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214141000 +0000" stop="20230214150000 +0000" channel="Armenia1.am"><title lang="hy">Երջանկության մեխանիկան</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214153000 +0000" stop="20230214162000 +0000" channel="Armenia1.am"><title lang="hy">Արժե ապրել</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214162000 +0000" stop="20230214163500 +0000" channel="Armenia1.am"><title lang="hy">Ինդեքս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214163500 +0000" stop="20230214170000 +0000" channel="Armenia1.am"><title lang="hy">Մուլտերը խոսում են հայերեն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214170000 +0000" stop="20230214180500 +0000" channel="Armenia1.am"><title lang="hy">Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214180500 +0000" stop="20230214181000 +0000" channel="Armenia1.am"><title lang="hy">Եղանակի տեսություն Գագիկ Սուրենյանի հետ</title><category lang="hy">Новости</category></programme>
+<programme start="20230214181000 +0000" stop="20230214183500 +0000" channel="Armenia1.am"><title lang="hy">Հարցազրույց Պետրոս Ղազարյանի հետ</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230214183500 +0000" stop="20230214191500 +0000" channel="Armenia1.am"><title lang="hy">Պատվի համար</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214191500 +0000" stop="20230214202500 +0000" channel="Armenia1.am"><title lang="hy">Երգ երգոց</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214202500 +0000" stop="20230214210000 +0000" channel="Armenia1.am"><title lang="hy">Երկխոսություն երրորդի համար</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214210000 +0000" stop="20230214213500 +0000" channel="Armenia1.am"><title lang="hy">Թատերաշրջան</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214213500 +0000" stop="20230214220000 +0000" channel="Armenia1.am"><title lang="hy">Վարպետության դաս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="Armenia1.am"><title lang="hy">Կնոջ օրագիր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="Armenia1.am"><title lang="hy">Երջանկության մեխանիկան</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214230000 +0000" stop="20230214233500 +0000" channel="Armenia1.am"><title lang="hy">Ֆոկուս խումբ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214233500 +0000" stop="20230214235000 +0000" channel="Armenia1.am"><title lang="hy">Մերոնք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214235000 +0000" stop="20230215003000 +0000" channel="Armenia1.am"><title lang="hy">Պատվի համար</title><category lang="hy">Фильм</category></programme>
+<programme start="20230215003000 +0000" stop="20230215004000 +0000" channel="Armenia1.am"><title lang="hy">5 րոպե ԱՐՎԵՍՏ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215004000 +0000" stop="20230215015000 +0000" channel="Armenia1.am"><title lang="hy">Երգ երգոց</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230215015000 +0000" stop="20230215025000 +0000" channel="Armenia1.am"><title lang="hy">Երկխոսություն երրորդի համար</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213022500 +0000" stop="20230213032500 +0000" channel="ArmeniaTV.am"><title lang="hy">Լա կասա դե պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213032500 +0000" stop="20230213040500 +0000" channel="ArmeniaTV.am"><title lang="hy">Երե1</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213040500 +0000" stop="20230213044000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213044000 +0000" stop="20230213051500 +0000" channel="ArmeniaTV.am"><title lang="hy">Սիրո հասակ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213051500 +0000" stop="20230213060000 +0000" channel="ArmeniaTV.am"><title lang="hy">Կույր աշխարհ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213060000 +0000" stop="20230213062000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230213062000 +0000" stop="20230213080000 +0000" channel="ArmeniaTV.am"><title lang="hy">Բարի լույս</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213080000 +0000" stop="20230213082000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230213082000 +0000" stop="20230213091000 +0000" channel="ArmeniaTV.am"><title lang="hy">Հարազատ թշնամի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213091000 +0000" stop="20230213101500 +0000" channel="ArmeniaTV.am"><title lang="hy">Սուր անկյուն</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230213101500 +0000" stop="20230213112000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երգեր ազգային երաժշտական գանձարանից</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213112000 +0000" stop="20230213120000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երե1</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213120000 +0000" stop="20230213122000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230213122000 +0000" stop="20230213130500 +0000" channel="ArmeniaTV.am"><title lang="hy">Աշխարհի համերով</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213130500 +0000" stop="20230213135000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213135000 +0000" stop="20230213143500 +0000" channel="ArmeniaTV.am"><title lang="hy">Կույր աշխարհ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213143500 +0000" stop="20230213151000 +0000" channel="ArmeniaTV.am"><title lang="hy">Սյուրպրիզ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213151000 +0000" stop="20230213160000 +0000" channel="ArmeniaTV.am"><title lang="hy">Հարազատ թշնամի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213160000 +0000" stop="20230213165000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը գլխավոր թողարկում</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213165000 +0000" stop="20230213173000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213173000 +0000" stop="20230213182000 +0000" channel="ArmeniaTV.am"><title lang="hy">Կույր աշխարհ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213182000 +0000" stop="20230213190500 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213190500 +0000" stop="20230213194500 +0000" channel="ArmeniaTV.am"><title lang="hy">Նոյի թիվ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213194500 +0000" stop="20230213202500 +0000" channel="ArmeniaTV.am"><title lang="hy">Սյուրպրիզ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213202500 +0000" stop="20230213210500 +0000" channel="ArmeniaTV.am"><title lang="hy">Ներս արի</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230213210500 +0000" stop="20230213213500 +0000" channel="ArmeniaTV.am"><title lang="hy">Երե1</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213213500 +0000" stop="20230213220000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213220000 +0000" stop="20230213225000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230213225000 +0000" stop="20230213232500 +0000" channel="ArmeniaTV.am"><title lang="hy">Ուր է իմ տղամարդը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213232500 +0000" stop="20230213235500 +0000" channel="ArmeniaTV.am"><title lang="hy">Հարազատ թշնամի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213235500 +0000" stop="20230214003000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214003000 +0000" stop="20230214011000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ներս արի</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230214011000 +0000" stop="20230214014000 +0000" channel="ArmeniaTV.am"><title lang="hy">ԵրևArt</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214014000 +0000" stop="20230214024000 +0000" channel="ArmeniaTV.am"><title lang="hy">Եղիր պատրաստ Սարգիս Բազինյանի հետ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214020000 +0000" stop="20230214025000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230214025000 +0000" stop="20230214032500 +0000" channel="ArmeniaTV.am"><title lang="hy">Իմացիր ավելին</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214032500 +0000" stop="20230214040000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երե1</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214043000 +0000" stop="20230214051500 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214051500 +0000" stop="20230214060000 +0000" channel="ArmeniaTV.am"><title lang="hy">Կույր աշխարհ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214060000 +0000" stop="20230214062000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230214062000 +0000" stop="20230214080000 +0000" channel="ArmeniaTV.am"><title lang="hy">Բարի լույս</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214080000 +0000" stop="20230214082000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230214082000 +0000" stop="20230214092000 +0000" channel="ArmeniaTV.am"><title lang="hy">Հարազատ թշնամի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214092000 +0000" stop="20230214100000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214100000 +0000" stop="20230214104000 +0000" channel="ArmeniaTV.am"><title lang="hy">Սյուրպրիզ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214104000 +0000" stop="20230214120000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երե1</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214120000 +0000" stop="20230214122000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230214122000 +0000" stop="20230214130000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214135000 +0000" stop="20230214143500 +0000" channel="ArmeniaTV.am"><title lang="hy">Կույր աշխարհ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214143500 +0000" stop="20230214151000 +0000" channel="ArmeniaTV.am"><title lang="hy">Սյուրպրիզ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214151000 +0000" stop="20230214160000 +0000" channel="ArmeniaTV.am"><title lang="hy">Հարազատ թշնամի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214160000 +0000" stop="20230214165000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը գլխավոր թողարկում</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214165000 +0000" stop="20230214173000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214173000 +0000" stop="20230214182000 +0000" channel="ArmeniaTV.am"><title lang="hy">Կույր աշխարհ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214182000 +0000" stop="20230214191000 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214191000 +0000" stop="20230214195000 +0000" channel="ArmeniaTV.am"><title lang="hy">Սյուրպրիզ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214195000 +0000" stop="20230214205000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ներս արի</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230214205000 +0000" stop="20230214212500 +0000" channel="ArmeniaTV.am"><title lang="hy">Երե1</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214212500 +0000" stop="20230214220000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ֆեյք պապա</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214220000 +0000" stop="20230214225000 +0000" channel="ArmeniaTV.am"><title lang="hy">Ժամը լրատվական</title><category lang="hy">Новости</category></programme>
+<programme start="20230214225000 +0000" stop="20230214232500 +0000" channel="ArmeniaTV.am"><title lang="hy">Ուր է իմ տղամարդը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214232500 +0000" stop="20230215000000 +0000" channel="ArmeniaTV.am"><title lang="hy">Հարազատ թշնամի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230215000000 +0000" stop="20230215003500 +0000" channel="ArmeniaTV.am"><title lang="hy">Երեք նամակ Բելլայից</title><category lang="hy">Сериал</category></programme>
+<programme start="20230215003500 +0000" stop="20230215012500 +0000" channel="ArmeniaTV.am"><title lang="hy">Ներս արի</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230215012500 +0000" stop="20230215022500 +0000" channel="ArmeniaTV.am"><title lang="hy">Արմեն Մազմանյան</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213024000 +0000" stop="20230213030500 +0000" channel="KentronTV.am"><title lang="hy">Բոքսի լեգենդը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213030500 +0000" stop="20230213033000 +0000" channel="KentronTV.am"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213033000 +0000" stop="20230213035000 +0000" channel="KentronTV.am"><title lang="hy">Վավերագրական կինոնկար</title><category lang="hy">Документальное</category></programme>
+<programme start="20230213035000 +0000" stop="20230213041000 +0000" channel="KentronTV.am"><title lang="hy">Առողջություն և գեղեցկություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213041000 +0000" stop="20230213043000 +0000" channel="KentronTV.am"><title lang="hy">Մուլտիկնիկ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213043000 +0000" stop="20230213045000 +0000" channel="KentronTV.am"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213045000 +0000" stop="20230213053000 +0000" channel="KentronTV.am"><title lang="hy">Արարատյան խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213053000 +0000" stop="20230213073000 +0000" channel="KentronTV.am"><title lang="hy">Կենտրոնի առավոտը</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213073000 +0000" stop="20230213074500 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230213074500 +0000" stop="20230213080000 +0000" channel="KentronTV.am"><title lang="hy">Առողջություն և գեղեցկություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213080000 +0000" stop="20230213090500 +0000" channel="KentronTV.am"><title lang="hy">Քաղցած սպասում են</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213090500 +0000" stop="20230213093000 +0000" channel="KentronTV.am"><title lang="hy">Արարատյան խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230213100000 +0000" stop="20230213120000 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="KentronTV.am"><title lang="hy">Մուլտիկնիկ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213123000 +0000" stop="20230213133000 +0000" channel="KentronTV.am"><title lang="hy">Մուլտֆիլմ</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="KentronTV.am"><title lang="hy">Դրայվ նյուզ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="KentronTV.am"><title lang="hy">Ծագումով հայեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="KentronTV.am"><title lang="hy">սթար</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213153000 +0000" stop="20230213163000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230213163000 +0000" stop="20230213170500 +0000" channel="KentronTV.am"><title lang="hy">Բոքսի լեգենդը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213170500 +0000" stop="20230213173000 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230213180000 +0000" stop="20230213200500 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213200500 +0000" stop="20230213213000 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213213000 +0000" stop="20230213221000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230213221000 +0000" stop="20230213223000 +0000" channel="KentronTV.am"><title lang="hy">Բոքսի լեգենդը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213223000 +0000" stop="20230213231500 +0000" channel="KentronTV.am"><title lang="hy">Ավտոդրայվ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213231500 +0000" stop="20230213233000 +0000" channel="KentronTV.am"><title lang="hy">Արարատյան խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213233000 +0000" stop="20230214000500 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214000500 +0000" stop="20230214010000 +0000" channel="KentronTV.am"><title lang="hy">Վավերագրական կինոնկար</title><category lang="hy">Документальное</category></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="KentronTV.am"><title lang="hy">Առողջարան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214013000 +0000" stop="20230214023000 +0000" channel="KentronTV.am"><title lang="hy">Բոքսի լեգենդը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214020500 +0000" stop="20230214030000 +0000" channel="KentronTV.am"><title lang="hy">Երանի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214030000 +0000" stop="20230214034500 +0000" channel="KentronTV.am"><title lang="hy">Քաղցած սպասում են</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214034500 +0000" stop="20230214041000 +0000" channel="KentronTV.am"><title lang="hy">Առողջություն և գեղեցկություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214041000 +0000" stop="20230214043000 +0000" channel="KentronTV.am"><title lang="hy">Մուլտիկնիկ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="KentronTV.am"><title lang="hy">Արարատյան խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214053000 +0000" stop="20230214073000 +0000" channel="KentronTV.am"><title lang="hy">Կենտրոնի առավոտը</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214073000 +0000" stop="20230214074500 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214074500 +0000" stop="20230214080000 +0000" channel="KentronTV.am"><title lang="hy">Առողջություն և գեղեցկություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="KentronTV.am"><title lang="hy">Ավտոդրայվ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="KentronTV.am"><title lang="hy">Առողջարան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="KentronTV.am"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214093000 +0000" stop="20230214094500 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214094500 +0000" stop="20230214100000 +0000" channel="KentronTV.am"><title lang="hy">Արարատյան խոհանոց</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214100000 +0000" stop="20230214120000 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="KentronTV.am"><title lang="hy">Մուլտիկնիկ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="KentronTV.am"><title lang="hy">Մուլտֆիլմ</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="KentronTV.am"><title lang="hy">Press Կենտրոն</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="KentronTV.am"><title lang="hy">Բոքսի լեգենդը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214143000 +0000" stop="20230214153000 +0000" channel="KentronTV.am"><title lang="hy">Չէին սպասում</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214153000 +0000" stop="20230214160500 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214160500 +0000" stop="20230214162500 +0000" channel="KentronTV.am"><title lang="hy">Անցուդարձ</title><category lang="hy">Новости</category></programme>
+<programme start="20230214162500 +0000" stop="20230214173000 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214180000 +0000" stop="20230214210000 +0000" channel="KentronTV.am"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="KentronTV.am"><title lang="hy">Վավերագրական կինոնկար</title><category lang="hy">Документальное</category></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230214220000 +0000" stop="20230214224000 +0000" channel="KentronTV.am"><title lang="hy">Առանց կարծրատիպերի</title><category lang="hy">Развлекательное</category></programme>
+<programme start="20230214224000 +0000" stop="20230214233000 +0000" channel="KentronTV.am"><title lang="hy">Չէին սպասում</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214233000 +0000" stop="20230215001000 +0000" channel="KentronTV.am"><title lang="hy">Էպիկենտրոն</title><category lang="hy">Новости</category></programme>
+<programme start="20230215001000 +0000" stop="20230215003000 +0000" channel="KentronTV.am"><title lang="hy">Բոքսի լեգենդը</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="KentronTV.am"><title lang="hy">Ավտոդրայվ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="KentronTV.am"><title lang="hy">Առողջարան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215013000 +0000" stop="20230215023000 +0000" channel="KentronTV.am"><title lang="hy">Երանի</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="NorHayastanTV.am"><title lang="hy">Գործից դուրս</title><category lang="hy">Другое</category></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայկական ժառանգություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213030000 +0000" stop="20230213034000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ֆեյս քոնթրոլ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213034000 +0000" stop="20230213040000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայկական ժառանգություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213040000 +0000" stop="20230213042000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213042000 +0000" stop="20230213045500 +0000" channel="NorHayastanTV.am"><title lang="hy">Սերը թակարդում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213045500 +0000" stop="20230213052000 +0000" channel="NorHayastanTV.am"><title lang="hy">Արդարության որս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213052000 +0000" stop="20230213060000 +0000" channel="NorHayastanTV.am"><title lang="hy">Նոր Խաղ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213060000 +0000" stop="20230213074500 +0000" channel="NorHayastanTV.am"><title lang="hy">Երաժշտական առավոտ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213074500 +0000" stop="20230213080000 +0000" channel="NorHayastanTV.am"><title lang="hy">Մեր սիրո պատմությունը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="NorHayastanTV.am"><title lang="hy">Անսահման</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213083000 +0000" stop="20230213085000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213085000 +0000" stop="20230213094500 +0000" channel="NorHayastanTV.am"><title lang="hy">Գոյամարտ</title><category lang="hy">Новости</category></programme>
+<programme start="20230213094500 +0000" stop="20230213102000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213102000 +0000" stop="20230213110500 +0000" channel="NorHayastanTV.am"><title lang="hy">Նոր Խաղ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213110500 +0000" stop="20230213115000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ֆեյս քոնթրոլ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213115000 +0000" stop="20230213122500 +0000" channel="NorHayastanTV.am"><title lang="hy">Արդարության որս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213122500 +0000" stop="20230213130000 +0000" channel="NorHayastanTV.am"><title lang="hy">Սերը թակարդում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213133000 +0000" stop="20230213141500 +0000" channel="NorHayastanTV.am"><title lang="hy">Խաբկանք</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213141500 +0000" stop="20230213144000 +0000" channel="NorHayastanTV.am"><title lang="hy">Անսահման</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213144000 +0000" stop="20230213153000 +0000" channel="NorHayastanTV.am"><title lang="hy">Մեր սիրո պատմությունը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213160000 +0000" stop="20230213164000 +0000" channel="NorHayastanTV.am"><title lang="hy">Սերը թակարդում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213164000 +0000" stop="20230213173000 +0000" channel="NorHayastanTV.am"><title lang="hy">Արդարության որս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213183000 +0000" stop="20230213191000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ապրիր ինձ հետ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213191000 +0000" stop="20230213195000 +0000" channel="NorHayastanTV.am"><title lang="hy">Խաղալիք</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213195000 +0000" stop="20230213203000 +0000" channel="NorHayastanTV.am"><title lang="hy">Սերը թակարդում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="NorHayastanTV.am"><title lang="hy">Արդարության որս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213213000 +0000" stop="20230213221000 +0000" channel="NorHayastanTV.am"><title lang="hy">Խաբկանք</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213221000 +0000" stop="20230213225000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայկական ժառանգություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213225000 +0000" stop="20230213233000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ֆեյս քոնթրոլ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայկական ժառանգություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214013000 +0000" stop="20230214023000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայ երգի երեկո</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214023000 +0000" stop="20230214025000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայկական ժառանգություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214025000 +0000" stop="20230214033000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ֆեյս քոնթրոլ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214033000 +0000" stop="20230214035500 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214035500 +0000" stop="20230214042000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214042000 +0000" stop="20230214045000 +0000" channel="NorHayastanTV.am"><title lang="hy">Սերը թակարդում</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214045000 +0000" stop="20230214053000 +0000" channel="NorHayastanTV.am"><title lang="hy">Նոր Խաղ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214060000 +0000" stop="20230214074500 +0000" channel="NorHayastanTV.am"><title lang="hy">Երաժշտական առավոտ</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214074500 +0000" stop="20230214080000 +0000" channel="NorHayastanTV.am"><title lang="hy">Մեր սիրո պատմությունը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="NorHayastanTV.am"><title lang="hy">Անսահման</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="NorHayastanTV.am"><title lang="hy">Խաղալիք</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214090000 +0000" stop="20230214092500 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214092500 +0000" stop="20230214094500 +0000" channel="NorHayastanTV.am"><title lang="hy">Kids Ինֆո</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214094500 +0000" stop="20230214102000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214102000 +0000" stop="20230214111000 +0000" channel="NorHayastanTV.am"><title lang="hy">Նոր Խաղ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214111000 +0000" stop="20230214115000 +0000" channel="NorHayastanTV.am"><title lang="hy">Դժբախտ երջանիկը կամ Իմ պառավ յարը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214115000 +0000" stop="20230214115500 +0000" channel="NorHayastanTV.am"><title lang="hy">Իմ սրտի Հայոց լեզուն</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214115500 +0000" stop="20230214122500 +0000" channel="NorHayastanTV.am"><title lang="hy">Ամենակարող Մոնս</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214122500 +0000" stop="20230214130000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ապրիր ինձ հետ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214133000 +0000" stop="20230214141500 +0000" channel="NorHayastanTV.am"><title lang="hy">Խաբկանք</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214141500 +0000" stop="20230214144000 +0000" channel="NorHayastanTV.am"><title lang="hy">Անսահման</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214144000 +0000" stop="20230214153000 +0000" channel="NorHayastanTV.am"><title lang="hy">Մեր սիրո պատմությունը</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214160000 +0000" stop="20230214164000 +0000" channel="NorHayastanTV.am"><title lang="hy">Կորած փեսան</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214164000 +0000" stop="20230214173000 +0000" channel="NorHayastanTV.am"><title lang="hy">Արդարության որս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="NorHayastanTV.am"><title lang="hy">Դժբախտ երջանիկը կամ Իմ պառավ յարը</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214183000 +0000" stop="20230214191000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ապրիր ինձ հետ</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214191000 +0000" stop="20230214195000 +0000" channel="NorHayastanTV.am"><title lang="hy">Խաղալիք</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214195000 +0000" stop="20230214203000 +0000" channel="NorHayastanTV.am"><title lang="hy">Արդարության որս</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="NorHayastanTV.am"><title lang="hy">Կորած փեսան</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="NorHayastanTV.am"><title lang="hy">Նոր Խաղ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214220000 +0000" stop="20230214222000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214222000 +0000" stop="20230214225000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214225000 +0000" stop="20230214233000 +0000" channel="NorHayastanTV.am"><title lang="hy">Ֆեյս քոնթրոլ</title><category lang="hy">ТВ-шоу</category></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="NorHayastanTV.am"><title lang="hy">Հայկական ժառանգություն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշոտ Ղազարյանի հետ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="NorHayastanTV.am"><title lang="hy">Իրական Լուրեր</title><category lang="hy">Новости</category></programme>
+<programme start="20230215013000 +0000" stop="20230215023000 +0000" channel="NorHayastanTV.am"><title lang="hy">Աշխարհի խոհանոցներ</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213020000 +0000" stop="20230213034500 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213034500 +0000" stop="20230213040000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213040000 +0000" stop="20230213045500 +0000" channel="TBNArmenia.us"><title lang="hy">Մամուկա Ջեբիսաշվիլի</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213045500 +0000" stop="20230213055500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213055500 +0000" stop="20230213062000 +0000" channel="TBNArmenia.us"><title lang="hy">Երկնային գանձեր</title></programme>
+<programme start="20230213062000 +0000" stop="20230213062500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213062500 +0000" stop="20230213065000 +0000" channel="TBNArmenia.us"><title lang="hy">Ինչ կաներ Հիսուսը</title><category lang="hy">Другое</category></programme>
+<programme start="20230213065000 +0000" stop="20230213070000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="TBNArmenia.us"><title lang="hy">Էնդրյու Վոմաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213073000 +0000" stop="20230213073500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213073500 +0000" stop="20230213080000 +0000" channel="TBNArmenia.us"><title lang="hy">Հարցեր և պատասխաններ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213080000 +0000" stop="20230213082500 +0000" channel="TBNArmenia.us"><title lang="hy">Ջոն Բիվեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213082500 +0000" stop="20230213083000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213083000 +0000" stop="20230213100000 +0000" channel="TBNArmenia.us"><title lang="hy">Արթուր Ղուկասյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213100000 +0000" stop="20230213114500 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213114500 +0000" stop="20230213120000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213120000 +0000" stop="20230213125500 +0000" channel="TBNArmenia.us"><title lang="hy">Մամուկա Ջեբիսաշվիլի</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213125500 +0000" stop="20230213135500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213135500 +0000" stop="20230213142000 +0000" channel="TBNArmenia.us"><title lang="hy">Երկնային գանձեր</title></programme>
+<programme start="20230213142000 +0000" stop="20230213142500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213142500 +0000" stop="20230213145000 +0000" channel="TBNArmenia.us"><title lang="hy">Ինչ կաներ Հիսուսը</title><category lang="hy">Другое</category></programme>
+<programme start="20230213145000 +0000" stop="20230213150000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="TBNArmenia.us"><title lang="hy">Էնդրյու Վոմաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213153000 +0000" stop="20230213153500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213153500 +0000" stop="20230213160000 +0000" channel="TBNArmenia.us"><title lang="hy">Հարցեր և պատասխաններ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213160000 +0000" stop="20230213162500 +0000" channel="TBNArmenia.us"><title lang="hy">Ջոն Բիվեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213162500 +0000" stop="20230213163000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213163000 +0000" stop="20230213180000 +0000" channel="TBNArmenia.us"><title lang="hy">Արթուր Ղուկասյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213180000 +0000" stop="20230213194500 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213194500 +0000" stop="20230213200000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="TBNArmenia.us"><title lang="hy">Յոհակիմ Լյունդկվիստ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213210000 +0000" stop="20230213212000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213212000 +0000" stop="20230213214500 +0000" channel="TBNArmenia.us"><title lang="hy">Ինչ կաներ Հիսուսը</title><category lang="hy">Другое</category></programme>
+<programme start="20230213214500 +0000" stop="20230213215000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213215000 +0000" stop="20230213230000 +0000" channel="TBNArmenia.us"><title lang="hy">Գայանե Հակոբյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="TBNArmenia.us"><title lang="hy">Էնդրյու Վոմաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213233000 +0000" stop="20230213233500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230213233500 +0000" stop="20230214000000 +0000" channel="TBNArmenia.us"><title lang="hy">Քրիստոնեական տեսանկյուն</title><category lang="hy">Другое</category></programme>
+<programme start="20230214000000 +0000" stop="20230214002500 +0000" channel="TBNArmenia.us"><title lang="hy">Ջոն Բիվեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214002500 +0000" stop="20230214003000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214013000 +0000" stop="20230214013500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214013500 +0000" stop="20230214023500 +0000" channel="TBNArmenia.us"><title lang="hy">Լուսինե Սիմոնյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214022500 +0000" stop="20230214033000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214033000 +0000" stop="20230214035500 +0000" channel="TBNArmenia.us"><title lang="hy">Բոտեգա</title><category lang="hy">Другое</category></programme>
+<programme start="20230214035500 +0000" stop="20230214040000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214040000 +0000" stop="20230214050000 +0000" channel="TBNArmenia.us"><title lang="hy">Յոհակիմ Լյունդկվիստ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214050000 +0000" stop="20230214052000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214052000 +0000" stop="20230214054500 +0000" channel="TBNArmenia.us"><title lang="hy">Ինչ կաներ Հիսուսը</title><category lang="hy">Другое</category></programme>
+<programme start="20230214054500 +0000" stop="20230214055000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214055000 +0000" stop="20230214070000 +0000" channel="TBNArmenia.us"><title lang="hy">Գայանե Հակոբյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="TBNArmenia.us"><title lang="hy">Էնդրյու Վոմաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214073000 +0000" stop="20230214073500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214073500 +0000" stop="20230214080000 +0000" channel="TBNArmenia.us"><title lang="hy">Քրիստոնեական տեսանկյուն</title><category lang="hy">Другое</category></programme>
+<programme start="20230214080000 +0000" stop="20230214082500 +0000" channel="TBNArmenia.us"><title lang="hy">Ջոն Բիվեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214082500 +0000" stop="20230214083000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214083000 +0000" stop="20230214093000 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214093000 +0000" stop="20230214093500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214093500 +0000" stop="20230214102500 +0000" channel="TBNArmenia.us"><title lang="hy">Լուսինե Սիմոնյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214102500 +0000" stop="20230214113000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214113000 +0000" stop="20230214115500 +0000" channel="TBNArmenia.us"><title lang="hy">Բոտեգա</title><category lang="hy">Другое</category></programme>
+<programme start="20230214115500 +0000" stop="20230214120000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="TBNArmenia.us"><title lang="hy">Յոհակիմ Լյունդկվիստ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214130000 +0000" stop="20230214132000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214132000 +0000" stop="20230214134500 +0000" channel="TBNArmenia.us"><title lang="hy">Ինչ կաներ Հիսուսը</title><category lang="hy">Другое</category></programme>
+<programme start="20230214134500 +0000" stop="20230214135000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214135000 +0000" stop="20230214150000 +0000" channel="TBNArmenia.us"><title lang="hy">Գայանե Հակոբյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="TBNArmenia.us"><title lang="hy">Էնդրյու Վոմաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214153000 +0000" stop="20230214153500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214153500 +0000" stop="20230214160000 +0000" channel="TBNArmenia.us"><title lang="hy">Քրիստոնեական տեսանկյուն</title><category lang="hy">Другое</category></programme>
+<programme start="20230214160000 +0000" stop="20230214162500 +0000" channel="TBNArmenia.us"><title lang="hy">Ջոն Բիվեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214162500 +0000" stop="20230214163000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214163000 +0000" stop="20230214173000 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214173000 +0000" stop="20230214173500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214173500 +0000" stop="20230214182500 +0000" channel="TBNArmenia.us"><title lang="hy">Լուսինե Սիմոնյան</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214182500 +0000" stop="20230214193000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214193000 +0000" stop="20230214195500 +0000" channel="TBNArmenia.us"><title lang="hy">Բոտեգա</title><category lang="hy">Другое</category></programme>
+<programme start="20230214195500 +0000" stop="20230214200000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214200000 +0000" stop="20230214214000 +0000" channel="TBNArmenia.us"><title lang="hy">Միսթի Էդվարդս</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214214000 +0000" stop="20230214214500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214214500 +0000" stop="20230214220500 +0000" channel="TBNArmenia.us"><title lang="hy">Քրիստոնեական տեսանկյուն</title><category lang="hy">Другое</category></programme>
+<programme start="20230214220500 +0000" stop="20230214225500 +0000" channel="TBNArmenia.us"><title lang="hy">Ելից</title><category lang="hy">Документальное</category></programme>
+<programme start="20230214225500 +0000" stop="20230214230000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="TBNArmenia.us"><title lang="hy">Էնդրյու Վոմաք</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230214233000 +0000" stop="20230214233500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230214233500 +0000" stop="20230215000000 +0000" channel="TBNArmenia.us"><title lang="hy">Հարցեր և պատասխաններ</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215000000 +0000" stop="20230215002500 +0000" channel="TBNArmenia.us"><title lang="hy">Ջոն Բիվեր</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230215002500 +0000" stop="20230215003000 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230215003000 +0000" stop="20230215013000 +0000" channel="TBNArmenia.us"><title lang="hy">Գեղարվեստական ֆիլմ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230215013000 +0000" stop="20230215013500 +0000" channel="TBNArmenia.us"><title lang="hy">Երաժշտություն</title><category lang="hy">Музыка</category></programme>
+<programme start="20230215013500 +0000" stop="20230215023500 +0000" channel="TBNArmenia.us"><title lang="hy">Դել Յերթոն</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Воскресный Еркир</title><category lang="hy">Новости</category></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիր ռիթը</title><category lang="hy">Новости</category></programme>
+<programme start="20230213053000 +0000" stop="20230213063000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Приключения Вивташа</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213063000 +0000" stop="20230213065000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213065000 +0000" stop="20230213083000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Բարև երկիր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213083000 +0000" stop="20230213085000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213085000 +0000" stop="20230213093000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Люди Еркира</title><category lang="hy">Позновательное</category></programme>
+<programme start="20230213093000 +0000" stop="20230213103000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Не из одного места, а из одного теста</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213103000 +0000" stop="20230213105000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213105000 +0000" stop="20230213112000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Будьте здоровы</title><category lang="hy">Другое</category></programme>
+<programme start="20230213112000 +0000" stop="20230213133000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Հ/Ֆ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213133000 +0000" stop="20230213143000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Сериал</title><category lang="hy">Сериал</category></programme>
+<programme start="20230213143000 +0000" stop="20230213145000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213145000 +0000" stop="20230213154500 +0000" channel="YerkirMediaTV.am"><title lang="hy">Վավերագրական կինոնկար</title><category lang="hy">Документальное</category></programme>
+<programme start="20230213154500 +0000" stop="20230213163000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկրի հյուրասարահը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213170000 +0000" stop="20230213183000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Проблемы Еркира</title><category lang="hy">Новости</category></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230213190000 +0000" stop="20230213223000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Հ/Ֆ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230213223000 +0000" stop="20230214003000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214023000 +0000" stop="20230214033000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214043000 +0000" stop="20230214044500 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214044500 +0000" stop="20230214063000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Բարև երկիր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214063000 +0000" stop="20230214065000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214065000 +0000" stop="20230214075000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Сериал</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214075000 +0000" stop="20230214083000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկրի հյուրասարահը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214083000 +0000" stop="20230214085000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214085000 +0000" stop="20230214103000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Проблемы Еркира</title><category lang="hy">Новости</category></programme>
+<programme start="20230214103000 +0000" stop="20230214114000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214114000 +0000" stop="20230214133000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Հ/Ֆ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214133000 +0000" stop="20230214143000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Сериал</title><category lang="hy">Сериал</category></programme>
+<programme start="20230214143000 +0000" stop="20230214145000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214145000 +0000" stop="20230214154500 +0000" channel="YerkirMediaTV.am"><title lang="hy">Վավերագրական կինոնկար</title><category lang="hy">Документальное</category></programme>
+<programme start="20230214154500 +0000" stop="20230214163000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկրի հյուրասարահը</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214163000 +0000" stop="20230214170500 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214170500 +0000" stop="20230214180000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Имидж</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Focus Гагик</title><category lang="hy">Досуг,Хобби</category></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230214190000 +0000" stop="20230214223000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Հ/Ֆ</title><category lang="hy">Фильм</category></programme>
+<programme start="20230214223000 +0000" stop="20230215003000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+<programme start="20230215003000 +0000" stop="20230215013000 +0000" channel="YerkirMediaTV.am"><title lang="hy">Երկիրն այսօր</title><category lang="hy">Новости</category></programme>
+</tv>

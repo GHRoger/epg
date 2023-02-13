@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="FUELTV.at"><display-name>FUEL TV</display-name><icon src="https://i.imgur.com/fm0UmZl.png"/><url>https://tv.dir.bg</url></channel>
+<channel id="FashionTVEurope.fr"><display-name>FashionTV Europe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://tv.dir.bg</url></channel>
+<channel id="FightBox.nl"><display-name>FightBox</display-name><icon src="https://i.imgur.com/mRsnztA.png"/><url>https://tv.dir.bg</url></channel>
+<channel id="MTVHitsUK.uk"><display-name>MTV Hits UK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png"/><url>https://tv.dir.bg</url></channel>
+<channel id="MezzoLiveHD.fr"><display-name>Mezzo Live HD</display-name><icon src="https://i.imgur.com/ZfSiW6X.png"/><url>https://tv.dir.bg</url></channel>
+<channel id="TraceSportStars.fr"><display-name>Trace Sport Stars</display-name><icon src="https://i.imgur.com/FabFP5A.png"/><url>https://tv.dir.bg</url></channel>
+<programme start="20230213030000 +0000" stop="20230213035000 +0000" channel="FUELTV.at"><title lang="en">Without a Paddle</title></programme>
+<programme start="20230213035000 +0000" stop="20230213040000 +0000" channel="FUELTV.at"><title lang="en">Microdose</title></programme>
+<programme start="20230213040000 +0000" stop="20230213060000 +0000" channel="FUELTV.at"><title lang="en">The Adventures of Danny &amp; The Dingo</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="FUELTV.at"><title lang="en">The Moto: Inside The Outdoors</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="FUELTV.at"><title lang="en">The Moto: Inside The Outdoors</title></programme>
+<programme start="20230213070000 +0000" stop="20230213074000 +0000" channel="FUELTV.at"><title lang="en">Vans Get-N Classic, Vol. 2</title></programme>
+<programme start="20230213074000 +0000" stop="20230213080000 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Justine Dupont</title></programme>
+<programme start="20230213080000 +0000" stop="20230213082500 +0000" channel="FUELTV.at"><title lang="en">Shop Talk with Jason Stevenson</title></programme>
+<programme start="20230213082500 +0000" stop="20230213085000 +0000" channel="FUELTV.at"><title lang="en">Shop Talk with Semente Surfboards</title></programme>
+<programme start="20230213085000 +0000" stop="20230213090000 +0000" channel="FUELTV.at"><title lang="en">B-Side: Yago Dora</title></programme>
+<programme start="20230213090000 +0000" stop="20230213092000 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Jorge Simoes</title></programme>
+<programme start="20230213092000 +0000" stop="20230213093000 +0000" channel="FUELTV.at"><title lang="en">Mano A Mano 2022</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="FUELTV.at"><title lang="en">Setups</title></programme>
+<programme start="20230213100000 +0000" stop="20230213102000 +0000" channel="FUELTV.at"><title lang="en">O Marisquino 2022</title></programme>
+<programme start="20230213102000 +0000" stop="20230213105000 +0000" channel="FUELTV.at"><title lang="en">Minions</title></programme>
+<programme start="20230213105000 +0000" stop="20230213110000 +0000" channel="FUELTV.at"><title lang="en">Dew Tour 2017 Highlights</title></programme>
+<programme start="20230213110000 +0000" stop="20230213112500 +0000" channel="FUELTV.at"><title lang="en">Journey to a New Earth</title></programme>
+<programme start="20230213112500 +0000" stop="20230213114500 +0000" channel="FUELTV.at"><title lang="en">Journey to a New Earth</title></programme>
+<programme start="20230213114500 +0000" stop="20230213123000 +0000" channel="FUELTV.at"><title lang="en">Riding Portugal</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="FUELTV.at"><title lang="en">Fuel Tv presents Mission: Caribbean</title></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="FUELTV.at"><title lang="en">Without a Paddle</title></programme>
+<programme start="20230213135000 +0000" stop="20230213140000 +0000" channel="FUELTV.at"><title lang="en">Microdose</title></programme>
+<programme start="20230213140000 +0000" stop="20230213160000 +0000" channel="FUELTV.at"><title lang="en">The Adventures of Danny &amp; The Dingo</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="FUELTV.at"><title lang="en">The Moto: Inside The Outdoors</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="FUELTV.at"><title lang="en">The Moto: Inside The Outdoors</title></programme>
+<programme start="20230213170000 +0000" stop="20230213181500 +0000" channel="FUELTV.at"><title lang="en">Camp Woodward 10</title></programme>
+<programme start="20230213181500 +0000" stop="20230213190000 +0000" channel="FUELTV.at"><title lang="en">Dew Tour 2018 Highlights</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="FUELTV.at"><title lang="en">Snowbound 2</title></programme>
+<programme start="20230213193000 +0000" stop="20230213193500 +0000" channel="FUELTV.at"><title lang="en">Woodward Peace Park 2019</title></programme>
+<programme start="20230213193500 +0000" stop="20230213194000 +0000" channel="FUELTV.at"><title lang="en">Peace Parks Across America</title></programme>
+<programme start="20230213194000 +0000" stop="20230213195000 +0000" channel="FUELTV.at"><title lang="en">Peace Parks Across America</title></programme>
+<programme start="20230213195000 +0000" stop="20230213203000 +0000" channel="FUELTV.at"><title lang="en">Peace Parks Across America</title></programme>
+<programme start="20230213203000 +0000" stop="20230213205000 +0000" channel="FUELTV.at"><title lang="en">Mountain Minded</title></programme>
+<programme start="20230213205000 +0000" stop="20230213210000 +0000" channel="FUELTV.at"><title lang="en">Setups</title></programme>
+<programme start="20230213210000 +0000" stop="20230213212000 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Jorge Simoes</title></programme>
+<programme start="20230213212000 +0000" stop="20230213213000 +0000" channel="FUELTV.at"><title lang="en">Mano A Mano 2022</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="FUELTV.at"><title lang="en">Setups</title></programme>
+<programme start="20230213220000 +0000" stop="20230213222500 +0000" channel="FUELTV.at"><title lang="en">O Marisquino 2022</title></programme>
+<programme start="20230213222500 +0000" stop="20230213225000 +0000" channel="FUELTV.at"><title lang="en">Minions</title></programme>
+<programme start="20230213225000 +0000" stop="20230213230000 +0000" channel="FUELTV.at"><title lang="en">Mano A Mano 2022</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="FUELTV.at"><title lang="en">Fuel Tv presents Mission: Caribbean</title></programme>
+<programme start="20230213233000 +0000" stop="20230214001000 +0000" channel="FUELTV.at"><title lang="en">Drive Thru USA</title></programme>
+<programme start="20230214001000 +0000" stop="20230214003000 +0000" channel="FUELTV.at"><title lang="en">Journey to a New Earth</title></programme>
+<programme start="20230214001500 +0000" stop="20230214011500 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Teresa Bonvalot</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Italo Ferreira</title></programme>
+<programme start="20230214011500 +0000" stop="20230214013000 +0000" channel="FUELTV.at"><title lang="en">Camp Woodward 11</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="FUELTV.at"><title lang="en">Built To Shred</title></programme>
+<programme start="20230214020000 +0000" stop="20230214022000 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Jorge Simoes</title></programme>
+<programme start="20230214022000 +0000" stop="20230214023500 +0000" channel="FUELTV.at"><title lang="en">Catch Up with Gustavo Ribeiro</title></programme>
+<programme start="20230214023500 +0000" stop="20230214030500 +0000" channel="FUELTV.at"><title lang="en">Camp Woodward 11</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: HILTON</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="FashionTVEurope.fr"><title lang="en">LUXURY</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION &amp; SPORTS</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION &amp; SPORTS</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN GERMANY</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN GERMANY</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: MALDIVES</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: INDONESIA</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230213103000 +0000" stop="20230213120000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN TURKEY</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN TURKEY</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: AUSTRIA</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: MONACO</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="FashionTVEurope.fr"><title lang="en">LUXURY</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="FashionTVEurope.fr"><title lang="en">LUXURY</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION &amp; SPORTS</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION &amp; SPORTS</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN INDIA</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN INDIA</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: INDIA</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: INDIA</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="FashionTVEurope.fr"><title lang="en">LONDON FASHION WEEK</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="FashionTVEurope.fr"><title lang="en">LONDON FASHION WEEK</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN AUSTRALIA</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN AUSTRALIA</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: ITALY</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: ITALY</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214210000 +0000" stop="20230214213000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230214213000 +0000" stop="20230214220000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230214220000 +0000" stop="20230214223000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230215010000 +0000" stop="20230215013000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230215013000 +0000" stop="20230215020000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230215020000 +0000" stop="20230215023000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230215023000 +0000" stop="20230215030000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230213031000 +0000" stop="20230213035500 +0000" channel="FightBox.nl"><title lang="en">Hard Knocks Fighting, Ep. 25</title></programme>
+<programme start="20230213035500 +0000" stop="20230213044500 +0000" channel="FightBox.nl"><title lang="en">Hard Knocks Fighting, Ep. 24</title></programme>
+<programme start="20230213044500 +0000" stop="20230213050000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Tokyo, Japan 2019</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213051000 +0000" stop="20230213052000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213052000 +0000" stop="20230213053000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213053000 +0000" stop="20230213054000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213054000 +0000" stop="20230213055000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213055000 +0000" stop="20230213060000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213060000 +0000" stop="20230213061000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213061000 +0000" stop="20230213090000 +0000" channel="FightBox.nl"><title lang="en">Colosseum Tournament, Romania 19.11.2022</title></programme>
+<programme start="20230213090000 +0000" stop="20230213114000 +0000" channel="FightBox.nl"><title lang="en">King Of Kings Mma Bushido 19.06.2022</title></programme>
+<programme start="20230213114000 +0000" stop="20230213115000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213115000 +0000" stop="20230213120000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213121000 +0000" stop="20230213122000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230213122000 +0000" stop="20230213172000 +0000" channel="FightBox.nl"><title lang="en">Goldenfighter Kickboxing Championship, Romania vs. Holland, Timisoara, Romania, 29.11.2019</title></programme>
+<programme start="20230213172000 +0000" stop="20230213175500 +0000" channel="FightBox.nl"><title lang="en">UK Wrestling Showdown - S01, EP.15</title></programme>
+<programme start="20230213175500 +0000" stop="20230213182500 +0000" channel="FightBox.nl"><title lang="en">UK Wrestling Showdown - S01, EP.16</title></programme>
+<programme start="20230213182500 +0000" stop="20230213190000 +0000" channel="FightBox.nl"><title lang="en">UK Wrestling Showdown - S01, EP.17</title></programme>
+<programme start="20230213190000 +0000" stop="20230213220000 +0000" channel="FightBox.nl"><title lang="en">WGP Kickboxing Brazil, Ep. 7</title></programme>
+<programme start="20230213220000 +0000" stop="20230213232500 +0000" channel="FightBox.nl"><title lang="en">Fightbox King Of Kings Heroes Series / Mma Bushido Brussels, Belgium 19.06.2022</title></programme>
+<programme start="20230213232500 +0000" stop="20230214001000 +0000" channel="FightBox.nl"><title lang="en">Fighting Rookies 2014</title></programme>
+<programme start="20230214001000 +0000" stop="20230214010000 +0000" channel="FightBox.nl"><title lang="en">Fighting Rookies 2014</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="FightBox.nl"><title lang="en">We Love MMA 48, 18.05.2019</title></programme>
+<programme start="20230214034500 +0000" stop="20230214040500 +0000" channel="FightBox.nl"><title lang="en">Hip Show</title></programme>
+<programme start="20230214040500 +0000" stop="20230214043000 +0000" channel="FightBox.nl"><title lang="en">Hip Show</title></programme>
+<programme start="20230214043000 +0000" stop="20230214045500 +0000" channel="FightBox.nl"><title lang="en">Hip Show</title></programme>
+<programme start="20230214045500 +0000" stop="20230214051000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214051000 +0000" stop="20230214052000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214052000 +0000" stop="20230214053000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214053000 +0000" stop="20230214054000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214054000 +0000" stop="20230214055000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214055000 +0000" stop="20230214060000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214060000 +0000" stop="20230214061500 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214061500 +0000" stop="20230214101500 +0000" channel="FightBox.nl"><title lang="en">LNK Boxing Night 8, Arena Riga, 14.07.2018</title></programme>
+<programme start="20230214101500 +0000" stop="20230214103000 +0000" channel="FightBox.nl"><title lang="en">Abu Dhabi Jiu-Jitsu Grand Slam, Rio de Janeiro, Brasil 2019</title></programme>
+<programme start="20230214103000 +0000" stop="20230214130500 +0000" channel="FightBox.nl"><title lang="en">NEW High Explosive 2018</title></programme>
+<programme start="20230214130500 +0000" stop="20230214160500 +0000" channel="FightBox.nl"><title lang="en">WGP Kickboxing Brazil, Ep. 7</title></programme>
+<programme start="20230214160500 +0000" stop="20230214184500 +0000" channel="FightBox.nl"><title lang="en">King Of Kings Mma Bushido 19.06.2022</title></programme>
+<programme start="20230214184500 +0000" stop="20230214220000 +0000" channel="FightBox.nl"><title lang="en">World Grand Prix Fight TNA, 1/8th finals, TATNEFT CUP, Tatneft Arena, Kazan, Russia, 26.04.2019</title></programme>
+<programme start="20230214220000 +0000" stop="20230214224500 +0000" channel="FightBox.nl"><title lang="en">Hard Knocks Fighting, Ep. 25</title></programme>
+<programme start="20230214224500 +0000" stop="20230215013500 +0000" channel="FightBox.nl"><title lang="en">RXF Real Xtreme Fighting, Romania, 23.09.2019</title></programme>
+<programme start="20230215013500 +0000" stop="20230215020500 +0000" channel="FightBox.nl"><title lang="en">Goldenfighter Kickboxing Championship, Romania vs. Holland, Timisoara, Romania, 29.11.2019</title></programme>
+<programme start="20230213040000 +0000" stop="20230213090000 +0000" channel="MTVHitsUK.uk"><title lang="en">Non-Stop Hits</title></programme>
+<programme start="20230213090000 +0000" stop="20230213120000 +0000" channel="MTVHitsUK.uk"><title lang="en">Totally 10s!</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="MTVHitsUK.uk"><title lang="en">In Love With Rihanna!</title></programme>
+<programme start="20230213130000 +0000" stop="20230213150000 +0000" channel="MTVHitsUK.uk"><title lang="en">Totally 10s!</title></programme>
+<programme start="20230213150000 +0000" stop="20230213170000 +0000" channel="MTVHitsUK.uk"><title lang="en">Worldwide Hits</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="MTVHitsUK.uk"><title lang="en">MTV Top 20</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="MTVHitsUK.uk"><title lang="en">Totally 10s!</title></programme>
+<programme start="20230213190000 +0000" stop="20230213220000 +0000" channel="MTVHitsUK.uk"><title lang="en">Worldwide Hits!</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="MTVHitsUK.uk"><title lang="en">Girls In Love!</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="MTVHitsUK.uk"><title lang="en">Non-Stop Hits</title></programme>
+<programme start="20230214040000 +0000" stop="20230214080000 +0000" channel="MTVHitsUK.uk"><title lang="en">Non-Stop Hits</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="MTVHitsUK.uk"><title lang="en">Girls In Love!</title></programme>
+<programme start="20230214090000 +0000" stop="20230214120000 +0000" channel="MTVHitsUK.uk"><title lang="en">Totally 10s!</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="MTVHitsUK.uk"><title lang="en">MTV Top 20</title></programme>
+<programme start="20230214130000 +0000" stop="20230214150000 +0000" channel="MTVHitsUK.uk"><title lang="en">Totally 10s!</title></programme>
+<programme start="20230214150000 +0000" stop="20230214180000 +0000" channel="MTVHitsUK.uk"><title lang="en">Worldwide Hits</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="MTVHitsUK.uk"><title lang="en">Totally 10s!</title></programme>
+<programme start="20230214190000 +0000" stop="20230214230000 +0000" channel="MTVHitsUK.uk"><title lang="en">Worldwide Hits!</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="MTVHitsUK.uk"><title lang="en">Non-Stop Hits</title></programme>
+<programme start="20230213041100 +0000" stop="20230213043000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230213043000 +0000" stop="20230213070500 +0000" channel="MezzoLiveHD.fr"><title lang="en">Elektra by Strauss at the Metropolitan Opera</title></programme>
+<programme start="20230213070500 +0000" stop="20230213090400 +0000" channel="MezzoLiveHD.fr"><title lang="en">Keith Lockhart and the Orchestre National de Lille: Attahir, Reich, Glass</title></programme>
+<programme start="20230213090400 +0000" stop="20230213091300 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 25</title></programme>
+<programme start="20230213091300 +0000" stop="20230213092300 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 20</title></programme>
+<programme start="20230213092300 +0000" stop="20230213094100 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 10</title></programme>
+<programme start="20230213094100 +0000" stop="20230213095400 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 22</title></programme>
+<programme start="20230213095400 +0000" stop="20230213101000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 9</title></programme>
+<programme start="20230213101000 +0000" stop="20230213103700 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 2</title></programme>
+<programme start="20230213103700 +0000" stop="20230213105200 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 27</title></programme>
+<programme start="20230213105200 +0000" stop="20230213112200 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 11</title></programme>
+<programme start="20230213112200 +0000" stop="20230213120000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 15</title></programme>
+<programme start="20230213120000 +0000" stop="20230213133200 +0000" channel="MezzoLiveHD.fr"><title lang="en">Riccardo Muti and the Berlin Philharmonic Orchestra: Requiem by Verdi</title></programme>
+<programme start="20230213133200 +0000" stop="20230213145700 +0000" channel="MezzoLiveHD.fr"><title lang="en">Kirill Petrenko and the Berlin Philharmonic Orchestra: P?rt, Ligeti, Barber, Mahler</title></programme>
+<programme start="20230213145700 +0000" stop="20230213160000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230213160000 +0000" stop="20230213172100 +0000" channel="MezzoLiveHD.fr"><title lang="en">Carte Blanche Erik Truffaz - Jazz ? Vienne</title></programme>
+<programme start="20230213172100 +0000" stop="20230213182100 +0000" channel="MezzoLiveHD.fr"><title lang="en">St?phane Belmondo Quintet - Jazz ? Vienne</title></programme>
+<programme start="20230213182100 +0000" stop="20230213192100 +0000" channel="MezzoLiveHD.fr"><title lang="en">Marcel Khalife &amp; Bachar Mar-Khalife - Jazz ? Vienne</title></programme>
+<programme start="20230213192100 +0000" stop="20230213200000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230213200000 +0000" stop="20230213213000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Gala des ?toiles - Prix de Lausanne 2023</title></programme>
+<programme start="20230213213000 +0000" stop="20230214010000 +0000" channel="MezzoLiveHD.fr"><title lang="en">The Flames of Paris by Alexei Ratmansky - Bolshoi Ballet</title></programme>
+<programme start="20230214010000 +0000" stop="20230214022100 +0000" channel="MezzoLiveHD.fr"><title lang="en">Carte Blanche Erik Truffaz - Jazz ? Vienne</title></programme>
+<programme start="20230214022100 +0000" stop="20230214025100 +0000" channel="MezzoLiveHD.fr"><title lang="en">St?phane Belmondo Quintet - Jazz ? Vienne</title></programme>
+<programme start="20230214032100 +0000" stop="20230214042100 +0000" channel="MezzoLiveHD.fr"><title lang="en">Marcel Khalife &amp; Bachar Mar-Khalife - Jazz ? Vienne</title></programme>
+<programme start="20230214042100 +0000" stop="20230214050000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230214050000 +0000" stop="20230214063200 +0000" channel="MezzoLiveHD.fr"><title lang="en">Riccardo Muti and the Berlin Philharmonic Orchestra: Requiem by Verdi</title></programme>
+<programme start="20230214063200 +0000" stop="20230214075700 +0000" channel="MezzoLiveHD.fr"><title lang="en">Kirill Petrenko and the Berlin Philharmonic Orchestra: P?rt, Ligeti, Barber, Mahler</title></programme>
+<programme start="20230214075700 +0000" stop="20230214083000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230214083000 +0000" stop="20230214101200 +0000" channel="MezzoLiveHD.fr"><title lang="en">The Flames of Paris by Alexei Ratmansky - Bolshoi Ballet</title></programme>
+<programme start="20230214101200 +0000" stop="20230214111900 +0000" channel="MezzoLiveHD.fr"><title lang="en">Gala des ?toiles - Prix de Lausanne 2023</title></programme>
+<programme start="20230214111900 +0000" stop="20230214120000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230214120000 +0000" stop="20230214133000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Gala from Berlin - Berliner Philharmoniker, Kirill Petrenko</title></programme>
+<programme start="20230214133000 +0000" stop="20230214150900 +0000" channel="MezzoLiveHD.fr"><title lang="en">Tugan Sokhiev and the Berlin Philharmonic at the Waldb?hne</title></programme>
+<programme start="20230214150900 +0000" stop="20230214160000 +0000" channel="MezzoLiveHD.fr"><title lang="en">InterMezzo</title></programme>
+<programme start="20230214160000 +0000" stop="20230214200000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Luisa Miller by Verdi at the Metropolitan Opera</title></programme>
+<programme start="20230214200000 +0000" stop="20230214204000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim moments musicaux at the Boulez Saal: Schumann</title></programme>
+<programme start="20230214204000 +0000" stop="20230214210900 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 3</title></programme>
+<programme start="20230214210900 +0000" stop="20230214214100 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 4</title></programme>
+<programme start="20230214214100 +0000" stop="20230214220300 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 28</title></programme>
+<programme start="20230214220300 +0000" stop="20230214222600 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 12</title></programme>
+<programme start="20230214222600 +0000" stop="20230214223500 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 19</title></programme>
+<programme start="20230214223500 +0000" stop="20230214225500 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 5</title></programme>
+<programme start="20230214225500 +0000" stop="20230214231000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Daniel Barenboim plays the Piano Sonatas by Beethoven: Piano Sonata no. 6</title></programme>
+<programme start="20230214231000 +0000" stop="20230215010000 +0000" channel="MezzoLiveHD.fr"><title lang="en">Yannick N?zet-S?guin and the Orchestre M?tropolitain de Montr?al: Berlioz, Saint-Sa?ns, Elgar</title></programme>
+<programme start="20230215010000 +0000" stop="20230215024200 +0000" channel="MezzoLiveHD.fr"><title lang="en">The Flames of Paris by Alexei Ratmansky - Bolshoi Ballet</title></programme>
+<programme start="20230215024200 +0000" stop="20230215031200 +0000" channel="MezzoLiveHD.fr"><title lang="en">Gala des ?toiles - Prix de Lausanne 2023</title></programme>
+<programme start="20230213031500 +0000" stop="20230213034500 +0000" channel="TraceSportStars.fr"><title lang="en">Homage: Football Rivalries</title></programme>
+<programme start="20230213034500 +0000" stop="20230213041000 +0000" channel="TraceSportStars.fr"><title lang="en">Homage: Great Rivalries</title></programme>
+<programme start="20230213041000 +0000" stop="20230213044000 +0000" channel="TraceSportStars.fr"><title lang="en">Homage: Football Rivalries</title></programme>
+<programme start="20230213044000 +0000" stop="20230213050500 +0000" channel="TraceSportStars.fr"><title lang="en">Homage: F1 Rivalries</title></programme>
+<programme start="20230213050500 +0000" stop="20230213053500 +0000" channel="TraceSportStars.fr"><title lang="en">Homage: Football Rivalries</title></programme>
+<programme start="20230213053500 +0000" stop="20230213060000 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Andy Murray</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Kei Nishikori</title></programme>
+<programme start="20230213063000 +0000" stop="20230213065500 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Caroline Wozniacki</title></programme>
+<programme start="20230213065500 +0000" stop="20230213072500 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: Georges St Pierre</title></programme>
+<programme start="20230213072500 +0000" stop="20230213075000 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Kei Nishikori</title></programme>
+<programme start="20230213075000 +0000" stop="20230213082000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: FC Barcelona</title></programme>
+<programme start="20230213082000 +0000" stop="20230213084500 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Athletes Turned Actors</title></programme>
+<programme start="20230213084500 +0000" stop="20230213091500 +0000" channel="TraceSportStars.fr"><title lang="en">Perfection: Tiger Woods</title></programme>
+<programme start="20230213091500 +0000" stop="20230213094000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Brady, Robinson &amp; Higuita</title></programme>
+<programme start="20230213094000 +0000" stop="20230213101000 +0000" channel="TraceSportStars.fr"><title lang="en">Clubland: Dallas Cowboys</title></programme>
+<programme start="20230213101000 +0000" stop="20230213103500 +0000" channel="TraceSportStars.fr"><title lang="en">The Immortals: Peyton Manning</title></programme>
+<programme start="20230213103500 +0000" stop="20230213110500 +0000" channel="TraceSportStars.fr"><title lang="en">Clubland: Atlanta Falcons</title></programme>
+<programme start="20230213110500 +0000" stop="20230213113000 +0000" channel="TraceSportStars.fr"><title lang="en">National Icons: Pele vs Neymar</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="TraceSportStars.fr"><title lang="en">The Immortals: Neymar JR</title></programme>
+<programme start="20230213120000 +0000" stop="20230213122500 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Pele</title></programme>
+<programme start="20230213122500 +0000" stop="20230213125500 +0000" channel="TraceSportStars.fr"><title lang="en">Dream Teams: Brazil</title></programme>
+<programme start="20230213125500 +0000" stop="20230213132000 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: David Haye</title></programme>
+<programme start="20230213132000 +0000" stop="20230213135000 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Venus Williams</title></programme>
+<programme start="20230213135000 +0000" stop="20230213143500 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 43</title></programme>
+<programme start="20230213143500 +0000" stop="20230213152500 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 44</title></programme>
+<programme start="20230213152500 +0000" stop="20230213161500 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 45</title></programme>
+<programme start="20230213161500 +0000" stop="20230213170000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 46</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="TraceSportStars.fr"><title lang="en">Premiere Football Stars: Gerard Pique</title></programme>
+<programme start="20230213173000 +0000" stop="20230213175500 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Underdogs</title></programme>
+<programme start="20230213175500 +0000" stop="20230213182500 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Sport Music Videos</title></programme>
+<programme start="20230213182500 +0000" stop="20230213185000 +0000" channel="TraceSportStars.fr"><title lang="en">Premiere Perfection: Sebastian Vettel</title></programme>
+<programme start="20230213185000 +0000" stop="20230213192000 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: David Haye</title></programme>
+<programme start="20230213192000 +0000" stop="20230213194500 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Venus Williams</title></programme>
+<programme start="20230213194500 +0000" stop="20230213203000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 43</title></programme>
+<programme start="20230213203000 +0000" stop="20230213212000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 44</title></programme>
+<programme start="20230213212000 +0000" stop="20230213221500 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 45</title></programme>
+<programme start="20230213221500 +0000" stop="20230213230000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 46</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Stars: Gerard Pique</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Underdogs</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Sport Music Videos</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="TraceSportStars.fr"><title lang="en">Perfection: Sebastian Vettel</title></programme>
+<programme start="20230214010000 +0000" stop="20230214012500 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: David Haye</title></programme>
+<programme start="20230214012500 +0000" stop="20230214015500 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Venus Williams</title></programme>
+<programme start="20230214015500 +0000" stop="20230214022000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Underdogs</title></programme>
+<programme start="20230214022000 +0000" stop="20230214025000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Sport Music Videos</title></programme>
+<programme start="20230214025000 +0000" stop="20230214032000 +0000" channel="TraceSportStars.fr"><title lang="en">Perfection: Sebastian Vettel</title></programme>
+<programme start="20230214031500 +0000" stop="20230214040500 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 43</title></programme>
+<programme start="20230214040500 +0000" stop="20230214045000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 44</title></programme>
+<programme start="20230214045000 +0000" stop="20230214054000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 45</title></programme>
+<programme start="20230214054000 +0000" stop="20230214063000 +0000" channel="TraceSportStars.fr"><title lang="en">Football Dreams: Episode 46</title></programme>
+<programme start="20230214063000 +0000" stop="20230214065500 +0000" channel="TraceSportStars.fr"><title lang="en">Football Stars: Gerard Pique</title></programme>
+<programme start="20230214065500 +0000" stop="20230214072500 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: Manny Pacquiao</title></programme>
+<programme start="20230214072500 +0000" stop="20230214075000 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Caroline Wozniacki</title></programme>
+<programme start="20230214075000 +0000" stop="20230214082000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Love in Sport</title></programme>
+<programme start="20230214082000 +0000" stop="20230214084500 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Celebrity Entourage</title></programme>
+<programme start="20230214084500 +0000" stop="20230214094000 +0000" channel="TraceSportStars.fr"><title lang="en">Perfection: LeBron James</title></programme>
+<programme start="20230214094000 +0000" stop="20230214101000 +0000" channel="TraceSportStars.fr"><title lang="en">Love vs Sport: Love Signs</title></programme>
+<programme start="20230214101000 +0000" stop="20230214103500 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Sexiest Racing Wags</title></programme>
+<programme start="20230214103500 +0000" stop="20230214110500 +0000" channel="TraceSportStars.fr"><title lang="en">Top: NBA Wives</title></programme>
+<programme start="20230214110500 +0000" stop="20230214113000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: WAGs</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Sexy Football Wags</title></programme>
+<programme start="20230214120000 +0000" stop="20230214125500 +0000" channel="TraceSportStars.fr"><title lang="en">Love vs Sport: Love vs Football</title></programme>
+<programme start="20230214125500 +0000" stop="20230214132000 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: Martin Nguyen</title></programme>
+<programme start="20230214132000 +0000" stop="20230214135000 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Rafael Nadal</title></programme>
+<programme start="20230214135000 +0000" stop="20230214141500 +0000" channel="TraceSportStars.fr"><title lang="en">The Short List: Sporting Romances</title></programme>
+<programme start="20230214141500 +0000" stop="20230214144500 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Love in Sport</title></programme>
+<programme start="20230214144500 +0000" stop="20230214151000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Luckiest in Love</title></programme>
+<programme start="20230214151000 +0000" stop="20230214154000 +0000" channel="TraceSportStars.fr"><title lang="en">Top: Love Stories</title></programme>
+<programme start="20230214154000 +0000" stop="20230214160500 +0000" channel="TraceSportStars.fr"><title lang="en">The Short List: Most Fashionable Athletes</title></programme>
+<programme start="20230214160500 +0000" stop="20230214163500 +0000" channel="TraceSportStars.fr"><title lang="en">Star Guide: Sport Stars We Wish We Could Go Shopping With</title></programme>
+<programme start="20230214163500 +0000" stop="20230214170000 +0000" channel="TraceSportStars.fr"><title lang="en">My Likes: Favourite Fashion Designers</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="TraceSportStars.fr"><title lang="en">Special: Sport and Fashion</title></programme>
+<programme start="20230214173000 +0000" stop="20230214175500 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Sport Fashion</title></programme>
+<programme start="20230214175500 +0000" stop="20230214182500 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Celebrity Sport Fans</title></programme>
+<programme start="20230214182500 +0000" stop="20230214185000 +0000" channel="TraceSportStars.fr"><title lang="en">Premiere Perfection: Lionel Messi</title></programme>
+<programme start="20230214185000 +0000" stop="20230214192000 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: Martin Nguyen</title></programme>
+<programme start="20230214192000 +0000" stop="20230214194500 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Rafael Nadal</title></programme>
+<programme start="20230214194500 +0000" stop="20230214201500 +0000" channel="TraceSportStars.fr"><title lang="en">The Short List: Sporting Romances</title></programme>
+<programme start="20230214201500 +0000" stop="20230214204000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Love in Sport</title></programme>
+<programme start="20230214204000 +0000" stop="20230214211000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Luckiest in Love</title></programme>
+<programme start="20230214211000 +0000" stop="20230214213500 +0000" channel="TraceSportStars.fr"><title lang="en">Top: Love Stories</title></programme>
+<programme start="20230214213500 +0000" stop="20230214220500 +0000" channel="TraceSportStars.fr"><title lang="en">The Short List: Most Fashionable Athletes</title></programme>
+<programme start="20230214220500 +0000" stop="20230214223000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Guide: Sport Stars We Wish We Could Go Shopping With</title></programme>
+<programme start="20230214223000 +0000" stop="20230214230000 +0000" channel="TraceSportStars.fr"><title lang="en">My Likes: Favourite Fashion Designers</title></programme>
+<programme start="20230214230000 +0000" stop="20230214233000 +0000" channel="TraceSportStars.fr"><title lang="en">Special: Sport and Fashion</title></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Sport Fashion</title></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Celebrity Sport Fans</title></programme>
+<programme start="20230215003000 +0000" stop="20230215010000 +0000" channel="TraceSportStars.fr"><title lang="en">Perfection: Lionel Messi</title></programme>
+<programme start="20230215010000 +0000" stop="20230215012500 +0000" channel="TraceSportStars.fr"><title lang="en">Fight Stars: Martin Nguyen</title></programme>
+<programme start="20230215012500 +0000" stop="20230215015500 +0000" channel="TraceSportStars.fr"><title lang="en">Tennis Stars: Rafael Nadal</title></programme>
+<programme start="20230215015500 +0000" stop="20230215022000 +0000" channel="TraceSportStars.fr"><title lang="en">The Truth About: Sport Fashion</title></programme>
+<programme start="20230215022000 +0000" stop="20230215025000 +0000" channel="TraceSportStars.fr"><title lang="en">Star Rated: Celebrity Sport Fans</title></programme>
+<programme start="20230215025000 +0000" stop="20230215032000 +0000" channel="TraceSportStars.fr"><title lang="en">Perfection: Lionel Messi</title></programme>
+</tv>

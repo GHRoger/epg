@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="ARTEFrance.fr"><display-name>ARTE France</display-name><icon src="https://i.imgur.com/d6YP7La.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NDRFernsehenHamburg.de"><display-name>NDR Fernsehen Hamburg</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTLGermany.de"><display-name>RTL Germany</display-name><icon src="https://i.imgur.com/94K94k2.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="SAT1.de"><display-name>SAT.1</display-name><icon src="https://i.imgur.com/d71PqdE.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="ZDF.de"><display-name>ZDF</display-name><icon src="https://i.imgur.com/rtLb6m9.png"/><url>https://ziggogo.tv</url></channel>
+</tv>

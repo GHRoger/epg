@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="CCTV4Asia.cn"><display-name>CCTV-4 Asia</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://wavve.com</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://wavve.com</url></channel>
+<programme start="20230212143000 +0000" stop="20230212145900 +0000" channel="CCTV4Asia.cn"><title lang="en">Network News</title></programme>
+<programme start="20230212150000 +0000" stop="20230212154500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230212154500 +0000" stop="20230212163000 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230212163000 +0000" stop="20230212171500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230212171500 +0000" stop="20230212173000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230212173000 +0000" stop="20230212180000 +0000" channel="CCTV4Asia.cn"><title lang="en">Bond with China</title></programme>
+<programme start="20230212180000 +0000" stop="20230212183000 +0000" channel="CCTV4Asia.cn"><title lang="en">Network News</title></programme>
+<programme start="20230212183000 +0000" stop="20230212184500 +0000" channel="CCTV4Asia.cn"><title lang="en">Dreamchaser</title></programme>
+<programme start="20230212184500 +0000" stop="20230212194500 +0000" channel="CCTV4Asia.cn"><title lang="en">China Showbiz</title></programme>
+<programme start="20230212194500 +0000" stop="20230212200000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230212200000 +0000" stop="20230212203000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230212203000 +0000" stop="20230212210000 +0000" channel="CCTV4Asia.cn"><title lang="en">Focus Today</title></programme>
+<programme start="20230212210000 +0000" stop="20230212220000 +0000" channel="CCTV4Asia.cn"><title lang="en">Universal Show</title></programme>
+<programme start="20230212220000 +0000" stop="20230212223000 +0000" channel="CCTV4Asia.cn"><title lang="en">Across the Strait</title></programme>
+<programme start="20230212223000 +0000" stop="20230212230000 +0000" channel="CCTV4Asia.cn"><title lang="en">International Depth</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="CCTV4Asia.cn"><title lang="en">Focus Today</title></programme>
+<programme start="20230213000000 +0000" stop="20230213010000 +0000" channel="CCTV4Asia.cn"><title lang="en">Global News</title></programme>
+<programme start="20230213010000 +0000" stop="20230213020000 +0000" channel="CCTV4Asia.cn"><title lang="en">China&apos;s Public Opinion Field</title></programme>
+<programme start="20230213020000 +0000" stop="20230213021500 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213021500 +0000" stop="20230213030000 +0000" channel="CCTV4Asia.cn"><title lang="en">On the Way</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="CCTV4Asia.cn"><title lang="en">Across the Strait</title></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="CCTV4Asia.cn"><title lang="en">Talk with LuJian</title></programme>
+<programme start="20230213053000 +0000" stop="20230213061500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213061500 +0000" stop="20230213070000 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213070000 +0000" stop="20230213074500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213074500 +0000" stop="20230213083000 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213083000 +0000" stop="20230213091500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213091500 +0000" stop="20230213100000 +0000" channel="CCTV4Asia.cn"><title lang="en">On the Way</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="CCTV4Asia.cn"><title lang="en">China Showbiz</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="CCTV4Asia.cn"><title lang="en">Asia Today</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="CCTV4Asia.cn"><title lang="en">Across the Strait</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CCTV4Asia.cn"><title lang="en">Focus Today</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="CCTV4Asia.cn"><title lang="en">National Treasures found</title></programme>
+<programme start="20230213143000 +0000" stop="20230213145900 +0000" channel="CCTV4Asia.cn"><title lang="en">Network News</title></programme>
+<programme start="20230213150000 +0000" stop="20230213154500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213154500 +0000" stop="20230213163000 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213163000 +0000" stop="20230213171500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230213171500 +0000" stop="20230213174500 +0000" channel="CCTV4Asia.cn"><title lang="en">China Showbiz</title></programme>
+<programme start="20230213174500 +0000" stop="20230213180000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="CCTV4Asia.cn"><title lang="en">Network News</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="CCTV4Asia.cn"><title lang="en">National Treasures found</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213191000 +0000" stop="20230213200000 +0000" channel="CCTV4Asia.cn"><title lang="en">On the Way</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="CCTV4Asia.cn"><title lang="en">Focus Today</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="CCTV4Asia.cn"><title lang="en">National Treasures found</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="CCTV4Asia.cn"><title lang="en">Across the Strait</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="CCTV4Asia.cn"><title lang="en">Asia Today</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="CCTV4Asia.cn"><title lang="en">Focus Today</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="CCTV4Asia.cn"><title lang="en">Global News</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="CCTV4Asia.cn"><title lang="en">Asia Today</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="CCTV4Asia.cn"><title lang="en">China Showbiz</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021500 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230214021500 +0000" stop="20230214030000 +0000" channel="CCTV4Asia.cn"><title lang="en">On the Way</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="CCTV4Asia.cn"><title lang="en">Across the Strait</title></programme>
+<programme start="20230214040000 +0000" stop="20230214050000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="CCTV4Asia.cn"><title lang="en">National Treasures found</title></programme>
+<programme start="20230214053000 +0000" stop="20230214061500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230214061500 +0000" stop="20230214070000 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230214070000 +0000" stop="20230214074500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230214074500 +0000" stop="20230214083000 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230214083000 +0000" stop="20230214091500 +0000" channel="CCTV4Asia.cn"><title lang="en">TV Drama</title></programme>
+<programme start="20230214091500 +0000" stop="20230214100000 +0000" channel="CCTV4Asia.cn"><title lang="en">On the Way</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="CCTV4Asia.cn"><title lang="en">China Showbiz</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="CCTV4Asia.cn"><title lang="en">Asia Today</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="CCTV4Asia.cn"><title lang="en">Nostalgia</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="CCTV4Asia.cn"><title lang="en">Across the Strait</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CCTV4Asia.cn"><title lang="en">China News</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="CCTV4Asia.cn"><title lang="en">Focus Today</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="CCTV4Asia.cn"><title lang="en">National Treasures found</title></programme>
+<programme start="20230214143000 +0000" stop="20230214145900 +0000" channel="CCTV4Asia.cn"><title lang="en">Network News</title></programme>
+<programme start="20230212140000 +0000" stop="20230212145900 +0000" channel="CGTN.cn"><title lang="en">Big Story</title></programme>
+<programme start="20230212150000 +0000" stop="20230212153000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230212153000 +0000" stop="20230212160000 +0000" channel="CGTN.cn"><title lang="en">Travelogue</title></programme>
+<programme start="20230212160000 +0000" stop="20230212163000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230212163000 +0000" stop="20230212170000 +0000" channel="CGTN.cn"><title lang="en">Razor</title></programme>
+<programme start="20230212170000 +0000" stop="20230212173000 +0000" channel="CGTN.cn"><title lang="en">Africa Live</title></programme>
+<programme start="20230212173000 +0000" stop="20230212180000 +0000" channel="CGTN.cn"><title lang="en">Faces of Africa</title></programme>
+<programme start="20230212180000 +0000" stop="20230212183000 +0000" channel="CGTN.cn"><title lang="en">Razor</title></programme>
+<programme start="20230212183000 +0000" stop="20230212190000 +0000" channel="CGTN.cn"><title lang="en">Talk Africa</title></programme>
+<programme start="20230212190000 +0000" stop="20230212193000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230212193000 +0000" stop="20230212200000 +0000" channel="CGTN.cn"><title lang="en">Inheritors</title></programme>
+<programme start="20230212200000 +0000" stop="20230212203000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230212203000 +0000" stop="20230212210000 +0000" channel="CGTN.cn"><title lang="en">Travelogue</title></programme>
+<programme start="20230212210000 +0000" stop="20230212213000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230212213000 +0000" stop="20230212220000 +0000" channel="CGTN.cn"><title lang="en">Assignment Asia</title></programme>
+<programme start="20230212220000 +0000" stop="20230212230000 +0000" channel="CGTN.cn"><title lang="en">Americas Now</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="CGTN.cn"><title lang="en">Faces of Africa</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="CGTN.cn"><title lang="en">Inheritors</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213013000 +0000" stop="20230213020000 +0000" channel="CGTN.cn"><title lang="en">Razor</title></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="CGTN.cn"><title lang="en">Travelogue</title></programme>
+<programme start="20230213030000 +0000" stop="20230213031500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213031500 +0000" stop="20230213033000 +0000" channel="CGTN.cn"><title lang="en">Sports Scene</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="CGTN.cn"><title lang="en">The Point with Liu Xin</title></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="CGTN.cn"><title lang="en">Global Watch</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="CGTN.cn"><title lang="en">Sports Scene</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="CGTN.cn"><title lang="en">Rediscovering China</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="CGTN.cn"><title lang="en">Razor</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="CGTN.cn"><title lang="en">Sports Scene</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="CGTN.cn"><title lang="en">The Vibe</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213101500 +0000" stop="20230213110000 +0000" channel="CGTN.cn"><title lang="en">Africa Live</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="CGTN.cn"><title lang="en">Asia Today</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="CGTN.cn"><title lang="en">Dialogue</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213121500 +0000" stop="20230213130000 +0000" channel="CGTN.cn"><title lang="en">China 24</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CGTN.cn"><title lang="en">The Point with Liu Xin</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213143000 +0000" stop="20230213145900 +0000" channel="CGTN.cn"><title lang="en">World Insight with Tian Wei</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="CGTN.cn"><title lang="en">The Vibe</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="CGTN.cn"><title lang="en">Africa Live</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="CGTN.cn"><title lang="en">World Insight with Tian Wei</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="CGTN.cn"><title lang="en">Dialogue</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="CGTN.cn"><title lang="en">The Point with Liu Xin</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="CGTN.cn"><title lang="en">Rediscovering China</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="CGTN.cn"><title lang="en">The Heat</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="CGTN.cn"><title lang="en">China 24</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="CGTN.cn"><title lang="en">World Insight with Tian Wei</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="CGTN.cn"><title lang="en">Sports Scene</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="CGTN.cn"><title lang="en">The Hub With Wang Guan</title></programme>
+<programme start="20230214040000 +0000" stop="20230214050000 +0000" channel="CGTN.cn"><title lang="en">Global Watch</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214051500 +0000" stop="20230214053000 +0000" channel="CGTN.cn"><title lang="en">Sports Scene</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="CGTN.cn"><title lang="en">Rediscovering China</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="CGTN.cn"><title lang="en">The Heat</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="CGTN.cn"><title lang="en">Sports Scene</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214081500 +0000" stop="20230214090000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="CGTN.cn"><title lang="en">The Vibe</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214101500 +0000" stop="20230214110000 +0000" channel="CGTN.cn"><title lang="en">Africa Live</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="CGTN.cn"><title lang="en">Asia Today</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="CGTN.cn"><title lang="en">Dialogue</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214121500 +0000" stop="20230214130000 +0000" channel="CGTN.cn"><title lang="en">China 24</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CGTN.cn"><title lang="en">Global Business</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="CGTN.cn"><title lang="en">The Hub With Wang Guan</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="CGTN.cn"><title lang="en">The World Today</title></programme>
+<programme start="20230214143000 +0000" stop="20230214145900 +0000" channel="CGTN.cn"><title lang="en">World Insight with Tian Wei</title></programme>
+</tv>

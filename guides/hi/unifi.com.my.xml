@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="ColorsCineplex.in"><display-name>Colors Cineplex</display-name><icon src="https://i.imgur.com/Hvvjfk5.png"/><url>https://unifi.com.my</url></channel>
+<channel id="ColorsTamil.in"><display-name>Colors Tamil</display-name><icon src="https://i.imgur.com/zZXCFqF.png"/><url>https://unifi.com.my</url></channel>
+<channel id="SonyYay.in"><display-name>Sony Yay!</display-name><icon src="https://i.imgur.com/MhlO1dB.png"/><url>https://unifi.com.my</url></channel>
+<programme start="20230212160000 +0000" stop="20230212164700 +0000" channel="ColorsCineplex.in"><title lang="hi">Rangoon</title></programme>
+<programme start="20230212170000 +0000" stop="20230212184000 +0000" channel="ColorsCineplex.in"><title lang="hi">Ishq Vishk</title></programme>
+<programme start="20230212184000 +0000" stop="20230212192100 +0000" channel="ColorsCineplex.in"><title lang="hi">Ishq Vishk</title></programme>
+<programme start="20230212192100 +0000" stop="20230212213000 +0000" channel="ColorsCineplex.in"><title lang="hi">I Am 24</title></programme>
+<programme start="20230212213000 +0000" stop="20230212234400 +0000" channel="ColorsCineplex.in"><title lang="hi">Zila Ghaziabad</title></programme>
+<programme start="20230212234400 +0000" stop="20230213021000 +0000" channel="ColorsCineplex.in"><title lang="hi">Hera Pheri</title></programme>
+<programme start="20230213021000 +0000" stop="20230213043600 +0000" channel="ColorsCineplex.in"><title lang="hi">Goliyon Ki Raasleela Ram-Leela</title></programme>
+<programme start="20230213043600 +0000" stop="20230213071300 +0000" channel="ColorsCineplex.in"><title lang="hi">Humse Badhkar Kaun</title></programme>
+<programme start="20230213071300 +0000" stop="20230213094400 +0000" channel="ColorsCineplex.in"><title lang="hi">Badrinath Ki Dulhania</title></programme>
+<programme start="20230213094400 +0000" stop="20230213121400 +0000" channel="ColorsCineplex.in"><title lang="hi">Aakhri Yudh</title></programme>
+<programme start="20230213121400 +0000" stop="20230213123500 +0000" channel="ColorsCineplex.in"><title lang="hi">Feet Up With The Stars</title></programme>
+<programme start="20230213123500 +0000" stop="20230213140500 +0000" channel="ColorsCineplex.in"><title lang="hi">Mera Dost Hanuman</title></programme>
+<programme start="20230213160000 +0000" stop="20230213164700 +0000" channel="ColorsCineplex.in"><title lang="hi">Rangoon</title></programme>
+<programme start="20230213164700 +0000" stop="20230213184000 +0000" channel="ColorsCineplex.in"><title lang="hi">Yeh Lamhe Judaai Ke</title></programme>
+<programme start="20230213184000 +0000" stop="20230213190500 +0000" channel="ColorsCineplex.in"><title lang="hi">Yeh Lamhe Judaai Ke</title></programme>
+<programme start="20230213190500 +0000" stop="20230213213600 +0000" channel="ColorsCineplex.in"><title lang="hi">Kachche Dhaage</title></programme>
+<programme start="20230213213600 +0000" stop="20230213233700 +0000" channel="ColorsCineplex.in"><title lang="hi">Mumbai Delhi Mumbai</title></programme>
+<programme start="20230213233700 +0000" stop="20230214021000 +0000" channel="ColorsCineplex.in"><title lang="hi">Kunwara</title></programme>
+<programme start="20230214021000 +0000" stop="20230214052700 +0000" channel="ColorsCineplex.in"><title lang="hi">Dil Hai Tumhaara</title></programme>
+<programme start="20230214052700 +0000" stop="20230214074600 +0000" channel="ColorsCineplex.in"><title lang="hi">Prince</title></programme>
+<programme start="20230214074600 +0000" stop="20230214101100 +0000" channel="ColorsCineplex.in"><title lang="hi">Kapoor &amp; Sons</title></programme>
+<programme start="20230214101100 +0000" stop="20230214122100 +0000" channel="ColorsCineplex.in"><title lang="hi">Maharathi</title></programme>
+<programme start="20230214122100 +0000" stop="20230214140800 +0000" channel="ColorsCineplex.in"><title lang="hi">Real Winner</title></programme>
+<programme start="20230212160000 +0000" stop="20230212161000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230212161000 +0000" stop="20230212184000 +0000" channel="ColorsTamil.in"><title lang="hi">Yennanga Sir Unga Sattam</title></programme>
+<programme start="20230212184000 +0000" stop="20230212191000 +0000" channel="ColorsTamil.in"><title lang="hi">Yennanga Sir Unga Sattam</title></programme>
+<programme start="20230212191000 +0000" stop="20230212221000 +0000" channel="ColorsTamil.in"><title lang="hi">Porinju Mariam Jose</title></programme>
+<programme start="20230212221000 +0000" stop="20230213004000 +0000" channel="ColorsTamil.in"><title lang="hi">Thalli Pogathey</title></programme>
+<programme start="20230213004000 +0000" stop="20230213031000 +0000" channel="ColorsTamil.in"><title lang="hi">Naduvan</title></programme>
+<programme start="20230213031000 +0000" stop="20230213061000 +0000" channel="ColorsTamil.in"><title lang="hi">K.G.F: Chapter 1</title></programme>
+<programme start="20230213061000 +0000" stop="20230213064000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213064000 +0000" stop="20230213071000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213071000 +0000" stop="20230213081000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230213081000 +0000" stop="20230213084000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230213084000 +0000" stop="20230213111000 +0000" channel="ColorsTamil.in"><title lang="hi">College Kumar</title></programme>
+<programme start="20230213111000 +0000" stop="20230213114000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213114000 +0000" stop="20230213121000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213121000 +0000" stop="20230213131000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230213131000 +0000" stop="20230213134000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230213134000 +0000" stop="20230213141000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230213160000 +0000" stop="20230213164000 +0000" channel="ColorsTamil.in"><title lang="hi">Vengai Puli</title></programme>
+<programme start="20230213164000 +0000" stop="20230213171000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213171000 +0000" stop="20230213174000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213174000 +0000" stop="20230213184000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230213184000 +0000" stop="20230213191000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230213191000 +0000" stop="20230213194000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230213194000 +0000" stop="20230213201000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213201000 +0000" stop="20230213204000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230213204000 +0000" stop="20230213214000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230213214000 +0000" stop="20230213221000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230213221000 +0000" stop="20230214004000 +0000" channel="ColorsTamil.in"><title lang="hi">College Kumar</title></programme>
+<programme start="20230214004000 +0000" stop="20230214011000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230214011000 +0000" stop="20230214014000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230214014000 +0000" stop="20230214024000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230214024000 +0000" stop="20230214031000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230214031000 +0000" stop="20230214034000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230214034000 +0000" stop="20230214061000 +0000" channel="ColorsTamil.in"><title lang="hi">Vengai Puli</title></programme>
+<programme start="20230214061000 +0000" stop="20230214064000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230214064000 +0000" stop="20230214071000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230214071000 +0000" stop="20230214081000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230214081000 +0000" stop="20230214084000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230214084000 +0000" stop="20230214111000 +0000" channel="ColorsTamil.in"><title lang="hi">Thalli Pogathey</title></programme>
+<programme start="20230214111000 +0000" stop="20230214114000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230214114000 +0000" stop="20230214121000 +0000" channel="ColorsTamil.in"><title lang="hi">Kolangal</title></programme>
+<programme start="20230214121000 +0000" stop="20230214131000 +0000" channel="ColorsTamil.in"><title lang="hi">Naagini</title></programme>
+<programme start="20230214131000 +0000" stop="20230214134000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230214134000 +0000" stop="20230214141000 +0000" channel="ColorsTamil.in"><title lang="hi">Tendral</title></programme>
+<programme start="20230212160000 +0000" stop="20230212161000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212161000 +0000" stop="20230212162500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212162500 +0000" stop="20230212164000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212164000 +0000" stop="20230212165500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212165500 +0000" stop="20230212171000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212171000 +0000" stop="20230212172500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212172500 +0000" stop="20230212174000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212174000 +0000" stop="20230212175500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212175500 +0000" stop="20230212181000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212181000 +0000" stop="20230212182500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212182500 +0000" stop="20230212184000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212184000 +0000" stop="20230212185500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212185500 +0000" stop="20230212191000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212191000 +0000" stop="20230212192500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212192500 +0000" stop="20230212194000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212194000 +0000" stop="20230212195500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212195500 +0000" stop="20230212201000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230212201000 +0000" stop="20230212202500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230212202500 +0000" stop="20230212204000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230212204000 +0000" stop="20230212211000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230212211000 +0000" stop="20230212214000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230212214000 +0000" stop="20230212221000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230212221000 +0000" stop="20230212222500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230212222500 +0000" stop="20230212224000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230212224000 +0000" stop="20230212225500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212225500 +0000" stop="20230212231000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212231000 +0000" stop="20230212232500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212232500 +0000" stop="20230212234000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212234000 +0000" stop="20230212235500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230212235500 +0000" stop="20230213001000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213001000 +0000" stop="20230213002500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213002500 +0000" stop="20230213004000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213004000 +0000" stop="20230213005500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213005500 +0000" stop="20230213011000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213011000 +0000" stop="20230213012500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213012500 +0000" stop="20230213014000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213014000 +0000" stop="20230213015500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213015500 +0000" stop="20230213021000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213021000 +0000" stop="20230213022500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213022500 +0000" stop="20230213024000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213024000 +0000" stop="20230213031000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213031000 +0000" stop="20230213034000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213034000 +0000" stop="20230213041000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213041000 +0000" stop="20230213042500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213042500 +0000" stop="20230213044000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213044000 +0000" stop="20230213045500 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230213045500 +0000" stop="20230213051000 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230213051000 +0000" stop="20230213052500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213052500 +0000" stop="20230213054000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213054000 +0000" stop="20230213061000 +0000" channel="SonyYay.in"><title lang="hi">Kicko &amp; Super Speedo</title></programme>
+<programme start="20230213061000 +0000" stop="20230213062500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213062500 +0000" stop="20230213064000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213064000 +0000" stop="20230213065500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213065500 +0000" stop="20230213071000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213071000 +0000" stop="20230213072500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213072500 +0000" stop="20230213074000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213074000 +0000" stop="20230213075500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213075500 +0000" stop="20230213081000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213081000 +0000" stop="20230213082500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213082500 +0000" stop="20230213084000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213084000 +0000" stop="20230213085500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213085500 +0000" stop="20230213091000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213091000 +0000" stop="20230213092500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213092500 +0000" stop="20230213094000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213094000 +0000" stop="20230213095500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213095500 +0000" stop="20230213101000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213101000 +0000" stop="20230213102500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213102500 +0000" stop="20230213104000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213104000 +0000" stop="20230213111000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213111000 +0000" stop="20230213114000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213114000 +0000" stop="20230213121000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213121000 +0000" stop="20230213124000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213124000 +0000" stop="20230213125500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213125500 +0000" stop="20230213131000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213131000 +0000" stop="20230213132500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213132500 +0000" stop="20230213134000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213134000 +0000" stop="20230213135500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213135500 +0000" stop="20230213141000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213141000 +0000" stop="20230213144000 +0000" channel="SonyYay.in"><title lang="hi">Kicko &amp; Super Speedo</title></programme>
+<programme start="20230213144000 +0000" stop="20230213154000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213161000 +0000" stop="20230213164000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213164000 +0000" stop="20230213171000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213171000 +0000" stop="20230213172500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213172500 +0000" stop="20230213174000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213174000 +0000" stop="20230213175500 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230213175500 +0000" stop="20230213181000 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230213181000 +0000" stop="20230213182500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213182500 +0000" stop="20230213184000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213184000 +0000" stop="20230213191000 +0000" channel="SonyYay.in"><title lang="hi">Kicko &amp; Super Speedo</title></programme>
+<programme start="20230213191000 +0000" stop="20230213201000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213201000 +0000" stop="20230213202500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213202500 +0000" stop="20230213204000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230213204000 +0000" stop="20230213205500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213205500 +0000" stop="20230213211000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230213211000 +0000" stop="20230213214000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213214000 +0000" stop="20230213221000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213221000 +0000" stop="20230213224000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230213224000 +0000" stop="20230213225500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213225500 +0000" stop="20230213231000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230213231000 +0000" stop="20230213232500 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230213232500 +0000" stop="20230213234000 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230213234000 +0000" stop="20230213235500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230213235500 +0000" stop="20230214001000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230214001000 +0000" stop="20230214004000 +0000" channel="SonyYay.in"><title lang="hi">Kicko &amp; Super Speedo</title></programme>
+<programme start="20230214004000 +0000" stop="20230214014000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214014000 +0000" stop="20230214015500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214015500 +0000" stop="20230214021000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214021000 +0000" stop="20230214022500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230214022500 +0000" stop="20230214024000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230214024000 +0000" stop="20230214031000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214031000 +0000" stop="20230214034000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214034000 +0000" stop="20230214041000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214041000 +0000" stop="20230214042500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230214042500 +0000" stop="20230214044000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230214044000 +0000" stop="20230214045500 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230214045500 +0000" stop="20230214051000 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230214051000 +0000" stop="20230214052500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230214052500 +0000" stop="20230214054000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230214054000 +0000" stop="20230214061000 +0000" channel="SonyYay.in"><title lang="hi">Kicko &amp; Super Speedo</title></programme>
+<programme start="20230214061000 +0000" stop="20230214071000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214071000 +0000" stop="20230214072500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214072500 +0000" stop="20230214074000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214074000 +0000" stop="20230214075500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230214075500 +0000" stop="20230214081000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230214081000 +0000" stop="20230214084000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214084000 +0000" stop="20230214091000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214091000 +0000" stop="20230214094000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214094000 +0000" stop="20230214095500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230214095500 +0000" stop="20230214101000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230214101000 +0000" stop="20230214102500 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230214102500 +0000" stop="20230214104000 +0000" channel="SonyYay.in"><title lang="hi">Guru Aur Bhole</title></programme>
+<programme start="20230214104000 +0000" stop="20230214105500 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230214105500 +0000" stop="20230214111000 +0000" channel="SonyYay.in"><title lang="hi">Prince Jai Aur Dumdaar Viru</title></programme>
+<programme start="20230214111000 +0000" stop="20230214114000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214114000 +0000" stop="20230214121000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214121000 +0000" stop="20230214124000 +0000" channel="SonyYay.in"><title lang="hi">Tarak Mehta Ka Chhota Chasma</title></programme>
+<programme start="20230214124000 +0000" stop="20230214125500 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230214125500 +0000" stop="20230214131000 +0000" channel="SonyYay.in"><title lang="hi">Hagola</title></programme>
+<programme start="20230214131000 +0000" stop="20230214132500 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214132500 +0000" stop="20230214134000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+<programme start="20230214134000 +0000" stop="20230214135500 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230214135500 +0000" stop="20230214141000 +0000" channel="SonyYay.in"><title lang="hi">Paap O Meter</title></programme>
+<programme start="20230214141000 +0000" stop="20230214144000 +0000" channel="SonyYay.in"><title lang="hi">Kicko &amp; Super Speedo</title></programme>
+<programme start="20230214144000 +0000" stop="20230214154000 +0000" channel="SonyYay.in"><title lang="hi">Sab Jholmaal Hai</title></programme>
+</tv>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="CoolTV.hu"><display-name>Cool TV</display-name><icon src="https://i.imgur.com/rXJtthd.png"/><url>https://mujtvprogram.cz</url></channel>
+<channel id="DunaTV.hu"><display-name>Duna TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png"/><url>https://mujtvprogram.cz</url></channel>
+<channel id="RTLHungary.hu"><display-name>RTL Hungary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RTL_2022.svg/375px-RTL_2022.svg.png"/><url>https://mujtvprogram.cz</url></channel>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="CoolTV.hu"><title lang="hu">Nevess csak! XV (5)</title><category lang="hu">seriál</category></programme>
+<programme start="20230213043000 +0000" stop="20230213053000 +0000" channel="CoolTV.hu"><title lang="hu">Doktor Murphy V (2)</title><date>20210101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213053000 +0000" stop="20230213063000 +0000" channel="CoolTV.hu"><title lang="hu">Dex nyomozó (10)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213063000 +0000" stop="20230213073000 +0000" channel="CoolTV.hu"><title lang="hu">Szívek szállodája II (9)</title><date>20010101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213073000 +0000" stop="20230213083000 +0000" channel="CoolTV.hu"><title lang="hu">Szívek szállodája II (10)</title><date>20010101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213083000 +0000" stop="20230213093000 +0000" channel="CoolTV.hu"><title lang="hu">Doktor Murphy V (3)</title><date>20210101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213093000 +0000" stop="20230213103500 +0000" channel="CoolTV.hu"><title lang="hu">CSI: Miami helyszínelők IX (17)</title><date>20100101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213103500 +0000" stop="20230213113500 +0000" channel="CoolTV.hu"><title lang="hu">Magnum II (4)</title><date>20190101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213113500 +0000" stop="20230213124000 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (8)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213124000 +0000" stop="20230213134500 +0000" channel="CoolTV.hu"><title lang="hu">Medicopter 117 - A légimentők (3)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213134500 +0000" stop="20230213145000 +0000" channel="CoolTV.hu"><title lang="hu">Medicopter 117 - A légimentők (4)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213145000 +0000" stop="20230213155500 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (9)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213155500 +0000" stop="20230213170000 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (10)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (11)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="CoolTV.hu"><title lang="hu">CSI: Miami helyszínelők IX (18)</title><date>20100101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="CoolTV.hu"><title lang="hu">Magnum II (5)</title><date>20190101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul IV (24)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul V (1)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="CoolTV.hu"><title lang="hu">Gyilkos elmék IX (7)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="CoolTV.hu"><title lang="hu">Dr. Csont XI (9)</title><date>20150101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul IV (24)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul V (1)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="CoolTV.hu"><title lang="hu">Gyilkos elmék IX (8)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214030000 +0000" stop="20230214040000 +0000" channel="CoolTV.hu"><title lang="hu">Dr. Csont XI (9)</title><date>20150101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="CoolTV.hu"><title lang="hu">Nevess csak! XV (6)</title><category lang="hu">seriál</category></programme>
+<programme start="20230214043000 +0000" stop="20230214053000 +0000" channel="CoolTV.hu"><title lang="hu">Doktor Murphy V (3)</title><date>20210101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214053000 +0000" stop="20230214063000 +0000" channel="CoolTV.hu"><title lang="hu">Dex nyomozó (11)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214063000 +0000" stop="20230214073000 +0000" channel="CoolTV.hu"><title lang="hu">Szívek szállodája II (10)</title><date>20010101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214073000 +0000" stop="20230214083000 +0000" channel="CoolTV.hu"><title lang="hu">Szívek szállodája II (11)</title><date>20010101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214083000 +0000" stop="20230214093000 +0000" channel="CoolTV.hu"><title lang="hu">Doktor Murphy V (4)</title><date>20210101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214093000 +0000" stop="20230214103500 +0000" channel="CoolTV.hu"><title lang="hu">CSI: Miami helyszínelők IX (18)</title><date>20100101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214103500 +0000" stop="20230214113500 +0000" channel="CoolTV.hu"><title lang="hu">Magnum II (5)</title><date>20190101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214113500 +0000" stop="20230214124000 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (10)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214124000 +0000" stop="20230214134500 +0000" channel="CoolTV.hu"><title lang="hu">Medicopter 117 - A légimentők (4)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214134500 +0000" stop="20230214145000 +0000" channel="CoolTV.hu"><title lang="hu">Medicopter 117 - A légimentők (5)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214145000 +0000" stop="20230214155500 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (11)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214155500 +0000" stop="20230214170000 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (12)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="CoolTV.hu"><title lang="hu">Cobra 11 XVIII (13)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="CoolTV.hu"><title lang="hu">CSI: Miami helyszínelők IX (19)</title><date>20100101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="CoolTV.hu"><title lang="hu">Magnum II (6)</title><date>20190101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul V (2)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214210000 +0000" stop="20230214220000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul V (3)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214220000 +0000" stop="20230214230000 +0000" channel="CoolTV.hu"><title lang="hu">Gyilkos elmék IX (8)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="CoolTV.hu"><title lang="hu">Dr. Csont XI (10)</title><date>20150101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215000000 +0000" stop="20230215010000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul V (2)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215010000 +0000" stop="20230215020000 +0000" channel="CoolTV.hu"><title lang="hu">Nyomtalanul V (3)</title><date>20060101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215020000 +0000" stop="20230215030000 +0000" channel="CoolTV.hu"><title lang="hu">Gyilkos elmék IX (8)</title><date>20130101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215030000 +0000" stop="20230215040000 +0000" channel="CoolTV.hu"><title lang="hu">Dr. Csont XI (10)</title><date>20150101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213040000 +0000" stop="20230213045700 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát</title><date>20230101</date></programme>
+<programme start="20230213045700 +0000" stop="20230213045900 +0000" channel="DunaTV.hu"><title lang="hu">Himnusz</title></programme>
+<programme start="20230213045900 +0000" stop="20230213050000 +0000" channel="DunaTV.hu"><title lang="hu">Mindennapi</title><date>20230101</date></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="DunaTV.hu"><title lang="hu">HÍRADÓ</title></programme>
+<programme start="20230213053000 +0000" stop="20230213053500 +0000" channel="DunaTV.hu"><title lang="hu">Nemzeti Sporthíradó</title></programme>
+<programme start="20230213053500 +0000" stop="20230213054500 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230213054500 +0000" stop="20230213055000 +0000" channel="DunaTV.hu"><title lang="hu">Álmok álmodói</title><date>20220101</date></programme>
+<programme start="20230213055000 +0000" stop="20230213061500 +0000" channel="DunaTV.hu"><title lang="hu">Közelebb - Roma magazin</title><date>20230101</date></programme>
+<programme start="20230213061500 +0000" stop="20230213064000 +0000" channel="DunaTV.hu"><title lang="hu">Domovina</title><date>20230101</date></programme>
+<programme start="20230213064000 +0000" stop="20230213070500 +0000" channel="DunaTV.hu"><title lang="hu">Magyar világ</title><date>20230101</date></programme>
+<programme start="20230213070500 +0000" stop="20230213073500 +0000" channel="DunaTV.hu"><title lang="hu">Önök kérték!</title><date>20230101</date></programme>
+<programme start="20230213073500 +0000" stop="20230213074500 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát beharangozó</title><date>20230101</date></programme>
+<programme start="20230213074500 +0000" stop="20230213083000 +0000" channel="DunaTV.hu"><title lang="hu">Mavi szerelme (30/281)</title><date>20160101</date></programme>
+<programme start="20230213083000 +0000" stop="20230213085600 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát</title><date>20230101</date></programme>
+<programme start="20230213085600 +0000" stop="20230213085700 +0000" channel="DunaTV.hu"><title lang="hu">Egy Perc Híradó</title></programme>
+<programme start="20230213085700 +0000" stop="20230213085800 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230213085800 +0000" stop="20230213095500 +0000" channel="DunaTV.hu"><title lang="hu">Utazások Skandináviában</title><date>20190101</date></programme>
+<programme start="20230213095500 +0000" stop="20230213105500 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát</title><date>20230101</date></programme>
+<programme start="20230213105500 +0000" stop="20230213110000 +0000" channel="DunaTV.hu"><title lang="hu">Petőfi 200 – Vers mindenkinek</title><date>20220101</date></programme>
+<programme start="20230213110000 +0000" stop="20230213110100 +0000" channel="DunaTV.hu"><title lang="hu">Déli harangszó</title></programme>
+<programme start="20230213110100 +0000" stop="20230213113500 +0000" channel="DunaTV.hu"><title lang="hu">HÍRADÓ</title></programme>
+<programme start="20230213113500 +0000" stop="20230213114500 +0000" channel="DunaTV.hu"><title lang="hu">Nemzeti Sporthíradó</title></programme>
+<programme start="20230213114500 +0000" stop="20230213115500 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230213115500 +0000" stop="20230213120000 +0000" channel="DunaTV.hu"><title lang="hu">Álmok álmodói</title><date>20220101</date></programme>
+<programme start="20230213120000 +0000" stop="20230213122500 +0000" channel="DunaTV.hu"><title lang="hu">Kalandozás Dél-Koreában (19/24)</title><date>20140101</date></programme>
+<programme start="20230213122500 +0000" stop="20230213132500 +0000" channel="DunaTV.hu"><title lang="hu">Almárium</title><date>20230101</date></programme>
+<programme start="20230213132500 +0000" stop="20230213135500 +0000" channel="DunaTV.hu"><title lang="hu">Ízőrzők</title><date>20180101</date></programme>
+<programme start="20230213135500 +0000" stop="20230213142500 +0000" channel="DunaTV.hu"><title lang="hu">Almárium</title><date>20230101</date></programme>
+<programme start="20230213142500 +0000" stop="20230213142600 +0000" channel="DunaTV.hu"><title lang="hu">Egy Perc Híradó</title></programme>
+<programme start="20230213142600 +0000" stop="20230213142700 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230213142700 +0000" stop="20230213143000 +0000" channel="DunaTV.hu"><title lang="hu">Főmenü mini</title><date>20230101</date></programme>
+<programme start="20230213143000 +0000" stop="20230213145500 +0000" channel="DunaTV.hu"><title lang="hu">Önök kérték!</title><date>20230101</date></programme>
+<programme start="20230213145500 +0000" stop="20230213155500 +0000" channel="DunaTV.hu"><title lang="hu">Ridikül</title><date>20230101</date></programme>
+<programme start="20230213155500 +0000" stop="20230213161000 +0000" channel="DunaTV.hu"><title lang="hu">Almárium</title><date>20230101</date></programme>
+<programme start="20230213161000 +0000" stop="20230213170000 +0000" channel="DunaTV.hu"><title lang="hu">Hölgyek paradicsoma III (26/180)</title><date>20180101</date></programme>
+<programme start="20230213170000 +0000" stop="20230213172500 +0000" channel="DunaTV.hu"><title lang="hu">HÍRADÓ</title></programme>
+<programme start="20230213172500 +0000" stop="20230213173500 +0000" channel="DunaTV.hu"><title lang="hu">Nemzeti Sporthíradó</title></programme>
+<programme start="20230213173500 +0000" stop="20230213174000 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230213174000 +0000" stop="20230213174500 +0000" channel="DunaTV.hu"><title lang="hu">Hójelentés</title><date>20220101</date></programme>
+<programme start="20230213174500 +0000" stop="20230213175000 +0000" channel="DunaTV.hu"><title lang="hu">Álmok álmodói</title><date>20220101</date></programme>
+<programme start="20230213175000 +0000" stop="20230213183500 +0000" channel="DunaTV.hu"><title lang="hu">Mavi szerelme (31/281)</title><date>20160101</date></programme>
+<programme start="20230213183500 +0000" stop="20230213184500 +0000" channel="DunaTV.hu"><title lang="hu">Mindennapi</title><date>20230101</date></programme>
+<programme start="20230213184500 +0000" stop="20230213194500 +0000" channel="DunaTV.hu"><title lang="hu">Házasság (1/4)</title><date>20220101</date></programme>
+<programme start="20230213194500 +0000" stop="20230213203500 +0000" channel="DunaTV.hu"><title lang="hu">Kékfény</title><date>20230101</date></programme>
+<programme start="20230213203500 +0000" stop="20230213220700 +0000" channel="DunaTV.hu"><title lang="hu">Sherlock III (3/3)</title><date>20130101</date></programme>
+<programme start="20230213220700 +0000" stop="20230213220800 +0000" channel="DunaTV.hu"><title lang="hu">Kenó</title><date>20230101</date></programme>
+<programme start="20230213220800 +0000" stop="20230213221500 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230213221500 +0000" stop="20230214004000 +0000" channel="DunaTV.hu"><title lang="hu">Nincs alku</title><date>19980101</date></programme>
+<programme start="20230214004000 +0000" stop="20230214010500 +0000" channel="DunaTV.hu"><title lang="hu">Mesterember</title><date>20210101</date></programme>
+<programme start="20230214010500 +0000" stop="20230214015000 +0000" channel="DunaTV.hu"><title lang="hu">Rex Kanadában II. (7/16)</title><date>20190101</date></programme>
+<programme start="20230214015000 +0000" stop="20230214023500 +0000" channel="DunaTV.hu"><title lang="hu">Odaát XV (17/20)</title><date>20190101</date></programme>
+<programme start="20230214023500 +0000" stop="20230214030000 +0000" channel="DunaTV.hu"><title lang="hu">Magyar Krónika</title></programme>
+<programme start="20230214030000 +0000" stop="20230214035000 +0000" channel="DunaTV.hu"><title lang="hu">Ridikül</title><date>20230101</date></programme>
+<programme start="20230214035000 +0000" stop="20230214040000 +0000" channel="DunaTV.hu"><title lang="hu">Édes anyanyelvünk</title><date>20220101</date></programme>
+<programme start="20230214040000 +0000" stop="20230214045700 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát</title><date>20230101</date></programme>
+<programme start="20230214045700 +0000" stop="20230214045900 +0000" channel="DunaTV.hu"><title lang="hu">Himnusz</title></programme>
+<programme start="20230214045900 +0000" stop="20230214050000 +0000" channel="DunaTV.hu"><title lang="hu">Mindennapi</title><date>20220101</date></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="DunaTV.hu"><title lang="hu">HÍRADÓ</title></programme>
+<programme start="20230214053000 +0000" stop="20230214053500 +0000" channel="DunaTV.hu"><title lang="hu">Nemzeti Sporthíradó</title></programme>
+<programme start="20230214053500 +0000" stop="20230214054500 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230214054500 +0000" stop="20230214055000 +0000" channel="DunaTV.hu"><title lang="hu">Álmok álmodói</title><date>20220101</date></programme>
+<programme start="20230214055000 +0000" stop="20230214061500 +0000" channel="DunaTV.hu"><title lang="hu">Srpski ekran</title><date>20230101</date></programme>
+<programme start="20230214061500 +0000" stop="20230214064000 +0000" channel="DunaTV.hu"><title lang="hu">Unser Bildschirm</title><date>20230101</date></programme>
+<programme start="20230214064000 +0000" stop="20230214070500 +0000" channel="DunaTV.hu"><title lang="hu">Öt kontinens</title><date>20230101</date></programme>
+<programme start="20230214070500 +0000" stop="20230214073500 +0000" channel="DunaTV.hu"><title lang="hu">Önök kérték!</title><date>20230101</date></programme>
+<programme start="20230214073500 +0000" stop="20230214074500 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát beharangozó</title><date>20230101</date></programme>
+<programme start="20230214074500 +0000" stop="20230214082500 +0000" channel="DunaTV.hu"><title lang="hu">Mavi szerelme (31/281)</title><date>20160101</date></programme>
+<programme start="20230214082500 +0000" stop="20230214085000 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát</title><date>20230101</date></programme>
+<programme start="20230214085000 +0000" stop="20230214085500 +0000" channel="DunaTV.hu"><title lang="hu">Egy Perc Híradó</title></programme>
+<programme start="20230214085500 +0000" stop="20230214085600 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230214085600 +0000" stop="20230214095500 +0000" channel="DunaTV.hu"><title lang="hu">Utazások Skandináviában</title><date>20200101</date></programme>
+<programme start="20230214095500 +0000" stop="20230214105500 +0000" channel="DunaTV.hu"><title lang="hu">Család-barát</title><date>20230101</date></programme>
+<programme start="20230214105500 +0000" stop="20230214110000 +0000" channel="DunaTV.hu"><title lang="hu">Petőfi 200 – Vers mindenkinek</title><date>20220101</date></programme>
+<programme start="20230214110000 +0000" stop="20230214110100 +0000" channel="DunaTV.hu"><title lang="hu">Déli harangszó</title></programme>
+<programme start="20230214110100 +0000" stop="20230214113500 +0000" channel="DunaTV.hu"><title lang="hu">HÍRADÓ</title></programme>
+<programme start="20230214113500 +0000" stop="20230214114500 +0000" channel="DunaTV.hu"><title lang="hu">Nemzeti Sporthíradó</title></programme>
+<programme start="20230214114500 +0000" stop="20230214115500 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230214115500 +0000" stop="20230214120000 +0000" channel="DunaTV.hu"><title lang="hu">Álmok álmodói</title><date>20220101</date></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="DunaTV.hu"><title lang="hu">A világ egy terített asztal (2/13)</title><date>20190101</date></programme>
+<programme start="20230214123000 +0000" stop="20230214133000 +0000" channel="DunaTV.hu"><title lang="hu">Almárium</title><date>20230101</date></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="DunaTV.hu"><title lang="hu">Ízőrzők</title><date>20180101</date></programme>
+<programme start="20230214140000 +0000" stop="20230214142800 +0000" channel="DunaTV.hu"><title lang="hu">Almárium</title><date>20230101</date></programme>
+<programme start="20230214142800 +0000" stop="20230214142900 +0000" channel="DunaTV.hu"><title lang="hu">Egy Perc Híradó</title></programme>
+<programme start="20230214142900 +0000" stop="20230214143000 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230214143000 +0000" stop="20230214143500 +0000" channel="DunaTV.hu"><title lang="hu">Főmenü mini</title><date>20230101</date></programme>
+<programme start="20230214143500 +0000" stop="20230214150000 +0000" channel="DunaTV.hu"><title lang="hu">Önök kérték!</title><date>20230101</date></programme>
+<programme start="20230214150000 +0000" stop="20230214155500 +0000" channel="DunaTV.hu"><title lang="hu">Ridikül</title><date>20230101</date></programme>
+<programme start="20230214155500 +0000" stop="20230214161000 +0000" channel="DunaTV.hu"><title lang="hu">Almárium</title><date>20230101</date></programme>
+<programme start="20230214161000 +0000" stop="20230214170000 +0000" channel="DunaTV.hu"><title lang="hu">Hölgyek paradicsoma III (27/180)</title><date>20180101</date></programme>
+<programme start="20230214170000 +0000" stop="20230214172500 +0000" channel="DunaTV.hu"><title lang="hu">HÍRADÓ</title></programme>
+<programme start="20230214172500 +0000" stop="20230214173500 +0000" channel="DunaTV.hu"><title lang="hu">Nemzeti Sporthíradó</title></programme>
+<programme start="20230214173500 +0000" stop="20230214174000 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230214174000 +0000" stop="20230214174500 +0000" channel="DunaTV.hu"><title lang="hu">Hójelentés</title><date>20220101</date></programme>
+<programme start="20230214174500 +0000" stop="20230214175000 +0000" channel="DunaTV.hu"><title lang="hu">Álmok álmodói</title><date>20220101</date></programme>
+<programme start="20230214175000 +0000" stop="20230214183500 +0000" channel="DunaTV.hu"><title lang="hu">Mavi szerelme (32/281)</title><date>20160101</date></programme>
+<programme start="20230214183500 +0000" stop="20230214184500 +0000" channel="DunaTV.hu"><title lang="hu">Mindennapi</title><date>20220101</date></programme>
+<programme start="20230214184500 +0000" stop="20230214194000 +0000" channel="DunaTV.hu"><title lang="hu">Házasság (2/4)</title><date>20220101</date></programme>
+<programme start="20230214194000 +0000" stop="20230214194500 +0000" channel="DunaTV.hu"><title lang="hu">SzerencsePerc</title><date>20230101</date></programme>
+<programme start="20230214194500 +0000" stop="20230214204500 +0000" channel="DunaTV.hu"><title lang="hu">Monte Cristo grófja</title><date>19970101</date></programme>
+<programme start="20230214204500 +0000" stop="20230214214000 +0000" channel="DunaTV.hu"><title lang="hu">A tengeralattjáró II (1/8)</title><date>20200101</date></programme>
+<programme start="20230214214000 +0000" stop="20230214214500 +0000" channel="DunaTV.hu"><title lang="hu">Kenó</title><date>20230101</date></programme>
+<programme start="20230214214500 +0000" stop="20230214215000 +0000" channel="DunaTV.hu"><title lang="hu">Időjárás-jelentés</title><date>20230101</date></programme>
+<programme start="20230214215000 +0000" stop="20230214225500 +0000" channel="DunaTV.hu"><title lang="hu">Házasság (1/4)</title><date>20220101</date></programme>
+<programme start="20230214225500 +0000" stop="20230214232000 +0000" channel="DunaTV.hu"><title lang="hu">Rejtélyes XX. század - Kun Miklós műsora</title><date>20230101</date></programme>
+<programme start="20230214232000 +0000" stop="20230215001000 +0000" channel="DunaTV.hu"><title lang="hu">Hogy volt?!</title><date>20230101</date></programme>
+<programme start="20230215001000 +0000" stop="20230215004000 +0000" channel="DunaTV.hu"><title lang="hu">A Nagyok</title><date>20230101</date></programme>
+<programme start="20230215004000 +0000" stop="20230215012500 +0000" channel="DunaTV.hu"><title lang="hu">Rex Kanadában II. (8/16)</title><date>20190101</date></programme>
+<programme start="20230215012500 +0000" stop="20230215020500 +0000" channel="DunaTV.hu"><title lang="hu">Odaát XV (18/20)</title><date>20190101</date></programme>
+<programme start="20230215020500 +0000" stop="20230215023500 +0000" channel="DunaTV.hu"><title lang="hu">Noé barátai</title><date>20210101</date></programme>
+<programme start="20230215023500 +0000" stop="20230215030000 +0000" channel="DunaTV.hu"><title lang="hu">Magyar Krónika</title></programme>
+<programme start="20230215030000 +0000" stop="20230215035000 +0000" channel="DunaTV.hu"><title lang="hu">Ridikül</title><date>20230101</date></programme>
+<programme start="20230215035000 +0000" stop="20230215040000 +0000" channel="DunaTV.hu"><title lang="hu">Édes anyanyelvünk</title><date>20220101</date></programme>
+<programme start="20230213040000 +0000" stop="20230213042500 +0000" channel="RTLHungary.hu"><title lang="hu">Teleshop</title><date>20230101</date></programme>
+<programme start="20230213042500 +0000" stop="20230213050000 +0000" channel="RTLHungary.hu"><title lang="hu">Fókusz</title><date>20230101</date></programme>
+<programme start="20230213050000 +0000" stop="20230213080000 +0000" channel="RTLHungary.hu"><title lang="hu">Reggeli</title><date>20230101</date><category lang="hu">film</category></programme>
+<programme start="20230213080000 +0000" stop="20230213105500 +0000" channel="RTLHungary.hu"><title lang="hu">Teleshop</title><date>20230101</date></programme>
+<programme start="20230213105500 +0000" stop="20230213120000 +0000" channel="RTLHungary.hu"><title lang="hu">A sors játéka (58)</title><date>20210101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213120000 +0000" stop="20230213131000 +0000" channel="RTLHungary.hu"><title lang="hu">Az örökség ára (49)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213131000 +0000" stop="20230213142500 +0000" channel="RTLHungary.hu"><title lang="hu">Everwood IV (2)</title><date>20050101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213142500 +0000" stop="20230213153500 +0000" channel="RTLHungary.hu"><title lang="hu">Az újonc (17)</title><date>20190101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213153500 +0000" stop="20230213170000 +0000" channel="RTLHungary.hu"><title lang="hu">Bátrak földje (16)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213170000 +0000" stop="20230213175500 +0000" channel="RTLHungary.hu"><title lang="hu">RTL Híradó – Esti kiadás</title><date>20230101</date></programme>
+<programme start="20230213175500 +0000" stop="20230213183500 +0000" channel="RTLHungary.hu"><title lang="hu">Fókusz</title><date>20230101</date></programme>
+<programme start="20230213183500 +0000" stop="20230213193500 +0000" channel="RTLHungary.hu"><title lang="hu">Drága örökösök - A visszatérés (36)</title><date>20230101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213193500 +0000" stop="20230213205000 +0000" channel="RTLHungary.hu"><title lang="hu">A mi kis falunk III (10)</title><date>20180101</date><category lang="hu">seriál</category></programme>
+<programme start="20230213205000 +0000" stop="20230213223500 +0000" channel="RTLHungary.hu"><title lang="hu">Nyerő Páros III (11)</title><date>20190101</date></programme>
+<programme start="20230213223500 +0000" stop="20230213230000 +0000" channel="RTLHungary.hu"><title lang="hu">RTL Híradó - Késő esti kiadás</title><date>20230101</date></programme>
+<programme start="20230213230000 +0000" stop="20230213234000 +0000" channel="RTLHungary.hu"><title lang="hu">XXI. század – a legendák velünk élnek (618)</title><date>20230101</date></programme>
+<programme start="20230213234000 +0000" stop="20230214005000 +0000" channel="RTLHungary.hu"><title lang="hu">A lány (10)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214005000 +0000" stop="20230214013500 +0000" channel="RTLHungary.hu"><title lang="hu">Autogram (345)</title><date>20230101</date></programme>
+<programme start="20230214013500 +0000" stop="20230214024000 +0000" channel="RTLHungary.hu"><title lang="hu">CSI: A helyszínelők VII (20)</title><date>20070101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214024000 +0000" stop="20230214034500 +0000" channel="RTLHungary.hu"><title lang="hu">CSI: A helyszínelők VII (21)</title><date>20070101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214034500 +0000" stop="20230214040000 +0000" channel="RTLHungary.hu"><title lang="hu">Nevess csak!</title><category lang="hu">seriál</category></programme>
+<programme start="20230214040000 +0000" stop="20230214042500 +0000" channel="RTLHungary.hu"><title lang="hu">Teleshop</title><date>20230101</date></programme>
+<programme start="20230214042500 +0000" stop="20230214050000 +0000" channel="RTLHungary.hu"><title lang="hu">Fókusz</title><date>20230101</date></programme>
+<programme start="20230214050000 +0000" stop="20230214080000 +0000" channel="RTLHungary.hu"><title lang="hu">Reggeli</title><date>20230101</date><category lang="hu">film</category></programme>
+<programme start="20230214080000 +0000" stop="20230214105000 +0000" channel="RTLHungary.hu"><title lang="hu">Teleshop</title><date>20230101</date></programme>
+<programme start="20230214105000 +0000" stop="20230214110000 +0000" channel="RTLHungary.hu"><title lang="hu">Nevess csak!</title><category lang="hu">seriál</category></programme>
+<programme start="20230214110000 +0000" stop="20230214112000 +0000" channel="RTLHungary.hu"><title lang="hu">A dadus V (12)</title><date>19980101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214112000 +0000" stop="20230214120000 +0000" channel="RTLHungary.hu"><title lang="hu">Fókusz</title><date>20230101</date></programme>
+<programme start="20230214120000 +0000" stop="20230214131000 +0000" channel="RTLHungary.hu"><title lang="hu">Az örökség ára (50)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214131000 +0000" stop="20230214142500 +0000" channel="RTLHungary.hu"><title lang="hu">Everwood IV (3)</title><date>20050101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214142500 +0000" stop="20230214153500 +0000" channel="RTLHungary.hu"><title lang="hu">Az újonc (18)</title><date>20190101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214153500 +0000" stop="20230214170000 +0000" channel="RTLHungary.hu"><title lang="hu">Bátrak földje (17)</title><date>20200101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214170000 +0000" stop="20230214175500 +0000" channel="RTLHungary.hu"><title lang="hu">RTL Híradó – Esti kiadás</title><date>20230101</date></programme>
+<programme start="20230214175500 +0000" stop="20230214183500 +0000" channel="RTLHungary.hu"><title lang="hu">Fókusz</title><date>20230101</date></programme>
+<programme start="20230214183500 +0000" stop="20230214193500 +0000" channel="RTLHungary.hu"><title lang="hu">Drága örökösök - A visszatérés (37)</title><date>20230101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214193500 +0000" stop="20230214205000 +0000" channel="RTLHungary.hu"><title lang="hu">A mi kis falunk III (11)</title><date>20180101</date><category lang="hu">seriál</category></programme>
+<programme start="20230214205000 +0000" stop="20230214222500 +0000" channel="RTLHungary.hu"><title lang="hu">Nyerő Páros III (12)</title><date>20190101</date></programme>
+<programme start="20230214222500 +0000" stop="20230214225500 +0000" channel="RTLHungary.hu"><title lang="hu">RTL Híradó - Késő esti kiadás</title><date>20230101</date></programme>
+<programme start="20230214225500 +0000" stop="20230214233000 +0000" channel="RTLHungary.hu"><title lang="hu">Házon kívül (630)</title><date>20230101</date></programme>
+<programme start="20230214233000 +0000" stop="20230215005000 +0000" channel="RTLHungary.hu"><title lang="hu">A specialista IV (3)</title><date>20180101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215005000 +0000" stop="20230215021000 +0000" channel="RTLHungary.hu"><title lang="hu">A specialista IV (4)</title><date>20180101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215021000 +0000" stop="20230215032000 +0000" channel="RTLHungary.hu"><title lang="hu">CSI: A helyszínelők VII (22)</title><date>20070101</date><category lang="hu">seriál</category></programme>
+<programme start="20230215032000 +0000" stop="20230215040000 +0000" channel="RTLHungary.hu"><title lang="hu">Nevess csak!</title><category lang="hu">seriál</category></programme>
+</tv>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="DePeliculaClasico.mx"><display-name>De Pelicula Clasico</display-name><icon src="https://i.imgur.com/L6J0kDU.png"/><url>https://ontvtonight.com</url></channel>
+<channel id="DePeliculaLatinAmerica.mx"><display-name>De Pelicula Latin America</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://ontvtonight.com</url></channel>
+<channel id="DePeliculaUS.us"><display-name>De Pelicula US</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/512px-DPel%C3%ADcula_2021.svg.png"/><url>https://ontvtonight.com</url></channel>
+<channel id="XEWTTDT.mx"><display-name>XEWT-TDT</display-name><icon src="https://i.imgur.com/GWk6lTX.png"/><url>https://ontvtonight.com</url></channel>
+<channel id="XHBCTDT.mx"><display-name>XHBC-TDT</display-name><icon src="https://i.imgur.com/0qaZtwz.png"/><url>https://ontvtonight.com</url></channel>
+<programme start="20230213011000 +0000" stop="20230213024000 +0000" channel="DePeliculaClasico.mx"><title lang="es">¡Cuando la Tierra Tembló!</title></programme>
+<programme start="20230213024000 +0000" stop="20230213041500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Pepita Jiménez</title></programme>
+<programme start="20230213041500 +0000" stop="20230213054500 +0000" channel="DePeliculaClasico.mx"><title lang="es">El Rifle Implacable</title></programme>
+<programme start="20230213054500 +0000" stop="20230213061500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213061500 +0000" stop="20230213064500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213064500 +0000" stop="20230213071500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213071500 +0000" stop="20230213074500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213074500 +0000" stop="20230213094000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Del Brazo y por la Calle</title></programme>
+<programme start="20230213094000 +0000" stop="20230213113500 +0000" channel="DePeliculaClasico.mx"><title lang="es">La Hija del Regimiento</title></programme>
+<programme start="20230213113500 +0000" stop="20230213120500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213120500 +0000" stop="20230213123500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213123500 +0000" stop="20230213143000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Las Infieles</title></programme>
+<programme start="20230213143000 +0000" stop="20230213161000 +0000" channel="DePeliculaClasico.mx"><title lang="es">La Panchita</title></programme>
+<programme start="20230213161000 +0000" stop="20230213180500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Del Brazo y por la Calle</title></programme>
+<programme start="20230213180500 +0000" stop="20230213200000 +0000" channel="DePeliculaClasico.mx"><title lang="es">La Hija del Regimiento</title></programme>
+<programme start="20230213200000 +0000" stop="20230213220000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Paraíso robado</title></programme>
+<programme start="20230213220000 +0000" stop="20230213233000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Tin-Tan el hombre mono</title></programme>
+<programme start="20230213233000 +0000" stop="20230214003000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Muertos de Risa</title></programme>
+<programme start="20230214010000 +0000" stop="20230214024000 +0000" channel="DePeliculaClasico.mx"><title lang="es">La Panchita</title></programme>
+<programme start="20230214024000 +0000" stop="20230214041500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Sublime Melodía</title></programme>
+<programme start="20230214041500 +0000" stop="20230214054500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Tin-Tan el hombre mono</title></programme>
+<programme start="20230214054500 +0000" stop="20230214061500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214061500 +0000" stop="20230214064500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214064500 +0000" stop="20230214071500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214071500 +0000" stop="20230214074500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214074500 +0000" stop="20230214092500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Miente y Serás Feliz</title></programme>
+<programme start="20230214092500 +0000" stop="20230214112000 +0000" channel="DePeliculaClasico.mx"><title lang="es">El Vampiro Sangriento</title></programme>
+<programme start="20230214112000 +0000" stop="20230214115000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214115000 +0000" stop="20230214122000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214122000 +0000" stop="20230214140500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Quiero Vivir</title></programme>
+<programme start="20230214140500 +0000" stop="20230214154500 +0000" channel="DePeliculaClasico.mx"><title lang="es">El ataúd del vampiro</title></programme>
+<programme start="20230214154500 +0000" stop="20230214172500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Miente y Serás Feliz</title></programme>
+<programme start="20230214172500 +0000" stop="20230214192000 +0000" channel="DePeliculaClasico.mx"><title lang="es">El Vampiro Sangriento</title></programme>
+<programme start="20230214192000 +0000" stop="20230214211500 +0000" channel="DePeliculaClasico.mx"><title lang="es">Alias &quot;El Rata&quot;</title></programme>
+<programme start="20230214211500 +0000" stop="20230214232000 +0000" channel="DePeliculaClasico.mx"><title lang="es">No Matarás</title></programme>
+<programme start="20230214232000 +0000" stop="20230215002000 +0000" channel="DePeliculaClasico.mx"><title lang="es">Quiero Vivir</title></programme>
+<programme start="20230213010400 +0000" stop="20230213025100 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Lo Veo y No Lo Creo</title></programme>
+<programme start="20230213025100 +0000" stop="20230213042600 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Pelea de perros</title></programme>
+<programme start="20230213042600 +0000" stop="20230213060100 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Presos sin Culpas</title></programme>
+<programme start="20230213060100 +0000" stop="20230213075400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">La mano de Dios</title></programme>
+<programme start="20230213075400 +0000" stop="20230213092800 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Campeón del Barrio</title></programme>
+<programme start="20230213092800 +0000" stop="20230213105500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Los fantasmas burlones</title></programme>
+<programme start="20230213105500 +0000" stop="20230213123900 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El albañil</title></programme>
+<programme start="20230213123900 +0000" stop="20230213142500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El Hijo de Pedro Navajas</title></programme>
+<programme start="20230213142500 +0000" stop="20230213161300 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El Bombero Atómico</title></programme>
+<programme start="20230213161300 +0000" stop="20230213174900 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Dos Tontos y un Loco</title></programme>
+<programme start="20230213174900 +0000" stop="20230213193100 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Dios los cría</title></programme>
+<programme start="20230213193100 +0000" stop="20230213211200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El tragabalas</title></programme>
+<programme start="20230213211200 +0000" stop="20230213225500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Pancho Tequila</title></programme>
+<programme start="20230213225500 +0000" stop="20230213235500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Dos tipos de cuidado</title></programme>
+<programme start="20230214005900 +0000" stop="20230214024200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Espérame en Siberia Vida Mía</title></programme>
+<programme start="20230214024200 +0000" stop="20230214042700 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">El medallón del crimen</title></programme>
+<programme start="20230214042700 +0000" stop="20230214060000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Amor en las nubes</title></programme>
+<programme start="20230214060000 +0000" stop="20230214073900 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Yo No Me Caso Compadre</title></programme>
+<programme start="20230214073900 +0000" stop="20230214091500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">¡Ay Amor... Cómo me Has Puesto!</title></programme>
+<programme start="20230214091500 +0000" stop="20230214110000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Sinvergüenza pero honrado</title></programme>
+<programme start="20230214110000 +0000" stop="20230214123000 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Nosotras las Sirvientas</title></programme>
+<programme start="20230214123000 +0000" stop="20230214142100 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Del Brazo y por la Calle</title></programme>
+<programme start="20230214142100 +0000" stop="20230214154400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Un Sueño de Amor</title></programme>
+<programme start="20230214154400 +0000" stop="20230214171200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">La Alegría de Vivir</title></programme>
+<programme start="20230214171200 +0000" stop="20230214184200 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Tu Camino y el Mío</title></programme>
+<programme start="20230214184200 +0000" stop="20230214203400 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Mi pequeño gran hombre</title></programme>
+<programme start="20230214203400 +0000" stop="20230214222300 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">¡A Volar Joven!</title></programme>
+<programme start="20230214222300 +0000" stop="20230214232300 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">La Golfa del Barrio</title></programme>
+<programme start="20230213004000 +0000" stop="20230213023500 +0000" channel="DePeliculaUS.us"><title lang="es">Viva el Chubasco</title></programme>
+<programme start="20230213023500 +0000" stop="20230213042500 +0000" channel="DePeliculaUS.us"><title lang="es">La coyota</title></programme>
+<programme start="20230213042500 +0000" stop="20230213060000 +0000" channel="DePeliculaUS.us"><title lang="es">El Charro del Misterio</title></programme>
+<programme start="20230213060000 +0000" stop="20230213080000 +0000" channel="DePeliculaUS.us"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213080000 +0000" stop="20230213100000 +0000" channel="DePeliculaUS.us"><title lang="es">Tengo 17 Años</title></programme>
+<programme start="20230213100000 +0000" stop="20230213130500 +0000" channel="DePeliculaUS.us"><title lang="es">La maestra inolvidable</title></programme>
+<programme start="20230213130500 +0000" stop="20230213145000 +0000" channel="DePeliculaUS.us"><title lang="es">Me Dicen el Cantaclaro</title></programme>
+<programme start="20230213145000 +0000" stop="20230213164500 +0000" channel="DePeliculaUS.us"><title lang="es">Teresa</title></programme>
+<programme start="20230213164500 +0000" stop="20230213182500 +0000" channel="DePeliculaUS.us"><title lang="es">El Chivo</title></programme>
+<programme start="20230213182500 +0000" stop="20230213202500 +0000" channel="DePeliculaUS.us"><title lang="es">Tengo 17 Años</title></programme>
+<programme start="20230213202500 +0000" stop="20230213223000 +0000" channel="DePeliculaUS.us"><title lang="es">La maestra inolvidable</title></programme>
+<programme start="20230213223000 +0000" stop="20230213233000 +0000" channel="DePeliculaUS.us"><title lang="es">La sospechosa</title></programme>
+<programme start="20230214002500 +0000" stop="20230214020500 +0000" channel="DePeliculaUS.us"><title lang="es">Las Puertas del Paraíso</title></programme>
+<programme start="20230214020500 +0000" stop="20230214035000 +0000" channel="DePeliculaUS.us"><title lang="es">Me Dicen el Cantaclaro</title></programme>
+<programme start="20230214035000 +0000" stop="20230214054500 +0000" channel="DePeliculaUS.us"><title lang="es">Teresa</title></programme>
+<programme start="20230214054500 +0000" stop="20230214074500 +0000" channel="DePeliculaUS.us"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214074500 +0000" stop="20230214094500 +0000" channel="DePeliculaUS.us"><title lang="es">El Cara Parchada</title></programme>
+<programme start="20230214094500 +0000" stop="20230214112500 +0000" channel="DePeliculaUS.us"><title lang="es">La Divina Garza</title></programme>
+<programme start="20230214112500 +0000" stop="20230214122500 +0000" channel="DePeliculaUS.us"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214122500 +0000" stop="20230214142000 +0000" channel="DePeliculaUS.us"><title lang="es">Del otro Lado del Puente</title></programme>
+<programme start="20230214142000 +0000" stop="20230214162500 +0000" channel="DePeliculaUS.us"><title lang="es">Dos tipos de cuidado</title></programme>
+<programme start="20230214162500 +0000" stop="20230214181500 +0000" channel="DePeliculaUS.us"><title lang="es">Mojado de nacimiento</title></programme>
+<programme start="20230214181500 +0000" stop="20230214201500 +0000" channel="DePeliculaUS.us"><title lang="es">El Cara Parchada</title></programme>
+<programme start="20230214201500 +0000" stop="20230214220000 +0000" channel="DePeliculaUS.us"><title lang="es">Tres Lecciones de Amor</title></programme>
+<programme start="20230214220000 +0000" stop="20230214234500 +0000" channel="DePeliculaUS.us"><title lang="es">Caravana de la Muerte</title></programme>
+<programme start="20230214234500 +0000" stop="20230215004500 +0000" channel="DePeliculaUS.us"><title lang="es">Acompáñame</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="XEWTTDT.mx"><title lang="es">Veredicto Final</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="XEWTTDT.mx"><title lang="es">La casa de la risa</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="XEWTTDT.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213013000 +0000" stop="20230213023000 +0000" channel="XEWTTDT.mx"><title lang="es">Derecho de Admisión</title></programme>
+<programme start="20230213023000 +0000" stop="20230213040000 +0000" channel="XEWTTDT.mx"><title lang="es">El campeón ciclista</title></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="XEWTTDT.mx"><title lang="es">¡Es de Noche!...Y Ya Llegué</title></programme>
+<programme start="20230213050000 +0000" stop="20230213060000 +0000" channel="XEWTTDT.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="XEWTTDT.mx"><title lang="es">Infomercial - Ken Grody Ford</title></programme>
+<programme start="20230213063000 +0000" stop="20230213080000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias al amanecer</title><desc lang="es">Notivisa al amanecer</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213110000 +0000" channel="XEWTTDT.mx"><title lang="es">Qué buen día</title><desc lang="es">Qué buen día</desc></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="XEWTTDT.mx"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="XEWTTDT.mx"><title lang="es">En boca de todos</title><desc lang="es">En boca de todos</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="XEWTTDT.mx"><title lang="es">Más que palabras</title><desc lang="es">Más que palabras</desc></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias a las 02:00 PM</title><desc lang="es">Las noticias a las 02:00 PM</desc></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="XEWTTDT.mx"><title lang="es">En boca de todos</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="XEWTTDT.mx"><title lang="es">Los deportes</title><desc lang="es">Los deportes</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias a las 05:00 PM</title><desc lang="es">Las noticias a las 05:00 PM</desc></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias de las 06:00 PM</title><desc lang="es">Las noticias de las 06:00 PM</desc></programme>
+<programme start="20230213183000 +0000" stop="20230213193000 +0000" channel="XEWTTDT.mx"><title lang="es">Perdona nuestros pecados</title></programme>
+<programme start="20230213193000 +0000" stop="20230213203000 +0000" channel="XEWTTDT.mx"><title lang="es">La Rosa de Guadalupe</title></programme>
+<programme start="20230213203000 +0000" stop="20230213213000 +0000" channel="XEWTTDT.mx"><title lang="es">Mi camino es amarte</title></programme>
+<programme start="20230213213000 +0000" stop="20230213223000 +0000" channel="XEWTTDT.mx"><title lang="es">Cabo</title></programme>
+<programme start="20230213223000 +0000" stop="20230213233000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias a las 22:30 (Regional)</title></programme>
+<programme start="20230213233000 +0000" stop="20230214003000 +0000" channel="XEWTTDT.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="XEWTTDT.mx"><title lang="es">Veredicto Final</title></programme>
+<programme start="20230214003000 +0000" stop="20230214013000 +0000" channel="XEWTTDT.mx"><title lang="es">Noches de Humor</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="XEWTTDT.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="XEWTTDT.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214023000 +0000" stop="20230214033000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias de las 22:30</title></programme>
+<programme start="20230214033000 +0000" stop="20230214043000 +0000" channel="XEWTTDT.mx"><title lang="es">Más que palabras</title></programme>
+<programme start="20230214043000 +0000" stop="20230214053000 +0000" channel="XEWTTDT.mx"><title lang="es">En boca de todos</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="XEWTTDT.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="XEWTTDT.mx"><title lang="es">Infomercial - Ken Grody Ford</title></programme>
+<programme start="20230214063000 +0000" stop="20230214080000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias al amanecer</title><desc lang="es">Notivisa al amanecer</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214110000 +0000" channel="XEWTTDT.mx"><title lang="es">Qué buen día</title><desc lang="es">Qué buen día</desc></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="XEWTTDT.mx"><title lang="es">Mi cita médica</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="XEWTTDT.mx"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="XEWTTDT.mx"><title lang="es">En boca de todos</title><desc lang="es">En boca de todos</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="XEWTTDT.mx"><title lang="es">Más que palabras</title><desc lang="es">Más que palabras</desc></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias a las 02:00 PM</title><desc lang="es">Las noticias a las 02:00 PM</desc></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="XEWTTDT.mx"><title lang="es">En boca de todos</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="XEWTTDT.mx"><title lang="es">Los deportes</title><desc lang="es">Los deportes</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias a las 05:00 PM</title><desc lang="es">Las noticias a las 05:00 PM</desc></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias de las 06:00 PM</title><desc lang="es">Las noticias de las 06:00 PM</desc></programme>
+<programme start="20230214183000 +0000" stop="20230214193000 +0000" channel="XEWTTDT.mx"><title lang="es">Perdona nuestros pecados</title></programme>
+<programme start="20230214193000 +0000" stop="20230214203000 +0000" channel="XEWTTDT.mx"><title lang="es">La Rosa de Guadalupe</title></programme>
+<programme start="20230214203000 +0000" stop="20230214213000 +0000" channel="XEWTTDT.mx"><title lang="es">Mi camino es amarte</title></programme>
+<programme start="20230214213000 +0000" stop="20230214223000 +0000" channel="XEWTTDT.mx"><title lang="es">Cabo</title></programme>
+<programme start="20230214223000 +0000" stop="20230214233000 +0000" channel="XEWTTDT.mx"><title lang="es">Las noticias a las 22:30 (Regional)</title></programme>
+<programme start="20230214233000 +0000" stop="20230215003000 +0000" channel="XEWTTDT.mx"><title lang="es">Infomercial - Ken Grody Ford</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="XHBCTDT.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="XHBCTDT.mx"><title lang="es">3 grupero</title></programme>
+<programme start="20230213010000 +0000" stop="20230213060000 +0000" channel="XHBCTDT.mx"><title lang="es">Fuera del aire</title></programme>
+<programme start="20230213060000 +0000" stop="20230213080000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias al amanecer</title><desc lang="es">Notivisa al amanecer</desc></programme>
+<programme start="20230213080000 +0000" stop="20230213103000 +0000" channel="XHBCTDT.mx"><title lang="es">Hola Mexicali</title><desc lang="es">Hola Mexicali</desc></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="XHBCTDT.mx"><title lang="es">3 grupero</title></programme>
+<programme start="20230213110000 +0000" stop="20230213120000 +0000" channel="XHBCTDT.mx"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="XHBCTDT.mx"><title lang="es">En boca de todos</title><desc lang="es">En boca de todos</desc></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="XHBCTDT.mx"><title lang="es">Más que palabras</title><desc lang="es">Más que palabras</desc></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="XHBCTDT.mx"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias de las 13:00 hrs</title><desc lang="es">Las noticias</desc></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="XHBCTDT.mx"><title lang="es">Los deportes</title><desc lang="es">Los deportes</desc></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias a las 05:00</title><desc lang="es">Las noticias de las 05:00</desc></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias a las 06:00</title><desc lang="es">Las noticias de las 06:00</desc></programme>
+<programme start="20230213183000 +0000" stop="20230213193000 +0000" channel="XHBCTDT.mx"><title lang="es">En boca de todos</title></programme>
+<programme start="20230213193000 +0000" stop="20230213203000 +0000" channel="XHBCTDT.mx"><title lang="es">Más que palabras</title></programme>
+<programme start="20230213203000 +0000" stop="20230213223000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias a las 20:30</title><desc lang="es">Las noticias de las 20:30</desc></programme>
+<programme start="20230213223000 +0000" stop="20230213233000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias de las 22:30</title><desc lang="es">Las noticias a las 22:30</desc></programme>
+<programme start="20230213233000 +0000" stop="20230214003000 +0000" channel="XHBCTDT.mx"><title lang="es">Vecinos</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="XHBCTDT.mx"><title lang="es">Programación pagada</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="XHBCTDT.mx"><title lang="es">3 grupero</title></programme>
+<programme start="20230214010000 +0000" stop="20230214060000 +0000" channel="XHBCTDT.mx"><title lang="es">Fuera del aire</title></programme>
+<programme start="20230214060000 +0000" stop="20230214080000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias al amanecer</title><desc lang="es">Notivisa al amanecer</desc></programme>
+<programme start="20230214080000 +0000" stop="20230214103000 +0000" channel="XHBCTDT.mx"><title lang="es">Hola Mexicali</title><desc lang="es">Hola Mexicali</desc></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="XHBCTDT.mx"><title lang="es">3 grupero</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="XHBCTDT.mx"><title lang="es">Mi cita médica</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="XHBCTDT.mx"><title lang="es">Más bella que nunca</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="XHBCTDT.mx"><title lang="es">En boca de todos</title><desc lang="es">En boca de todos</desc></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="XHBCTDT.mx"><title lang="es">Más que palabras</title><desc lang="es">Más que palabras</desc></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="XHBCTDT.mx"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias de las 13:00 hrs</title><desc lang="es">Las noticias</desc></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="XHBCTDT.mx"><title lang="es">Los deportes</title><desc lang="es">Los deportes</desc></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias a las 05:00</title><desc lang="es">Las noticias de las 05:00</desc></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias a las 06:00</title><desc lang="es">Las noticias de las 06:00</desc></programme>
+<programme start="20230214183000 +0000" stop="20230214193000 +0000" channel="XHBCTDT.mx"><title lang="es">En boca de todos</title></programme>
+<programme start="20230214193000 +0000" stop="20230214203000 +0000" channel="XHBCTDT.mx"><title lang="es">Más que palabras</title></programme>
+<programme start="20230214203000 +0000" stop="20230214223000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias a las 20:30</title><desc lang="es">Las noticias de las 20:30</desc></programme>
+<programme start="20230214223000 +0000" stop="20230214233000 +0000" channel="XHBCTDT.mx"><title lang="es">Las noticias de las 22:30</title><desc lang="es">Las noticias a las 22:30</desc></programme>
+<programme start="20230214233000 +0000" stop="20230215003000 +0000" channel="XHBCTDT.mx"><title lang="es">Vecinos</title></programme>
+</tv>

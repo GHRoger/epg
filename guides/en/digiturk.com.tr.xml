@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BBCEntertainment.uk"><display-name>BBC Entertainment</display-name><icon src="https://i.imgur.com/fx2z8M1.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BBCWorldNewsEurope.uk"><display-name>BBC World News Europe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BabyTV.uk"><display-name>BabyTV</display-name><icon src="https://i.imgur.com/fvVovnc.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BloombergTVEurope.uk"><display-name>Bloomberg TV Europe</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="CGTNDocumentary.cn"><display-name>CGTN Documentary</display-name><icon src="https://i.imgur.com/JHv0WxM.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="CNNInternationalEurope.us"><display-name>CNN International Europe</display-name><icon src="https://i.imgur.com/05S3yYZ.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="EuronewsEnglish.fr"><display-name>Euronews English</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="FashionTVEurope.fr"><display-name>FashionTV Europe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="France24English.fr"><display-name>France 24 English</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/><url>https://digiturk.com.tr</url></channel>
+<programme start="20230212210000 +0000" stop="20230212220000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230212220000 +0000" stop="20230212223000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230212223000 +0000" stop="20230212230000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">STUDIO B: UNSCRIPTED</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">UPFRONT</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230213010000 +0000" stop="20230213020000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">AL JAZEERA WORLD</title></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">TALK TO AL JAZEERA</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE BIG PICTURE: BRITAIN&apos;S ...</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE LISTENING POST</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">101 EAST</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE BOTTOM LINE</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">EARTHRISE</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">UPFRONT</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">STUDIO B: UNSCRIPTED</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">WITNESS</title></programme>
+<programme start="20230213130000 +0000" stop="20230213140000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">TALK TO AL JAZEERA</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">COUNTING THE COST</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE STREAM</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE DARK SIDE OF GREEN ENERGY</title></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">WITNESS</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">PEOPLE AND POWER</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">WITNESS</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">101 EAST</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">STUDIO B: UNSCRIPTED</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE STREAM</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">COUNTING THE COST</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">AL JAZEERA WORLD</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE STREAM</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">WITNESS</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE DARK SIDE OF GREEN ENERGY</title></programme>
+<programme start="20230214130000 +0000" stop="20230214140000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE STREAM</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE BIG PICTURE: BRITAIN&apos;S ...</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">INSIDE STORY</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWSHOUR</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NEWS LIVE</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">THE STREAM</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">AL JAZEERA WORLD</title></programme>
+<programme start="20230212210000 +0000" stop="20230212212500 +0000" channel="BBCEntertainment.uk"><title lang="en">JOSH</title></programme>
+<programme start="20230212212500 +0000" stop="20230212221000 +0000" channel="BBCEntertainment.uk"><title lang="en">GEORGE CLARKE&apos;S OLD HOUSE, ...</title></programme>
+<programme start="20230212221000 +0000" stop="20230212230000 +0000" channel="BBCEntertainment.uk"><title lang="en">TRACES</title></programme>
+<programme start="20230212230000 +0000" stop="20230212234000 +0000" channel="BBCEntertainment.uk"><title lang="en">WE HUNT TOGETHER</title></programme>
+<programme start="20230212234000 +0000" stop="20230213001000 +0000" channel="BBCEntertainment.uk"><title lang="en">MISTER WINNER</title></programme>
+<programme start="20230213001000 +0000" stop="20230213005500 +0000" channel="BBCEntertainment.uk"><title lang="en">GEORGE CLARKE&apos;S OLD HOUSE, ...</title></programme>
+<programme start="20230213005500 +0000" stop="20230213014000 +0000" channel="BBCEntertainment.uk"><title lang="en">BARGAIN HUNT</title></programme>
+<programme start="20230213014000 +0000" stop="20230213022500 +0000" channel="BBCEntertainment.uk"><title lang="en">BARGAIN HUNT</title></programme>
+<programme start="20230213022500 +0000" stop="20230213032500 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230213032500 +0000" stop="20230213040500 +0000" channel="BBCEntertainment.uk"><title lang="en">GHOSTS</title></programme>
+<programme start="20230213040500 +0000" stop="20230213043000 +0000" channel="BBCEntertainment.uk"><title lang="en">JOSH</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="BBCEntertainment.uk"><title lang="en">MISTER WINNER</title></programme>
+<programme start="20230213050000 +0000" stop="20230213055000 +0000" channel="BBCEntertainment.uk"><title lang="en">ANTIQUES ROADSHOW</title></programme>
+<programme start="20230213055000 +0000" stop="20230213064500 +0000" channel="BBCEntertainment.uk"><title lang="en">AMAZING HOTELS: LIFE BEYOND...</title></programme>
+<programme start="20230213064500 +0000" stop="20230213073000 +0000" channel="BBCEntertainment.uk"><title lang="en">BARGAIN HUNT</title></programme>
+<programme start="20230213073000 +0000" stop="20230213081500 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230213081500 +0000" stop="20230213090500 +0000" channel="BBCEntertainment.uk"><title lang="en">THE GREAT BRITISH SEWING BEE</title></programme>
+<programme start="20230213090500 +0000" stop="20230213093500 +0000" channel="BBCEntertainment.uk"><title lang="en">MISTER WINNER</title></programme>
+<programme start="20230213093500 +0000" stop="20230213101000 +0000" channel="BBCEntertainment.uk"><title lang="en">MISTER WINNER</title></programme>
+<programme start="20230213101000 +0000" stop="20230213110000 +0000" channel="BBCEntertainment.uk"><title lang="en">ANTIQUES ROADSHOW</title></programme>
+<programme start="20230213110000 +0000" stop="20230213114500 +0000" channel="BBCEntertainment.uk"><title lang="en">GEORGE CLARKE&apos;S OLD HOUSE, ...</title></programme>
+<programme start="20230213114500 +0000" stop="20230213123000 +0000" channel="BBCEntertainment.uk"><title lang="en">WORLD&apos;S MOST LUXURIOUS HOMES</title></programme>
+<programme start="20230213123000 +0000" stop="20230213132500 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230213132500 +0000" stop="20230213141500 +0000" channel="BBCEntertainment.uk"><title lang="en">THE GREAT BRITISH SEWING BEE</title></programme>
+<programme start="20230213141500 +0000" stop="20230213150000 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230213150000 +0000" stop="20230213154500 +0000" channel="BBCEntertainment.uk"><title lang="en">GEORGE CLARKE&apos;S OLD HOUSE, ...</title></programme>
+<programme start="20230213154500 +0000" stop="20230213164000 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230213164000 +0000" stop="20230213173000 +0000" channel="BBCEntertainment.uk"><title lang="en">THE GREAT BRITISH SEWING BEE</title></programme>
+<programme start="20230213173000 +0000" stop="20230213181500 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230213181500 +0000" stop="20230213190000 +0000" channel="BBCEntertainment.uk"><title lang="en">BARGAIN HUNT</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="BBCEntertainment.uk"><title lang="en">DOCTORS</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="BBCEntertainment.uk"><title lang="en">EASTENDERS</title></programme>
+<programme start="20230213200000 +0000" stop="20230213205500 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230213205500 +0000" stop="20230213212000 +0000" channel="BBCEntertainment.uk"><title lang="en">BACK</title></programme>
+<programme start="20230213212000 +0000" stop="20230213214500 +0000" channel="BBCEntertainment.uk"><title lang="en">STILL OPEN ALL HOURS</title></programme>
+<programme start="20230213214500 +0000" stop="20230213224000 +0000" channel="BBCEntertainment.uk"><title lang="en">THE GREAT BRITISH SEWING BEE</title></programme>
+<programme start="20230213224000 +0000" stop="20230213232500 +0000" channel="BBCEntertainment.uk"><title lang="en">GEORGE CLARKE&apos;S OLD HOUSE, ...</title></programme>
+<programme start="20230213232500 +0000" stop="20230214002000 +0000" channel="BBCEntertainment.uk"><title lang="en">AMAZING HOTELS: LIFE BEYOND...</title></programme>
+<programme start="20230214002000 +0000" stop="20230214011000 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230214011000 +0000" stop="20230214014000 +0000" channel="BBCEntertainment.uk"><title lang="en">STILL OPEN ALL HOURS</title></programme>
+<programme start="20230214014000 +0000" stop="20230214023500 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230214023500 +0000" stop="20230214033000 +0000" channel="BBCEntertainment.uk"><title lang="en">THE GREAT BRITISH SEWING BEE</title></programme>
+<programme start="20230214033000 +0000" stop="20230214041500 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230214041500 +0000" stop="20230214050000 +0000" channel="BBCEntertainment.uk"><title lang="en">BARGAIN HUNT</title></programme>
+<programme start="20230214050000 +0000" stop="20230214055000 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230214055000 +0000" stop="20230214061500 +0000" channel="BBCEntertainment.uk"><title lang="en">BAD MOVE</title></programme>
+<programme start="20230214061500 +0000" stop="20230214064500 +0000" channel="BBCEntertainment.uk"><title lang="en">STILL OPEN ALL HOURS</title></programme>
+<programme start="20230214064500 +0000" stop="20230214071500 +0000" channel="BBCEntertainment.uk"><title lang="en">DOCTORS</title></programme>
+<programme start="20230214071500 +0000" stop="20230214074500 +0000" channel="BBCEntertainment.uk"><title lang="en">EASTENDERS</title></programme>
+<programme start="20230214074500 +0000" stop="20230214082500 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230214082500 +0000" stop="20230214092000 +0000" channel="BBCEntertainment.uk"><title lang="en">WORLD&apos;S WEIRDEST HOMES</title></programme>
+<programme start="20230214092000 +0000" stop="20230214101000 +0000" channel="BBCEntertainment.uk"><title lang="en">DIY SOS: THE BIG BUILD</title></programme>
+<programme start="20230214101000 +0000" stop="20230214110000 +0000" channel="BBCEntertainment.uk"><title lang="en">BEST IN TOWN</title></programme>
+<programme start="20230214110000 +0000" stop="20230214115500 +0000" channel="BBCEntertainment.uk"><title lang="en">THE GREAT BRITISH SEWING BEE</title></programme>
+<programme start="20230214115500 +0000" stop="20230214124500 +0000" channel="BBCEntertainment.uk"><title lang="en">ANTIQUES ROADSHOW</title></programme>
+<programme start="20230214124500 +0000" stop="20230214131500 +0000" channel="BBCEntertainment.uk"><title lang="en">DOCTORS</title></programme>
+<programme start="20230214131500 +0000" stop="20230214134500 +0000" channel="BBCEntertainment.uk"><title lang="en">EASTENDERS</title></programme>
+<programme start="20230214134500 +0000" stop="20230214143000 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230214143000 +0000" stop="20230214145000 +0000" channel="BBCEntertainment.uk"><title lang="en">BAD MOVE</title></programme>
+<programme start="20230214145000 +0000" stop="20230214154000 +0000" channel="BBCEntertainment.uk"><title lang="en">BEST IN TOWN</title></programme>
+<programme start="20230214154000 +0000" stop="20230214162500 +0000" channel="BBCEntertainment.uk"><title lang="en">BARGAIN HUNT</title></programme>
+<programme start="20230214162500 +0000" stop="20230214165500 +0000" channel="BBCEntertainment.uk"><title lang="en">DOCTORS</title></programme>
+<programme start="20230214165500 +0000" stop="20230214172500 +0000" channel="BBCEntertainment.uk"><title lang="en">EASTENDERS</title></programme>
+<programme start="20230214172500 +0000" stop="20230214181000 +0000" channel="BBCEntertainment.uk"><title lang="en">IMPOSSIBLE</title></programme>
+<programme start="20230214181000 +0000" stop="20230214190000 +0000" channel="BBCEntertainment.uk"><title lang="en">BEST IN TOWN</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="BBCEntertainment.uk"><title lang="en">DOCTORS</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="BBCEntertainment.uk"><title lang="en">EASTENDERS</title></programme>
+<programme start="20230214200000 +0000" stop="20230214205500 +0000" channel="BBCEntertainment.uk"><title lang="en">ANTIQUES ROADSHOW</title></programme>
+<programme start="20230214205500 +0000" stop="20230214214500 +0000" channel="BBCEntertainment.uk"><title lang="en">NEW BLOOD</title></programme>
+<programme start="20230212210000 +0000" stop="20230212213000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230212213000 +0000" stop="20230212220000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">PANORAMA</title></programme>
+<programme start="20230212220000 +0000" stop="20230212221000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230212221000 +0000" stop="20230212223000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE GAME-CHANGERS OF INDIAN...</title></programme>
+<programme start="20230212223000 +0000" stop="20230212224500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230212224500 +0000" stop="20230212225500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230212225500 +0000" stop="20230212230000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">NEWSDAY</title></programme>
+<programme start="20230212233000 +0000" stop="20230212234500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230212234500 +0000" stop="20230213000000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">NEWSDAY</title></programme>
+<programme start="20230213003000 +0000" stop="20230213004500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230213004500 +0000" stop="20230213010000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">NEWSDAY</title></programme>
+<programme start="20230213013000 +0000" stop="20230213014500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230213014500 +0000" stop="20230213020000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213023000 +0000" stop="20230213024500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230213024500 +0000" stop="20230213025500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213025500 +0000" stop="20230213030000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WONDERS OF AZERBAIJAN</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213063000 +0000" stop="20230213065500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230213065500 +0000" stop="20230213070000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213073000 +0000" stop="20230213074500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213074500 +0000" stop="20230213075500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230213075500 +0000" stop="20230213080000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">TALKING BUSINESS</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC NEWS</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">LIVE WITH LUCY HOCKINGS</title></programme>
+<programme start="20230213113000 +0000" stop="20230213114500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230213114500 +0000" stop="20230213115500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213115500 +0000" stop="20230213120000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">LIVE WITH LUCY HOCKINGS</title></programme>
+<programme start="20230213123000 +0000" stop="20230213125500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">LIVE WITH LUCY HOCKINGS</title></programme>
+<programme start="20230213125500 +0000" stop="20230213130000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230213143000 +0000" stop="20230213144500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230213144500 +0000" stop="20230213145500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213145500 +0000" stop="20230213150000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">FOCUS ON AFRICA</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">OUTSIDE SOURCE</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">OUTSIDE SOURCE</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">OUTSIDE SOURCE</title></programme>
+<programme start="20230213203000 +0000" stop="20230213205500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213205500 +0000" stop="20230213210000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE CONTEXT WITH CHRISTIAN ...</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE CONTEXT WITH CHRISTIAN ...</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS AMERICA</title></programme>
+<programme start="20230213223000 +0000" stop="20230213224500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230213224500 +0000" stop="20230213225500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230213225500 +0000" stop="20230213230000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">NEWSDAY</title></programme>
+<programme start="20230213233000 +0000" stop="20230213234500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230213234500 +0000" stop="20230214000000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">NEWSDAY</title></programme>
+<programme start="20230214003000 +0000" stop="20230214004500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230214004500 +0000" stop="20230214010000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">NEWSDAY</title></programme>
+<programme start="20230214013000 +0000" stop="20230214014500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230214014500 +0000" stop="20230214020000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214023000 +0000" stop="20230214024500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">ASIA BUSINESS REPORT</title></programme>
+<programme start="20230214024500 +0000" stop="20230214025500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214025500 +0000" stop="20230214030000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214063000 +0000" stop="20230214065500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230214065500 +0000" stop="20230214070000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214073000 +0000" stop="20230214074500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214074500 +0000" stop="20230214075500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230214075500 +0000" stop="20230214080000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">CLICK</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC WORLD NEWS</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">BBC NEWS</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">LIVE WITH LUCY HOCKINGS</title></programme>
+<programme start="20230214113000 +0000" stop="20230214114500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230214114500 +0000" stop="20230214115500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214115500 +0000" stop="20230214120000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">LIVE WITH LUCY HOCKINGS</title></programme>
+<programme start="20230214123000 +0000" stop="20230214125500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">LIVE WITH LUCY HOCKINGS</title></programme>
+<programme start="20230214125500 +0000" stop="20230214130000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230214143000 +0000" stop="20230214144500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">WORLD BUSINESS REPORT</title></programme>
+<programme start="20230214144500 +0000" stop="20230214145500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214145500 +0000" stop="20230214150000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">IMPACT WITH YALDA HAKIM</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">FOCUS ON AFRICA</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">GLOBAL WITH MATTHEW AMROLIWALA</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">HARDTALK</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">OUTSIDE SOURCE</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">OUTSIDE SOURCE</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">OUTSIDE SOURCE</title></programme>
+<programme start="20230214203000 +0000" stop="20230214205500 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">SPORT TODAY</title></programme>
+<programme start="20230214205500 +0000" stop="20230214210000 +0000" channel="BBCWorldNewsEurope.uk"><title lang="en">THE TRAVEL SHOW</title></programme>
+<programme start="20230212210000 +0000" stop="20230212230000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230212230000 +0000" stop="20230213010000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213010000 +0000" stop="20230213030000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213030000 +0000" stop="20230213050000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213050000 +0000" stop="20230213070000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213070000 +0000" stop="20230213090000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213090000 +0000" stop="20230213110000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213110000 +0000" stop="20230213130000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213130000 +0000" stop="20230213150000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213150000 +0000" stop="20230213170000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213170000 +0000" stop="20230213190000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213190000 +0000" stop="20230213210000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213210000 +0000" stop="20230213230000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230213230000 +0000" stop="20230214010000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214010000 +0000" stop="20230214030000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214030000 +0000" stop="20230214050000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214050000 +0000" stop="20230214070000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214070000 +0000" stop="20230214090000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214090000 +0000" stop="20230214110000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214110000 +0000" stop="20230214130000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214130000 +0000" stop="20230214150000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214150000 +0000" stop="20230214170000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214170000 +0000" stop="20230214190000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230214190000 +0000" stop="20230214210000 +0000" channel="BabyTV.uk"><title lang="en">BABY TV</title></programme>
+<programme start="20230212210000 +0000" stop="20230212220000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG WALL STREET WEEK</title></programme>
+<programme start="20230212220000 +0000" stop="20230212230000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK: AUSTRALIA</title></programme>
+<programme start="20230212230000 +0000" stop="20230213010000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK: ASIA</title></programme>
+<programme start="20230213010000 +0000" stop="20230213020000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: CHINA OPEN</title></programme>
+<programme start="20230213020000 +0000" stop="20230213040000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: ASIA</title></programme>
+<programme start="20230213040000 +0000" stop="20230213060000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK MIDDLE EAST</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK: EUROPE</title></programme>
+<programme start="20230213070000 +0000" stop="20230213080000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS EUROPE</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: EUROPEAN...</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG SURVEILLANCE: EAR...</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG SURVEILLANCE: EAR...</title></programme>
+<programme start="20230213110000 +0000" stop="20230213140000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG SURVEILLANCE</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: THE OPEN</title></programme>
+<programme start="20230213150000 +0000" stop="20230213160000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: AMERICAS</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: EUROPEAN...</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG BALANCE OF POWER</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG ETF IQ</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS</title></programme>
+<programme start="20230213190000 +0000" stop="20230213220000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: THE CLOSE</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK: AUSTRALIA</title></programme>
+<programme start="20230213230000 +0000" stop="20230214010000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK: ASIA</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: CHINA OPEN</title></programme>
+<programme start="20230214020000 +0000" stop="20230214040000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: ASIA</title></programme>
+<programme start="20230214040000 +0000" stop="20230214060000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK MIDDLE EAST</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG DAYBREAK: EUROPE</title></programme>
+<programme start="20230214070000 +0000" stop="20230214080000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS EUROPE</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: EUROPEAN...</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG SURVEILLANCE: EAR...</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG SURVEILLANCE: EAR...</title></programme>
+<programme start="20230214110000 +0000" stop="20230214140000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG SURVEILLANCE</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: THE OPEN</title></programme>
+<programme start="20230214150000 +0000" stop="20230214160000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: AMERICAS</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: EUROPEAN...</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG BALANCE OF POWER</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG CRYPTO</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG TECHNOLOGY</title></programme>
+<programme start="20230214200000 +0000" stop="20230214220000 +0000" channel="BloombergTVEurope.uk"><title lang="en">BLOOMBERG MARKETS: THE CLOSE</title></programme>
+<programme start="20230212210000 +0000" stop="20230212213000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230212213000 +0000" stop="20230212220000 +0000" channel="CGTN.cn"><title lang="en">ASSIGNMENT ASIA</title></programme>
+<programme start="20230212220000 +0000" stop="20230212230000 +0000" channel="CGTN.cn"><title lang="en">AMERICAS NOW</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="CGTN.cn"><title lang="en">FACES OF AFRICA</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="CGTN.cn"><title lang="en">INHERITORS</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213013000 +0000" stop="20230213020000 +0000" channel="CGTN.cn"><title lang="en">RAZOR</title></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="CGTN.cn"><title lang="en">TRAVELOGUE</title></programme>
+<programme start="20230213030000 +0000" stop="20230213031500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213031500 +0000" stop="20230213033000 +0000" channel="CGTN.cn"><title lang="en">SPORTS SCENE</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="CGTN.cn"><title lang="en">THE POINT WITH LIU XIN</title></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL WATCH</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="CGTN.cn"><title lang="en">SPORTS SCENE</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="CGTN.cn"><title lang="en">REDISCOVERING CHINA</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="CGTN.cn"><title lang="en">RAZOR</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="CGTN.cn"><title lang="en">SPORTS SCENE</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="CGTN.cn"><title lang="en">THE VIBE</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213101500 +0000" stop="20230213110000 +0000" channel="CGTN.cn"><title lang="en">AFRICA LIVE</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="CGTN.cn"><title lang="en">ASIA TODAY</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="CGTN.cn"><title lang="en">DIALOGUE</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213121500 +0000" stop="20230213130000 +0000" channel="CGTN.cn"><title lang="en">CHINA 24</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CGTN.cn"><title lang="en">THE POINT WITH LIU XIN</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="CGTN.cn"><title lang="en">WORLD INSIGHT WITH TIAN WEI</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="CGTN.cn"><title lang="en">THE VIBE</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="CGTN.cn"><title lang="en">AFRICA LIVE</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="CGTN.cn"><title lang="en">WORLD INSIGHT WITH TIAN WEI</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="CGTN.cn"><title lang="en">DIALOGUE</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="CGTN.cn"><title lang="en">THE POINT WITH LIU XIN</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="CGTN.cn"><title lang="en">REDISCOVERING CHINA</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="CGTN.cn"><title lang="en">THE HEAT</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="CGTN.cn"><title lang="en">CHINA 24</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="CGTN.cn"><title lang="en">WORLD INSIGHT WITH TIAN WEI</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="CGTN.cn"><title lang="en">SPORTS SCENE</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="CGTN.cn"><title lang="en">THE HUB WITH WANG GUAN</title></programme>
+<programme start="20230214040000 +0000" stop="20230214050000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL WATCH</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214051500 +0000" stop="20230214053000 +0000" channel="CGTN.cn"><title lang="en">SPORTS SCENE</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="CGTN.cn"><title lang="en">REDISCOVERING CHINA</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="CGTN.cn"><title lang="en">THE HEAT</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="CGTN.cn"><title lang="en">SPORTS SCENE</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214081500 +0000" stop="20230214090000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="CGTN.cn"><title lang="en">THE VIBE</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214101500 +0000" stop="20230214110000 +0000" channel="CGTN.cn"><title lang="en">AFRICA LIVE</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="CGTN.cn"><title lang="en">ASIA TODAY</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="CGTN.cn"><title lang="en">DIALOGUE</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214121500 +0000" stop="20230214130000 +0000" channel="CGTN.cn"><title lang="en">CHINA 24</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="CGTN.cn"><title lang="en">THE HUB WITH WANG GUAN</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="CGTN.cn"><title lang="en">WORLD INSIGHT WITH TIAN WEI</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="CGTN.cn"><title lang="en">THE VIBE</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="CGTN.cn"><title lang="en">AFRICA LIVE</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="CGTN.cn"><title lang="en">GLOBAL BUSINESS</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="CGTN.cn"><title lang="en">WORLD INSIGHT WITH TIAN WEI</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="CGTN.cn"><title lang="en">THE WORLD TODAY</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="CGTN.cn"><title lang="en">DIALOGUE</title></programme>
+<programme start="20230212210000 +0000" stop="20230212213000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230212213000 +0000" stop="20230212220000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230212220000 +0000" stop="20230212230000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230213000000 +0000" stop="20230213010000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230213013000 +0000" stop="20230213020000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230213020000 +0000" stop="20230213030000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230213040000 +0000" stop="20230213050000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230214020000 +0000" stop="20230214030000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230214040000 +0000" stop="20230214050000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230214120000 +0000" stop="20230214130000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HUMANITIES AND GEOGRAPHY</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="CGTNDocumentary.cn"><title lang="en">LIVING CHINA</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="CGTNDocumentary.cn"><title lang="en">SPECIAL EDITION</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="CGTNDocumentary.cn"><title lang="en">JOURNEYS AND DISCOVERIES</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="CGTNDocumentary.cn"><title lang="en">HISTORY IN THE FRAME</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="CGTNDocumentary.cn"><title lang="en">BEST EATS</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="CGTNDocumentary.cn"><title lang="en">YOUTHFUL CHINA</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="CGTNDocumentary.cn"><title lang="en">PIXEL COLLAGE</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="CGTNDocumentary.cn"><title lang="en">TODAY&apos;S TOP PICK</title></programme>
+<programme start="20230212210000 +0000" stop="20230212220000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM SUNDAY</title></programme>
+<programme start="20230212220000 +0000" stop="20230212223000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230212223000 +0000" stop="20230212230000 +0000" channel="CNNInternationalEurope.us"><title lang="en">THE NEXT FRONTIER</title></programme>
+<programme start="20230212230000 +0000" stop="20230213000000 +0000" channel="CNNInternationalEurope.us"><title lang="en">TBD</title></programme>
+<programme start="20230213000000 +0000" stop="20230213020000 +0000" channel="CNNInternationalEurope.us"><title lang="en">TBD</title></programme>
+<programme start="20230213020000 +0000" stop="20230213030000 +0000" channel="CNNInternationalEurope.us"><title lang="en">FAREED ZAKARIA GPS</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="CNNInternationalEurope.us"><title lang="en">AFRICAN VOICES CHANGEMAKERS</title></programme>
+<programme start="20230213033000 +0000" stop="20230213034500 +0000" channel="CNNInternationalEurope.us"><title lang="en">MARKETPLACE ASIA</title></programme>
+<programme start="20230213034500 +0000" stop="20230213040000 +0000" channel="CNNInternationalEurope.us"><title lang="en">MARKETPLACE MIDDLE EAST</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CONNECTING AFRICA</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="CNNInternationalEurope.us"><title lang="en">INSIDE AFRICA</title></programme>
+<programme start="20230213050000 +0000" stop="20230213054500 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230213054500 +0000" stop="20230213060000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230213060000 +0000" stop="20230213070000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230213070000 +0000" stop="20230213074500 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230213074500 +0000" stop="20230213080000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230213090000 +0000" stop="20230213100000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM WITH MAX FOSTE...</title></programme>
+<programme start="20230213100000 +0000" stop="20230213110000 +0000" channel="CNNInternationalEurope.us"><title lang="en">EARLY START</title></programme>
+<programme start="20230213110000 +0000" stop="20230213130000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN THIS MORNING</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM WITH MAX FOSTER</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230213140000 +0000" stop="20230213150000 +0000" channel="CNNInternationalEurope.us"><title lang="en">FIRST MOVE WITH JULIA CHATT...</title></programme>
+<programme start="20230213150000 +0000" stop="20230213154500 +0000" channel="CNNInternationalEurope.us"><title lang="en">CONNECT THE WORLD</title></programme>
+<programme start="20230213154500 +0000" stop="20230213160000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CONNECT THE WORLD</title></programme>
+<programme start="20230213170000 +0000" stop="20230213180000 +0000" channel="CNNInternationalEurope.us"><title lang="en">ONE WORLD WITH ZAIN ASHER</title></programme>
+<programme start="20230213180000 +0000" stop="20230213190000 +0000" channel="CNNInternationalEurope.us"><title lang="en">AMANPOUR</title></programme>
+<programme start="20230213190000 +0000" stop="20230213200000 +0000" channel="CNNInternationalEurope.us"><title lang="en">ISA SOARES TONIGHT</title></programme>
+<programme start="20230213200000 +0000" stop="20230213210000 +0000" channel="CNNInternationalEurope.us"><title lang="en">QUEST MEANS BUSINESS</title></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="CNNInternationalEurope.us"><title lang="en">THE LEAD WITH JAKE TAPPER</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="CNNInternationalEurope.us"><title lang="en">THE LEAD WITH JAKE TAPPER</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="CNNInternationalEurope.us"><title lang="en">SITUATION ROOM WITH WOLF BL...</title></programme>
+<programme start="20230214000000 +0000" stop="20230214010000 +0000" channel="CNNInternationalEurope.us"><title lang="en">ERIN BURNETT OUTFRONT</title></programme>
+<programme start="20230214010000 +0000" stop="20230214020000 +0000" channel="CNNInternationalEurope.us"><title lang="en">ANDERSON COOPER 360</title></programme>
+<programme start="20230214020000 +0000" stop="20230214050000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN TONIGHT</title></programme>
+<programme start="20230214050000 +0000" stop="20230214054500 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230214054500 +0000" stop="20230214060000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230214060000 +0000" stop="20230214070000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230214070000 +0000" stop="20230214074500 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230214074500 +0000" stop="20230214080000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230214080000 +0000" stop="20230214090000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM</title></programme>
+<programme start="20230214090000 +0000" stop="20230214100000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM WITH MAX FOSTE...</title></programme>
+<programme start="20230214100000 +0000" stop="20230214110000 +0000" channel="CNNInternationalEurope.us"><title lang="en">EARLY START</title></programme>
+<programme start="20230214110000 +0000" stop="20230214130000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN THIS MORNING</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CNN NEWSROOM WITH MAX FOSTER</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230214140000 +0000" stop="20230214150000 +0000" channel="CNNInternationalEurope.us"><title lang="en">FIRST MOVE WITH JULIA CHATT...</title></programme>
+<programme start="20230214150000 +0000" stop="20230214154500 +0000" channel="CNNInternationalEurope.us"><title lang="en">CONNECT THE WORLD</title></programme>
+<programme start="20230214154500 +0000" stop="20230214160000 +0000" channel="CNNInternationalEurope.us"><title lang="en">WORLD SPORT</title></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="CNNInternationalEurope.us"><title lang="en">CONNECT THE WORLD</title></programme>
+<programme start="20230214170000 +0000" stop="20230214180000 +0000" channel="CNNInternationalEurope.us"><title lang="en">ONE WORLD WITH ZAIN ASHER</title></programme>
+<programme start="20230214180000 +0000" stop="20230214190000 +0000" channel="CNNInternationalEurope.us"><title lang="en">AMANPOUR</title></programme>
+<programme start="20230214190000 +0000" stop="20230214200000 +0000" channel="CNNInternationalEurope.us"><title lang="en">ISA SOARES TONIGHT</title></programme>
+<programme start="20230214200000 +0000" stop="20230214210000 +0000" channel="CNNInternationalEurope.us"><title lang="en">QUEST MEANS BUSINESS</title></programme>
+<programme start="20230212210000 +0000" stop="20230212210500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GLOBAL WEEK-END</title></programme>
+<programme start="20230212210500 +0000" stop="20230212211600 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230212211600 +0000" stop="20230212212800 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230212213000 +0000" stop="20230212213700 +0000" channel="EuronewsEnglish.fr"><title lang="en">GLOBAL WEEK-END</title></programme>
+<programme start="20230212213700 +0000" stop="20230212214800 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230212214800 +0000" stop="20230212215800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230212220000 +0000" stop="20230212220500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GLOBAL WEEK-END</title></programme>
+<programme start="20230212220500 +0000" stop="20230212222800 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212223000 +0000" stop="20230212223500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GLOBAL WEEK-END</title></programme>
+<programme start="20230212223500 +0000" stop="20230212224400 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212224400 +0000" stop="20230212224900 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212224900 +0000" stop="20230212225800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230212230000 +0000" stop="20230212230500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230212230500 +0000" stop="20230212232800 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212233000 +0000" stop="20230212233500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230212233500 +0000" stop="20230212234400 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212234400 +0000" stop="20230212234900 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212234900 +0000" stop="20230212235800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230213000000 +0000" stop="20230213000500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213000500 +0000" stop="20230213001600 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213001600 +0000" stop="20230213002800 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213003000 +0000" stop="20230213003500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213003500 +0000" stop="20230213004500 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213004500 +0000" stop="20230213005800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230213010000 +0000" stop="20230213010600 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213010600 +0000" stop="20230213012800 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213013000 +0000" stop="20230213013500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213013500 +0000" stop="20230213014400 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213014400 +0000" stop="20230213014900 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213014900 +0000" stop="20230213015800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230213020000 +0000" stop="20230213020500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213020500 +0000" stop="20230213021600 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213021600 +0000" stop="20230213022700 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213022700 +0000" stop="20230213023000 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213023000 +0000" stop="20230213023500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213023500 +0000" stop="20230213024900 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213024900 +0000" stop="20230213025800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230213030000 +0000" stop="20230213030500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213030500 +0000" stop="20230213032800 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213033000 +0000" stop="20230213033500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213033500 +0000" stop="20230213034400 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213034400 +0000" stop="20230213034900 +0000" channel="EuronewsEnglish.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213034900 +0000" stop="20230213035800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230213040000 +0000" stop="20230213040500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213040500 +0000" stop="20230213041600 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213041600 +0000" stop="20230213042800 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213043000 +0000" stop="20230213043500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213043500 +0000" stop="20230213044500 +0000" channel="EuronewsEnglish.fr"><title lang="en">WITNESS</title></programme>
+<programme start="20230213044500 +0000" stop="20230213045800 +0000" channel="EuronewsEnglish.fr"><title lang="en">STATE OF THE UNION</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213053000 +0000" stop="20230213055800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213060000 +0000" stop="20230213061500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213061500 +0000" stop="20230213063000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213063000 +0000" stop="20230213065800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213070000 +0000" stop="20230213071500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213071500 +0000" stop="20230213073000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213073000 +0000" stop="20230213075800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213081500 +0000" stop="20230213083000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213083000 +0000" stop="20230213085800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213090000 +0000" stop="20230213091500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213091500 +0000" stop="20230213093000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213093000 +0000" stop="20230213095800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213101500 +0000" stop="20230213103000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213103000 +0000" stop="20230213105800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230213110000 +0000" stop="20230213111500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213111500 +0000" stop="20230213113000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213113000 +0000" stop="20230213115800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213121500 +0000" stop="20230213123000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213123000 +0000" stop="20230213125800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213131500 +0000" stop="20230213133000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213133000 +0000" stop="20230213135800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213141500 +0000" stop="20230213143000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213143000 +0000" stop="20230213145800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213151500 +0000" stop="20230213153000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213153000 +0000" stop="20230213155800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213161500 +0000" stop="20230213163000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213163000 +0000" stop="20230213165800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213171500 +0000" stop="20230213173000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213173000 +0000" stop="20230213175800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213181500 +0000" stop="20230213183000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213183000 +0000" stop="20230213185800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213191500 +0000" stop="20230213193000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213193000 +0000" stop="20230213195800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213201500 +0000" stop="20230213203000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213203000 +0000" stop="20230213205800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213211500 +0000" stop="20230213213000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213213000 +0000" stop="20230213215800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213221500 +0000" stop="20230213223000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213223000 +0000" stop="20230213225800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213231500 +0000" stop="20230213233000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230213233000 +0000" stop="20230213235800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214001500 +0000" stop="20230214003000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214003000 +0000" stop="20230214005800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214011500 +0000" stop="20230214013000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214013000 +0000" stop="20230214015800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214021500 +0000" stop="20230214023000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214023000 +0000" stop="20230214025800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214033000 +0000" stop="20230214035800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214040000 +0000" stop="20230214041500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214041500 +0000" stop="20230214043000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214043000 +0000" stop="20230214045800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214051500 +0000" stop="20230214053000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214053000 +0000" stop="20230214055800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214060000 +0000" stop="20230214061500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214061500 +0000" stop="20230214063000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214063000 +0000" stop="20230214065800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214070000 +0000" stop="20230214071500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214071500 +0000" stop="20230214073000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214073000 +0000" stop="20230214075800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214081500 +0000" stop="20230214083000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214083000 +0000" stop="20230214085800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214090000 +0000" stop="20230214091500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214091500 +0000" stop="20230214093000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214093000 +0000" stop="20230214095800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214101500 +0000" stop="20230214103000 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214103000 +0000" stop="20230214105800 +0000" channel="EuronewsEnglish.fr"><title lang="en">GOOD MORNING EUROPE</title></programme>
+<programme start="20230214110000 +0000" stop="20230214111500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214111500 +0000" stop="20230214113000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214113000 +0000" stop="20230214115800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214121500 +0000" stop="20230214123000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214123000 +0000" stop="20230214125800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214131500 +0000" stop="20230214133000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214133000 +0000" stop="20230214135800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214141500 +0000" stop="20230214143000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214143000 +0000" stop="20230214145800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214151500 +0000" stop="20230214153000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214153000 +0000" stop="20230214155800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214160000 +0000" stop="20230214161500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214161500 +0000" stop="20230214163000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214163000 +0000" stop="20230214165800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214171500 +0000" stop="20230214173000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214173000 +0000" stop="20230214175800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS NOW</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214181500 +0000" stop="20230214183000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214183000 +0000" stop="20230214185800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214190000 +0000" stop="20230214191500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214191500 +0000" stop="20230214193000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214193000 +0000" stop="20230214195800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201500 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214201500 +0000" stop="20230214203000 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230214203000 +0000" stop="20230214205800 +0000" channel="EuronewsEnglish.fr"><title lang="en">EURONEWS TONIGHT</title></programme>
+<programme start="20230212210000 +0000" stop="20230212213000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230212213000 +0000" stop="20230212220000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230212220000 +0000" stop="20230212223000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230212223000 +0000" stop="20230212230000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230212230000 +0000" stop="20230212233000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230212233000 +0000" stop="20230213000000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230213000000 +0000" stop="20230213003000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230213003000 +0000" stop="20230213010000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230213010000 +0000" stop="20230213013000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230213013000 +0000" stop="20230213020000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230213020000 +0000" stop="20230213023000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213023000 +0000" stop="20230213030000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213030000 +0000" stop="20230213033000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: HILTON</title></programme>
+<programme start="20230213033000 +0000" stop="20230213040000 +0000" channel="FashionTVEurope.fr"><title lang="en">LUXURY</title></programme>
+<programme start="20230213040000 +0000" stop="20230213043000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION - SPORTS</title></programme>
+<programme start="20230213043000 +0000" stop="20230213050000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION - SPORTS</title></programme>
+<programme start="20230213050000 +0000" stop="20230213053000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230213053000 +0000" stop="20230213060000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN GERMANY</title></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN GERMANY</title></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213080000 +0000" stop="20230213083000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: MALDIVES</title></programme>
+<programme start="20230213083000 +0000" stop="20230213090000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: INDONESIA</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230213093000 +0000" stop="20230213100000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230213100000 +0000" stop="20230213103000 +0000" channel="FashionTVEurope.fr"><title lang="en">MEN&apos;S FASHION WEEK</title></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="FashionTVEurope.fr"><title lang="en">MEN&apos;S FASHION WEEK</title></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230213113000 +0000" stop="20230213120000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230213130000 +0000" stop="20230213133000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213133000 +0000" stop="20230213140000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230213140000 +0000" stop="20230213143000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN TURKEY</title></programme>
+<programme start="20230213163000 +0000" stop="20230213170000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN TURKEY</title></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: AUSTRIA</title></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: MONACO</title></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230213183000 +0000" stop="20230213190000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:STELLA MAXWELL</title></programme>
+<programme start="20230213200000 +0000" stop="20230213203000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230213210000 +0000" stop="20230213213000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230213213000 +0000" stop="20230213220000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230213220000 +0000" stop="20230213223000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230213223000 +0000" stop="20230213230000 +0000" channel="FashionTVEurope.fr"><title lang="en">MIDNITE HAUTE</title></programme>
+<programme start="20230213230000 +0000" stop="20230213233000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="FashionTVEurope.fr"><title lang="en">SWIMWEAR</title></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230214003000 +0000" stop="20230214010000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION FILMS</title></programme>
+<programme start="20230214010000 +0000" stop="20230214013000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214013000 +0000" stop="20230214020000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214020000 +0000" stop="20230214023000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214023000 +0000" stop="20230214030000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="FashionTVEurope.fr"><title lang="en">LUXURY</title></programme>
+<programme start="20230214033000 +0000" stop="20230214040000 +0000" channel="FashionTVEurope.fr"><title lang="en">LUXURY</title></programme>
+<programme start="20230214040000 +0000" stop="20230214043000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION - SPORTS</title></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION - SPORTS</title></programme>
+<programme start="20230214050000 +0000" stop="20230214053000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230214053000 +0000" stop="20230214060000 +0000" channel="FashionTVEurope.fr"><title lang="en">BEAUTY</title></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN INDIA</title></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN INDIA</title></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214080000 +0000" stop="20230214083000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: INDIA</title></programme>
+<programme start="20230214083000 +0000" stop="20230214090000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: INDIA</title></programme>
+<programme start="20230214090000 +0000" stop="20230214093000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230214093000 +0000" stop="20230214100000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION JUNIOR</title></programme>
+<programme start="20230214100000 +0000" stop="20230214103000 +0000" channel="FashionTVEurope.fr"><title lang="en">LONDON FASHION WEEK</title></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="FashionTVEurope.fr"><title lang="en">LONDON FASHION WEEK</title></programme>
+<programme start="20230214110000 +0000" stop="20230214113000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214113000 +0000" stop="20230214120000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP PHOTOSHOOTS</title></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130000 +0000" channel="FashionTVEurope.fr"><title lang="en">BRIDAL</title></programme>
+<programme start="20230214130000 +0000" stop="20230214133000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214133000 +0000" stop="20230214140000 +0000" channel="FashionTVEurope.fr"><title lang="en">DESIGNERS</title></programme>
+<programme start="20230214140000 +0000" stop="20230214143000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION TEENS</title></programme>
+<programme start="20230214150000 +0000" stop="20230214153000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="FashionTVEurope.fr"><title lang="en">TOP MODELS</title></programme>
+<programme start="20230214160000 +0000" stop="20230214163000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN AUSTRALIA</title></programme>
+<programme start="20230214163000 +0000" stop="20230214170000 +0000" channel="FashionTVEurope.fr"><title lang="en">MADE IN AUSTRALIA</title></programme>
+<programme start="20230214170000 +0000" stop="20230214173000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: ITALY</title></programme>
+<programme start="20230214173000 +0000" stop="20230214180000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION DESTINATION: ITALY</title></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230214183000 +0000" stop="20230214190000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION NEWS</title></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="FashionTVEurope.fr"><title lang="en">WE:BALMAIN</title></programme>
+<programme start="20230214200000 +0000" stop="20230214203000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="FashionTVEurope.fr"><title lang="en">FASHION MAGAZINES</title></programme>
+<programme start="20230212210000 +0000" stop="20230212211500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212211500 +0000" stop="20230212213000 +0000" channel="France24English.fr"><title lang="en">ACROSS AFRICA</title></programme>
+<programme start="20230212213000 +0000" stop="20230212214500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212214500 +0000" stop="20230212220000 +0000" channel="France24English.fr"><title lang="en">PEOPLE AND PROFIT</title></programme>
+<programme start="20230212220000 +0000" stop="20230212221000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212221000 +0000" stop="20230212222000 +0000" channel="France24English.fr"><title lang="en">SPORTS SUNDAY</title></programme>
+<programme start="20230212222000 +0000" stop="20230212223000 +0000" channel="France24English.fr"><title lang="en">FASHION</title></programme>
+<programme start="20230212223000 +0000" stop="20230212224000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212224000 +0000" stop="20230212230000 +0000" channel="France24English.fr"><title lang="en">REPORTERS</title></programme>
+<programme start="20230212230000 +0000" stop="20230212231500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212231500 +0000" stop="20230212233000 +0000" channel="France24English.fr"><title lang="en">SPORTS SUNDAY</title></programme>
+<programme start="20230212233000 +0000" stop="20230212234500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230212234500 +0000" stop="20230213000000 +0000" channel="France24English.fr"><title lang="en">THE 51 PERCENT</title></programme>
+<programme start="20230213000000 +0000" stop="20230213001500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213001500 +0000" stop="20230213003000 +0000" channel="France24English.fr"><title lang="en">SPORTS SUNDAY</title></programme>
+<programme start="20230213003000 +0000" stop="20230213004500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213004500 +0000" stop="20230213010000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230213010000 +0000" stop="20230213011500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213011500 +0000" stop="20230213012000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213012000 +0000" stop="20230213013000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213013000 +0000" stop="20230213014500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213014500 +0000" stop="20230213020000 +0000" channel="France24English.fr"><title lang="en">PEOPLE AND PROFIT</title></programme>
+<programme start="20230213020000 +0000" stop="20230213021500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213021500 +0000" stop="20230213023000 +0000" channel="France24English.fr"><title lang="en">TALKING EUROPE</title></programme>
+<programme start="20230213023000 +0000" stop="20230213024500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213024500 +0000" stop="20230213030000 +0000" channel="France24English.fr"><title lang="en">TALKING EUROPE</title></programme>
+<programme start="20230213030000 +0000" stop="20230213031000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213031000 +0000" stop="20230213031500 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213031500 +0000" stop="20230213033000 +0000" channel="France24English.fr"><title lang="en">ACROSS AFRICA</title></programme>
+<programme start="20230213033000 +0000" stop="20230213034000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213034000 +0000" stop="20230213040000 +0000" channel="France24English.fr"><title lang="en">REVISITED</title></programme>
+<programme start="20230213040000 +0000" stop="20230213041500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213041500 +0000" stop="20230213043000 +0000" channel="France24English.fr"><title lang="en">DOWN TO EARTH</title></programme>
+<programme start="20230213043000 +0000" stop="20230213044500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213044500 +0000" stop="20230213050000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213051600 +0000" stop="20230213052000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213052000 +0000" stop="20230213052500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213052500 +0000" stop="20230213053000 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230213053000 +0000" stop="20230213054500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213054600 +0000" stop="20230213055100 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213055100 +0000" stop="20230213055600 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230213055600 +0000" stop="20230213060000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213060000 +0000" stop="20230213061700 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213061800 +0000" stop="20230213062200 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213062200 +0000" stop="20230213063000 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230213063000 +0000" stop="20230213064500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213064600 +0000" stop="20230213065100 +0000" channel="France24English.fr"><title lang="en">GLOBAL GRID</title></programme>
+<programme start="20230213065100 +0000" stop="20230213065600 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213065600 +0000" stop="20230213070000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213070000 +0000" stop="20230213071600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213071700 +0000" stop="20230213072200 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213072200 +0000" stop="20230213073000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213073000 +0000" stop="20230213074000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213074000 +0000" stop="20230213074500 +0000" channel="France24English.fr"><title lang="en">PERSPECTIVE</title></programme>
+<programme start="20230213074600 +0000" stop="20230213075600 +0000" channel="France24English.fr"><title lang="en">FOCUS + SPORTS</title></programme>
+<programme start="20230213075600 +0000" stop="20230213080000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213081700 +0000" stop="20230213082200 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213082200 +0000" stop="20230213083000 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230213083000 +0000" stop="20230213084500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213084600 +0000" stop="20230213085100 +0000" channel="France24English.fr"><title lang="en">À LA CARTE</title></programme>
+<programme start="20230213085100 +0000" stop="20230213085600 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213085600 +0000" stop="20230213090000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213090000 +0000" stop="20230213091500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213091500 +0000" stop="20230213093000 +0000" channel="France24English.fr"><title lang="en">ACROSS AFRICA</title></programme>
+<programme start="20230213093000 +0000" stop="20230213094500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213094500 +0000" stop="20230213095000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213095000 +0000" stop="20230213095500 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230213095500 +0000" stop="20230213100000 +0000" channel="France24English.fr"><title lang="en">INSTANT MOBILE</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213101500 +0000" stop="20230213103000 +0000" channel="France24English.fr"><title lang="en">PEOPLE AND PROFIT</title></programme>
+<programme start="20230213103000 +0000" stop="20230213104500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213104500 +0000" stop="20230213110000 +0000" channel="France24English.fr"><title lang="en">THE 51 PERCENT</title></programme>
+<programme start="20230213110000 +0000" stop="20230213111600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213111600 +0000" stop="20230213113000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230213113000 +0000" stop="20230213114500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213114500 +0000" stop="20230213115100 +0000" channel="France24English.fr"><title lang="en">YOU ARE HERE</title></programme>
+<programme start="20230213115100 +0000" stop="20230213120000 +0000" channel="France24English.fr"><title lang="en">FASHION</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213121600 +0000" stop="20230213121900 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213121900 +0000" stop="20230213123000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213123000 +0000" stop="20230213124500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213124600 +0000" stop="20230213125100 +0000" channel="France24English.fr"><title lang="en">CULTURE CRITICS</title></programme>
+<programme start="20230213125100 +0000" stop="20230213125600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213125600 +0000" stop="20230213130000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213131600 +0000" stop="20230213132100 +0000" channel="France24English.fr"><title lang="en">CULTURE CRITICS</title></programme>
+<programme start="20230213132100 +0000" stop="20230213132600 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230213132600 +0000" stop="20230213133000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213133000 +0000" stop="20230213134500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213134600 +0000" stop="20230213135100 +0000" channel="France24English.fr"><title lang="en">SCIENCE</title></programme>
+<programme start="20230213135100 +0000" stop="20230213140000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213141000 +0000" stop="20230213141600 +0000" channel="France24English.fr"><title lang="en">THE OBSERVERS</title></programme>
+<programme start="20230213141600 +0000" stop="20230213143000 +0000" channel="France24English.fr"><title lang="en">ACCESS ASIA</title></programme>
+<programme start="20230213143000 +0000" stop="20230213144000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213144000 +0000" stop="20230213150000 +0000" channel="France24English.fr"><title lang="en">REVISITED</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213151500 +0000" stop="20230213152100 +0000" channel="France24English.fr"><title lang="en">FRENCH CONNECTIONS</title></programme>
+<programme start="20230213152100 +0000" stop="20230213153000 +0000" channel="France24English.fr"><title lang="en">YOU ARE HERE</title></programme>
+<programme start="20230213153000 +0000" stop="20230213154500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213154500 +0000" stop="20230213160000 +0000" channel="France24English.fr"><title lang="en">REPORTERS</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213161600 +0000" stop="20230213163000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230213163000 +0000" stop="20230213164500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213164500 +0000" stop="20230213170000 +0000" channel="France24English.fr"><title lang="en">FRANCE IN FOCUS</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213171600 +0000" stop="20230213173000 +0000" channel="France24English.fr"><title lang="en">TOP STORY</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213174600 +0000" stop="20230213175100 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213175100 +0000" stop="20230213180000 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213181000 +0000" stop="20230213190000 +0000" channel="France24English.fr"><title lang="en">THE DEBATE</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213191600 +0000" stop="20230213192100 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213192100 +0000" stop="20230213193000 +0000" channel="France24English.fr"><title lang="en">SPORTS CHRONICLE</title></programme>
+<programme start="20230213193000 +0000" stop="20230213194500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213194600 +0000" stop="20230213195100 +0000" channel="France24English.fr"><title lang="en">TRUTH OR FAKE</title></programme>
+<programme start="20230213195100 +0000" stop="20230213200000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201700 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213201800 +0000" stop="20230213203000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213203000 +0000" stop="20230213204400 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213204600 +0000" stop="20230213210000 +0000" channel="France24English.fr"><title lang="en">EYE ON AFRICA</title></programme>
+<programme start="20230213210000 +0000" stop="20230213211500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213211600 +0000" stop="20230213212100 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230213212100 +0000" stop="20230213213000 +0000" channel="France24English.fr"><title lang="en">TRUTH OR FAKE</title></programme>
+<programme start="20230213213000 +0000" stop="20230213214400 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213214600 +0000" stop="20230213220000 +0000" channel="France24English.fr"><title lang="en">EYE ON AFRICA</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213221700 +0000" stop="20230213223000 +0000" channel="France24English.fr"><title lang="en">BUSINESS + TRUTH OR FAKE</title></programme>
+<programme start="20230213223000 +0000" stop="20230213224500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213224600 +0000" stop="20230213225100 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230213225100 +0000" stop="20230213230000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231100 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230213231100 +0000" stop="20230214000000 +0000" channel="France24English.fr"><title lang="en">THE DEBATE</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214001500 +0000" stop="20230214002000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214002000 +0000" stop="20230214003000 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230214003000 +0000" stop="20230214004500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214004500 +0000" stop="20230214010000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214011500 +0000" stop="20230214012000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214012000 +0000" stop="20230214013000 +0000" channel="France24English.fr"><title lang="en">FRENCH CONNECTIONS</title></programme>
+<programme start="20230214013000 +0000" stop="20230214014500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214014500 +0000" stop="20230214020000 +0000" channel="France24English.fr"><title lang="en">EYE ON AFRICA</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021100 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214021100 +0000" stop="20230214030000 +0000" channel="France24English.fr"><title lang="en">THE DEBATE</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214031500 +0000" stop="20230214033000 +0000" channel="France24English.fr"><title lang="en">FRANCE IN FOCUS</title></programme>
+<programme start="20230214033000 +0000" stop="20230214034500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214034500 +0000" stop="20230214040000 +0000" channel="France24English.fr"><title lang="en">THE 51 PERCENT</title></programme>
+<programme start="20230214040000 +0000" stop="20230214041500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214041500 +0000" stop="20230214043000 +0000" channel="France24English.fr"><title lang="en">EYE ON AFRICA</title></programme>
+<programme start="20230214043000 +0000" stop="20230214044500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214044500 +0000" stop="20230214050000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214051600 +0000" stop="20230214052000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214052000 +0000" stop="20230214052500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214052500 +0000" stop="20230214053000 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230214053000 +0000" stop="20230214054500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214054600 +0000" stop="20230214055100 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214055100 +0000" stop="20230214055600 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230214055600 +0000" stop="20230214060000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214060000 +0000" stop="20230214061700 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214061800 +0000" stop="20230214062200 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214062200 +0000" stop="20230214063000 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230214063000 +0000" stop="20230214064500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214064600 +0000" stop="20230214065100 +0000" channel="France24English.fr"><title lang="en">GLOBAL GRID</title></programme>
+<programme start="20230214065100 +0000" stop="20230214065600 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214065600 +0000" stop="20230214070000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214070000 +0000" stop="20230214071600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214071700 +0000" stop="20230214072200 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214072200 +0000" stop="20230214073000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214073000 +0000" stop="20230214074000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214074000 +0000" stop="20230214074500 +0000" channel="France24English.fr"><title lang="en">PERSPECTIVE</title></programme>
+<programme start="20230214074600 +0000" stop="20230214075600 +0000" channel="France24English.fr"><title lang="en">FOCUS + SPORTS</title></programme>
+<programme start="20230214075600 +0000" stop="20230214080000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214081700 +0000" stop="20230214082200 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214082200 +0000" stop="20230214083000 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230214083000 +0000" stop="20230214084500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214084600 +0000" stop="20230214085100 +0000" channel="France24English.fr"><title lang="en">À LA CARTE</title></programme>
+<programme start="20230214085100 +0000" stop="20230214085600 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214085600 +0000" stop="20230214090000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214090000 +0000" stop="20230214091500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214091500 +0000" stop="20230214093000 +0000" channel="France24English.fr"><title lang="en">ACCESS ASIA</title></programme>
+<programme start="20230214093000 +0000" stop="20230214094500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214094500 +0000" stop="20230214095000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214095000 +0000" stop="20230214095500 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230214095500 +0000" stop="20230214100000 +0000" channel="France24English.fr"><title lang="en">INSTANT MOBILE</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214101500 +0000" stop="20230214103000 +0000" channel="France24English.fr"><title lang="en">TALKING EUROPE</title></programme>
+<programme start="20230214103000 +0000" stop="20230214104500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214104500 +0000" stop="20230214110000 +0000" channel="France24English.fr"><title lang="en">TALKING EUROPE</title></programme>
+<programme start="20230214110000 +0000" stop="20230214111600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214111600 +0000" stop="20230214113000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230214113000 +0000" stop="20230214114500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214114500 +0000" stop="20230214115100 +0000" channel="France24English.fr"><title lang="en">FRENCH CONNECTIONS</title></programme>
+<programme start="20230214115100 +0000" stop="20230214120000 +0000" channel="France24English.fr"><title lang="en">YOU ARE HERE</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214121600 +0000" stop="20230214121900 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214121900 +0000" stop="20230214123000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214123000 +0000" stop="20230214124500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214124600 +0000" stop="20230214125100 +0000" channel="France24English.fr"><title lang="en">IN THE PRESS</title></programme>
+<programme start="20230214125100 +0000" stop="20230214125600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214125600 +0000" stop="20230214130000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214131600 +0000" stop="20230214132100 +0000" channel="France24English.fr"><title lang="en">CULTURE CRITICS</title></programme>
+<programme start="20230214132100 +0000" stop="20230214132600 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230214132600 +0000" stop="20230214133000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214133000 +0000" stop="20230214134500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214134600 +0000" stop="20230214135100 +0000" channel="France24English.fr"><title lang="en">SCIENCE</title></programme>
+<programme start="20230214135100 +0000" stop="20230214140000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214141500 +0000" stop="20230214143000 +0000" channel="France24English.fr"><title lang="en">FRANCE IN FOCUS</title></programme>
+<programme start="20230214143000 +0000" stop="20230214144500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214144500 +0000" stop="20230214150000 +0000" channel="France24English.fr"><title lang="en">REPORTERS</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214151500 +0000" stop="20230214152100 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214152100 +0000" stop="20230214153000 +0000" channel="France24English.fr"><title lang="en">FASHION</title></programme>
+<programme start="20230214153000 +0000" stop="20230214154500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214154500 +0000" stop="20230214160000 +0000" channel="France24English.fr"><title lang="en">DOWN TO EARTH</title></programme>
+<programme start="20230214160000 +0000" stop="20230214161600 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214161600 +0000" stop="20230214163000 +0000" channel="France24English.fr"><title lang="en">ENCORE</title></programme>
+<programme start="20230214163000 +0000" stop="20230214164500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214164500 +0000" stop="20230214170000 +0000" channel="France24English.fr"><title lang="en">MIDDLE EAST MATTERS</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214171600 +0000" stop="20230214173000 +0000" channel="France24English.fr"><title lang="en">TOP STORY</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214174600 +0000" stop="20230214175100 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214175100 +0000" stop="20230214180000 +0000" channel="France24English.fr"><title lang="en">SPORTS</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181000 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214181000 +0000" stop="20230214190000 +0000" channel="France24English.fr"><title lang="en">THE DEBATE</title></programme>
+<programme start="20230214190000 +0000" stop="20230214191500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214191600 +0000" stop="20230214192100 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214192100 +0000" stop="20230214193000 +0000" channel="France24English.fr"><title lang="en">SPORTS CHRONICLE</title></programme>
+<programme start="20230214193000 +0000" stop="20230214194500 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214194600 +0000" stop="20230214195100 +0000" channel="France24English.fr"><title lang="en">TRUTH OR FAKE</title></programme>
+<programme start="20230214195100 +0000" stop="20230214200000 +0000" channel="France24English.fr"><title lang="en">FOCUS</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201700 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214201800 +0000" stop="20230214203000 +0000" channel="France24English.fr"><title lang="en">BUSINESS</title></programme>
+<programme start="20230214203000 +0000" stop="20230214204400 +0000" channel="France24English.fr"><title lang="en">NEWS</title></programme>
+<programme start="20230214204600 +0000" stop="20230214210000 +0000" channel="France24English.fr"><title lang="en">EYE ON AFRICA</title></programme>
+</tv>

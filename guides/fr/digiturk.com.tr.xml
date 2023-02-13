@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="TV5MondeEurope.fr"><display-name>TV5Monde Europe</display-name><icon src="https://i.imgur.com/rPAbMSu.png"/><url>https://digiturk.com.tr</url></channel>
+<programme start="20230212200300 +0000" stop="20230212213600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UNE HISTOIRE D&apos;AMOUR</title></programme>
+<programme start="20230212213600 +0000" stop="20230212220200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTS</title></programme>
+<programme start="20230212220200 +0000" stop="20230212220500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230212220500 +0000" stop="20230212234000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA GRANDE NOIRCEUR</title></programme>
+<programme start="20230212234000 +0000" stop="20230213000600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL AFRIQUE</title></programme>
+<programme start="20230213000600 +0000" stop="20230213000900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213000900 +0000" stop="20230213014000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE CRIME LUI VA SI BIEN</title></programme>
+<programme start="20230213014000 +0000" stop="20230213023500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TANDEM</title></programme>
+<programme start="20230213023500 +0000" stop="20230213030000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LES PRINCES À CALCUTTA</title></programme>
+<programme start="20230213030000 +0000" stop="20230213032400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ALLÔ TRIBUNAL</title></programme>
+<programme start="20230213032400 +0000" stop="20230213041800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">INTERNATIONALES</title></programme>
+<programme start="20230213041900 +0000" stop="20230213043200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE DESSOUS DES CARTES</title></programme>
+<programme start="20230213043200 +0000" stop="20230213045800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OBJECTIF MONDE L&apos;HEBDO</title></programme>
+<programme start="20230213045800 +0000" stop="20230213052400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE 6H INFO</title></programme>
+<programme start="20230213052400 +0000" stop="20230213052900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213052900 +0000" stop="20230213055500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230213055500 +0000" stop="20230213055800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA SÉQUENCE DU FILMEUR</title></programme>
+<programme start="20230213060000 +0000" stop="20230213062700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230213062700 +0000" stop="20230213063000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">AU DÉTOUR</title></programme>
+<programme start="20230213063000 +0000" stop="20230213065600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230213065600 +0000" stop="20230213070000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MERCI PROFESSEUR !</title></programme>
+<programme start="20230213070000 +0000" stop="20230213072100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE RADIO-CANADA</title></programme>
+<programme start="20230213072100 +0000" stop="20230213073300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230213073300 +0000" stop="20230213075900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">POPULATION D&apos;AFRIQUE</title></programme>
+<programme start="20230213075900 +0000" stop="20230213083000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CUISINE OUVERTE</title></programme>
+<programme start="20230213083000 +0000" stop="20230213083600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ÎLES DU MONDE</title></programme>
+<programme start="20230213083600 +0000" stop="20230213090000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ROI DES RIVIÈRES</title></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C&apos;EST DU BELGE</title></programme>
+<programme start="20230213093000 +0000" stop="20230213095600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ÉPICERIE FINE</title></programme>
+<programme start="20230213095600 +0000" stop="20230213100000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE - ...</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230213101400 +0000" stop="20230213101700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213101700 +0000" stop="20230213104000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230213104000 +0000" stop="20230213104500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230213104500 +0000" stop="20230213112900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TOUT LE MONDE VEUT PRENDRE ...</title></programme>
+<programme start="20230213112900 +0000" stop="20230213123000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MARIA CASARÈS ET ALBERT CAM...</title></programme>
+<programme start="20230213123000 +0000" stop="20230213130000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTBF</title></programme>
+<programme start="20230213130000 +0000" stop="20230213143500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA BONNE CONDUITE</title></programme>
+<programme start="20230213143500 +0000" stop="20230213150500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">HEP TAXI !</title></programme>
+<programme start="20230213150500 +0000" stop="20230213152600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230213152800 +0000" stop="20230213160000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">QUESTIONS POUR UN CHAMPION</title></programme>
+<programme start="20230213160000 +0000" stop="20230213165300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE POINT</title></programme>
+<programme start="20230213165300 +0000" stop="20230213170000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">HEP TAXI ! EXPRESS</title></programme>
+<programme start="20230213170000 +0000" stop="20230213172200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">64&apos; LE MONDE EN FRANÇAIS - ...</title></programme>
+<programme start="20230213172200 +0000" stop="20230213172700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE</title></programme>
+<programme start="20230213172700 +0000" stop="20230213173000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">L&apos;INVITÉ</title></programme>
+<programme start="20230213174000 +0000" stop="20230213182800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ, PACIFIQUE SUD</title></programme>
+<programme start="20230213182800 +0000" stop="20230213191800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ, PACIFIQUE SUD</title></programme>
+<programme start="20230213191800 +0000" stop="20230213193000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">GARDEN PARTY</title></programme>
+<programme start="20230213193000 +0000" stop="20230213195600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE FRANCE 2</title></programme>
+<programme start="20230213195600 +0000" stop="20230213200000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213200000 +0000" stop="20230213213700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">SECRETS D&apos;HISTOIRE</title></programme>
+<programme start="20230213213700 +0000" stop="20230213220300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTS</title></programme>
+<programme start="20230213220300 +0000" stop="20230213220700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230213220700 +0000" stop="20230213235600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LES PORTES DE LA NUIT</title></programme>
+<programme start="20230213235600 +0000" stop="20230214002300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL AFRIQUE</title></programme>
+<programme start="20230214002300 +0000" stop="20230214002600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214002600 +0000" stop="20230214011900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">SUR LE FRONT</title></programme>
+<programme start="20230214011900 +0000" stop="20230214021000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CHACUN SON ÎLE</title></programme>
+<programme start="20230214021000 +0000" stop="20230214023400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214023400 +0000" stop="20230214030000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214030000 +0000" stop="20230214032600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ALLÔ TRIBUNAL</title></programme>
+<programme start="20230214032600 +0000" stop="20230214043200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C DANS L&apos;AIR</title></programme>
+<programme start="20230214043200 +0000" stop="20230214045800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">BONNE SANTÉ !</title></programme>
+<programme start="20230214045800 +0000" stop="20230214052400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE 6H INFO</title></programme>
+<programme start="20230214052400 +0000" stop="20230214052900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214052900 +0000" stop="20230214055500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230214055500 +0000" stop="20230214055800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA SÉQUENCE DU FILMEUR</title></programme>
+<programme start="20230214060000 +0000" stop="20230214062700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230214062700 +0000" stop="20230214063000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">AU DÉTOUR</title></programme>
+<programme start="20230214063000 +0000" stop="20230214065600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TÉLÉMATIN</title></programme>
+<programme start="20230214065600 +0000" stop="20230214070000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MERCI PROFESSEUR !</title></programme>
+<programme start="20230214070000 +0000" stop="20230214072700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE RADIO-CANADA</title></programme>
+<programme start="20230214072700 +0000" stop="20230214074000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230214074000 +0000" stop="20230214080600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LES MATERNELLES D&apos;AFRIQUE</title></programme>
+<programme start="20230214080600 +0000" stop="20230214083500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ÉPICERIE FINE</title></programme>
+<programme start="20230214083500 +0000" stop="20230214090300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">HISTOIRE[S] DE JARDINS</title></programme>
+<programme start="20230214090300 +0000" stop="20230214092600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">KEBEC</title></programme>
+<programme start="20230214092600 +0000" stop="20230214093000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LES STARS AUX PETITS OIGNONS</title></programme>
+<programme start="20230214093000 +0000" stop="20230214095200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">5 CHEFS DANS MA CUISINE</title></programme>
+<programme start="20230214095200 +0000" stop="20230214095600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LA RECETTE DE GUY MARTIN</title></programme>
+<programme start="20230214095600 +0000" stop="20230214100000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, LE JOURNAL</title></programme>
+<programme start="20230214101400 +0000" stop="20230214101700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214101700 +0000" stop="20230214104000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214104000 +0000" stop="20230214104500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230214104500 +0000" stop="20230214113000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TOUT LE MONDE VEUT PRENDRE ...</title></programme>
+<programme start="20230214113000 +0000" stop="20230214122400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MA VIE D&apos;APRÈS</title></programme>
+<programme start="20230214122400 +0000" stop="20230214123000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN JOUR SUR TERRE</title></programme>
+<programme start="20230214123000 +0000" stop="20230214130100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE LA RTBF</title></programme>
+<programme start="20230214130100 +0000" stop="20230214135000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CAÏN</title></programme>
+<programme start="20230214135000 +0000" stop="20230214144500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CAÏN</title></programme>
+<programme start="20230214144500 +0000" stop="20230214150000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">ITINÉRAIRES PAYSANS</title></programme>
+<programme start="20230214150000 +0000" stop="20230214152400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">UN SI GRAND SOLEIL</title></programme>
+<programme start="20230214152400 +0000" stop="20230214152800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">VESTIAIRES</title></programme>
+<programme start="20230214152800 +0000" stop="20230214160000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">QUESTIONS POUR UN CHAMPION</title></programme>
+<programme start="20230214160000 +0000" stop="20230214165200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TEMPS PRÉSENT</title></programme>
+<programme start="20230214165200 +0000" stop="20230214170000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">HEP TAXI ! EXPRESS</title></programme>
+<programme start="20230214170000 +0000" stop="20230214172200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">64&apos; LE MONDE EN FRANÇAIS - ...</title></programme>
+<programme start="20230214172200 +0000" stop="20230214172700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE L&apos;ÉCONOMIE</title></programme>
+<programme start="20230214172700 +0000" stop="20230214173000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">L&apos;INVITÉ</title></programme>
+<programme start="20230214174000 +0000" stop="20230214184100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">J&apos;ENTENDS DES VOIX QUI ME P...</title></programme>
+<programme start="20230214184100 +0000" stop="20230214193000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">CHACUN SON ÎLE</title></programme>
+<programme start="20230214193000 +0000" stop="20230214195600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">LE JOURNAL DE FRANCE 2</title></programme>
+<programme start="20230214195600 +0000" stop="20230214200000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">MÉTÉO</title></programme>
+<programme start="20230214200000 +0000" stop="20230214204700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ, PACIFIQUE SUD</title></programme>
+<programme start="20230214204700 +0000" stop="20230214213500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ, PACIFIQUE SUD</title></programme>
+</tv>

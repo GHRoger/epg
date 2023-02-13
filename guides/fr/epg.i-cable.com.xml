@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="France24French.fr"><display-name>France 24 French</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/><url>https://epg.i-cable.com</url></channel>
+<programme start="20230212221400 +0000" stop="20230212222900 +0000" channel="France24French.fr"><title lang="fr">Lentretien</title></programme>
+<programme start="20230212222900 +0000" stop="20230212224400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230212224400 +0000" stop="20230212230000 +0000" channel="France24French.fr"><title lang="fr">Le gros mot de léco</title></programme>
+<programme start="20230212230000 +0000" stop="20230212231500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230212231500 +0000" stop="20230212233000 +0000" channel="France24French.fr"><title lang="fr">Sports dimanche</title></programme>
+<programme start="20230212233000 +0000" stop="20230212234400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230212234400 +0000" stop="20230213000000 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230213000000 +0000" stop="20230213001500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213001500 +0000" stop="20230213002200 +0000" channel="France24French.fr"><title lang="fr">#Pas2quartier</title></programme>
+<programme start="20230213002200 +0000" stop="20230213003000 +0000" channel="France24French.fr"><title lang="fr">Mode</title></programme>
+<programme start="20230213003000 +0000" stop="20230213004500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213004500 +0000" stop="20230213010000 +0000" channel="France24French.fr"><title lang="fr">Lentretien de lintelligence économique</title></programme>
+<programme start="20230213010000 +0000" stop="20230213011000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213011000 +0000" stop="20230213013000 +0000" channel="France24French.fr"><title lang="fr">Légendes urbaines</title></programme>
+<programme start="20230213013000 +0000" stop="20230213014000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213014000 +0000" stop="20230213020000 +0000" channel="France24French.fr"><title lang="fr">Billet retour</title></programme>
+<programme start="20230213020000 +0000" stop="20230213021000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213021000 +0000" stop="20230213023000 +0000" channel="France24French.fr"><title lang="fr">Ici lEurope</title></programme>
+<programme start="20230213023000 +0000" stop="20230213024000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213024000 +0000" stop="20230213025200 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230213025200 +0000" stop="20230213030000 +0000" channel="France24French.fr"><title lang="fr">Vous êtes ici</title></programme>
+<programme start="20230213030000 +0000" stop="20230213031500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213031500 +0000" stop="20230213033000 +0000" channel="France24French.fr"><title lang="fr">Cest en France</title></programme>
+<programme start="20230213033000 +0000" stop="20230213034500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213034500 +0000" stop="20230213040000 +0000" channel="France24French.fr"><title lang="fr">Outre-mer</title></programme>
+<programme start="20230213040000 +0000" stop="20230213041500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213041500 +0000" stop="20230213043500 +0000" channel="France24French.fr"><title lang="fr">La semaine de léco</title></programme>
+<programme start="20230213043500 +0000" stop="20230213050000 +0000" channel="France24French.fr"><title lang="fr">La semaine de léco</title></programme>
+<programme start="20230213050000 +0000" stop="20230213051500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213051500 +0000" stop="20230213053000 +0000" channel="France24French.fr"><title lang="fr">Actuelles</title></programme>
+<programme start="20230213053000 +0000" stop="20230213054500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213054500 +0000" stop="20230213060000 +0000" channel="France24French.fr"><title lang="fr">Le gros mot de léco</title></programme>
+<programme start="20230213060000 +0000" stop="20230213062000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213062000 +0000" stop="20230213063000 +0000" channel="France24French.fr"><title lang="fr">Linfo éco</title></programme>
+<programme start="20230213063000 +0000" stop="20230213064900 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213064900 +0000" stop="20230213065400 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213065400 +0000" stop="20230213070000 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213070000 +0000" stop="20230213071500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213071500 +0000" stop="20230213071600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213071600 +0000" stop="20230213072100 +0000" channel="France24French.fr"><title lang="fr">Dans la presse</title></programme>
+<programme start="20230213072100 +0000" stop="20230213073000 +0000" channel="France24French.fr"><title lang="fr">Reportages</title></programme>
+<programme start="20230213073000 +0000" stop="20230213074000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213074000 +0000" stop="20230213074500 +0000" channel="France24French.fr"><title lang="fr">Le décryptage</title></programme>
+<programme start="20230213074500 +0000" stop="20230213074600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213074600 +0000" stop="20230213075100 +0000" channel="France24French.fr"><title lang="fr">Linfo éco</title></programme>
+<programme start="20230213075100 +0000" stop="20230213080000 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230213080000 +0000" stop="20230213081500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213081500 +0000" stop="20230213081600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213081600 +0000" stop="20230213083000 +0000" channel="France24French.fr"><title lang="fr">Linvité du jour</title></programme>
+<programme start="20230213083000 +0000" stop="20230213083900 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213083900 +0000" stop="20230213084400 +0000" channel="France24French.fr"><title lang="fr">Le décryptage</title></programme>
+<programme start="20230213084400 +0000" stop="20230213084500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213084500 +0000" stop="20230213085000 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230213085000 +0000" stop="20230213085400 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213085400 +0000" stop="20230213090000 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213090000 +0000" stop="20230213091400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213091400 +0000" stop="20230213091500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213091500 +0000" stop="20230213092000 +0000" channel="France24French.fr"><title lang="fr">Linfo éco</title></programme>
+<programme start="20230213092000 +0000" stop="20230213093000 +0000" channel="France24French.fr"><title lang="fr">Dans la presse</title></programme>
+<programme start="20230213093000 +0000" stop="20230213094500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213094500 +0000" stop="20230213094600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213094600 +0000" stop="20230213095000 +0000" channel="France24French.fr"><title lang="fr">A la carte</title></programme>
+<programme start="20230213095000 +0000" stop="20230213100000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213100000 +0000" stop="20230213101000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213101000 +0000" stop="20230213103000 +0000" channel="France24French.fr"><title lang="fr">Légendes urbaines</title></programme>
+<programme start="20230213103000 +0000" stop="20230213104000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213104000 +0000" stop="20230213110000 +0000" channel="France24French.fr"><title lang="fr">Ici lEurope</title></programme>
+<programme start="20230213110000 +0000" stop="20230213111500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213111500 +0000" stop="20230213113000 +0000" channel="France24French.fr"><title lang="fr">Elément Terre</title></programme>
+<programme start="20230213113000 +0000" stop="20230213114500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213114500 +0000" stop="20230213120000 +0000" channel="France24French.fr"><title lang="fr">Lentretien</title></programme>
+<programme start="20230213120000 +0000" stop="20230213121400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213121400 +0000" stop="20230213121600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213121600 +0000" stop="20230213123000 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230213123000 +0000" stop="20230213124400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213124400 +0000" stop="20230213124600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213124600 +0000" stop="20230213125100 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230213125100 +0000" stop="20230213130000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213130000 +0000" stop="20230213131400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213131400 +0000" stop="20230213131500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213131500 +0000" stop="20230213132000 +0000" channel="France24French.fr"><title lang="fr">Linvité du jour</title></programme>
+<programme start="20230213132000 +0000" stop="20230213133000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213133000 +0000" stop="20230213135000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213135000 +0000" stop="20230213135100 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213135100 +0000" stop="20230213140000 +0000" channel="France24French.fr"><title lang="fr">Science</title></programme>
+<programme start="20230213140000 +0000" stop="20230213141400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213141400 +0000" stop="20230213141600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213141600 +0000" stop="20230213142100 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230213142100 +0000" stop="20230213143000 +0000" channel="France24French.fr"><title lang="fr">Chroniques du jour</title></programme>
+<programme start="20230213143000 +0000" stop="20230213144400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213144400 +0000" stop="20230213144500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213144500 +0000" stop="20230213145000 +0000" channel="France24French.fr"><title lang="fr">Chronique culture</title></programme>
+<programme start="20230213145000 +0000" stop="20230213150000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213150000 +0000" stop="20230213151000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213151000 +0000" stop="20230213152200 +0000" channel="France24French.fr"><title lang="fr">Afrique hebdo</title></programme>
+<programme start="20230213152200 +0000" stop="20230213153000 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230213153000 +0000" stop="20230213154000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213154000 +0000" stop="20230213160000 +0000" channel="France24French.fr"><title lang="fr">Le Paris des arts</title></programme>
+<programme start="20230213160000 +0000" stop="20230213161500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213161500 +0000" stop="20230213163000 +0000" channel="France24French.fr"><title lang="fr">Reporters</title></programme>
+<programme start="20230213163000 +0000" stop="20230213164500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213164500 +0000" stop="20230213170000 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213171500 +0000" stop="20230213173000 +0000" channel="France24French.fr"><title lang="fr">Le gros mot de léco</title></programme>
+<programme start="20230213173000 +0000" stop="20230213174500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213174500 +0000" stop="20230213180000 +0000" channel="France24French.fr"><title lang="fr">Cest en France</title></programme>
+<programme start="20230213180000 +0000" stop="20230213181500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213181500 +0000" stop="20230213181600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213181600 +0000" stop="20230213183000 +0000" channel="France24French.fr"><title lang="fr">Le fait du jour</title></programme>
+<programme start="20230213183000 +0000" stop="20230213184400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213184400 +0000" stop="20230213184600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213184600 +0000" stop="20230213185200 +0000" channel="France24French.fr"><title lang="fr">Économie</title></programme>
+<programme start="20230213185200 +0000" stop="20230213190000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213190000 +0000" stop="20230213191000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213191000 +0000" stop="20230213200000 +0000" channel="France24French.fr"><title lang="fr">Le débat</title></programme>
+<programme start="20230213200000 +0000" stop="20230213201400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213201400 +0000" stop="20230213201500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213201500 +0000" stop="20230213202000 +0000" channel="France24French.fr"><title lang="fr">Économie</title></programme>
+<programme start="20230213202000 +0000" stop="20230213203000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213203000 +0000" stop="20230213210000 +0000" channel="France24French.fr"><title lang="fr">On va plus loin</title></programme>
+<programme start="20230213210000 +0000" stop="20230213212000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213212000 +0000" stop="20230213212100 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213212100 +0000" stop="20230213213000 +0000" channel="France24French.fr"><title lang="fr">Info Intox</title></programme>
+<programme start="20230213213000 +0000" stop="20230213214200 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213214200 +0000" stop="20230213214400 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213214400 +0000" stop="20230213221400 +0000" channel="France24French.fr"><title lang="fr">Le journal de lAfrique</title></programme>
+<programme start="20230213220000 +0000" stop="20230213221400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213221400 +0000" stop="20230213221500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213221500 +0000" stop="20230213222000 +0000" channel="France24French.fr"><title lang="fr">Économie</title></programme>
+<programme start="20230213222000 +0000" stop="20230213223000 +0000" channel="France24French.fr"><title lang="fr">Info Intox</title></programme>
+<programme start="20230213223000 +0000" stop="20230213224200 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213224200 +0000" stop="20230213224400 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213224400 +0000" stop="20230213230000 +0000" channel="France24French.fr"><title lang="fr">Le journal de lAfrique</title></programme>
+<programme start="20230213230000 +0000" stop="20230213231400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213231400 +0000" stop="20230213231500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213231500 +0000" stop="20230213233000 +0000" channel="France24French.fr"><title lang="fr">Economie + Info Intox</title></programme>
+<programme start="20230213233000 +0000" stop="20230213234500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230213234500 +0000" stop="20230213234600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230213234600 +0000" stop="20230213235100 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230213235100 +0000" stop="20230214000000 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230214000000 +0000" stop="20230214001100 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214001100 +0000" stop="20230214010000 +0000" channel="France24French.fr"><title lang="fr">Le débat</title></programme>
+<programme start="20230214010000 +0000" stop="20230214011500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214011500 +0000" stop="20230214013000 +0000" channel="France24French.fr"><title lang="fr">Le journal de lAfrique</title></programme>
+<programme start="20230214013000 +0000" stop="20230214014500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214014500 +0000" stop="20230214020000 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230214020000 +0000" stop="20230214021500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214021500 +0000" stop="20230214023000 +0000" channel="France24French.fr"><title lang="fr">Le gros mot de léco</title></programme>
+<programme start="20230214023000 +0000" stop="20230214024500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214024500 +0000" stop="20230214030000 +0000" channel="France24French.fr"><title lang="fr">Cest en France</title></programme>
+<programme start="20230214030000 +0000" stop="20230214031100 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214031100 +0000" stop="20230214040000 +0000" channel="France24French.fr"><title lang="fr">Le débat</title></programme>
+<programme start="20230214040000 +0000" stop="20230214041000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214041000 +0000" stop="20230214043000 +0000" channel="France24French.fr"><title lang="fr">Reporters</title></programme>
+<programme start="20230214043000 +0000" stop="20230214044000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214044000 +0000" stop="20230214050000 +0000" channel="France24French.fr"><title lang="fr">Légendes urbaines</title></programme>
+<programme start="20230214050000 +0000" stop="20230214051000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214051000 +0000" stop="20230214053000 +0000" channel="France24French.fr"><title lang="fr">Ici lEurope</title></programme>
+<programme start="20230214053000 +0000" stop="20230214054000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214054000 +0000" stop="20230214054500 +0000" channel="France24French.fr"><title lang="fr">Linstant mobile</title></programme>
+<programme start="20230214054500 +0000" stop="20230214060000 +0000" channel="France24French.fr"><title lang="fr">Le journal de lAfrique</title></programme>
+<programme start="20230214060000 +0000" stop="20230214062000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214062000 +0000" stop="20230214063000 +0000" channel="France24French.fr"><title lang="fr">Linfo éco</title></programme>
+<programme start="20230214063000 +0000" stop="20230214064900 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214064900 +0000" stop="20230214065400 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214065400 +0000" stop="20230214070000 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214070000 +0000" stop="20230214071500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214071500 +0000" stop="20230214071600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214071600 +0000" stop="20230214072100 +0000" channel="France24French.fr"><title lang="fr">Dans la presse</title></programme>
+<programme start="20230214072100 +0000" stop="20230214073000 +0000" channel="France24French.fr"><title lang="fr">Reportages</title></programme>
+<programme start="20230214073000 +0000" stop="20230214074000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214074000 +0000" stop="20230214074500 +0000" channel="France24French.fr"><title lang="fr">Le décryptage</title></programme>
+<programme start="20230214074500 +0000" stop="20230214074600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214074600 +0000" stop="20230214075100 +0000" channel="France24French.fr"><title lang="fr">Linfo éco</title></programme>
+<programme start="20230214075100 +0000" stop="20230214080000 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230214080000 +0000" stop="20230214081500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214081500 +0000" stop="20230214081600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214081600 +0000" stop="20230214083000 +0000" channel="France24French.fr"><title lang="fr">Linvité du jour</title></programme>
+<programme start="20230214083000 +0000" stop="20230214083900 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214083900 +0000" stop="20230214084400 +0000" channel="France24French.fr"><title lang="fr">Le décryptage</title></programme>
+<programme start="20230214084400 +0000" stop="20230214084500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214084500 +0000" stop="20230214085000 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230214085000 +0000" stop="20230214085400 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214085400 +0000" stop="20230214090000 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214090000 +0000" stop="20230214091400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214091400 +0000" stop="20230214091500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214091500 +0000" stop="20230214092000 +0000" channel="France24French.fr"><title lang="fr">Linfo éco</title></programme>
+<programme start="20230214092000 +0000" stop="20230214093000 +0000" channel="France24French.fr"><title lang="fr">Dans la presse</title></programme>
+<programme start="20230214093000 +0000" stop="20230214094500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214094500 +0000" stop="20230214094600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214094600 +0000" stop="20230214095000 +0000" channel="France24French.fr"><title lang="fr">A la carte</title></programme>
+<programme start="20230214095000 +0000" stop="20230214100000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214100000 +0000" stop="20230214101000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214101000 +0000" stop="20230214103000 +0000" channel="France24French.fr"><title lang="fr">Le Paris des arts</title></programme>
+<programme start="20230214103000 +0000" stop="20230214104000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214104000 +0000" stop="20230214110000 +0000" channel="France24French.fr"><title lang="fr">Ici lEurope</title></programme>
+<programme start="20230214110000 +0000" stop="20230214111500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214111500 +0000" stop="20230214113000 +0000" channel="France24French.fr"><title lang="fr">Actuelles</title></programme>
+<programme start="20230214113000 +0000" stop="20230214114500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214114500 +0000" stop="20230214120000 +0000" channel="France24French.fr"><title lang="fr">Lentretien de lintelligence économique</title></programme>
+<programme start="20230214120000 +0000" stop="20230214121400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214121400 +0000" stop="20230214121500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214121500 +0000" stop="20230214123000 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230214123000 +0000" stop="20230214124400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214124400 +0000" stop="20230214124600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214124600 +0000" stop="20230214125100 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230214125100 +0000" stop="20230214130000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214130000 +0000" stop="20230214131400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214131400 +0000" stop="20230214131500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214131500 +0000" stop="20230214132000 +0000" channel="France24French.fr"><title lang="fr">Linvité du jour</title></programme>
+<programme start="20230214132000 +0000" stop="20230214133000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214133000 +0000" stop="20230214135000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214135000 +0000" stop="20230214135100 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214135100 +0000" stop="20230214140000 +0000" channel="France24French.fr"><title lang="fr">Science</title></programme>
+<programme start="20230214140000 +0000" stop="20230214141400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214141400 +0000" stop="20230214141600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214141600 +0000" stop="20230214142100 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230214142100 +0000" stop="20230214143000 +0000" channel="France24French.fr"><title lang="fr">Chroniques du jour</title></programme>
+<programme start="20230214143000 +0000" stop="20230214144400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214144400 +0000" stop="20230214144500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214144500 +0000" stop="20230214145000 +0000" channel="France24French.fr"><title lang="fr">Chronique culture</title></programme>
+<programme start="20230214145000 +0000" stop="20230214150000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214150000 +0000" stop="20230214151000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214151000 +0000" stop="20230214151500 +0000" channel="France24French.fr"><title lang="fr">Focus</title></programme>
+<programme start="20230214151500 +0000" stop="20230214153000 +0000" channel="France24French.fr"><title lang="fr">Cest en France</title></programme>
+<programme start="20230214153000 +0000" stop="20230214154000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214154000 +0000" stop="20230214160000 +0000" channel="France24French.fr"><title lang="fr">Légendes urbaines</title></programme>
+<programme start="20230214160000 +0000" stop="20230214161500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214161500 +0000" stop="20230214163000 +0000" channel="France24French.fr"><title lang="fr">Elément Terre</title></programme>
+<programme start="20230214163000 +0000" stop="20230214164500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214164500 +0000" stop="20230214170000 +0000" channel="France24French.fr"><title lang="fr">À laffiche</title></programme>
+<programme start="20230214170000 +0000" stop="20230214171500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214171500 +0000" stop="20230214173000 +0000" channel="France24French.fr"><title lang="fr">Lentretien de lintelligence économique</title></programme>
+<programme start="20230214173000 +0000" stop="20230214174500 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214174500 +0000" stop="20230214180000 +0000" channel="France24French.fr"><title lang="fr">Express Orient</title></programme>
+<programme start="20230214180000 +0000" stop="20230214181000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214181000 +0000" stop="20230214183000 +0000" channel="France24French.fr"><title lang="fr">Mardi politique</title></programme>
+<programme start="20230214183000 +0000" stop="20230214184400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214184400 +0000" stop="20230214184600 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214184600 +0000" stop="20230214185200 +0000" channel="France24French.fr"><title lang="fr">Économie</title></programme>
+<programme start="20230214185200 +0000" stop="20230214190000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214190000 +0000" stop="20230214191000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214191000 +0000" stop="20230214200000 +0000" channel="France24French.fr"><title lang="fr">Le débat</title></programme>
+<programme start="20230214200000 +0000" stop="20230214201400 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214201400 +0000" stop="20230214201500 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214201500 +0000" stop="20230214202000 +0000" channel="France24French.fr"><title lang="fr">Économie</title></programme>
+<programme start="20230214202000 +0000" stop="20230214203000 +0000" channel="France24French.fr"><title lang="fr">Sports</title></programme>
+<programme start="20230214203000 +0000" stop="20230214210000 +0000" channel="France24French.fr"><title lang="fr">On va plus loin</title></programme>
+<programme start="20230214210000 +0000" stop="20230214212000 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214212000 +0000" stop="20230214212100 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214212100 +0000" stop="20230214213000 +0000" channel="France24French.fr"><title lang="fr">Info Intox</title></programme>
+<programme start="20230214213000 +0000" stop="20230214214200 +0000" channel="France24French.fr"><title lang="fr">Le journal</title></programme>
+<programme start="20230214214200 +0000" stop="20230214214400 +0000" channel="France24French.fr"><title lang="fr">Rappel des titres</title></programme>
+<programme start="20230214214400 +0000" stop="20230214221400 +0000" channel="France24French.fr"><title lang="fr">Le journal de lAfrique</title></programme>
+</tv>

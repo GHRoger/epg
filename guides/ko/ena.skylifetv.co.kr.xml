@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="ENA.kr"><display-name>ENA</display-name><icon src="https://i.imgur.com/RwMmbtD.png"/><url>https://ena.skylifetv.co.kr</url></channel>
+<channel id="ENAPLAY.kr"><display-name>ENA PLAY</display-name><icon src="https://i.imgur.com/Ksc8IHf.png"/><url>https://ena.skylifetv.co.kr</url></channel>
+<channel id="KidsTalkTalkPlus.kr"><display-name>Kids Talk Talk Plus</display-name><icon src="https://i.imgur.com/UDWHj4M.png"/><url>https://ena.skylifetv.co.kr</url></channel>
+<channel id="OLIFE.kr"><display-name>OLIFE</display-name><icon src="https://i.imgur.com/z2UQKHF.png"/><url>https://ena.skylifetv.co.kr</url></channel>
+<channel id="ONCE.kr"><display-name>ONCE</display-name><icon src="https://i.imgur.com/t1jP002.png"/><url>https://ena.skylifetv.co.kr</url></channel>
+<channel id="skyUHD.kr"><display-name>skyUHD</display-name><icon src="https://i.imgur.com/WPoAok9.png"/><url>https://ena.skylifetv.co.kr</url></channel>
+<programme start="20230212151500 +0000" stop="20230212160000 +0000" channel="ENA.kr"><title lang="ko">랑전하 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212160000 +0000" stop="20230212165000 +0000" channel="ENA.kr"><title lang="ko">랑전하 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212165000 +0000" stop="20230212173500 +0000" channel="ENA.kr"><title lang="ko">랑전하 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212173500 +0000" stop="20230212182500 +0000" channel="ENA.kr"><title lang="ko">랑전하 44화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212182500 +0000" stop="20230212191000 +0000" channel="ENA.kr"><title lang="ko">랑전하 45화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212191000 +0000" stop="20230212200000 +0000" channel="ENA.kr"><title lang="ko">랑전하 46화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212200000 +0000" stop="20230212205000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212205000 +0000" stop="20230212213500 +0000" channel="ENA.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212213500 +0000" stop="20230212222500 +0000" channel="ENA.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212222500 +0000" stop="20230212231000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213000000 +0000" stop="20230213005000 +0000" channel="ENA.kr"><title lang="ko">낭만비박 집단가출 9화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213005000 +0000" stop="20230213021000 +0000" channel="ENA.kr"><title lang="ko">한국기행 686-690회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213021000 +0000" stop="20230213034000 +0000" channel="ENA.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213034000 +0000" stop="20230213055000 +0000" channel="ENA.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213055000 +0000" stop="20230213070500 +0000" channel="ENA.kr"><title lang="ko">효자촌 5화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213070500 +0000" stop="20230213072500 +0000" channel="ENA.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213072500 +0000" stop="20230213081500 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213090000 +0000" stop="20230213095000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213095000 +0000" stop="20230213103500 +0000" channel="ENA.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213103500 +0000" stop="20230213112000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213112000 +0000" stop="20230213121000 +0000" channel="ENA.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213121000 +0000" stop="20230213130000 +0000" channel="ENA.kr"><title lang="ko">빵카로드 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213135000 +0000" stop="20230213140500 +0000" channel="ENA.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213140500 +0000" stop="20230213161500 +0000" channel="ENA.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213161500 +0000" stop="20230213165000 +0000" channel="ENA.kr"><title lang="ko">한국기행 687-688회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213165000 +0000" stop="20230213174000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213174000 +0000" stop="20230213182500 +0000" channel="ENA.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213182500 +0000" stop="20230213191500 +0000" channel="ENA.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="ENA.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213200000 +0000" stop="20230213204000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213213000 +0000" stop="20230213222000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213222000 +0000" stop="20230213231000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213231000 +0000" stop="20230214000000 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="ENA.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214005000 +0000" stop="20230214014000 +0000" channel="ENA.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214014000 +0000" stop="20230214034000 +0000" channel="ENA.kr"><title lang="ko">사장님을 잠금해제 11-마지막회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214034000 +0000" stop="20230214051000 +0000" channel="ENA.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214051000 +0000" stop="20230214063000 +0000" channel="ENA.kr"><title lang="ko">효자촌 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214063000 +0000" stop="20230214072000 +0000" channel="ENA.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214072000 +0000" stop="20230214081000 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214081000 +0000" stop="20230214085000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214085000 +0000" stop="20230214094000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214094000 +0000" stop="20230214103000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214103000 +0000" stop="20230214112000 +0000" channel="ENA.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214112000 +0000" stop="20230214121000 +0000" channel="ENA.kr"><title lang="ko">낭만비박 집단가출 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="ENA.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214135000 +0000" stop="20230214141000 +0000" channel="ENA.kr"><title lang="ko">한국기행 687화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214141000 +0000" stop="20230214155000 +0000" channel="ENA.kr"><title lang="ko">효자촌 7화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212151500 +0000" stop="20230212160000 +0000" channel="ENAPLAY.kr"><title lang="ko">랑전하 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212160000 +0000" stop="20230212165000 +0000" channel="ENAPLAY.kr"><title lang="ko">랑전하 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212165000 +0000" stop="20230212173500 +0000" channel="ENAPLAY.kr"><title lang="ko">랑전하 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212173500 +0000" stop="20230212182500 +0000" channel="ENAPLAY.kr"><title lang="ko">랑전하 44화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212182500 +0000" stop="20230212191000 +0000" channel="ENAPLAY.kr"><title lang="ko">랑전하 45화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212191000 +0000" stop="20230212200000 +0000" channel="ENAPLAY.kr"><title lang="ko">랑전하 46화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212200000 +0000" stop="20230212205000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212205000 +0000" stop="20230212213500 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212213500 +0000" stop="20230212222500 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212222500 +0000" stop="20230212231000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213000000 +0000" stop="20230213005000 +0000" channel="ENAPLAY.kr"><title lang="ko">낭만비박 집단가출 9화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213005000 +0000" stop="20230213021000 +0000" channel="ENAPLAY.kr"><title lang="ko">한국기행 686-690회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213021000 +0000" stop="20230213034000 +0000" channel="ENAPLAY.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213034000 +0000" stop="20230213055000 +0000" channel="ENAPLAY.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213055000 +0000" stop="20230213070500 +0000" channel="ENAPLAY.kr"><title lang="ko">효자촌 5화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213070500 +0000" stop="20230213072500 +0000" channel="ENAPLAY.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213072500 +0000" stop="20230213081500 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213090000 +0000" stop="20230213095000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213095000 +0000" stop="20230213103500 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213103500 +0000" stop="20230213112000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213112000 +0000" stop="20230213121000 +0000" channel="ENAPLAY.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213121000 +0000" stop="20230213130000 +0000" channel="ENAPLAY.kr"><title lang="ko">빵카로드 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213135000 +0000" stop="20230213140500 +0000" channel="ENAPLAY.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213140500 +0000" stop="20230213161500 +0000" channel="ENAPLAY.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213161500 +0000" stop="20230213165000 +0000" channel="ENAPLAY.kr"><title lang="ko">한국기행 687-688회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213165000 +0000" stop="20230213174000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213174000 +0000" stop="20230213182500 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213182500 +0000" stop="20230213191500 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="ENAPLAY.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213200000 +0000" stop="20230213204000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213213000 +0000" stop="20230213222000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213222000 +0000" stop="20230213231000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213231000 +0000" stop="20230214000000 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="ENAPLAY.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214005000 +0000" stop="20230214014000 +0000" channel="ENAPLAY.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214014000 +0000" stop="20230214034000 +0000" channel="ENAPLAY.kr"><title lang="ko">사장님을 잠금해제 11-마지막회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214034000 +0000" stop="20230214051000 +0000" channel="ENAPLAY.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214051000 +0000" stop="20230214063000 +0000" channel="ENAPLAY.kr"><title lang="ko">효자촌 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214063000 +0000" stop="20230214072000 +0000" channel="ENAPLAY.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214072000 +0000" stop="20230214081000 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214081000 +0000" stop="20230214085000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214085000 +0000" stop="20230214094000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214094000 +0000" stop="20230214103000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214103000 +0000" stop="20230214112000 +0000" channel="ENAPLAY.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214112000 +0000" stop="20230214121000 +0000" channel="ENAPLAY.kr"><title lang="ko">낭만비박 집단가출 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="ENAPLAY.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214135000 +0000" stop="20230214141000 +0000" channel="ENAPLAY.kr"><title lang="ko">한국기행 687화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214141000 +0000" stop="20230214155000 +0000" channel="ENAPLAY.kr"><title lang="ko">효자촌 7화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212151500 +0000" stop="20230212160000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">랑전하 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212160000 +0000" stop="20230212165000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">랑전하 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212165000 +0000" stop="20230212173500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">랑전하 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212173500 +0000" stop="20230212182500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">랑전하 44화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212182500 +0000" stop="20230212191000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">랑전하 45화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212191000 +0000" stop="20230212200000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">랑전하 46화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212200000 +0000" stop="20230212205000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212205000 +0000" stop="20230212213500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212213500 +0000" stop="20230212222500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212222500 +0000" stop="20230212231000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213000000 +0000" stop="20230213005000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">낭만비박 집단가출 9화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213005000 +0000" stop="20230213021000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">한국기행 686-690회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213021000 +0000" stop="20230213034000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213034000 +0000" stop="20230213055000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213055000 +0000" stop="20230213070500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">효자촌 5화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213070500 +0000" stop="20230213072500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213072500 +0000" stop="20230213081500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213090000 +0000" stop="20230213095000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213095000 +0000" stop="20230213103500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213103500 +0000" stop="20230213112000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213112000 +0000" stop="20230213121000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213121000 +0000" stop="20230213130000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">빵카로드 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213135000 +0000" stop="20230213140500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213140500 +0000" stop="20230213161500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213161500 +0000" stop="20230213165000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">한국기행 687-688회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213165000 +0000" stop="20230213174000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213174000 +0000" stop="20230213182500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213182500 +0000" stop="20230213191500 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213200000 +0000" stop="20230213204000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213213000 +0000" stop="20230213222000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213222000 +0000" stop="20230213231000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213231000 +0000" stop="20230214000000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214005000 +0000" stop="20230214014000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214014000 +0000" stop="20230214034000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">사장님을 잠금해제 11-마지막회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214034000 +0000" stop="20230214051000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214051000 +0000" stop="20230214063000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">효자촌 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214063000 +0000" stop="20230214072000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214072000 +0000" stop="20230214081000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214081000 +0000" stop="20230214085000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214085000 +0000" stop="20230214094000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214094000 +0000" stop="20230214103000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214103000 +0000" stop="20230214112000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214112000 +0000" stop="20230214121000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">낭만비박 집단가출 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214135000 +0000" stop="20230214141000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">한국기행 687화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214141000 +0000" stop="20230214155000 +0000" channel="KidsTalkTalkPlus.kr"><title lang="ko">효자촌 7화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212151500 +0000" stop="20230212160000 +0000" channel="OLIFE.kr"><title lang="ko">랑전하 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212160000 +0000" stop="20230212165000 +0000" channel="OLIFE.kr"><title lang="ko">랑전하 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212165000 +0000" stop="20230212173500 +0000" channel="OLIFE.kr"><title lang="ko">랑전하 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212173500 +0000" stop="20230212182500 +0000" channel="OLIFE.kr"><title lang="ko">랑전하 44화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212182500 +0000" stop="20230212191000 +0000" channel="OLIFE.kr"><title lang="ko">랑전하 45화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212191000 +0000" stop="20230212200000 +0000" channel="OLIFE.kr"><title lang="ko">랑전하 46화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212200000 +0000" stop="20230212205000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212205000 +0000" stop="20230212213500 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212213500 +0000" stop="20230212222500 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212222500 +0000" stop="20230212231000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213000000 +0000" stop="20230213005000 +0000" channel="OLIFE.kr"><title lang="ko">낭만비박 집단가출 9화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213005000 +0000" stop="20230213021000 +0000" channel="OLIFE.kr"><title lang="ko">한국기행 686-690회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213021000 +0000" stop="20230213034000 +0000" channel="OLIFE.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213034000 +0000" stop="20230213055000 +0000" channel="OLIFE.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213055000 +0000" stop="20230213070500 +0000" channel="OLIFE.kr"><title lang="ko">효자촌 5화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213070500 +0000" stop="20230213072500 +0000" channel="OLIFE.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213072500 +0000" stop="20230213081500 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213090000 +0000" stop="20230213095000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213095000 +0000" stop="20230213103500 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213103500 +0000" stop="20230213112000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213112000 +0000" stop="20230213121000 +0000" channel="OLIFE.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213121000 +0000" stop="20230213130000 +0000" channel="OLIFE.kr"><title lang="ko">빵카로드 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213135000 +0000" stop="20230213140500 +0000" channel="OLIFE.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213140500 +0000" stop="20230213161500 +0000" channel="OLIFE.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213161500 +0000" stop="20230213165000 +0000" channel="OLIFE.kr"><title lang="ko">한국기행 687-688회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213165000 +0000" stop="20230213174000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213174000 +0000" stop="20230213182500 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213182500 +0000" stop="20230213191500 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="OLIFE.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213200000 +0000" stop="20230213204000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213213000 +0000" stop="20230213222000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213222000 +0000" stop="20230213231000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213231000 +0000" stop="20230214000000 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="OLIFE.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214005000 +0000" stop="20230214014000 +0000" channel="OLIFE.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214014000 +0000" stop="20230214034000 +0000" channel="OLIFE.kr"><title lang="ko">사장님을 잠금해제 11-마지막회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214034000 +0000" stop="20230214051000 +0000" channel="OLIFE.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214051000 +0000" stop="20230214063000 +0000" channel="OLIFE.kr"><title lang="ko">효자촌 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214063000 +0000" stop="20230214072000 +0000" channel="OLIFE.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214072000 +0000" stop="20230214081000 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214081000 +0000" stop="20230214085000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214085000 +0000" stop="20230214094000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214094000 +0000" stop="20230214103000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214103000 +0000" stop="20230214112000 +0000" channel="OLIFE.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214112000 +0000" stop="20230214121000 +0000" channel="OLIFE.kr"><title lang="ko">낭만비박 집단가출 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="OLIFE.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214135000 +0000" stop="20230214141000 +0000" channel="OLIFE.kr"><title lang="ko">한국기행 687화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214141000 +0000" stop="20230214155000 +0000" channel="OLIFE.kr"><title lang="ko">효자촌 7화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212151500 +0000" stop="20230212160000 +0000" channel="ONCE.kr"><title lang="ko">랑전하 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212160000 +0000" stop="20230212165000 +0000" channel="ONCE.kr"><title lang="ko">랑전하 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212165000 +0000" stop="20230212173500 +0000" channel="ONCE.kr"><title lang="ko">랑전하 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212173500 +0000" stop="20230212182500 +0000" channel="ONCE.kr"><title lang="ko">랑전하 44화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212182500 +0000" stop="20230212191000 +0000" channel="ONCE.kr"><title lang="ko">랑전하 45화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212191000 +0000" stop="20230212200000 +0000" channel="ONCE.kr"><title lang="ko">랑전하 46화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212200000 +0000" stop="20230212205000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212205000 +0000" stop="20230212213500 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212213500 +0000" stop="20230212222500 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212222500 +0000" stop="20230212231000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213000000 +0000" stop="20230213005000 +0000" channel="ONCE.kr"><title lang="ko">낭만비박 집단가출 9화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213005000 +0000" stop="20230213021000 +0000" channel="ONCE.kr"><title lang="ko">한국기행 686-690회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213021000 +0000" stop="20230213034000 +0000" channel="ONCE.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213034000 +0000" stop="20230213055000 +0000" channel="ONCE.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213055000 +0000" stop="20230213070500 +0000" channel="ONCE.kr"><title lang="ko">효자촌 5화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213070500 +0000" stop="20230213072500 +0000" channel="ONCE.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213072500 +0000" stop="20230213081500 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213090000 +0000" stop="20230213095000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213095000 +0000" stop="20230213103500 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213103500 +0000" stop="20230213112000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213112000 +0000" stop="20230213121000 +0000" channel="ONCE.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213121000 +0000" stop="20230213130000 +0000" channel="ONCE.kr"><title lang="ko">빵카로드 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213135000 +0000" stop="20230213140500 +0000" channel="ONCE.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213140500 +0000" stop="20230213161500 +0000" channel="ONCE.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213161500 +0000" stop="20230213165000 +0000" channel="ONCE.kr"><title lang="ko">한국기행 687-688회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213165000 +0000" stop="20230213174000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213174000 +0000" stop="20230213182500 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213182500 +0000" stop="20230213191500 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="ONCE.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213200000 +0000" stop="20230213204000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213213000 +0000" stop="20230213222000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213222000 +0000" stop="20230213231000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213231000 +0000" stop="20230214000000 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="ONCE.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214005000 +0000" stop="20230214014000 +0000" channel="ONCE.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214014000 +0000" stop="20230214034000 +0000" channel="ONCE.kr"><title lang="ko">사장님을 잠금해제 11-마지막회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214034000 +0000" stop="20230214051000 +0000" channel="ONCE.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214051000 +0000" stop="20230214063000 +0000" channel="ONCE.kr"><title lang="ko">효자촌 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214063000 +0000" stop="20230214072000 +0000" channel="ONCE.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214072000 +0000" stop="20230214081000 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214081000 +0000" stop="20230214085000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214085000 +0000" stop="20230214094000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214094000 +0000" stop="20230214103000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214103000 +0000" stop="20230214112000 +0000" channel="ONCE.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214112000 +0000" stop="20230214121000 +0000" channel="ONCE.kr"><title lang="ko">낭만비박 집단가출 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="ONCE.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214135000 +0000" stop="20230214141000 +0000" channel="ONCE.kr"><title lang="ko">한국기행 687화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214141000 +0000" stop="20230214155000 +0000" channel="ONCE.kr"><title lang="ko">효자촌 7화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212151500 +0000" stop="20230212160000 +0000" channel="skyUHD.kr"><title lang="ko">랑전하 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212160000 +0000" stop="20230212165000 +0000" channel="skyUHD.kr"><title lang="ko">랑전하 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212165000 +0000" stop="20230212173500 +0000" channel="skyUHD.kr"><title lang="ko">랑전하 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212173500 +0000" stop="20230212182500 +0000" channel="skyUHD.kr"><title lang="ko">랑전하 44화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212182500 +0000" stop="20230212191000 +0000" channel="skyUHD.kr"><title lang="ko">랑전하 45화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212191000 +0000" stop="20230212200000 +0000" channel="skyUHD.kr"><title lang="ko">랑전하 46화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212200000 +0000" stop="20230212205000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212205000 +0000" stop="20230212213500 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212213500 +0000" stop="20230212222500 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212222500 +0000" stop="20230212231000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230212231000 +0000" stop="20230213000000 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213000000 +0000" stop="20230213005000 +0000" channel="skyUHD.kr"><title lang="ko">낭만비박 집단가출 9화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213005000 +0000" stop="20230213021000 +0000" channel="skyUHD.kr"><title lang="ko">한국기행 686-690회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213021000 +0000" stop="20230213034000 +0000" channel="skyUHD.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213034000 +0000" stop="20230213055000 +0000" channel="skyUHD.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213055000 +0000" stop="20230213070500 +0000" channel="skyUHD.kr"><title lang="ko">효자촌 5화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213070500 +0000" stop="20230213072500 +0000" channel="skyUHD.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213072500 +0000" stop="20230213081500 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213081500 +0000" stop="20230213090000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213090000 +0000" stop="20230213095000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213095000 +0000" stop="20230213103500 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213103500 +0000" stop="20230213112000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213112000 +0000" stop="20230213121000 +0000" channel="skyUHD.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213121000 +0000" stop="20230213130000 +0000" channel="skyUHD.kr"><title lang="ko">빵카로드 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213135000 +0000" stop="20230213140500 +0000" channel="skyUHD.kr"><title lang="ko">한국기행 686화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213140500 +0000" stop="20230213161500 +0000" channel="skyUHD.kr"><title lang="ko">사장님을 잠금해제 11-12회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213161500 +0000" stop="20230213165000 +0000" channel="skyUHD.kr"><title lang="ko">한국기행 687-688회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230213165000 +0000" stop="20230213174000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 40화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213174000 +0000" stop="20230213182500 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 41화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213182500 +0000" stop="20230213191500 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 42화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213191500 +0000" stop="20230213200000 +0000" channel="skyUHD.kr"><title lang="ko">경쌍성 43화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213200000 +0000" stop="20230213204000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213204000 +0000" stop="20230213213000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213213000 +0000" stop="20230213222000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213222000 +0000" stop="20230213231000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230213231000 +0000" stop="20230214000000 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214000000 +0000" stop="20230214005000 +0000" channel="skyUHD.kr"><title lang="ko">낭만비박 집단가출 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214005000 +0000" stop="20230214014000 +0000" channel="skyUHD.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214014000 +0000" stop="20230214034000 +0000" channel="skyUHD.kr"><title lang="ko">사장님을 잠금해제 11-마지막회</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214034000 +0000" stop="20230214051000 +0000" channel="skyUHD.kr"><title lang="ko">세계테마기행 411-412회</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214051000 +0000" stop="20230214063000 +0000" channel="skyUHD.kr"><title lang="ko">효자촌 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214063000 +0000" stop="20230214072000 +0000" channel="skyUHD.kr"><title lang="ko">빵카로드 6화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214072000 +0000" stop="20230214081000 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214081000 +0000" stop="20230214085000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214085000 +0000" stop="20230214094000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214094000 +0000" stop="20230214103000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 3화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214103000 +0000" stop="20230214112000 +0000" channel="skyUHD.kr"><title lang="ko">천계지백사전설 4화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214112000 +0000" stop="20230214121000 +0000" channel="skyUHD.kr"><title lang="ko">낭만비박 집단가출 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214121000 +0000" stop="20230214130000 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 1화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214130000 +0000" stop="20230214135000 +0000" channel="skyUHD.kr"><title lang="ko">아무것도 하고 싶지 않아 2화</title><rating system="KMRB"><value>15</value></rating></programme>
+<programme start="20230214135000 +0000" stop="20230214141000 +0000" channel="skyUHD.kr"><title lang="ko">한국기행 687화</title><rating system="KMRB"><value>전체</value></rating></programme>
+<programme start="20230214141000 +0000" stop="20230214155000 +0000" channel="skyUHD.kr"><title lang="ko">효자촌 7화</title><rating system="KMRB"><value>15</value></rating></programme>
+</tv>

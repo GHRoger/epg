@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="Rai1.it"><display-name>Rai 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="Rai2.it"><display-name>Rai 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="Rai3.it"><display-name>Rai 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="RaiScuola.it"><display-name>Rai Scuola</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<programme start="20230213050000 +0000" stop="20230213052800 +0000" channel="Rai1.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230213052800 +0000" stop="20230213053000 +0000" channel="Rai1.it"><title lang="it">Previsioni sulla viabilità CCISS Viaggiare informati</title><category lang="it">Informativni</category></programme>
+<programme start="20230213053000 +0000" stop="20230213053500 +0000" channel="Rai1.it"><title lang="it">TG1</title><category lang="it">Informativni</category></programme>
+<programme start="20230213053500 +0000" stop="20230213055800 +0000" channel="Rai1.it"><title lang="it">Rassegna stampa</title><category lang="it">ostalo</category></programme>
+<programme start="20230213055800 +0000" stop="20230213060000 +0000" channel="Rai1.it"><title lang="it">Tgunomattina - in collaborazione con daytime</title><category lang="it">Informativni</category></programme>
+<programme start="20230213060000 +0000" stop="20230213062800 +0000" channel="Rai1.it"><title lang="it">TG1</title><category lang="it">Informativni</category></programme>
+<programme start="20230213062800 +0000" stop="20230213063000 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="Rai1.it"><title lang="it">Tgunomattina - in collaborazione con daytime</title><category lang="it">Informativni</category></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="Rai1.it"><title lang="it">TG1</title><category lang="it">Informativni</category></programme>
+<programme start="20230213073000 +0000" stop="20230213073200 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230213073200 +0000" stop="20230213080000 +0000" channel="Rai1.it"><title lang="it">Tgunomattina - in collaborazione con daytime</title><category lang="it">Informativni</category></programme>
+<programme start="20230213080000 +0000" stop="20230213080500 +0000" channel="Rai1.it"><title lang="it">TG 1 L.I.S.</title><category lang="it">Informativni</category></programme>
+<programme start="20230213080500 +0000" stop="20230213085000 +0000" channel="Rai1.it"><title lang="it">UnoMattina</title><category lang="it">Magazin</category></programme>
+<programme start="20230213085000 +0000" stop="20230213105500 +0000" channel="Rai1.it"><title lang="it">Storie italiane</title><category lang="it">Magazin</category></programme>
+<programme start="20230213105500 +0000" stop="20230213123000 +0000" channel="Rai1.it"><title lang="it">E’ sempre mezzogiorno</title><category lang="it">Magazin</category></programme>
+<programme start="20230213123000 +0000" stop="20230213130500 +0000" channel="Rai1.it"><title lang="it">TELEGIORNALE</title><category lang="it">Informativni</category></programme>
+<programme start="20230213130500 +0000" stop="20230213135000 +0000" channel="Rai1.it"><title lang="it">Oggi è un altro giorno - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230213135000 +0000" stop="20230213160000 +0000" channel="Rai1.it"><title lang="it">Speciale Tg1 - Elezioni regionali Lazio e Lombardia</title><category lang="it">Informativni</category></programme>
+<programme start="20230213160000 +0000" stop="20230213160500 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230213160500 +0000" stop="20230213174500 +0000" channel="Rai1.it"><title lang="it">La Vita in Diretta</title><category lang="it">Magazin</category></programme>
+<programme start="20230213174500 +0000" stop="20230213190000 +0000" channel="Rai1.it"><title lang="it">L’Eredità Weekend - Puntata del /2023</title><category lang="it">Zabava</category></programme>
+<programme start="20230213190000 +0000" stop="20230213193000 +0000" channel="Rai1.it"><title lang="it">TELEGIORNALE</title><category lang="it">Informativni</category></programme>
+<programme start="20230213193000 +0000" stop="20230213202500 +0000" channel="Rai1.it"><title lang="it">Soliti Ignoti - Il Ritorno</title><category lang="it">ostalo</category></programme>
+<programme start="20230213202500 +0000" stop="20230213213000 +0000" channel="Rai1.it"><title lang="it">Fiori sopra l’inferno - I casi di Teresa Battaglia, serija</title><category lang="it">ostalo</category></programme>
+<programme start="20230213213000 +0000" stop="20230213224000 +0000" channel="Rai1.it"><title lang="it">Fiori sopra l’inferno - I casi di Teresa Battaglia, serija</title><category lang="it">ostalo</category></programme>
+<programme start="20230213224000 +0000" stop="20230213225500 +0000" channel="Rai1.it"><title lang="it">Porta a Porta - Speciale elezioni regionali</title><category lang="it">ostalo</category></programme>
+<programme start="20230213225500 +0000" stop="20230213225800 +0000" channel="Rai1.it"><title lang="it">TG1 Sera</title><category lang="it">Informativni</category></programme>
+<programme start="20230213225800 +0000" stop="20230214002500 +0000" channel="Rai1.it"><title lang="it">Porta a Porta - Speciale elezioni regionali</title><category lang="it">ostalo</category></programme>
+<programme start="20230214002500 +0000" stop="20230214012000 +0000" channel="Rai1.it"><title lang="it">Viva Rai 2! show</title><category lang="it">ostalo</category></programme>
+<programme start="20230214012000 +0000" stop="20230214015300 +0000" channel="Rai1.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230214015300 +0000" stop="20230214015500 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230214015500 +0000" stop="20230214025500 +0000" channel="Rai1.it"><title lang="it">Speciale Overland 18 Le strade dell’Islam - Afghanistan</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214025500 +0000" stop="20230214052800 +0000" channel="Rai1.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230214050000 +0000" stop="20230214052800 +0000" channel="Rai1.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230214052800 +0000" stop="20230214053000 +0000" channel="Rai1.it"><title lang="it">Previsioni sulla viabilità CCISS Viaggiare informati</title><category lang="it">Informativni</category></programme>
+<programme start="20230214053000 +0000" stop="20230214053500 +0000" channel="Rai1.it"><title lang="it">TG1</title><category lang="it">Informativni</category></programme>
+<programme start="20230214053500 +0000" stop="20230214055800 +0000" channel="Rai1.it"><title lang="it">Rassegna stampa</title><category lang="it">ostalo</category></programme>
+<programme start="20230214055800 +0000" stop="20230214060000 +0000" channel="Rai1.it"><title lang="it">Tgunomattina - in collaborazione con daytime</title><category lang="it">Informativni</category></programme>
+<programme start="20230214060000 +0000" stop="20230214062800 +0000" channel="Rai1.it"><title lang="it">TG1</title><category lang="it">Informativni</category></programme>
+<programme start="20230214062800 +0000" stop="20230214063000 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="Rai1.it"><title lang="it">Tgunomattina - in collaborazione con daytime</title><category lang="it">Informativni</category></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="Rai1.it"><title lang="it">TG1</title><category lang="it">Informativni</category></programme>
+<programme start="20230214073000 +0000" stop="20230214073200 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230214073200 +0000" stop="20230214075500 +0000" channel="Rai1.it"><title lang="it">Tgunomattina - in collaborazione con daytime</title><category lang="it">Informativni</category></programme>
+<programme start="20230214075500 +0000" stop="20230214080000 +0000" channel="Rai1.it"><title lang="it">Rai Parlamento Telegiornale</title><category lang="it">Informativni</category></programme>
+<programme start="20230214080000 +0000" stop="20230214080500 +0000" channel="Rai1.it"><title lang="it">TG 1 L.I.S.</title><category lang="it">Informativni</category></programme>
+<programme start="20230214080500 +0000" stop="20230214085000 +0000" channel="Rai1.it"><title lang="it">UnoMattina</title><category lang="it">Magazin</category></programme>
+<programme start="20230214085000 +0000" stop="20230214105500 +0000" channel="Rai1.it"><title lang="it">Storie italiane</title><category lang="it">Magazin</category></programme>
+<programme start="20230214105500 +0000" stop="20230214123000 +0000" channel="Rai1.it"><title lang="it">E’ sempre mezzogiorno</title><category lang="it">Magazin</category></programme>
+<programme start="20230214123000 +0000" stop="20230214130500 +0000" channel="Rai1.it"><title lang="it">TELEGIORNALE</title><category lang="it">Informativni</category></programme>
+<programme start="20230214130500 +0000" stop="20230214150500 +0000" channel="Rai1.it"><title lang="it">Oggi è un altro giorno - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230214150500 +0000" stop="20230214155500 +0000" channel="Rai1.it"><title lang="it">Raj za dame, serija</title><category lang="it">Drama</category></programme>
+<programme start="20230214155500 +0000" stop="20230214160200 +0000" channel="Rai1.it"><title lang="it">TG 1</title><category lang="it">Informativni</category></programme>
+<programme start="20230214160200 +0000" stop="20230214160500 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230214160500 +0000" stop="20230214174500 +0000" channel="Rai1.it"><title lang="it">La Vita in Diretta</title><category lang="it">Magazin</category></programme>
+<programme start="20230214174500 +0000" stop="20230214190000 +0000" channel="Rai1.it"><title lang="it">L’Eredità Weekend - Puntata del /2023</title><category lang="it">Zabava</category></programme>
+<programme start="20230214190000 +0000" stop="20230214193000 +0000" channel="Rai1.it"><title lang="it">TELEGIORNALE</title><category lang="it">Informativni</category></programme>
+<programme start="20230214193000 +0000" stop="20230214202500 +0000" channel="Rai1.it"><title lang="it">Soliti Ignoti - Il Ritorno</title><category lang="it">ostalo</category></programme>
+<programme start="20230214202500 +0000" stop="20230214221500 +0000" channel="Rai1.it"><title lang="it">Come se non ci fosse un domani</title><category lang="it">Romantični</category></programme>
+<programme start="20230214221500 +0000" stop="20230214223000 +0000" channel="Rai1.it"><title lang="it">Porta a Porta</title><category lang="it">ostalo</category></programme>
+<programme start="20230214223000 +0000" stop="20230214223400 +0000" channel="Rai1.it"><title lang="it">TG1 Sera</title><category lang="it">Informativni</category></programme>
+<programme start="20230214223400 +0000" stop="20230215000000 +0000" channel="Rai1.it"><title lang="it">Porta a Porta</title><category lang="it">ostalo</category></programme>
+<programme start="20230215000000 +0000" stop="20230215005500 +0000" channel="Rai1.it"><title lang="it">Viva Rai 2! show</title><category lang="it">ostalo</category></programme>
+<programme start="20230215005500 +0000" stop="20230215012700 +0000" channel="Rai1.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230215012700 +0000" stop="20230215013000 +0000" channel="Rai1.it"><title lang="it">Che tempo fa</title><category lang="it">ostalo</category></programme>
+<programme start="20230215013000 +0000" stop="20230215022500 +0000" channel="Rai1.it"><title lang="it">Speciale Overland 18 - Le strade dell’Islam - Afghanistan</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230215022500 +0000" stop="20230215052800 +0000" channel="Rai1.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230213050000 +0000" stop="20230213050000 +0000" channel="Rai2.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230213051500 +0000" stop="20230213061000 +0000" channel="Rai2.it"><title lang="it">La Grande Vallata, serija</title><category lang="it">Vestern</category></programme>
+<programme start="20230213061000 +0000" stop="20230213061500 +0000" channel="Rai2.it"><title lang="it">Viva Rai 2! show</title><category lang="it">ostalo</category></programme>
+<programme start="20230213061500 +0000" stop="20230213070000 +0000" channel="Rai2.it"><title lang="it">Viva Rai 2! show</title><category lang="it">ostalo</category></programme>
+<programme start="20230213070000 +0000" stop="20230213073000 +0000" channel="Rai2.it"><title lang="it">E viva il Videobox</title><category lang="it">ostalo</category></programme>
+<programme start="20230213073000 +0000" stop="20230213074500 +0000" channel="Rai2.it"><title lang="it">TG2</title><category lang="it">Informativni</category></programme>
+<programme start="20230213074500 +0000" stop="20230213085800 +0000" channel="Rai2.it"><title lang="it">Radio2 Social Club - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230213085800 +0000" stop="20230213090000 +0000" channel="Rai2.it"><title lang="it">Meteo 2</title><category lang="it">ostalo</category></programme>
+<programme start="20230213090000 +0000" stop="20230213095500 +0000" channel="Rai2.it"><title lang="it">TG2 Italia</title><category lang="it">Informativni</category></programme>
+<programme start="20230213095500 +0000" stop="20230213100000 +0000" channel="Rai2.it"><title lang="it">TG2 Flash</title><category lang="it">Informativni</category></programme>
+<programme start="20230213100000 +0000" stop="20230213101000 +0000" channel="Rai2.it"><title lang="it">TG Sport Giorno</title><category lang="it">ostalo</category></programme>
+<programme start="20230213101000 +0000" stop="20230213120000 +0000" channel="Rai2.it"><title lang="it">I Fatti Vostri - Puntata del /2023</title><category lang="it">Zabava</category></programme>
+<programme start="20230213120000 +0000" stop="20230213123000 +0000" channel="Rai2.it"><title lang="it">TG2 GIORNO</title><category lang="it">Informativni</category></programme>
+<programme start="20230213123000 +0000" stop="20230213125000 +0000" channel="Rai2.it"><title lang="it">TG2 Costume e Società</title><category lang="it">Informativni</category></programme>
+<programme start="20230213125000 +0000" stop="20230213130000 +0000" channel="Rai2.it"><title lang="it">TG2 Medicina 33</title><category lang="it">Informativni</category></programme>
+<programme start="20230213130000 +0000" stop="20230213142500 +0000" channel="Rai2.it"><title lang="it">Ore 14 - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230213142500 +0000" stop="20230213160000 +0000" channel="Rai2.it"><title lang="it">Bellama’ - Puntata del /2023</title><category lang="it">Zabava</category></programme>
+<programme start="20230213160000 +0000" stop="20230213161000 +0000" channel="Rai2.it"><title lang="it">TG Parlamento</title><category lang="it">Informativni</category></programme>
+<programme start="20230213161000 +0000" stop="20230213161500 +0000" channel="Rai2.it"><title lang="it">TG2 L.I.S.</title><category lang="it">Informativni</category></programme>
+<programme start="20230213161500 +0000" stop="20230213163000 +0000" channel="Rai2.it"><title lang="it">TG Sport Sera</title><category lang="it">ostalo</category></programme>
+<programme start="20230213163000 +0000" stop="20230213180000 +0000" channel="Rai2.it"><title lang="it">Speciale TG2 - Elezioni regionali Lazio e Lombardia</title><category lang="it">Informativni</category></programme>
+<programme start="20230213180000 +0000" stop="20230213184000 +0000" channel="Rai2.it"><title lang="it">Hawaii Five-0, serija</title><category lang="it">Kriminalistički,Akcija</category></programme>
+<programme start="20230213184000 +0000" stop="20230213193000 +0000" channel="Rai2.it"><title lang="it">Novak, serija</title><category lang="it">Kriminalistički,Komedija</category></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="Rai2.it"><title lang="it">TG2 20.30</title><category lang="it">Informativni</category></programme>
+<programme start="20230213200000 +0000" stop="20230213202000 +0000" channel="Rai2.it"><title lang="it">TG2 Post</title><category lang="it">Informativni</category></programme>
+<programme start="20230213202000 +0000" stop="20230213231500 +0000" channel="Rai2.it"><title lang="it">Stasera tutto è possibile - Puntata del /2023, game show</title><category lang="it">ostalo</category></programme>
+<programme start="20230213231500 +0000" stop="20230214004300 +0000" channel="Rai2.it"><title lang="it">Re Start - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230214004300 +0000" stop="20230214004500 +0000" channel="Rai2.it"><title lang="it">Meteo 2</title><category lang="it">ostalo</category></programme>
+<programme start="20230214004500 +0000" stop="20230214013000 +0000" channel="Rai2.it"><title lang="it">I Lunatici - Puntata del /2023, talk-show</title><category lang="it">Zabava</category></programme>
+<programme start="20230214013000 +0000" stop="20230214023000 +0000" channel="Rai2.it"><title lang="it">Calcio Totale</title><category lang="it">Sportski</category></programme>
+<programme start="20230214023000 +0000" stop="20230214040500 +0000" channel="Rai2.it"><title lang="it">Casa Italia</title><category lang="it">Magazin</category></programme>
+<programme start="20230214040500 +0000" stop="20230214042500 +0000" channel="Rai2.it"><title lang="it">Piloti, serija</title><category lang="it">Komedija</category></programme>
+<programme start="20230214042500 +0000" stop="20230214052000 +0000" channel="Rai2.it"><title lang="it">La Grande Vallata, serija</title><category lang="it">Vestern</category></programme>
+<programme start="20230214050000 +0000" stop="20230214052000 +0000" channel="Rai2.it"><title lang="it">La Grande Vallata, serija</title><category lang="it">Vestern</category></programme>
+<programme start="20230214052000 +0000" stop="20230214061000 +0000" channel="Rai2.it"><title lang="it">La Grande Vallata, serija</title><category lang="it">Vestern</category></programme>
+<programme start="20230214061000 +0000" stop="20230214061500 +0000" channel="Rai2.it"><title lang="it">Viva Rai 2! show</title><category lang="it">ostalo</category></programme>
+<programme start="20230214061500 +0000" stop="20230214070000 +0000" channel="Rai2.it"><title lang="it">Viva Rai 2! show</title><category lang="it">ostalo</category></programme>
+<programme start="20230214070000 +0000" stop="20230214073000 +0000" channel="Rai2.it"><title lang="it">E viva il Videobox</title><category lang="it">ostalo</category></programme>
+<programme start="20230214073000 +0000" stop="20230214074500 +0000" channel="Rai2.it"><title lang="it">TG2</title><category lang="it">Informativni</category></programme>
+<programme start="20230214074500 +0000" stop="20230214085800 +0000" channel="Rai2.it"><title lang="it">Radio2 Social Club - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230214085800 +0000" stop="20230214090000 +0000" channel="Rai2.it"><title lang="it">Meteo 2</title><category lang="it">ostalo</category></programme>
+<programme start="20230214090000 +0000" stop="20230214095500 +0000" channel="Rai2.it"><title lang="it">TG2 Italia</title><category lang="it">Informativni</category></programme>
+<programme start="20230214095500 +0000" stop="20230214100000 +0000" channel="Rai2.it"><title lang="it">TG2 Flash</title><category lang="it">Informativni</category></programme>
+<programme start="20230214100000 +0000" stop="20230214101000 +0000" channel="Rai2.it"><title lang="it">TG Sport Giorno</title><category lang="it">ostalo</category></programme>
+<programme start="20230214101000 +0000" stop="20230214120000 +0000" channel="Rai2.it"><title lang="it">I Fatti Vostri - Puntata del /2023</title><category lang="it">Zabava</category></programme>
+<programme start="20230214120000 +0000" stop="20230214123000 +0000" channel="Rai2.it"><title lang="it">TG2 GIORNO</title><category lang="it">Informativni</category></programme>
+<programme start="20230214123000 +0000" stop="20230214125000 +0000" channel="Rai2.it"><title lang="it">TG2 Costume e Società</title><category lang="it">Informativni</category></programme>
+<programme start="20230214125000 +0000" stop="20230214130000 +0000" channel="Rai2.it"><title lang="it">TG2 Medicina 33</title><category lang="it">Informativni</category></programme>
+<programme start="20230214130000 +0000" stop="20230214142500 +0000" channel="Rai2.it"><title lang="it">Ore 14 - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230214142500 +0000" stop="20230214160000 +0000" channel="Rai2.it"><title lang="it">Bellama’ - Puntata del /2023</title><category lang="it">Zabava</category></programme>
+<programme start="20230214160000 +0000" stop="20230214170000 +0000" channel="Rai2.it"><title lang="it">Nei tuoi panni, talk-show</title><category lang="it">ostalo</category></programme>
+<programme start="20230214170000 +0000" stop="20230214171000 +0000" channel="Rai2.it"><title lang="it">TG Parlamento</title><category lang="it">Informativni</category></programme>
+<programme start="20230214171000 +0000" stop="20230214171500 +0000" channel="Rai2.it"><title lang="it">TG2 L.I.S.</title><category lang="it">Informativni</category></programme>
+<programme start="20230214171500 +0000" stop="20230214173500 +0000" channel="Rai2.it"><title lang="it">TG2</title><category lang="it">Informativni</category></programme>
+<programme start="20230214173500 +0000" stop="20230214175800 +0000" channel="Rai2.it"><title lang="it">TG Sport Sera</title><category lang="it">ostalo</category></programme>
+<programme start="20230214175800 +0000" stop="20230214180000 +0000" channel="Rai2.it"><title lang="it">Meteo 2</title><category lang="it">ostalo</category></programme>
+<programme start="20230214180000 +0000" stop="20230214184000 +0000" channel="Rai2.it"><title lang="it">Hawaii Five-0, serija</title><category lang="it">Kriminalistički,Akcija</category></programme>
+<programme start="20230214184000 +0000" stop="20230214193000 +0000" channel="Rai2.it"><title lang="it">Novak, serija</title><category lang="it">Kriminalistički,Komedija</category></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="Rai2.it"><title lang="it">TG2 20.30</title><category lang="it">Informativni</category></programme>
+<programme start="20230214200000 +0000" stop="20230214202000 +0000" channel="Rai2.it"><title lang="it">TG2 Post</title><category lang="it">Informativni</category></programme>
+<programme start="20230214202000 +0000" stop="20230214223000 +0000" channel="Rai2.it"><title lang="it">Boomerissima</title><category lang="it">Magazin</category></programme>
+<programme start="20230214223000 +0000" stop="20230214233000 +0000" channel="Rai2.it"><title lang="it">Stasera c’è Cattelan su Rai2 - Puntata del /2023, show</title><category lang="it">ostalo</category></programme>
+<programme start="20230214233000 +0000" stop="20230215004300 +0000" channel="Rai2.it"><title lang="it">Generazione Z</title><category lang="it">ostalo</category></programme>
+<programme start="20230215004300 +0000" stop="20230215005500 +0000" channel="Rai2.it"><title lang="it">Meteo 2</title><category lang="it">ostalo</category></programme>
+<programme start="20230215005500 +0000" stop="20230215013000 +0000" channel="Rai2.it"><title lang="it">I Lunatici, talk-show</title><category lang="it">Zabava</category></programme>
+<programme start="20230215013000 +0000" stop="20230215024500 +0000" channel="Rai2.it"><title lang="it">Casa Italia</title><category lang="it">Magazin</category></programme>
+<programme start="20230215024500 +0000" stop="20230215025000 +0000" channel="Rai2.it"><title lang="it">Appuntamento al cinema</title><category lang="it">ostalo</category></programme>
+<programme start="20230215025000 +0000" stop="20230215041500 +0000" channel="Rai2.it"><title lang="it">L’esigenza di unirmi ogni volta con te</title><category lang="it">ostalo</category></programme>
+<programme start="20230215041500 +0000" stop="20230215042500 +0000" channel="Rai2.it"><title lang="it">Piloti, serija</title><category lang="it">Komedija</category></programme>
+<programme start="20230215042500 +0000" stop="20230215052000 +0000" channel="Rai2.it"><title lang="it">La Grande Vallata, serija</title><category lang="it">Vestern</category></programme>
+<programme start="20230213050000 +0000" stop="20230213050000 +0000" channel="Rai3.it"><title lang="it">Fuori Orario. Cose (mai) viste</title><category lang="it">ostalo</category></programme>
+<programme start="20230213060000 +0000" stop="20230213063000 +0000" channel="Rai3.it"><title lang="it">TGR Buongiorno Italia</title><category lang="it">ostalo</category></programme>
+<programme start="20230213063000 +0000" stop="20230213070000 +0000" channel="Rai3.it"><title lang="it">TGR Buongiorno Regione</title><category lang="it">ostalo</category></programme>
+<programme start="20230213070000 +0000" stop="20230213084500 +0000" channel="Rai3.it"><title lang="it">Agorà weekend - Puntata del /2023</title><category lang="it">Informativni</category></programme>
+<programme start="20230213084500 +0000" stop="20230213093000 +0000" channel="Rai3.it"><title lang="it">Agorà weekend - Puntata del /2023</title><category lang="it">Informativni</category></programme>
+<programme start="20230213093000 +0000" stop="20230213105500 +0000" channel="Rai3.it"><title lang="it">Elisir - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230213105500 +0000" stop="20230213110000 +0000" channel="Rai3.it"><title lang="it">Meteo 3</title><category lang="it">ostalo</category></programme>
+<programme start="20230213110000 +0000" stop="20230213112500 +0000" channel="Rai3.it"><title lang="it">TG3</title><category lang="it">Informativni</category></programme>
+<programme start="20230213112500 +0000" stop="20230213114500 +0000" channel="Rai3.it"><title lang="it">TG3 Fuori TG</title><category lang="it">Informativni</category></programme>
+<programme start="20230213114500 +0000" stop="20230213121500 +0000" channel="Rai3.it"><title lang="it">Quante storie - Puntata del /2023</title><category lang="it">ostalo</category></programme>
+<programme start="20230213121500 +0000" stop="20230213130000 +0000" channel="Rai3.it"><title lang="it">Passato e Presente - Il nome della rosa - /2023</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213130000 +0000" stop="20230213131900 +0000" channel="Rai3.it"><title lang="it">TG Regione</title><category lang="it">ostalo</category></programme>
+<programme start="20230213131900 +0000" stop="20230213132000 +0000" channel="Rai3.it"><title lang="it">TG Regione Meteo</title><category lang="it">ostalo</category></programme>
+<programme start="20230213132000 +0000" stop="20230213134500 +0000" channel="Rai3.it"><title lang="it">TG3</title><category lang="it">Informativni</category></programme>
+<programme start="20230213134500 +0000" stop="20230213135000 +0000" channel="Rai3.it"><title lang="it">TG3 LIS</title><category lang="it">Informativni</category></programme>
+<programme start="20230213135000 +0000" stop="20230213160000 +0000" channel="Rai3.it"><title lang="it">Speciale Tg3 - Elezioni Regionali Lazio e Lombardia</title><category lang="it">Informativni</category></programme>
+<programme start="20230213160000 +0000" stop="20230213163000 +0000" channel="Rai3.it"><title lang="it">Geo Documentario</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213163000 +0000" stop="20230213163500 +0000" channel="Rai3.it"><title lang="it">TGR Piazza Affari</title><category lang="it">ostalo</category></programme>
+<programme start="20230213163500 +0000" stop="20230213180000 +0000" channel="Rai3.it"><title lang="it">Geo</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="Rai3.it"><title lang="it">TG3</title><category lang="it">Informativni</category></programme>
+<programme start="20230213183000 +0000" stop="20230213185100 +0000" channel="Rai3.it"><title lang="it">TG Regione</title><category lang="it">ostalo</category></programme>
+<programme start="20230213185100 +0000" stop="20230213190000 +0000" channel="Rai3.it"><title lang="it">TG Regione Meteo</title><category lang="it">ostalo</category></programme>
+<programme start="20230213190000 +0000" stop="20230213191500 +0000" channel="Rai3.it"><title lang="it">Blob - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230213191500 +0000" stop="20230213194000 +0000" channel="Rai3.it"><title lang="it">Caro Marziano - Direttore del Museo Egizio (seconda parte) - Puntata del /2023</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213194000 +0000" stop="20230213195000 +0000" channel="Rai3.it"><title lang="it">Il cavallo e la torre</title><category lang="it">Informativni</category></programme>
+<programme start="20230213195000 +0000" stop="20230213202000 +0000" channel="Rai3.it"><title lang="it">Un posto al sole, serija</title><category lang="it">Drama</category></programme>
+<programme start="20230213202000 +0000" stop="20230213221500 +0000" channel="Rai3.it"><title lang="it">Acqua meno 40% - Presa Diretta - Puntata del /2023</title><category lang="it">ostalo</category></programme>
+<programme start="20230213221500 +0000" stop="20230213230000 +0000" channel="Rai3.it"><title lang="it">La Scelta</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213230000 +0000" stop="20230214000000 +0000" channel="Rai3.it"><title lang="it">TG3 Linea notte</title><category lang="it">Informativni</category></programme>
+<programme start="20230214000000 +0000" stop="20230214000500 +0000" channel="Rai3.it"><title lang="it">Meteo 3</title><category lang="it">ostalo</category></programme>
+<programme start="20230214000500 +0000" stop="20230214001500 +0000" channel="Rai3.it"><title lang="it">Parlamento Magazine</title><category lang="it">Magazin</category></programme>
+<programme start="20230214001500 +0000" stop="20230214004500 +0000" channel="Rai3.it"><title lang="it">O anche no - Puntata del /2023</title><category lang="it">Reality</category></programme>
+<programme start="20230214004500 +0000" stop="20230214012000 +0000" channel="Rai3.it"><title lang="it">Protestantesimo - &quot;Bibbia. Di tutto un Pop&quot; - /2023</title><category lang="it">Religijski</category></programme>
+<programme start="20230214012000 +0000" stop="20230214050000 +0000" channel="Rai3.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230214050000 +0000" stop="20230214050000 +0000" channel="Rai3.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230214060000 +0000" stop="20230214063000 +0000" channel="Rai3.it"><title lang="it">TGR Buongiorno Italia</title><category lang="it">ostalo</category></programme>
+<programme start="20230214063000 +0000" stop="20230214070000 +0000" channel="Rai3.it"><title lang="it">TGR Buongiorno Regione</title><category lang="it">ostalo</category></programme>
+<programme start="20230214070000 +0000" stop="20230214084500 +0000" channel="Rai3.it"><title lang="it">Agorà weekend - Puntata del /2023</title><category lang="it">Informativni</category></programme>
+<programme start="20230214084500 +0000" stop="20230214093000 +0000" channel="Rai3.it"><title lang="it">Agorà weekend - Puntata del /2023</title><category lang="it">Informativni</category></programme>
+<programme start="20230214093000 +0000" stop="20230214105500 +0000" channel="Rai3.it"><title lang="it">Elisir - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230214105500 +0000" stop="20230214110000 +0000" channel="Rai3.it"><title lang="it">Meteo 3</title><category lang="it">ostalo</category></programme>
+<programme start="20230214110000 +0000" stop="20230214112500 +0000" channel="Rai3.it"><title lang="it">TG3</title><category lang="it">Informativni</category></programme>
+<programme start="20230214112500 +0000" stop="20230214114500 +0000" channel="Rai3.it"><title lang="it">TG3 Fuori TG</title><category lang="it">Informativni</category></programme>
+<programme start="20230214114500 +0000" stop="20230214121500 +0000" channel="Rai3.it"><title lang="it">Quante storie - Puntata del /2023</title><category lang="it">ostalo</category></programme>
+<programme start="20230214121500 +0000" stop="20230214130000 +0000" channel="Rai3.it"><title lang="it">Passato e Presente - Il nome della rosa - /2023</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214130000 +0000" stop="20230214131900 +0000" channel="Rai3.it"><title lang="it">TG Regione</title><category lang="it">ostalo</category></programme>
+<programme start="20230214131900 +0000" stop="20230214132000 +0000" channel="Rai3.it"><title lang="it">TG Regione Meteo</title><category lang="it">ostalo</category></programme>
+<programme start="20230214132000 +0000" stop="20230214134900 +0000" channel="Rai3.it"><title lang="it">TG3</title><category lang="it">Informativni</category></programme>
+<programme start="20230214134900 +0000" stop="20230214135000 +0000" channel="Rai3.it"><title lang="it">Meteo 3</title><category lang="it">ostalo</category></programme>
+<programme start="20230214135000 +0000" stop="20230214140500 +0000" channel="Rai3.it"><title lang="it">TGR Leonardo</title><category lang="it">Magazin</category></programme>
+<programme start="20230214140500 +0000" stop="20230214141500 +0000" channel="Rai3.it"><title lang="it">TGR Piazza Affari</title><category lang="it">ostalo</category></programme>
+<programme start="20230214141500 +0000" stop="20230214142000 +0000" channel="Rai3.it"><title lang="it">TG3 LIS</title><category lang="it">Informativni</category></programme>
+<programme start="20230214142000 +0000" stop="20230214142500 +0000" channel="Rai3.it"><title lang="it">Rai Parlamento Telegiornale</title><category lang="it">Informativni</category></programme>
+<programme start="20230214142500 +0000" stop="20230214151000 +0000" channel="Rai3.it"><title lang="it">Alla scoperta del ramo d’oro</title><category lang="it">Magazin</category></programme>
+<programme start="20230214151000 +0000" stop="20230214180000 +0000" channel="Rai3.it"><title lang="it">Geo</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214180000 +0000" stop="20230214183000 +0000" channel="Rai3.it"><title lang="it">TG3</title><category lang="it">Informativni</category></programme>
+<programme start="20230214183000 +0000" stop="20230214185100 +0000" channel="Rai3.it"><title lang="it">TG Regione</title><category lang="it">ostalo</category></programme>
+<programme start="20230214185100 +0000" stop="20230214190000 +0000" channel="Rai3.it"><title lang="it">TG Regione Meteo</title><category lang="it">ostalo</category></programme>
+<programme start="20230214190000 +0000" stop="20230214191500 +0000" channel="Rai3.it"><title lang="it">Blob - Puntata del /2023</title><category lang="it">Magazin</category></programme>
+<programme start="20230214191500 +0000" stop="20230214193500 +0000" channel="Rai3.it"><title lang="it">Caro Marziano - Direttore del Museo Egizio (seconda parte) - Puntata del /2023</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214193500 +0000" stop="20230214195000 +0000" channel="Rai3.it"><title lang="it">Il cavallo e la torre</title><category lang="it">Informativni</category></programme>
+<programme start="20230214195000 +0000" stop="20230214202000 +0000" channel="Rai3.it"><title lang="it">Un posto al sole, serija</title><category lang="it">Drama</category></programme>
+<programme start="20230214202000 +0000" stop="20230214230000 +0000" channel="Rai3.it"><title lang="it">#cartabianca - Puntata del /2023, talk-show</title><category lang="it">ostalo</category></programme>
+<programme start="20230214230000 +0000" stop="20230215000000 +0000" channel="Rai3.it"><title lang="it">TG3 Linea notte</title><category lang="it">Informativni</category></programme>
+<programme start="20230215000000 +0000" stop="20230215000500 +0000" channel="Rai3.it"><title lang="it">Meteo 3</title><category lang="it">ostalo</category></programme>
+<programme start="20230215000500 +0000" stop="20230215001500 +0000" channel="Rai3.it"><title lang="it">Parlamento Magazine</title><category lang="it">Magazin</category></programme>
+<programme start="20230215001500 +0000" stop="20230215004500 +0000" channel="Rai3.it"><title lang="it">Sorgente di vita - Puntata del /2023</title><category lang="it">Religijski</category></programme>
+<programme start="20230215004500 +0000" stop="20230215012000 +0000" channel="Rai3.it"><title lang="it">Sulla via di Damasco - Puntata del /2023</title><category lang="it">Religijski</category></programme>
+<programme start="20230215012000 +0000" stop="20230215050000 +0000" channel="Rai3.it"><title lang="it">RaiNews24</title><category lang="it">Informativni</category></programme>
+<programme start="20230213050000 +0000" stop="20230213062000 +0000" channel="RaiScuola.it"><title lang="it">Chi ha ucciso il Neanderthal?</title><category lang="it">ostalo</category></programme>
+<programme start="20230213062000 +0000" stop="20230213063500 +0000" channel="RaiScuola.it"><title lang="it">Inglese Dr. Jack Hill and Mr. Speech - St. 2 Without a friend</title><category lang="it">Komedija</category></programme>
+<programme start="20230213063500 +0000" stop="20230213064500 +0000" channel="RaiScuola.it"><title lang="it">Spot on the Map Smithfield</title><category lang="it">ostalo</category></programme>
+<programme start="20230213064500 +0000" stop="20230213070000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Mito e Pensiero. Le Troiane di Euripide</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213070000 +0000" stop="20230213071500 +0000" channel="RaiScuola.it"><title lang="it">Una lunga fedeltà</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213071500 +0000" stop="20230213073000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Mito e pensiero: Il Prometeo incatenato di Eschilo</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213073000 +0000" stop="20230213080000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Newton Edu (pt. 23) I microrganismi nell¿aria</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213080000 +0000" stop="20230213090000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Verso il futuro</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213090000 +0000" stop="20230213093000 +0000" channel="RaiScuola.it"><title lang="it">Memex Nautilus - Intelligenza artificiale, sempre più reale</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213093000 +0000" stop="20230213093500 +0000" channel="RaiScuola.it"><title lang="it">PERFECT ENGLISH Perfect English, serija</title><category lang="it">ostalo</category></programme>
+<programme start="20230213093500 +0000" stop="20230213094500 +0000" channel="RaiScuola.it"><title lang="it">Spot on the Map St Paul’s Cathedral</title><category lang="it">ostalo</category></programme>
+<programme start="20230213094500 +0000" stop="20230213100000 +0000" channel="RaiScuola.it"><title lang="it">3ways2 serie 1 3Ways2, serija</title><category lang="it">ostalo</category></programme>
+<programme start="20230213100000 +0000" stop="20230213101500 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Paradiso</title><category lang="it">ostalo</category></programme>
+<programme start="20230213101500 +0000" stop="20230213103000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Mito e Pensiero: L’Agamennone di Eschilo</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213103000 +0000" stop="20230213110000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213110000 +0000" stop="20230213113000 +0000" channel="RaiScuola.it"><title lang="it">La scuola in tv Impressione, luce e colore.</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213113000 +0000" stop="20230213115000 +0000" channel="RaiScuola.it"><title lang="it">La scuola in tv La scultura in legno.</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213115000 +0000" stop="20230213120000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Mistero buffo</title><category lang="it">ostalo</category></programme>
+<programme start="20230213120000 +0000" stop="20230213130000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Files</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213130000 +0000" stop="20230213135000 +0000" channel="RaiScuola.it"><title lang="it">Rivoluzioni, le idee che hanno cambiato il mondo</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213135000 +0000" stop="20230213140000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Musica: strumenti: Il clarinetto.</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213140000 +0000" stop="20230213142000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213142000 +0000" stop="20230213143000 +0000" channel="RaiScuola.it"><title lang="it">Musei, palazzi storici e case di artisti nella capitale</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213143000 +0000" stop="20230213150000 +0000" channel="RaiScuola.it"><title lang="it">I segreti del colore Il cantiere di Michelangelo e Raffaello</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213150000 +0000" stop="20230213153000 +0000" channel="RaiScuola.it"><title lang="it">La scuola in tv Paesaggi d’Europa.</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213153000 +0000" stop="20230213160000 +0000" channel="RaiScuola.it"><title lang="it">Memex I luoghi della scienza - Puntata 22: Trapani</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213160000 +0000" stop="20230213170000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Verso il futuro</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213170000 +0000" stop="20230213173000 +0000" channel="RaiScuola.it"><title lang="it">Memex Sperimentiamo!</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213173000 +0000" stop="20230213180000 +0000" channel="RaiScuola.it"><title lang="it">Shakespeare’s Tragic Heroes King Lear</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213180000 +0000" stop="20230213183000 +0000" channel="RaiScuola.it"><title lang="it">Riedizioni ed eventi speciali Oggi è: 13</title><category lang="it">ostalo</category></programme>
+<programme start="20230213183000 +0000" stop="20230213184500 +0000" channel="RaiScuola.it"><title lang="it">Musei, palazzi storici e case di artisti nella capitale</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213184500 +0000" stop="20230213190000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Strumenti: Museo del Saxofono</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230213190000 +0000" stop="20230213195000 +0000" channel="RaiScuola.it"><title lang="it">I grandi della letteratura italiana</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213195000 +0000" stop="20230213200000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Amleto</title><category lang="it">ostalo</category></programme>
+<programme start="20230213200000 +0000" stop="20230213200500 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Files</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213200500 +0000" stop="20230213210000 +0000" channel="RaiScuola.it"><title lang="it">La storia dell’elettricità La storia dell¿elettricità ¿ Rivelazioni e rivoluzioni</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213210000 +0000" stop="20230213220000 +0000" channel="RaiScuola.it"><title lang="it">Le creature acquatiche più grandi del mo</title><category lang="it">ostalo</category></programme>
+<programme start="20230213220000 +0000" stop="20230213230000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Storie della Scienza - p. 12</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213230000 +0000" stop="20230213231500 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Lo Schiaccianoci</title><category lang="it">ostalo</category></programme>
+<programme start="20230213231500 +0000" stop="20230213233000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Mito e Pensiero. Le Troiane di Euripide</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230213233000 +0000" stop="20230214000000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214000000 +0000" stop="20230214003000 +0000" channel="RaiScuola.it"><title lang="it">The Secret Life of Books</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214003000 +0000" stop="20230214012000 +0000" channel="RaiScuola.it"><title lang="it">I grandi della letteratura italiana</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214012000 +0000" stop="20230214023000 +0000" channel="RaiScuola.it"><title lang="it">Chi ha ucciso il Neanderthal?</title><category lang="it">ostalo</category></programme>
+<programme start="20230214023000 +0000" stop="20230214024000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214024000 +0000" stop="20230214025000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214025000 +0000" stop="20230214030000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214030000 +0000" stop="20230214033000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214033000 +0000" stop="20230214042000 +0000" channel="RaiScuola.it"><title lang="it">I grandi della letteratura italiana</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214042000 +0000" stop="20230214043000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Lolita</title><category lang="it">ostalo</category></programme>
+<programme start="20230214043000 +0000" stop="20230214050000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214050000 +0000" stop="20230214050000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214060000 +0000" stop="20230214062000 +0000" channel="RaiScuola.it"><title lang="it">Inglese Dr. Jack Hill and Mr. Speech St. 2 Gone Without the Wind</title><category lang="it">Komedija</category></programme>
+<programme start="20230214062000 +0000" stop="20230214063000 +0000" channel="RaiScuola.it"><title lang="it">Spot on the Map Covent Garden</title><category lang="it">ostalo</category></programme>
+<programme start="20230214063000 +0000" stop="20230214064500 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Amleto</title><category lang="it">ostalo</category></programme>
+<programme start="20230214064500 +0000" stop="20230214070000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Mito e pensiero. Le Supplici di Eschilo</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214070000 +0000" stop="20230214071500 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Strumenti: Mus</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214071500 +0000" stop="20230214073000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it I generi cinematografici: La commedia all’italiana</title><category lang="it">ostalo</category></programme>
+<programme start="20230214073000 +0000" stop="20230214080000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Newton Edu (pt. 24) I microrganismi del suolo</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214080000 +0000" stop="20230214093000 +0000" channel="RaiScuola.it"><title lang="it">Arctic Drift</title><category lang="it">ostalo</category></programme>
+<programme start="20230214093000 +0000" stop="20230214095500 +0000" channel="RaiScuola.it"><title lang="it">The Great Myths</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214095500 +0000" stop="20230214100000 +0000" channel="RaiScuola.it"><title lang="it">Patrimonio Immateriale ed Archeologico S</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214100000 +0000" stop="20230214101500 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Lolita</title><category lang="it">ostalo</category></programme>
+<programme start="20230214101500 +0000" stop="20230214103000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: le Troiane di Euripide</title><category lang="it">ostalo</category></programme>
+<programme start="20230214103000 +0000" stop="20230214110000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214110000 +0000" stop="20230214114500 +0000" channel="RaiScuola.it"><title lang="it">La scuola in tv Vita buona, felicità e passioni nell’etica di Spinoza.</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214114500 +0000" stop="20230214130000 +0000" channel="RaiScuola.it"><title lang="it">Chi ha ucciso il Neanderthal?</title><category lang="it">ostalo</category></programme>
+<programme start="20230214130000 +0000" stop="20230214130500 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Files</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214130500 +0000" stop="20230214140000 +0000" channel="RaiScuola.it"><title lang="it">Dolore, pus e veleno Veleno</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214140000 +0000" stop="20230214142000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214142000 +0000" stop="20230214143000 +0000" channel="RaiScuola.it"><title lang="it">Musei, palazzi storici e case di artisti nella capitale</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214143000 +0000" stop="20230214150000 +0000" channel="RaiScuola.it"><title lang="it">I segreti del colore Restaurare i dipinti murali</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214150000 +0000" stop="20230214151500 +0000" channel="RaiScuola.it"><title lang="it">La scuola in tv La biblioteca dei miti.</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214151500 +0000" stop="20230214153000 +0000" channel="RaiScuola.it"><title lang="it">La scuola in tv Il Pastello.</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214153000 +0000" stop="20230214160000 +0000" channel="RaiScuola.it"><title lang="it">Memex I luoghi della scienza - Puntata 23: Verona</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214160000 +0000" stop="20230214165000 +0000" channel="RaiScuola.it"><title lang="it">Rivoluzioni, le idee che hanno cambiato il mondo</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214165000 +0000" stop="20230214172000 +0000" channel="RaiScuola.it"><title lang="it">Memex Sperimentiamo!</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214172000 +0000" stop="20230214173000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Alfabeto del futuro: Tecnologia</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214173000 +0000" stop="20230214175000 +0000" channel="RaiScuola.it"><title lang="it">The Italian Dream. Studying Art</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214175000 +0000" stop="20230214180000 +0000" channel="RaiScuola.it"><title lang="it">Figures of Speech Eiffel Tower, Pa</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214180000 +0000" stop="20230214181500 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Lolita</title><category lang="it">ostalo</category></programme>
+<programme start="20230214181500 +0000" stop="20230214183000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: le Troiane di Euripide</title><category lang="it">ostalo</category></programme>
+<programme start="20230214183000 +0000" stop="20230214184500 +0000" channel="RaiScuola.it"><title lang="it">Storia in breve</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214184500 +0000" stop="20230214190000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Luoghi del Contemporaneo: Palazzo Fabroni</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230214190000 +0000" stop="20230214195000 +0000" channel="RaiScuola.it"><title lang="it">I grandi della letteratura italiana</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214195000 +0000" stop="20230214200000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Mistero buffo</title><category lang="it">ostalo</category></programme>
+<programme start="20230214200000 +0000" stop="20230214212000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Files</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214212000 +0000" stop="20230214222000 +0000" channel="RaiScuola.it"><title lang="it">Odio il mio aspetto Prima TV per Rai</title><category lang="it">ostalo</category></programme>
+<programme start="20230214222000 +0000" stop="20230214231500 +0000" channel="RaiScuola.it"><title lang="it">1783 - Il primo volo dell’uomo</title><category lang="it">ostalo</category></programme>
+<programme start="20230214231500 +0000" stop="20230214233000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it Mito e pensiero. Le Supplici di Eschilo</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230214233000 +0000" stop="20230215000000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215000000 +0000" stop="20230215003000 +0000" channel="RaiScuola.it"><title lang="it">The Secret Life of Books</title><category lang="it">Dokumentarni</category></programme>
+<programme start="20230215003000 +0000" stop="20230215012000 +0000" channel="RaiScuola.it"><title lang="it">I grandi della letteratura italiana</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215012000 +0000" stop="20230215013000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Amleto</title><category lang="it">ostalo</category></programme>
+<programme start="20230215013000 +0000" stop="20230215023000 +0000" channel="RaiScuola.it"><title lang="it">Progetto Scienza Verso il futuro</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215023000 +0000" stop="20230215024000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215024000 +0000" stop="20230215025000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215025000 +0000" stop="20230215030000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215030000 +0000" stop="20230215033000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215033000 +0000" stop="20230215042000 +0000" channel="RaiScuola.it"><title lang="it">I grandi della letteratura italiana</title><category lang="it">Obrazovni</category></programme>
+<programme start="20230215042000 +0000" stop="20230215043000 +0000" channel="RaiScuola.it"><title lang="it">Le serie di RaiCultura.it L’attualità di un classico: Dante (e le donne)</title><category lang="it">ostalo</category></programme>
+<programme start="20230215043000 +0000" stop="20230215050000 +0000" channel="RaiScuola.it"><title lang="it">Enciclopedia infinita</title><category lang="it">Obrazovni</category></programme>
+</tv>

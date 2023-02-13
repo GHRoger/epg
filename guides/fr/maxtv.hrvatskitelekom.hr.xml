@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="France24French.fr"><display-name>France 24 French</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<channel id="TV5MondeEurope.fr"><display-name>TV5Monde Europe</display-name><icon src="https://i.imgur.com/rPAbMSu.png"/><url>https://maxtv.hrvatskitelekom.hr</url></channel>
+<programme start="20230213050000 +0000" stop="20230213050000 +0000" channel="France24French.fr"><title lang="fr">LE GROS MOT DE L’ECO (6)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213052000 +0000" stop="20230213053000 +0000" channel="France24French.fr"><title lang="fr">L’INFO ECO</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213053000 +0000" stop="20230213054900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213054900 +0000" stop="20230213055400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 06h50 (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213055400 +0000" stop="20230213060000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (626)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213060000 +0000" stop="20230213061500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213061500 +0000" stop="20230213061600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (627)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213061600 +0000" stop="20230213062100 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE (61)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213062100 +0000" stop="20230213063000 +0000" channel="France24French.fr"><title lang="fr">REPORTAGE F24 (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213063000 +0000" stop="20230213064000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213064000 +0000" stop="20230213064500 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213064500 +0000" stop="20230213064600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (628)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213064600 +0000" stop="20230213065100 +0000" channel="France24French.fr"><title lang="fr">L’INFO ECO</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213065100 +0000" stop="20230213070000 +0000" channel="France24French.fr"><title lang="fr">FOCUS (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213070000 +0000" stop="20230213071500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213071500 +0000" stop="20230213071600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (629)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213071600 +0000" stop="20230213073000 +0000" channel="France24French.fr"><title lang="fr">L’INVITE DU JOUR (21)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213073000 +0000" stop="20230213073900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213073900 +0000" stop="20230213074400 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213074400 +0000" stop="20230213074500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (630)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213074500 +0000" stop="20230213075000 +0000" channel="France24French.fr"><title lang="fr">FOCUS PKG (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213075000 +0000" stop="20230213075400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 08h50 (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213075400 +0000" stop="20230213080000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (631)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213080000 +0000" stop="20230213081400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213081400 +0000" stop="20230213081500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (632)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213081500 +0000" stop="20230213082000 +0000" channel="France24French.fr"><title lang="fr">L’INFO ECO</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213082000 +0000" stop="20230213083000 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE (62)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213083000 +0000" stop="20230213084500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213084500 +0000" stop="20230213084600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (633)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213084600 +0000" stop="20230213085000 +0000" channel="France24French.fr"><title lang="fr">A LA CARTE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213085000 +0000" stop="20230213085900 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (57)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213085900 +0000" stop="20230213090900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213090900 +0000" stop="20230213092900 +0000" channel="France24French.fr"><title lang="fr">LEGENDES URBAINES</title><category lang="fr">Magazin</category></programme>
+<programme start="20230213092900 +0000" stop="20230213093900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213093900 +0000" stop="20230213100000 +0000" channel="France24French.fr"><title lang="fr">ICI L’EUROPE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213100000 +0000" stop="20230213101400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (25)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213101400 +0000" stop="20230213103000 +0000" channel="France24French.fr"><title lang="fr">ELEMENT TERRE (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213103000 +0000" stop="20230213104400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213104400 +0000" stop="20230213110000 +0000" channel="France24French.fr"><title lang="fr">L’ENTRETIEN (1)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213110000 +0000" stop="20230213111400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213111400 +0000" stop="20230213111500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (634)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213111500 +0000" stop="20230213113000 +0000" channel="France24French.fr"><title lang="fr">A L’AFFICHE (11)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213113000 +0000" stop="20230213114400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213114400 +0000" stop="20230213114600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (635)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213114600 +0000" stop="20230213115000 +0000" channel="France24French.fr"><title lang="fr">FOCUS +Lct Sport 12h45 (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213115000 +0000" stop="20230213120000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (58)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213120000 +0000" stop="20230213121400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213121400 +0000" stop="20230213121500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (636)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213121500 +0000" stop="20230213122000 +0000" channel="France24French.fr"><title lang="fr">L’INVITE DU JOUR (22)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213122000 +0000" stop="20230213123000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (59)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213123000 +0000" stop="20230213125000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213125000 +0000" stop="20230213125100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (637)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213125100 +0000" stop="20230213130000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SCIENCES SANTE (25)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213130000 +0000" stop="20230213131400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213131400 +0000" stop="20230213131600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (638)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213131600 +0000" stop="20230213132100 +0000" channel="France24French.fr"><title lang="fr">FOCUS (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213132100 +0000" stop="20230213133000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUES DU JOUR (11)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213133000 +0000" stop="20230213134400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213134400 +0000" stop="20230213134500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (639)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213134500 +0000" stop="20230213135000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE CULTURE (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213135000 +0000" stop="20230213140000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (60)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213140000 +0000" stop="20230213140900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (25)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213140900 +0000" stop="20230213142200 +0000" channel="France24French.fr"><title lang="fr">AFRIQUE HEBDO (6)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213142200 +0000" stop="20230213143000 +0000" channel="France24French.fr"><title lang="fr">FOCUS FRANCE (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213143000 +0000" stop="20230213143900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213143900 +0000" stop="20230213150000 +0000" channel="France24French.fr"><title lang="fr">LE PARIS DES ARTS (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213150000 +0000" stop="20230213151400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (37)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213151400 +0000" stop="20230213153000 +0000" channel="France24French.fr"><title lang="fr">REPORTERS PLT + PKG (3)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213153000 +0000" stop="20230213154400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213154400 +0000" stop="20230213155900 +0000" channel="France24French.fr"><title lang="fr">A L’AFFICHE (11)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213155900 +0000" stop="20230213161400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213161400 +0000" stop="20230213162900 +0000" channel="France24French.fr"><title lang="fr">LE GROS MOT DE L’ECO (7)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213162900 +0000" stop="20230213164400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213164400 +0000" stop="20230213170000 +0000" channel="France24French.fr"><title lang="fr">C’EST EN FRANCE (2)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213170000 +0000" stop="20230213171500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (25)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213171500 +0000" stop="20230213171600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (640)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213171600 +0000" stop="20230213173000 +0000" channel="France24French.fr"><title lang="fr">LE FAIT DU JOUR (25)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213173000 +0000" stop="20230213174400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213174400 +0000" stop="20230213174600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (641)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213174600 +0000" stop="20230213175200 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR (91)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213175200 +0000" stop="20230213180000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213180000 +0000" stop="20230213181000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213181000 +0000" stop="20230213190000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213190000 +0000" stop="20230213191400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213191400 +0000" stop="20230213191500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (642)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213191500 +0000" stop="20230213192000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR (92)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213192000 +0000" stop="20230213193000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213193000 +0000" stop="20230213200000 +0000" channel="France24French.fr"><title lang="fr">ON VA PLUS LOIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213200000 +0000" stop="20230213202000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213202000 +0000" stop="20230213202100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (645)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213202100 +0000" stop="20230213203000 +0000" channel="France24French.fr"><title lang="fr">INFO-INTOX</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213203000 +0000" stop="20230213204200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213204200 +0000" stop="20230213204400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (646)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213204400 +0000" stop="20230213210000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (61)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213210000 +0000" stop="20230213211400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213211400 +0000" stop="20230213211500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (647)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213211500 +0000" stop="20230213212000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR (93)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213212000 +0000" stop="20230213213000 +0000" channel="France24French.fr"><title lang="fr">INFO-INTOX</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213213000 +0000" stop="20230213214200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213214200 +0000" stop="20230213214400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (648)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213214400 +0000" stop="20230213220000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (62)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213220000 +0000" stop="20230213221400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213221400 +0000" stop="20230213221500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (649)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213221500 +0000" stop="20230213223000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE + INFO INTOX (25)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213223000 +0000" stop="20230213224500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213224500 +0000" stop="20230213224600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (650)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213224600 +0000" stop="20230213225100 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213225100 +0000" stop="20230213230000 +0000" channel="France24French.fr"><title lang="fr">FOCUS DIRECT (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213230000 +0000" stop="20230213231100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213231100 +0000" stop="20230214000000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214000000 +0000" stop="20230214001400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214001400 +0000" stop="20230214003000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (62)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214003000 +0000" stop="20230214004400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (31)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214004400 +0000" stop="20230214010000 +0000" channel="France24French.fr"><title lang="fr">A L’AFFICHE (11)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214010000 +0000" stop="20230214011400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214011400 +0000" stop="20230214013000 +0000" channel="France24French.fr"><title lang="fr">LE GROS MOT DE L’ECO (7)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214013000 +0000" stop="20230214014400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214014400 +0000" stop="20230214020000 +0000" channel="France24French.fr"><title lang="fr">C’EST EN FRANCE (2)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214020000 +0000" stop="20230214021100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (31)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214021100 +0000" stop="20230214030000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214030000 +0000" stop="20230214030900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214030900 +0000" stop="20230214033000 +0000" channel="France24French.fr"><title lang="fr">REPORTERS PLT + PKG (4)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214033000 +0000" stop="20230214033900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214033900 +0000" stop="20230214040000 +0000" channel="France24French.fr"><title lang="fr">LEGENDES URBAINES</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214040000 +0000" stop="20230214040900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (7)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214040900 +0000" stop="20230214043000 +0000" channel="France24French.fr"><title lang="fr">ICI L’EUROPE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214043000 +0000" stop="20230214044000 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214044000 +0000" stop="20230214044400 +0000" channel="France24French.fr"><title lang="fr">L’INSTANT MOBILE</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214044400 +0000" stop="20230214050000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (62)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214050000 +0000" stop="20230214050000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (62)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214052000 +0000" stop="20230214053000 +0000" channel="France24French.fr"><title lang="fr">L’INFO ECO</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214053000 +0000" stop="20230214054900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214054900 +0000" stop="20230214055400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 06h50 (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214055400 +0000" stop="20230214060000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (651)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214060000 +0000" stop="20230214061500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214061500 +0000" stop="20230214061600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (652)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214061600 +0000" stop="20230214062100 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE (63)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214062100 +0000" stop="20230214063000 +0000" channel="France24French.fr"><title lang="fr">REPORTAGE F24 (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214063000 +0000" stop="20230214064000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214064000 +0000" stop="20230214064500 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214064500 +0000" stop="20230214064600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (653)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214064600 +0000" stop="20230214065100 +0000" channel="France24French.fr"><title lang="fr">L’INFO ECO</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214065100 +0000" stop="20230214070000 +0000" channel="France24French.fr"><title lang="fr">FOCUS (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214070000 +0000" stop="20230214071500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214071500 +0000" stop="20230214071600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (654)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214071600 +0000" stop="20230214073000 +0000" channel="France24French.fr"><title lang="fr">L’INVITE DU JOUR (23)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214073000 +0000" stop="20230214073900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214073900 +0000" stop="20230214074400 +0000" channel="France24French.fr"><title lang="fr">LE DECRYPTAGE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214074400 +0000" stop="20230214074500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (655)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214074500 +0000" stop="20230214075000 +0000" channel="France24French.fr"><title lang="fr">FOCUS PKG (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214075000 +0000" stop="20230214075400 +0000" channel="France24French.fr"><title lang="fr">SPORTS 08h50 (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214075400 +0000" stop="20230214080000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (656)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214080000 +0000" stop="20230214081400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214081400 +0000" stop="20230214081500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (657)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214081500 +0000" stop="20230214082000 +0000" channel="France24French.fr"><title lang="fr">L’INFO ECO</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214082000 +0000" stop="20230214083000 +0000" channel="France24French.fr"><title lang="fr">DANS LA PRESSE (64)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214083000 +0000" stop="20230214084500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214084500 +0000" stop="20230214084600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (658)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214084600 +0000" stop="20230214085000 +0000" channel="France24French.fr"><title lang="fr">A LA CARTE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214085000 +0000" stop="20230214085900 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (61)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214085900 +0000" stop="20230214090900 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214090900 +0000" stop="20230214092900 +0000" channel="France24French.fr"><title lang="fr">LE PARIS DES ARTS (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214092900 +0000" stop="20230214093900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214093900 +0000" stop="20230214100000 +0000" channel="France24French.fr"><title lang="fr">ICI L’EUROPE</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214100000 +0000" stop="20230214101400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (26)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214101400 +0000" stop="20230214103000 +0000" channel="France24French.fr"><title lang="fr">ACTUELLES (6)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214103000 +0000" stop="20230214104400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214104400 +0000" stop="20230214110000 +0000" channel="France24French.fr"><title lang="fr">L’ENTRETIEN DE L’INTEL ECO (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214110000 +0000" stop="20230214111400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214111400 +0000" stop="20230214113000 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (659)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214113000 +0000" stop="20230214114400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214114400 +0000" stop="20230214114600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (660)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214114600 +0000" stop="20230214115000 +0000" channel="France24French.fr"><title lang="fr">FOCUS +Lct Sport 12h45 (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214115000 +0000" stop="20230214120000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (62)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214120000 +0000" stop="20230214121400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214121400 +0000" stop="20230214121500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (661)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214121500 +0000" stop="20230214122000 +0000" channel="France24French.fr"><title lang="fr">L’INVITE DU JOUR (24)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214122000 +0000" stop="20230214123000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (63)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214123000 +0000" stop="20230214125000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214125000 +0000" stop="20230214125100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (662)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214125100 +0000" stop="20230214130000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SCIENCES SANTE (26)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214130000 +0000" stop="20230214131400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214131400 +0000" stop="20230214131600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (663)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214131600 +0000" stop="20230214132100 +0000" channel="France24French.fr"><title lang="fr">FOCUS (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214132100 +0000" stop="20230214133000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUES DU JOUR</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214133000 +0000" stop="20230214134400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214134400 +0000" stop="20230214134500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (664)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214134500 +0000" stop="20230214135000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE CULTURE (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214135000 +0000" stop="20230214140000 +0000" channel="France24French.fr"><title lang="fr">SPORTS PD MATIN+MIDI (64)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214140000 +0000" stop="20230214141000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (26)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214141000 +0000" stop="20230214141400 +0000" channel="France24French.fr"><title lang="fr">FOCUS FRANCE (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214141400 +0000" stop="20230214143000 +0000" channel="France24French.fr"><title lang="fr">C’EST EN FRANCE (2)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214143000 +0000" stop="20230214143900 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214143900 +0000" stop="20230214150000 +0000" channel="France24French.fr"><title lang="fr">LEGENDES URBAINES</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214150000 +0000" stop="20230214151400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (38)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214151400 +0000" stop="20230214153000 +0000" channel="France24French.fr"><title lang="fr">ELEMENT TERRE (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214153000 +0000" stop="20230214154400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214154400 +0000" stop="20230214155900 +0000" channel="France24French.fr"><title lang="fr">A L’AFFICHE</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214155900 +0000" stop="20230214161400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214161400 +0000" stop="20230214162900 +0000" channel="France24French.fr"><title lang="fr">L’ENTRETIEN DE L’INTEL ECO (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214162900 +0000" stop="20230214164400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214164400 +0000" stop="20230214170000 +0000" channel="France24French.fr"><title lang="fr">EXPRESS ORIENT (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214170000 +0000" stop="20230214170500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (7)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214170500 +0000" stop="20230214173000 +0000" channel="France24French.fr"><title lang="fr">MARDI POLITIQUE (7)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214173000 +0000" stop="20230214174400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214174400 +0000" stop="20230214174600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (666)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214174600 +0000" stop="20230214175200 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR (94)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214175200 +0000" stop="20230214180000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214180000 +0000" stop="20230214181000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214181000 +0000" stop="20230214190000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214190000 +0000" stop="20230214191400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214191400 +0000" stop="20230214191500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (667)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214191500 +0000" stop="20230214192000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR (95)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214192000 +0000" stop="20230214193000 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214193000 +0000" stop="20230214200000 +0000" channel="France24French.fr"><title lang="fr">ON VA PLUS LOIN</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214200000 +0000" stop="20230214202000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214202000 +0000" stop="20230214202100 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (670)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214202100 +0000" stop="20230214203000 +0000" channel="France24French.fr"><title lang="fr">INFO-INTOX</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214203000 +0000" stop="20230214204200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214204200 +0000" stop="20230214204400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (671)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214204400 +0000" stop="20230214210000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (63)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214210000 +0000" stop="20230214211400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214211400 +0000" stop="20230214211500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (672)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214211500 +0000" stop="20230214212000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE SOIR (96)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214212000 +0000" stop="20230214213000 +0000" channel="France24French.fr"><title lang="fr">INFO-INTOX</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214213000 +0000" stop="20230214214200 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214214200 +0000" stop="20230214214400 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (673)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214214400 +0000" stop="20230214220000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (64)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214220000 +0000" stop="20230214221400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214221400 +0000" stop="20230214221500 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (674)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214221500 +0000" stop="20230214223000 +0000" channel="France24French.fr"><title lang="fr">ECONOMIE + INFO INTOX (26)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214223000 +0000" stop="20230214224500 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214224500 +0000" stop="20230214224600 +0000" channel="France24French.fr"><title lang="fr">LE RAPPEL DES TITRES (675)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214224600 +0000" stop="20230214225100 +0000" channel="France24French.fr"><title lang="fr">CHRONIQUE SPORTS (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214225100 +0000" stop="20230214230000 +0000" channel="France24French.fr"><title lang="fr">FOCUS DIRECT (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214230000 +0000" stop="20230214231100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214231100 +0000" stop="20230215000000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215000000 +0000" stop="20230215001400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215001400 +0000" stop="20230215003000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (64)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215003000 +0000" stop="20230215004400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (32)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215004400 +0000" stop="20230215010000 +0000" channel="France24French.fr"><title lang="fr">A L’AFFICHE</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215010000 +0000" stop="20230215011400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215011400 +0000" stop="20230215013000 +0000" channel="France24French.fr"><title lang="fr">L’ENTRETIEN DE L’INTEL ECO (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215013000 +0000" stop="20230215014400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215014400 +0000" stop="20230215020000 +0000" channel="France24French.fr"><title lang="fr">EXPRESS ORIENT (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215020000 +0000" stop="20230215021100 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215021100 +0000" stop="20230215030000 +0000" channel="France24French.fr"><title lang="fr">LE DEBAT (26)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215030000 +0000" stop="20230215031400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (32)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215031400 +0000" stop="20230215032100 +0000" channel="France24French.fr"><title lang="fr">LES OBSERVATEURS (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215032100 +0000" stop="20230215033000 +0000" channel="France24French.fr"><title lang="fr">FOCUS SOLO</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215033000 +0000" stop="20230215034400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (25)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215034400 +0000" stop="20230215035200 +0000" channel="France24French.fr"><title lang="fr">PAS 2 QUARTIER (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215035200 +0000" stop="20230215040000 +0000" channel="France24French.fr"><title lang="fr">FOCUS FRANCE (2)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215040000 +0000" stop="20230215041400 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL (38)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215041400 +0000" stop="20230215043000 +0000" channel="France24French.fr"><title lang="fr">EXPRESS ORIENT (7)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215043000 +0000" stop="20230215044400 +0000" channel="France24French.fr"><title lang="fr">BULLETIN (38)</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215044400 +0000" stop="20230215050000 +0000" channel="France24French.fr"><title lang="fr">LE JOURNAL DE L’AFRIQUE (64)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213050000 +0000" stop="20230213052400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le 6h00 info</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213052400 +0000" stop="20230213052900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213052900 +0000" stop="20230213055500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Télématin</title><category lang="fr">Magazin</category></programme>
+<programme start="20230213055500 +0000" stop="20230213055800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La séquence du filmeur - Le filmeur des champs</title><category lang="fr">Kratki</category></programme>
+<programme start="20230213055800 +0000" stop="20230213060000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La minute urbaine - Copenhague</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213060000 +0000" stop="20230213062700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Télématin</title><category lang="fr">Magazin</category></programme>
+<programme start="20230213062700 +0000" stop="20230213063000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Au détour</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213063000 +0000" stop="20230213065700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Télématin</title><category lang="fr">Magazin</category></programme>
+<programme start="20230213065700 +0000" stop="20230213070000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Merci professeur ! - Choucroute</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213070000 +0000" stop="20230213072200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de Radio-Canada</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213072200 +0000" stop="20230213073400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, le journal</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213073400 +0000" stop="20230213075800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Population d’Afrique - Programme de stabilisation du bassin du lac Tchad</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230213075800 +0000" stop="20230213080000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La séquence du filmeur - Le filmeur des champs</title><category lang="fr">Kratki</category></programme>
+<programme start="20230213080000 +0000" stop="20230213083100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Cuisine ouverte</title><category lang="fr">Kulinarski</category></programme>
+<programme start="20230213083100 +0000" stop="20230213085500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Roi des rivières - Rivière Jupiter - 1re partie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213085500 +0000" stop="20230213090200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Îles du monde - ILES DU MONDE</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230213090200 +0000" stop="20230213092900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C’est du belge - De Milan à Johannesburg, show</title><category lang="fr">Talent</category></programme>
+<programme start="20230213092900 +0000" stop="20230213095500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Épicerie fine</title><category lang="fr">Kulinarski</category></programme>
+<programme start="20230213095500 +0000" stop="20230213100000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de l’économie, ents</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213100000 +0000" stop="20230213101400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, le journal</title><category lang="fr">Informativni</category></programme>
+<programme start="20230213101400 +0000" stop="20230213101800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213101800 +0000" stop="20230213104000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 1011, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230213104000 +0000" stop="20230213104400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Vestiaires - En maintenance</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213104400 +0000" stop="20230213112800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Tout le monde veut prendre sa place</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213112800 +0000" stop="20230213123000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Maria Casarès, Albert Camus - Toi, ma vie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213123000 +0000" stop="20230213125900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de la RTBF</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213125900 +0000" stop="20230213143500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La bonne conduite</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213143500 +0000" stop="20230213150500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Hep taxi ! - Asia Argento</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213150500 +0000" stop="20230213152600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 1013, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230213152600 +0000" stop="20230213153000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Vestiaires</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213153000 +0000" stop="20230213160200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Questions pour un champion</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213160200 +0000" stop="20230213165700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le point - Tuktoyaktuk/Terres noires/Crise de l’azote</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213165700 +0000" stop="20230213170000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La séquence du filmeur - Le filmeur des champs</title><category lang="fr">Kratki</category></programme>
+<programme start="20230213170000 +0000" stop="20230213172300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">64’ le monde en français - 1re partie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213172300 +0000" stop="20230213172700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de l’économie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213172700 +0000" stop="20230213173100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213173100 +0000" stop="20230213174000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">L’invité</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213174000 +0000" stop="20230213182800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ - Escroc escroqué (1), serija</title><category lang="fr">Triler,Drama,Kriminalistički</category></programme>
+<programme start="20230213182800 +0000" stop="20230213191900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ - Escroc escroqué (2), serija</title><category lang="fr">Triler,Drama,Kriminalistički</category></programme>
+<programme start="20230213191900 +0000" stop="20230213193000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Garden party - Le potager expérimental de l’AgroParisTech</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230213193000 +0000" stop="20230213195700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de France 2</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213195700 +0000" stop="20230213200000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213200000 +0000" stop="20230213213900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Secrets d’histoire - Mata Hari, l’espionne mise à nu !</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213213900 +0000" stop="20230213220600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de la RTS</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213220600 +0000" stop="20230213220900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230213220900 +0000" stop="20230213235700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Vrata noći, film</title><category lang="fr">Drama</category></programme>
+<programme start="20230213235700 +0000" stop="20230214002400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, le journal Afrique</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214002400 +0000" stop="20230214002800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214002800 +0000" stop="20230214012100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Sur le front - Nucléaire, éoliennes: des voisins encombrants !</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214012100 +0000" stop="20230214020900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Chacun son île</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230214020900 +0000" stop="20230214021500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Ça roule ! Les courts - Randonnée de l’extrême en 4x4</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214021500 +0000" stop="20230214023700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 285, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230214023700 +0000" stop="20230214030000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 286, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230214030000 +0000" stop="20230214032400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Allô tribunal - Opération fournaise, serija</title><category lang="fr">Komedija</category></programme>
+<programme start="20230214032400 +0000" stop="20230214043000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C dans l’air</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214043000 +0000" stop="20230214045800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Bonne santé ! - La thalassémie</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214045800 +0000" stop="20230214052400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le 6h00 info</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214050000 +0000" stop="20230214052400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le 6h00 info</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214052400 +0000" stop="20230214052900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214052900 +0000" stop="20230214055500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Télématin</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214055500 +0000" stop="20230214055800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La séquence du filmeur - Le filmeur de Boulogne-sur-Mer</title><category lang="fr">Kratki</category></programme>
+<programme start="20230214055800 +0000" stop="20230214060000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La minute urbaine - Copenhague</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214060000 +0000" stop="20230214062700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Télématin</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214062700 +0000" stop="20230214063000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Au détour</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214063000 +0000" stop="20230214065700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Télématin</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214065700 +0000" stop="20230214070000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Merci professeur ! - Des robes blanches et vertes</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214070000 +0000" stop="20230214072600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de Radio-Canada</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214072600 +0000" stop="20230214073900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, le journal</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214073900 +0000" stop="20230214080500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Les maternelles d’Afrique</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214080500 +0000" stop="20230214083300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Épicerie fine</title><category lang="fr">Kulinarski</category></programme>
+<programme start="20230214083300 +0000" stop="20230214090100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Histoire(s) de jardins</title><category lang="fr">Lifestyle</category></programme>
+<programme start="20230214090100 +0000" stop="20230214092500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Kebec</title><category lang="fr">Magazin</category></programme>
+<programme start="20230214092500 +0000" stop="20230214092900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Les stars aux petits oignons</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214092900 +0000" stop="20230214095100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">5 chefs dans ma cuisine</title><category lang="fr">Kulinarski</category></programme>
+<programme start="20230214095100 +0000" stop="20230214095500 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La recette de Guy Martin - Coquilles Saint-Jacques poêlées</title><category lang="fr">Kulinarski</category></programme>
+<programme start="20230214095500 +0000" stop="20230214100000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de l’économie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214100000 +0000" stop="20230214101400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, le journal</title><category lang="fr">Informativni</category></programme>
+<programme start="20230214101400 +0000" stop="20230214101700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214101700 +0000" stop="20230214104000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 1012, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230214104000 +0000" stop="20230214104400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Vestiaires - Espace publicitaire</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214104400 +0000" stop="20230214113000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Tout le monde veut prendre sa place</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214113000 +0000" stop="20230214122400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Ma vie d’après</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214122400 +0000" stop="20230214123000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un jour sur Terre</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230214123000 +0000" stop="20230214125900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de la RTBF</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214125900 +0000" stop="20230214134900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Caïn, serija</title><category lang="fr">Kriminalistički</category></programme>
+<programme start="20230214134900 +0000" stop="20230214144300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Caïn, serija</title><category lang="fr">Kriminalistički</category></programme>
+<programme start="20230214144300 +0000" stop="20230214145800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Itinéraires paysans</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230214145800 +0000" stop="20230214150100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La séquence du filmeur - Le filmeur de Boulogne-sur-Mer</title><category lang="fr">Kratki</category></programme>
+<programme start="20230214150100 +0000" stop="20230214152300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 1014, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230214152300 +0000" stop="20230214152600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Vestiaires</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214152600 +0000" stop="20230214153000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Merci professeur ! - Des robes blanches et vertes</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214153000 +0000" stop="20230214160300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Questions pour un champion</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214160300 +0000" stop="20230214165200 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Temps présent - Guerre des sexes au chalet (1)</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214165200 +0000" stop="20230214170000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Hep taxi ! Express - Bertrand Piccard</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214170000 +0000" stop="20230214172300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">64’ le monde en français - 1re partie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214172300 +0000" stop="20230214172700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de l’économie</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214172700 +0000" stop="20230214173000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214173000 +0000" stop="20230214174000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">L’invité</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214174000 +0000" stop="20230214184100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">J’entends des voix qui me parlent</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214184100 +0000" stop="20230214193000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Chacun son île</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230214193000 +0000" stop="20230214195600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de France 2</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214195600 +0000" stop="20230214200000 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214200000 +0000" stop="20230214204700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ - Ange ou kaniar (1), serija</title><category lang="fr">Triler,Drama,Kriminalistički</category></programme>
+<programme start="20230214204700 +0000" stop="20230214213600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">OPJ - Ange ou kaniar (2), serija</title><category lang="fr">Triler,Drama,Kriminalistički</category></programme>
+<programme start="20230214213600 +0000" stop="20230214220300 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le journal de la RTS</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214220300 +0000" stop="20230214220700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214220700 +0000" stop="20230214233700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">La grande librairie - Faire la lumière</title><category lang="fr">ostalo</category></programme>
+<programme start="20230214233700 +0000" stop="20230215000400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">TV5MONDE, le journal Afrique</title><category lang="fr">Informativni</category></programme>
+<programme start="20230215000400 +0000" stop="20230215000700 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Météo</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215000700 +0000" stop="20230215010100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le point - Tuktoyaktuk/Terres noires/Crise de l’azote</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215010100 +0000" stop="20230215014900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Chacun son île</title><category lang="fr">Dokumentarni</category></programme>
+<programme start="20230215014900 +0000" stop="20230215021400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Les Princes à Calcutta - Le départ</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215021400 +0000" stop="20230215023600 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 287, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230215023600 +0000" stop="20230215025900 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Un si grand soleil - Épisode 288, serija</title><category lang="fr">Drama,Komedija</category></programme>
+<programme start="20230215025900 +0000" stop="20230215032400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Allô tribunal, serija</title><category lang="fr">Komedija</category></programme>
+<programme start="20230215032400 +0000" stop="20230215043100 +0000" channel="TV5MondeEurope.fr"><title lang="fr">C dans l’air</title><category lang="fr">ostalo</category></programme>
+<programme start="20230215043100 +0000" stop="20230215045800 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Wari - Sommet de Dakar sur la souveraineté alimentaire en Afrique</title><category lang="fr">Magazin</category></programme>
+<programme start="20230215045800 +0000" stop="20230215052400 +0000" channel="TV5MondeEurope.fr"><title lang="fr">Le 6h00 info</title><category lang="fr">Informativni</category></programme>
+</tv>

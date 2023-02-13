@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230213">
+<channel id="beINSports1France.fr"><display-name>beIN Sports 1 France</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports2France.fr"><display-name>beIN Sports 2 France</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports3France.fr"><display-name>beIN Sports 3 France</display-name><icon src="https://i.imgur.com/UYSMao3.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsFrench1.qa"><display-name>beIN Sports French 1</display-name><icon src="https://i.imgur.com/tXqMkzA.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsFrench2.qa"><display-name>beIN Sports French 2</display-name><icon src="https://i.imgur.com/EG48QI7.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsFrench3.qa"><display-name>beIN Sports French 3</display-name><icon src="https://i.imgur.com/YbzCxeF.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax10France.fr"><display-name>beIN Sports Max 10 France</display-name><icon src="https://i.imgur.com/lVB4Ao9.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax4France.fr"><display-name>beIN Sports Max 4 France</display-name><icon src="https://i.imgur.com/bwHNMLh.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax5France.fr"><display-name>beIN Sports Max 5 France</display-name><icon src="https://i.imgur.com/8Hj8ZiT.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax6France.fr"><display-name>beIN Sports Max 6 France</display-name><icon src="https://i.imgur.com/Eh1130b.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax7France.fr"><display-name>beIN Sports Max 7 France</display-name><icon src="https://i.imgur.com/sMH0tFc.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax8France.fr"><display-name>beIN Sports Max 8 France</display-name><icon src="https://i.imgur.com/VTzzoQP.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax9France.fr"><display-name>beIN Sports Max 9 France</display-name><icon src="https://i.imgur.com/dMTBut1.png"/><url>https://beinsports.com</url></channel>
+<programme start="20230212203000 +0000" stop="20230212234500 +0000" channel="beINSports1France.fr"><title lang="fr">NFL - Kansas City Chiefs / Philadelphia Eagles</title><category lang="fr">Football américain</category></programme>
+<programme start="20230212234500 +0000" stop="20230213000000 +0000" channel="beINSports1France.fr"><title lang="fr">Super Bowl</title><category lang="fr">Emission</category></programme>
+<programme start="20230213000000 +0000" stop="20230213013000 +0000" channel="beINSports1France.fr"><title lang="fr">beIN STORY</title><category lang="fr">Documentaire</category></programme>
+<programme start="20230212200000 +0000" stop="20230212220000 +0000" channel="beINSports2France.fr"><title lang="fr">Serie A - Naples / US Cremonese</title><category lang="fr">Football</category></programme>
+<programme start="20230212220000 +0000" stop="20230213000000 +0000" channel="beINSports2France.fr"><title lang="fr">Bundesliga - Bayern Munich / Bochum</title><category lang="fr">Football</category></programme>
+<programme start="20230213000000 +0000" stop="20230213010000 +0000" channel="beINSports2France.fr"><title lang="fr">Label Boxe</title><category lang="fr">Emission</category></programme>
+<programme start="20230212204500 +0000" stop="20230212223000 +0000" channel="beINSports3France.fr"><title lang="fr">Liqui Moly StarLigue - Paris-SG / Dunkerque</title><category lang="fr">Handball</category></programme>
+<programme start="20230212223000 +0000" stop="20230213020000 +0000" channel="beINSports3France.fr"><title lang="fr">Ça se passe sur beIN SPORTS</title><category lang="fr">Emission</category></programme>
+</tv>
